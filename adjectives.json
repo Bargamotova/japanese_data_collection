@@ -1,0 +1,3413 @@
+[
+  {
+    "id": "0",
+    "slug": "adjectives_i",
+    "descriptions": "Чистые, настоящие прилагательные: заканчиваются на -и, -аи, -ии, -уи, -ои",
+    "base": "い",
+    "type": "い",
+    "lessons": [
+      [
+        {
+          "kanji": "多い",
+          "JLPT": "N5",
+          "furigana": "おおい",
+          "romaji": "ooii",
+          "meaning": "много"
+        },
+        {
+          "kanji": "悪い",
+          "JLPT": "N5",
+          "furigana": "わるい",
+          "romaji": "warui",
+          "meaning": "плохой"
+        },
+        {
+          "kanji": "高い",
+          "JLPT": "N5",
+          "furigana": "たかい",
+          "romaji": "takai",
+          "meaning": "высокий, дорогой"
+        },
+        {
+          "kanji": "大きい",
+          "JLPT": "N5",
+          "furigana": "おおきい",
+          "romaji": "ookii",
+          "meaning": "большой"
+        },
+        {
+          "kanji": "欲しい",
+          "JLPT": "N5",
+          "furigana": "ほしい",
+          "romaji": "hoshii",
+          "meaning": "желанный"
+        },
+        {
+          "kanji": "早い",
+          "JLPT": "N5",
+          "furigana": "はやい",
+          "romaji": "hayai",
+          "meaning": "ранний"
+        },
+        {
+          "kanji": "長い",
+          "JLPT": "N5",
+          "furigana": "ながい",
+          "romaji": "nagai",
+          "meaning": "длинный"
+        },
+        {
+          "kanji": "甘い",
+          "JLPT": "N5",
+          "furigana": "あまい",
+          "romaji": "amai",
+          "meaning": "сладкий"
+        },
+        {
+          "kanji": "無い",
+          "JLPT": "N5",
+          "furigana": "ない",
+          "romaji": "nai",
+          "meaning": "отсутствующий, не существующий"
+        },
+        {
+          "kanji": "良い",
+          "JLPT": "N5",
+          "furigana": "いい",
+          "romaji": "ii",
+          "meaning": "хороший",
+          "special": true
+        }
+      ],
+      [
+        {
+          "kanji": "強い",
+          "JLPT": "N5",
+          "furigana": "つよい",
+          "romaji": "tsuyoi",
+          "meaning": "сильный"
+        },
+        {
+          "kanji": "少ない",
+          "JLPT": "N5",
+          "furigana": "すくない",
+          "romaji": "sukunai",
+          "meaning": "немножко"
+        },
+        {
+          "kanji": "若い",
+          "JLPT": "N5",
+          "furigana": "わかい",
+          "romaji": "wakai",
+          "meaning": "молодой"
+        },
+        {
+          "kanji": "小さい",
+          "JLPT": "N5",
+          "furigana": "ちいさい",
+          "romaji": "chiisai",
+          "meaning": "маленький"
+        },
+        {
+          "kanji": "新しい",
+          "JLPT": "N5",
+          "furigana": "あたらしい",
+          "romaji": "atarashii",
+          "meaning": "новый"
+        },
+        {
+          "kanji": "近い",
+          "JLPT": "N5",
+          "furigana": "ちかい",
+          "romaji": "chikai",
+          "meaning": "близкий, рядом, около"
+        },
+        {
+          "kanji": "安い",
+          "JLPT": "N5",
+          "furigana": "やすい",
+          "romaji": "yasui",
+          "meaning": "дешевый"
+        },
+        {
+          "kanji": "面白い",
+          "JLPT": "N5",
+          "furigana": "おもしろい",
+          "romaji": "omoshiroi",
+          "meaning": "интересный, смешной, прикольный"
+        },
+        {
+          "kanji": "難しい",
+          "JLPT": "N5",
+          "furigana": "むずかしい",
+          "romaji": "muzukashii",
+          "meaning": "сложный"
+        },
+        {
+          "kanji": "美味しい",
+          "JLPT": "N5",
+          "furigana": "おいしい",
+          "romaji": "oishii",
+          "meaning": "вкусный"
+        }
+      ],
+      [
+        {
+          "kanji": "白い",
+          "JLPT": "N5",
+          "furigana": "しろい",
+          "romaji": "shiroi",
+          "meaning": "белый"
+        },
+        {
+          "kanji": "楽しい",
+          "JLPT": "N5",
+          "furigana": "たのしい",
+          "romaji": "tanoshii",
+          "meaning": "смешной"
+        },
+        {
+          "kanji": "低い",
+          "JLPT": "N5",
+          "furigana": "ひくい",
+          "romaji": "hikui",
+          "meaning": "низкий"
+        },
+        {
+          "kanji": "痛い",
+          "JLPT": "N5",
+          "furigana": "いたい",
+          "romaji": "itai",
+          "meaning": "больной"
+        },
+        {
+          "kanji": "遅い",
+          "JLPT": "N5",
+          "furigana": "おそい",
+          "romaji": "osoi",
+          "meaning": "медленный"
+        },
+        {
+          "kanji": "古い",
+          "JLPT": "N5",
+          "furigana": "ふるい",
+          "romaji": "furui",
+          "meaning": "старый"
+        },
+        {
+          "kanji": "広い",
+          "JLPT": "N5",
+          "furigana": "ひろい",
+          "romaji": "hiroi",
+          "meaning": "широкий"
+        },
+        {
+          "kanji": "赤い",
+          "JLPT": "N5",
+          "furigana": "あかい",
+          "romaji": "akai",
+          "meaning": "красный"
+        },
+        {
+          "kanji": "黒い",
+          "JLPT": "N5",
+          "furigana": "くろい",
+          "romaji": "kuroi",
+          "meaning": "черный"
+        },
+        {
+          "kanji": "弱い",
+          "JLPT": "N5",
+          "furigana": "よわい",
+          "romaji": "yowai",
+          "meaning": "слабый"
+        }
+      ],
+      [
+        {
+          "kanji": "遠い",
+          "JLPT": "N5",
+          "furigana": "とおい",
+          "romaji": "tooi",
+          "meaning": "далекий"
+        },
+        {
+          "kanji": "冷たい",
+          "JLPT": "N5",
+          "furigana": "つめたい",
+          "romaji": "tsumetai",
+          "meaning": "холодный"
+        },
+        {
+          "kanji": "寒い",
+          "JLPT": "N5",
+          "furigana": "さむい",
+          "romaji": "samui",
+          "meaning": "холодный, мерзлый"
+        },
+        {
+          "kanji": "忙しい",
+          "JLPT": "N5",
+          "furigana": "いそがしい",
+          "romaji": "isogashii",
+          "meaning": "занятой"
+        },
+        {
+          "kanji": "熱い",
+          "JLPT": "N5",
+          "furigana": "あつい",
+          "romaji": "atsui",
+          "meaning": "горячий, жаркий"
+        },
+        {
+          "kanji": "暑い",
+          "JLPT": "N5",
+          "furigana": "あつい",
+          "romaji": "atsui",
+          "meaning": "жарко (погода)"
+        },
+        {
+          "kanji": "青い",
+          "JLPT": "N5",
+          "furigana": "あおい",
+          "romaji": "aoi",
+          "meaning": "голубой"
+        },
+        {
+          "kanji": "暖かい",
+          "JLPT": "N5",
+          "furigana": "あたたかい",
+          "romaji": "atatakai",
+          "meaning": "теплый"
+        },
+        {
+          "kanji": "黄色い",
+          "JLPT": "N5",
+          "furigana": "きいろい",
+          "romaji": "kiiroi",
+          "meaning": "желтый"
+        },
+        {
+          "kanji": "嬉しい",
+          "JLPT": "N5",
+          "furigana": "うれしい",
+          "romaji": "ureshii",
+          "meaning": "счастливый"
+        }
+      ],
+      [
+        {
+          "kanji": "怖い",
+          "JLPT": "N5",
+          "furigana": "こわい",
+          "romaji": "kowai",
+          "meaning": "испуганный"
+        },
+        {
+          "kanji": "優しい",
+          "JLPT": "N5",
+          "furigana": "やさしい",
+          "romaji": "yasashii",
+          "meaning": "добрый"
+        },
+        {
+          "kanji": "悲しい",
+          "JLPT": "N5",
+          "furigana": "かなしい",
+          "romaji": "kanashii",
+          "meaning": "грустно"
+        },
+        {
+          "kanji": "酸っぱい",
+          "JLPT": "N5",
+          "furigana": "すっぱい",
+          "romaji": "suppai",
+          "meaning": "кислый"
+        },
+        {
+          "kanji": "茶色い",
+          "JLPT": "N5",
+          "furigana": "ちゃいろい",
+          "romaji": "chairoi",
+          "meaning": "коричневый"
+        },
+        {
+          "kanji": "辛い",
+          "JLPT": "N4",
+          "furigana": "からい、つらい",
+          "romaji": "karai, tsurai",
+          "meaning": "острый(перченый), соленый"
+        },
+        {
+          "kanji": "可愛い",
+          "JLPT": "N4",
+          "furigana": "かわいい",
+          "romaji": "kawaii",
+          "meaning": "милый"
+        },
+        {
+          "kanji": "軽い",
+          "JLPT": "N4",
+          "furigana": "かるい",
+          "romaji": "karui",
+          "meaning": "легкий"
+        },
+        {
+          "kanji": "思い",
+          "JLPT": "N4",
+          "furigana": "おもい",
+          "romaji": "omoi",
+          "meaning": "тяжелый"
+        },
+        {
+          "kanji": "短かい",
+          "JLPT": "N4",
+          "furigana": "みじかい",
+          "romaji": "mijikai",
+          "meaning": "короткий"
+        }
+      ],
+      [
+        {
+          "kanji": "明るい",
+          "JLPT": "N4",
+          "furigana": "あかるい",
+          "romaji": "akarui",
+          "meaning": "яркий"
+        },
+        {
+          "kanji": "薄い",
+          "JLPT": "N4",
+          "furigana": "うすい",
+          "romaji": "usui",
+          "meaning": "тонкий"
+        },
+        {
+          "kanji": "暗い",
+          "JLPT": "N4",
+          "furigana": "くらい",
+          "romaji": "kurai",
+          "meaning": "темный"
+        },
+        {
+          "kanji": "よろしい",
+          "JLPT": "N4",
+          "furigana": "よろしい",
+          "romaji": "yoroshii",
+          "meaning": "хороший (вежливый)"
+        },
+        {
+          "kanji": "狭い",
+          "JLPT": "N4",
+          "furigana": "せまい",
+          "romaji": "semai",
+          "meaning": "узкий"
+        },
+        {
+          "kanji": "細い",
+          "JLPT": "N4",
+          "furigana": "ほそい",
+          "romaji": "hosoi",
+          "meaning": "стройный"
+        },
+        {
+          "kanji": "太い",
+          "JLPT": "N4",
+          "furigana": "ふとい",
+          "romaji": "futoi",
+          "meaning": "толстый"
+        },
+        {
+          "kanji": "速い",
+          "JLPT": "N4",
+          "furigana": "はやい",
+          "romaji": "hayai",
+          "meaning": "быстрый"
+        },
+        {
+          "kanji": "不味い",
+          "JLPT": "N4",
+          "furigana": "まずい",
+          "romaji": "mazui",
+          "meaning": "Плохой вкус"
+        },
+        {
+          "kanji": "汚い",
+          "JLPT": "N4",
+          "furigana": "きたない",
+          "romaji": "kitanai",
+          "meaning": "грязный"
+        }
+      ],
+      [
+        {
+          "kanji": "丸い",
+          "JLPT": "N4",
+          "furigana": "まるい",
+          "romaji": "marui",
+          "meaning": "круглый"
+        },
+        {
+          "kanji": "危ない",
+          "JLPT": "N4",
+          "furigana": "あぶない",
+          "romaji": "abunai",
+          "meaning": "опасный"
+        },
+        {
+          "kanji": "涼しい",
+          "JLPT": "N4",
+          "furigana": "すずしい",
+          "romaji": "suzushii",
+          "meaning": "прохладный (о погоде)"
+        },
+        {
+          "kanji": "易しい",
+          "JLPT": "N4",
+          "furigana": "やさしい",
+          "romaji": "yasashii",
+          "meaning": "легкий"
+        },
+        {
+          "kanji": "凄い",
+          "JLPT": "N4",
+          "furigana": "すごい",
+          "romaji": "sugoi",
+          "meaning": "удивительный"
+        },
+        {
+          "kanji": "深い",
+          "JLPT": "N4",
+          "furigana": "ふかい",
+          "romaji": "fukai",
+          "meaning": "глубокий"
+        },
+        {
+          "kanji": "おかしい",
+          "JLPT": "N4",
+          "furigana": "おかしい",
+          "romaji": "okashii",
+          "meaning": "странный"
+        },
+        {
+          "kanji": "正しい",
+          "JLPT": "N4",
+          "furigana": "ただしい",
+          "romaji": "tadashii",
+          "meaning": "правильный"
+        },
+        {
+          "kanji": "美しい",
+          "JLPT": "N4",
+          "furigana": "うつくしい",
+          "romaji": "utsukushii",
+          "meaning": "красивый"
+        },
+        {
+          "kanji": "寂しい",
+          "JLPT": "N4",
+          "furigana": "さびしい",
+          "romaji": "sabishii",
+          "meaning": "одинокий"
+        }
+      ],
+      [
+        {
+          "kanji": "恥ずかしい",
+          "JLPT": "N4",
+          "furigana": "はずかしい",
+          "romaji": "hazukashii",
+          "meaning": "Смущающий"
+        },
+        {
+          "kanji": "珍しい",
+          "JLPT": "N4",
+          "furigana": "めずらしい",
+          "romaji": "mezurashii",
+          "meaning": "редкий"
+        },
+        {
+          "kanji": "素晴らしい",
+          "JLPT": "N4",
+          "furigana": "すばらしい",
+          "romaji": "subarashii",
+          "meaning": "замечательный"
+        },
+        {
+          "kanji": "固い",
+          "JLPT": "N4",
+          "furigana": "かたい",
+          "romaji": "katai",
+          "meaning": "Жесткий"
+        },
+        {
+          "kanji": "柔らかい",
+          "JLPT": "N4",
+          "furigana": "やわらかい",
+          "romaji": "yawarakai",
+          "meaning": "мягкий"
+        },
+        {
+          "kanji": "浅い",
+          "JLPT": "N4",
+          "furigana": "あさい",
+          "romaji": "asai",
+          "meaning": "мелкий"
+        },
+        {
+          "kanji": "眠い",
+          "JLPT": "N4",
+          "furigana": "ねむい",
+          "romaji": "nemui",
+          "meaning": "сонный"
+        },
+        {
+          "kanji": "苦い",
+          "JLPT": "N4",
+          "furigana": "にがい",
+          "romaji": "nigai",
+          "meaning": "горький"
+        },
+        {
+          "kanji": "苦しい",
+          "JLPT": "N4",
+          "furigana": "くるしい",
+          "romaji": "kurushii",
+          "meaning": "болезненный"
+        },
+        {
+          "kanji": "濃い",
+          "JLPT": "N4",
+          "furigana": "こい",
+          "romaji": "koi",
+          "meaning": "темный плотный,"
+        }
+      ],
+      [
+        {
+          "kanji": "うるさい",
+          "JLPT": "N4",
+          "furigana": "うるさい",
+          "romaji": "urusai",
+          "meaning": "шумный, громкий"
+        },
+        {
+          "kanji": "温かい",
+          "JLPT": "N4",
+          "furigana": "あたたかい",
+          "romaji": "atatakai",
+          "meaning": "теплый"
+        },
+        {
+          "kanji": "硬い",
+          "JLPT": "N4",
+          "furigana": "かたい",
+          "romaji": "katai",
+          "meaning": "усердный, жёсткий"
+        },
+        {
+          "kanji": "やばい",
+          "JLPT": "N4",
+          "furigana": "やばい",
+          "romaji": "yabai",
+          "meaning": "страшный, ужасный"
+        },
+        {
+          "kanji": "酷い",
+          "JLPT": "N3",
+          "furigana": "ひどい",
+          "romaji": "hidoi",
+          "meaning": "ужасный"
+        },
+        {
+          "kanji": "厳しい",
+          "JLPT": "N3",
+          "furigana": "きびしい",
+          "romaji": "kibishii",
+          "meaning": "строгий"
+        },
+        {
+          "kanji": "細かい",
+          "JLPT": "N3",
+          "furigana": "こまかい",
+          "romaji": "komakai",
+          "meaning": "подробный, детальный, отлично"
+        },
+        {
+          "kanji": "むなしい",
+          "JLPT": "N3",
+          "furigana": "むなしい",
+          "romaji": "munashii",
+          "meaning": "бессмысленный"
+        },
+        {
+          "kanji": "激しい",
+          "JLPT": "N3",
+          "furigana": "はげしい",
+          "romaji": "hageshii",
+          "meaning": "интенсивный"
+        },
+        {
+          "kanji": "詳しい",
+          "JLPT": "N3",
+          "furigana": "くわしい",
+          "romaji": "kuwashii",
+          "meaning": "знакомый"
+        }
+      ],
+      [
+        {
+          "kanji": "恐ろしい",
+          "JLPT": "N3",
+          "furigana": "おそろしい",
+          "romaji": "osoroshii",
+          "meaning": "ужасный"
+        },
+        {
+          "kanji": "偉い",
+          "JLPT": "N3",
+          "furigana": "えらい",
+          "romaji": "erai",
+          "meaning": "большой"
+        },
+        {
+          "kanji": "相応しい",
+          "JLPT": "N3",
+          "furigana": "ふさわしい",
+          "romaji": "fusawashii",
+          "meaning": "подходящий"
+        },
+        {
+          "kanji": "鋭い",
+          "JLPT": "N3",
+          "furigana": "するどい",
+          "romaji": "surudoi",
+          "meaning": "острый"
+        },
+        {
+          "kanji": "親しい",
+          "JLPT": "N3",
+          "furigana": "したしい",
+          "romaji": "shitashii",
+          "meaning": "близкий"
+        },
+        {
+          "kanji": "幼い",
+          "JLPT": "N3",
+          "furigana": "おさない",
+          "romaji": "osanai",
+          "meaning": "Молодой"
+        },
+        {
+          "kanji": "仕方ない",
+          "JLPT": "N3",
+          "furigana": "しかたない",
+          "romaji": "shikatanai",
+          "meaning": "Ничего не поделаешь."
+        },
+        {
+          "kanji": "久しい",
+          "JLPT": "N3",
+          "furigana": "ひさしい",
+          "romaji": "hisashii",
+          "meaning": "длинный"
+        },
+        {
+          "kanji": "ありがたい",
+          "JLPT": "N3",
+          "furigana": "ありがたい",
+          "romaji": "arigatai",
+          "meaning": "Благодарный"
+        },
+        {
+          "kanji": "物凄い",
+          "JLPT": "N3",
+          "furigana": "ものすごい",
+          "romaji": "monosugoi",
+          "meaning": "Удивительный, потрясающий,"
+        }
+      ],
+      [
+        {
+          "kanji": "貧しい",
+          "JLPT": "N3",
+          "furigana": "まずしい",
+          "romaji": "mazushii",
+          "meaning": "бедный"
+        },
+        {
+          "kanji": "懐かしい",
+          "JLPT": "N3",
+          "furigana": "なつかしい",
+          "romaji": "natsukashii",
+          "meaning": "ностальгический"
+        },
+        {
+          "kanji": "著しい",
+          "JLPT": "N3",
+          "furigana": "いちじるしい",
+          "romaji": "ichijirushii",
+          "meaning": "замечательный, удивительный, выдающийся"
+        },
+        {
+          "kanji": "きつい",
+          "JLPT": "N3",
+          "furigana": "きつい",
+          "romaji": "kitsui",
+          "meaning": "тугой"
+        },
+        {
+          "kanji": "怪しい",
+          "JLPT": "N3",
+          "furigana": "あやしい",
+          "romaji": "ayashii",
+          "meaning": "подозрительный"
+        },
+        {
+          "kanji": "等しい",
+          "JLPT": "N3",
+          "furigana": "ひとしい",
+          "romaji": "hitoshii",
+          "meaning": "равный"
+        },
+        {
+          "kanji": "素早い",
+          "JLPT": "N3",
+          "furigana": "すばやい",
+          "romaji": "subayai",
+          "meaning": "быстрый, скорый, живой"
+        },
+        {
+          "kanji": "望ましい",
+          "JLPT": "N3",
+          "furigana": "のぞましい",
+          "romaji": "nozomashii",
+          "meaning": "желательно"
+        },
+        {
+          "kanji": "悔しい",
+          "JLPT": "N3",
+          "furigana": "くやしい",
+          "romaji": "kuyashii",
+          "meaning": "прискорбно"
+        },
+        {
+          "kanji": "堅い",
+          "JLPT": "N3",
+          "furigana": "かたい",
+          "romaji": "katai",
+          "meaning": "жесткий"
+        }
+      ],
+      [
+        {
+          "kanji": "めでたい",
+          "JLPT": "N3",
+          "furigana": "めでたい",
+          "romaji": "medetai",
+          "meaning": "поздравительный"
+        },
+        {
+          "kanji": "大人しい",
+          "JLPT": "N3",
+          "furigana": "おとなしい",
+          "romaji": "otonashii",
+          "meaning": "тихий"
+        },
+        {
+          "kanji": "乏しい",
+          "JLPT": "N3",
+          "furigana": "とぼしい",
+          "romaji": "toboshii",
+          "meaning": "бедный"
+        },
+        {
+          "kanji": "危うい",
+          "JLPT": "N3",
+          "furigana": "あやうい",
+          "romaji": "ayaui",
+          "meaning": "опасный"
+        },
+        {
+          "kanji": "情けない",
+          "JLPT": "N3",
+          "furigana": "なさけない",
+          "romaji": "nasakenai",
+          "meaning": "жалкий"
+        },
+        {
+          "kanji": "しつこい",
+          "JLPT": "N3",
+          "furigana": "しつこい",
+          "romaji": "shitsukoi",
+          "meaning": "настойчивый"
+        },
+        {
+          "kanji": "力強い",
+          "JLPT": "N3",
+          "furigana": "ちからづよい",
+          "romaji": "chikaradzuyoi",
+          "meaning": "очень мощный"
+        },
+        {
+          "kanji": "羨ましい",
+          "JLPT": "N3",
+          "furigana": "うらやましい",
+          "romaji": "urayamashii",
+          "meaning": "ревнивый, завистливый"
+        },
+        {
+          "kanji": "でかい",
+          "JLPT": "N3",
+          "furigana": "でかい",
+          "romaji": "dekai",
+          "meaning": "огромный"
+        },
+        {
+          "kanji": "好ましい",
+          "JLPT": "N3",
+          "furigana": "このましい",
+          "romaji": "konomashii",
+          "meaning": "предпочтительный"
+        }
+      ],
+      [
+        {
+          "kanji": "心地良い",
+          "JLPT": "N3",
+          "furigana": "ここちよい",
+          "romaji": "kokochiyoi",
+          "meaning": "приятный, комфортный"
+        },
+        {
+          "kanji": "幅広い",
+          "JLPT": "N3",
+          "furigana": "はばひろい",
+          "romaji": "habahiroi",
+          "meaning": "широкий диапазон"
+        },
+        {
+          "kanji": "賢い",
+          "JLPT": "N3",
+          "furigana": "かしこい",
+          "romaji": "kashikoi",
+          "meaning": "мудрый"
+        },
+        {
+          "kanji": "荒い",
+          "JLPT": "N3",
+          "furigana": "あらい",
+          "romaji": "arai",
+          "meaning": "шероховатый, неровный, приблизительный"
+        },
+        {
+          "kanji": "淡い",
+          "JLPT": "N3",
+          "furigana": "あわい",
+          "romaji": "awai",
+          "meaning": "бледный"
+        },
+        {
+          "kanji": "さりげない",
+          "JLPT": "N3",
+          "furigana": "さりげない",
+          "romaji": "sarigenai",
+          "meaning": "повседневный"
+        },
+        {
+          "kanji": "快い",
+          "JLPT": "N3",
+          "furigana": "こころよい",
+          "romaji": "kokoroyoi",
+          "meaning": "приятный"
+        },
+        {
+          "kanji": "鈍い",
+          "JLPT": "N3",
+          "furigana": "にぶい",
+          "romaji": "nibui",
+          "meaning": "тупой"
+        },
+        {
+          "kanji": "限りない",
+          "JLPT": "N3",
+          "furigana": "かぎりない",
+          "romaji": "kagirinai",
+          "meaning": "безграничный, бесконечный"
+        },
+        {
+          "kanji": "逞しい",
+          "JLPT": "N3",
+          "furigana": "たくましい",
+          "romaji": "takumashii",
+          "meaning": "мощный, мускулистый"
+        }
+      ],
+      [
+        {
+          "kanji": "惜しい",
+          "JLPT": "N3",
+          "furigana": "おしい",
+          "romaji": "oshii",
+          "meaning": "прискорбный"
+        },
+        {
+          "kanji": "薄暗い",
+          "JLPT": "N3",
+          "furigana": "うすぐらい",
+          "romaji": "usugurai",
+          "meaning": "тусклый, неясный"
+        },
+        {
+          "kanji": "醜い",
+          "JLPT": "N3",
+          "furigana": "みにくい",
+          "romaji": "minikui",
+          "meaning": "уродливый"
+        },
+        {
+          "kanji": "緩い",
+          "JLPT": "N3",
+          "furigana": "ゆるい",
+          "romaji": "yurui",
+          "meaning": "свободный"
+        },
+        {
+          "kanji": "細長い",
+          "JLPT": "N3",
+          "furigana": "ほそながい",
+          "romaji": "hosonagai",
+          "meaning": "растянутый, удлинённый"
+        },
+        {
+          "kanji": "可愛らしい",
+          "JLPT": "N3",
+          "furigana": "かわいらしい",
+          "romaji": "kawairashii",
+          "meaning": "прекрасный"
+        },
+        {
+          "kanji": "慌ただしい",
+          "JLPT": "N3",
+          "furigana": "あわただしい",
+          "romaji": "awatadashii",
+          "meaning": "суматошный, деятельный, назойливый,"
+        },
+        {
+          "kanji": "険しい",
+          "JLPT": "N3",
+          "furigana": "けわしい",
+          "romaji": "kewashii",
+          "meaning": "отвесный"
+        },
+        {
+          "kanji": "眩しい",
+          "JLPT": "N3",
+          "furigana": "まぶしい",
+          "romaji": "mabushii",
+          "meaning": "ослепительный"
+        },
+        {
+          "kanji": "おびただしい",
+          "JLPT": "N3",
+          "furigana": "おびただしい",
+          "romaji": "obitadashii",
+          "meaning": "многочисленные"
+        }
+      ],
+      [
+        {
+          "kanji": "分厚い",
+          "JLPT": "N3",
+          "furigana": "ぶあつい",
+          "romaji": "buatsui",
+          "meaning": "коренастый"
+        },
+        {
+          "kanji": "尊い",
+          "JLPT": "N3",
+          "furigana": "とうとい",
+          "romaji": "tōtoi",
+          "meaning": "драгоценный"
+        },
+        {
+          "kanji": "甚だしい",
+          "JLPT": "N3",
+          "furigana": "はなはだしい",
+          "romaji": "hanahadashii",
+          "meaning": "экстремальный,"
+        },
+        {
+          "kanji": "馬鹿馬鹿しい",
+          "JLPT": "N3",
+          "furigana": "ばかばかしい",
+          "romaji": "bakabakashii",
+          "meaning": "нелепый"
+        },
+        {
+          "kanji": "奥深い",
+          "JLPT": "N3",
+          "furigana": "おくふかい",
+          "romaji": "okubukai",
+          "meaning": "глубокий"
+        },
+        {
+          "kanji": "切ない",
+          "JLPT": "N3",
+          "furigana": "せつない",
+          "romaji": "setsunai",
+          "meaning": "болезненный"
+        },
+        {
+          "kanji": "止むない",
+          "JLPT": "N3",
+          "furigana": "やむない",
+          "romaji": "yamunai",
+          "meaning": "неизбежный"
+        },
+        {
+          "kanji": "紛らわしい",
+          "JLPT": "N3",
+          "furigana": "まぎらわしい",
+          "romaji": "magirawashii",
+          "meaning": "двусмысленный, неясный, туманный"
+        },
+        {
+          "kanji": "根強い",
+          "JLPT": "N3",
+          "furigana": "ねづよい",
+          "romaji": "nedzuyoi",
+          "meaning": "настойчивый"
+        },
+        {
+          "kanji": "狡い",
+          "JLPT": "N3",
+          "furigana": "ずるい",
+          "romaji": "zurui",
+          "meaning": "хитрый, коварный, ловкий,"
+        }
+      ],
+      [
+        {
+          "kanji": "痒い",
+          "JLPT": "N3",
+          "furigana": "かゆい",
+          "romaji": "kayui",
+          "meaning": "зудящий"
+        },
+        {
+          "kanji": "しんどい",
+          "JLPT": "N3",
+          "furigana": "しんどい",
+          "romaji": "shindoi",
+          "meaning": "жесткий, тяжелый"
+        },
+        {
+          "kanji": "四角い",
+          "JLPT": "N3",
+          "furigana": "しかくい",
+          "romaji": "shikakui",
+          "meaning": "квадратный"
+        },
+        {
+          "kanji": "みっともない",
+          "JLPT": "N3",
+          "furigana": "みっともない",
+          "romaji": "mittomonai",
+          "meaning": "позорный"
+        },
+        {
+          "kanji": "だらしない",
+          "JLPT": "N3",
+          "furigana": "だらしない",
+          "romaji": "darashinai",
+          "meaning": "расхлябанный, безалаберный"
+        },
+        {
+          "kanji": "怠い",
+          "JLPT": "N3",
+          "furigana": "だるい",
+          "romaji": "darui",
+          "meaning": "вялый, слабый"
+        },
+        {
+          "kanji": "重たい",
+          "JLPT": "N3",
+          "furigana": "おもたい",
+          "romaji": "omotai",
+          "meaning": "тяжёлый"
+        },
+        {
+          "kanji": "平たい",
+          "JLPT": "N3",
+          "furigana": "ひらたい",
+          "romaji": "hiratai",
+          "meaning": "плоский, ровный"
+        },
+        {
+          "kanji": "憎い",
+          "JLPT": "N3",
+          "furigana": "にくい",
+          "romaji": "nikui",
+          "meaning": "ненавистный, противный"
+        },
+        {
+          "kanji": "蒸し暑い",
+          "JLPT": "N3",
+          "furigana": "むしあつい",
+          "romaji": "mushiatsui",
+          "meaning": "душный; знойный"
+        }
+      ],
+      [
+        {
+          "kanji": "凄まじい",
+          "JLPT": "N2",
+          "furigana": "すさまじい",
+          "romaji": "susamajii",
+          "meaning": "огромный"
+        },
+        {
+          "kanji": "息苦しい",
+          "JLPT": "N2",
+          "furigana": "いきぐるしい",
+          "romaji": "ikigurushii",
+          "meaning": "удушающий"
+        },
+        {
+          "kanji": "程遠い",
+          "JLPT": "N2",
+          "furigana": "ほどとおい",
+          "romaji": "hodotooi",
+          "meaning": "далеко от"
+        },
+        {
+          "kanji": "脆い",
+          "JLPT": "N2",
+          "furigana": "もろい",
+          "romaji": "moroi",
+          "meaning": "хрупкий"
+        },
+        {
+          "kanji": "容易い",
+          "JLPT": "N2",
+          "furigana": "たやすい",
+          "romaji": "tayasui",
+          "meaning": "легкий, удобный"
+        },
+        {
+          "kanji": "いやらしい",
+          "JLPT": "N2",
+          "furigana": "いやらしい",
+          "romaji": "iyarashii",
+          "meaning": "неприличный"
+        },
+        {
+          "kanji": "頼りない",
+          "JLPT": "N2",
+          "furigana": "たよりない",
+          "romaji": "tayorinai",
+          "meaning": "ненадежный"
+        },
+        {
+          "kanji": "心細い",
+          "JLPT": "N2",
+          "furigana": "こころぼそい",
+          "romaji": "kokorobosoi",
+          "meaning": "беспомощный, беззащитный"
+        },
+        {
+          "kanji": "煩わしい",
+          "JLPT": "N2",
+          "furigana": "わずらわしい",
+          "romaji": "wazurawashii",
+          "meaning": "трудный, хлопотный"
+        },
+        {
+          "kanji": "青白い",
+          "JLPT": "N2",
+          "furigana": "あおじろい",
+          "romaji": "aojiroi",
+          "meaning": "бледный"
+        }
+      ],
+      [
+        {
+          "kanji": "喧しい",
+          "JLPT": "N2",
+          "furigana": "やかましい",
+          "romaji": "yakamashii",
+          "meaning": "шумный"
+        },
+        {
+          "kanji": "渋い",
+          "JLPT": "N2",
+          "furigana": "しぶい",
+          "romaji": "shibui",
+          "meaning": "вяжущий; сдержанный"
+        },
+        {
+          "kanji": "頼もしい",
+          "JLPT": "N2",
+          "furigana": "たのもしい",
+          "romaji": "tanomoshii",
+          "meaning": "надежный"
+        },
+        {
+          "kanji": "うっとうしい",
+          "JLPT": "N2",
+          "furigana": "うっとうしい",
+          "romaji": "uttoushii",
+          "meaning": "раздражающий"
+        },
+        {
+          "kanji": "若々しい",
+          "JLPT": "N2",
+          "furigana": "わかわかしい",
+          "romaji": "wakawakashii",
+          "meaning": "юный"
+        },
+        {
+          "kanji": "騒がしい",
+          "JLPT": "N2",
+          "furigana": "さわがしい",
+          "romaji": "sawagashii",
+          "meaning": "шумный; неспокойный"
+        },
+        {
+          "kanji": "気まずい",
+          "JLPT": "N2",
+          "furigana": "きまずい",
+          "romaji": "kimazui",
+          "meaning": "смущенный"
+        },
+        {
+          "kanji": "手早い",
+          "JLPT": "N2",
+          "furigana": "てばやい",
+          "romaji": "tebayai",
+          "meaning": "быстрый, проворный"
+        },
+        {
+          "kanji": "ぎこちない",
+          "JLPT": "N2",
+          "furigana": "ぎこちない",
+          "romaji": "gikochinai",
+          "meaning": "неуклюжий"
+        },
+        {
+          "kanji": "恋しい",
+          "JLPT": "N2",
+          "furigana": "こいしい",
+          "romaji": "koishii",
+          "meaning": "любимый, возлюбленный"
+        }
+      ],
+      [
+        {
+          "kanji": "見苦しい",
+          "JLPT": "N2",
+          "furigana": "みぐるしい",
+          "romaji": "migurushii",
+          "meaning": "неприглядный, безобразный"
+        },
+        {
+          "kanji": "弱々しい",
+          "JLPT": "N2",
+          "furigana": "よわよわしい",
+          "romaji": "yowayowashii",
+          "meaning": "слабый"
+        },
+        {
+          "kanji": "程良い",
+          "JLPT": "N2",
+          "furigana": "ほどよい",
+          "romaji": "hodoyoi",
+          "meaning": "благоприятный"
+        },
+        {
+          "kanji": "後ろめたい",
+          "JLPT": "N2",
+          "furigana": "うしろめたい",
+          "romaji": "ushirometai",
+          "meaning": "обеспокоенный"
+        },
+        {
+          "kanji": "手厚い",
+          "JLPT": "N2",
+          "furigana": "てあつい",
+          "romaji": "teatsui",
+          "meaning": "щедрый"
+        },
+        {
+          "kanji": "気安い",
+          "JLPT": "N2",
+          "furigana": "きやすい",
+          "romaji": "kiyasui",
+          "meaning": "лёгкий, непринуждённый"
+        },
+        {
+          "kanji": "堅苦しい",
+          "JLPT": "N2",
+          "furigana": "かたくるしい",
+          "romaji": "katakurushii",
+          "meaning": "натянутый, формальный"
+        },
+        {
+          "kanji": "くどい",
+          "JLPT": "N2",
+          "furigana": "くどい",
+          "romaji": "kudoi",
+          "meaning": "скучный, надоедливый"
+        },
+        {
+          "kanji": "真新しい",
+          "JLPT": "N2",
+          "furigana": "まあたらしい",
+          "romaji": "maatarashii",
+          "meaning": "новёхонький"
+        },
+        {
+          "kanji": "荒っぽい",
+          "JLPT": "N2",
+          "furigana": "あらっぽい",
+          "romaji": "arappoi",
+          "meaning": "грубый, неотёсанный"
+        }
+      ],
+      [
+        {
+          "kanji": "図々しい",
+          "JLPT": "N2",
+          "furigana": "ずうずうしい",
+          "romaji": "zuuzuushii",
+          "meaning": "нахальный"
+        },
+        {
+          "kanji": "安っぽい",
+          "JLPT": "N2",
+          "furigana": "やすっぽい",
+          "romaji": "yasuppoi",
+          "meaning": "дешёвый, безвкусный"
+        },
+        {
+          "kanji": "厚かましい",
+          "JLPT": "N2",
+          "furigana": "あつかましい",
+          "romaji": "atsukamashii",
+          "meaning": "наглый, дерзкий"
+        },
+        {
+          "kanji": "真っ白い",
+          "JLPT": "N2",
+          "furigana": "まっしろい",
+          "romaji": "masshiroi",
+          "meaning": "белоснежный"
+        },
+        {
+          "kanji": "肌寒い",
+          "JLPT": "N2",
+          "furigana": "はださむい",
+          "romaji": "hadasamui",
+          "meaning": "зябкий"
+        },
+        {
+          "kanji": "甘酸っぱい",
+          "JLPT": "N2",
+          "furigana": "あまずっぱい",
+          "romaji": "amazuppai",
+          "meaning": "кисло-сладкий"
+        }
+      ],
+      [
+        {
+          "kanji": "疑わしい",
+          "JLPT": "N1",
+          "furigana": "うたがわしい",
+          "romaji": "utagawashii",
+          "meaning": "сомнительный"
+        },
+        {
+          "kanji": "生々しい",
+          "JLPT": "N1",
+          "furigana": "なまなましい",
+          "romaji": "namanamashii",
+          "meaning": "свежий; графический"
+        },
+        {
+          "kanji": "目覚ましい",
+          "JLPT": "N1",
+          "furigana": "めざましい",
+          "romaji": "mezamashii",
+          "meaning": "поразительный, блестящий"
+        },
+        {
+          "kanji": "儚い",
+          "JLPT": "N1",
+          "furigana": "はかない",
+          "romaji": "hakanai",
+          "meaning": "мимолетный"
+        },
+        {
+          "kanji": "素っ気ない",
+          "JLPT": "N1",
+          "furigana": "そっけない",
+          "romaji": "sokkenai",
+          "meaning": "холодный, отстранённый"
+        },
+        {
+          "kanji": "潔い",
+          "JLPT": "N1",
+          "furigana": "いさぎよい",
+          "romaji": "isagiyoi",
+          "meaning": "чистый, благородный"
+        },
+        {
+          "kanji": "誇らしい",
+          "JLPT": "N1",
+          "furigana": "ほこらしい",
+          "romaji": "hokorashii",
+          "meaning": "гордый"
+        },
+        {
+          "kanji": "愛しい",
+          "JLPT": "N1",
+          "furigana": "いとしい",
+          "romaji": "itoshii",
+          "meaning": "дорогой, милый"
+        },
+        {
+          "kanji": "腹立たしい",
+          "JLPT": "N1",
+          "furigana": "はらだたしい",
+          "romaji": "haradatashii",
+          "meaning": "раздвигающий"
+        },
+        {
+          "kanji": "荒々しい",
+          "JLPT": "N1",
+          "furigana": "あらあらしい",
+          "romaji": "araarashii",
+          "meaning": "грубый, резкий"
+        }
+      ],
+      [
+        {
+          "kanji": "重苦しい",
+          "JLPT": "N1",
+          "furigana": "おもくるしい",
+          "romaji": "omokurushii",
+          "meaning": "гнетущий"
+        },
+        {
+          "kanji": "おぼつかない",
+          "JLPT": "N1",
+          "furigana": "おぼつかない",
+          "romaji": "obotsukanai",
+          "meaning": "неопределенный"
+        },
+        {
+          "kanji": "卑しい",
+          "JLPT": "N1",
+          "furigana": "いやしい",
+          "romaji": "iyashii",
+          "meaning": "скромный, непритязательный"
+        },
+        {
+          "kanji": "呆気ない",
+          "JLPT": "N1",
+          "furigana": "あっけない",
+          "romaji": "akkenai",
+          "meaning": "неинтересный, разочаровывающий"
+        },
+        {
+          "kanji": "清々しい",
+          "JLPT": "N1",
+          "furigana": "すがすがしい",
+          "romaji": "sugasugashii",
+          "meaning": "освежающий"
+        },
+        {
+          "kanji": "目まぐるしい",
+          "JLPT": "N1",
+          "furigana": "めまぐるしい",
+          "romaji": "memagurushii",
+          "meaning": "головокружительный"
+        },
+        {
+          "kanji": "名高い",
+          "JLPT": "N1",
+          "furigana": "なだかい",
+          "romaji": "nadakai",
+          "meaning": "прославленный"
+        },
+        {
+          "kanji": "もどかしい",
+          "JLPT": "N1",
+          "furigana": "もどかしい",
+          "romaji": "modokashii",
+          "meaning": "мучительно медленный, скучный"
+        },
+        {
+          "kanji": "華々しい",
+          "JLPT": "N1",
+          "furigana": "はなばなしい",
+          "romaji": "hanabanashii",
+          "meaning": "захватывающий, эффектный"
+        },
+        {
+          "kanji": "痛ましい",
+          "JLPT": "N1",
+          "furigana": "いたましい",
+          "romaji": "itamashii",
+          "meaning": "прискорбный; жалкий"
+        }
+      ],
+      [
+        {
+          "kanji": "心許ない",
+          "JLPT": "N1",
+          "furigana": "こころもとない",
+          "romaji": "kokoromotonai",
+          "meaning": "неудобный"
+        },
+        {
+          "kanji": "愛らしい",
+          "JLPT": "N1",
+          "furigana": "あいらしい",
+          "romaji": "airashii",
+          "meaning": "хорошенький, милый"
+        },
+        {
+          "kanji": "輝かしい",
+          "JLPT": "N1",
+          "furigana": "かがやかしい",
+          "romaji": "kagayakashii",
+          "meaning": "блестящий"
+        },
+        {
+          "kanji": "苦々しい",
+          "JLPT": "N1",
+          "furigana": "にがにがしい",
+          "romaji": "niganigashii",
+          "meaning": "гадкий"
+        },
+        {
+          "kanji": "清い",
+          "JLPT": "N1",
+          "furigana": "きよい",
+          "romaji": "kiyoi",
+          "meaning": "чистый"
+        },
+        {
+          "kanji": "勇ましい",
+          "JLPT": "N1",
+          "furigana": "いさましい",
+          "romaji": "isamashii",
+          "meaning": "храбрый"
+        },
+        {
+          "kanji": "眩い",
+          "JLPT": "N1",
+          "furigana": "まばゆい",
+          "romaji": "mabayui",
+          "meaning": "ослепительный"
+        },
+        {
+          "kanji": "侘しい",
+          "JLPT": "N1",
+          "furigana": "わびしい",
+          "romaji": "wabishii",
+          "meaning": "неуютный"
+        },
+        {
+          "kanji": "芳しい",
+          "JLPT": "N1",
+          "furigana": "かんばしい",
+          "romaji": "kanbashii",
+          "meaning": "ароматный"
+        },
+        {
+          "kanji": "痛々しい",
+          "JLPT": "N1",
+          "furigana": "いたいたしい",
+          "romaji": "itaitashii",
+          "meaning": "жалкий"
+        }
+      ],
+      [
+        {
+          "kanji": "よそよそしい",
+          "JLPT": "N1",
+          "furigana": "よそよそしい",
+          "romaji": "yosoyososhii",
+          "meaning": "отчужденный"
+        },
+        {
+          "kanji": "微笑ましい",
+          "JLPT": "N1",
+          "furigana": "ほほえましい",
+          "romaji": "hohoemashii",
+          "meaning": "забавный"
+        },
+        {
+          "kanji": "訝しい",
+          "JLPT": "N1",
+          "furigana": "いぶかしい",
+          "romaji": "ibukashii",
+          "meaning": "сомнительный, подозрительный"
+        },
+        {
+          "kanji": "悍ましい",
+          "JLPT": "N1",
+          "furigana": "おぞましい",
+          "romaji": "ozomashii",
+          "meaning": "ужасающий, омерзительный"
+        },
+        {
+          "kanji": "喜ばしい",
+          "JLPT": "N1",
+          "furigana": "よろこばしい",
+          "romaji": "yorokobashii",
+          "meaning": "радостный"
+        },
+        {
+          "kanji": "生臭い",
+          "JLPT": "N1",
+          "furigana": "なまぐさい",
+          "romaji": "namagusai",
+          "meaning": "пахнущий рыбой, мясом или кровью"
+        },
+        {
+          "kanji": "慎ましい",
+          "JLPT": "N1",
+          "furigana": "つつましい",
+          "romaji": "tsutsumashii",
+          "meaning": "смиренный"
+        },
+        {
+          "kanji": "か細い",
+          "JLPT": "N1",
+          "furigana": "かぼそい",
+          "romaji": "kabosoi",
+          "meaning": "щуплый"
+        },
+        {
+          "kanji": "手強い",
+          "JLPT": "N1",
+          "furigana": "てごわい",
+          "romaji": "tegowai",
+          "meaning": "неподатливый, непреклонный"
+        },
+        {
+          "kanji": "目新しい",
+          "JLPT": "N1",
+          "furigana": "めあたらしい",
+          "romaji": "meatarashii",
+          "meaning": "новый, оригинальный"
+        }
+      ],
+      [
+        {
+          "kanji": "騒々しい",
+          "JLPT": "N1",
+          "furigana": "そうぞうしい",
+          "romaji": "souzoushii",
+          "meaning": "шумный; неспокойный"
+        },
+        {
+          "kanji": "味気ない",
+          "JLPT": "N1",
+          "furigana": "あじきない",
+          "romaji": "ajikinai",
+          "meaning": "унылый, скучный"
+        },
+        {
+          "kanji": "紛らわしい",
+          "JLPT": "N1",
+          "furigana": "まぎらわしい",
+          "romaji": "magirawashii",
+          "meaning": "двусмысленный; неясный"
+        },
+        {
+          "kanji": "恨めしい",
+          "JLPT": "N1",
+          "furigana": "うらめしい",
+          "romaji": "urameshii",
+          "meaning": "прискорбный"
+        },
+        {
+          "kanji": "粗い",
+          "JLPT": "N1",
+          "furigana": "あらい",
+          "romaji": "arai",
+          "meaning": "грубый, необработанный"
+        },
+        {
+          "kanji": "忌まわしい",
+          "JLPT": "N1",
+          "furigana": "いまわしい",
+          "romaji": "imawashii",
+          "meaning": "отвратительный, зловещий"
+        },
+        {
+          "kanji": "物悲しい",
+          "JLPT": "N1",
+          "furigana": "ものがなしい",
+          "romaji": "monoganashii",
+          "meaning": "тоскливый, мрачный"
+        },
+        {
+          "kanji": "懐こい",
+          "JLPT": "N1",
+          "furigana": "ふところこい",
+          "romaji": "futokorokoi",
+          "meaning": "любезный"
+        },
+        {
+          "kanji": "極まりない",
+          "JLPT": "N1",
+          "furigana": "きわまりない",
+          "romaji": "kiwamarinai",
+          "meaning": "беспредельный"
+        },
+        {
+          "kanji": "けたたましい",
+          "JLPT": "N1",
+          "furigana": "けたたましい",
+          "romaji": "ketatamashii",
+          "meaning": "крикливый, пронзительный"
+        },
+        {
+          "kanji": "厚ぼったい",
+          "JLPT": "N1",
+          "furigana": "あつぼったい",
+          "romaji": "atsubottai",
+          "meaning": "плотный; густой"
+        }
+      ],
+      [
+        {
+          "kanji": "疚しい",
+          "JLPT": "N1",
+          "furigana": "やましい",
+          "romaji": "yamashii",
+          "meaning": "стыдящийся; постыдный"
+        },
+        {
+          "kanji": "面白おかしい",
+          "JLPT": "N1",
+          "furigana": "おもしろおかしい",
+          "romaji": "omoshiro okashii",
+          "meaning": "забавный"
+        },
+        {
+          "kanji": "軽々しい",
+          "JLPT": "N1",
+          "furigana": "かるがるしい",
+          "romaji": "karugarushii",
+          "meaning": "легкомысленный"
+        },
+        {
+          "kanji": "如何わしい",
+          "JLPT": "N1",
+          "furigana": "いかがわしい",
+          "romaji": "ikagawashii",
+          "meaning": "сомнительный, подозрительный"
+        },
+        {
+          "kanji": "重々しい",
+          "JLPT": "N1",
+          "furigana": "おもおもしい",
+          "romaji": "omoomoshii",
+          "meaning": "торжественный"
+        },
+        {
+          "kanji": "馴れ馴れしい",
+          "JLPT": "N1",
+          "furigana": "なれなれしい",
+          "romaji": "narenareshii",
+          "meaning": "фамильярный"
+        },
+        {
+          "kanji": "愛おしい",
+          "JLPT": "N1",
+          "furigana": "いとおしい",
+          "romaji": "itooshii",
+          "meaning": "прекрасный, дорогой"
+        },
+        {
+          "kanji": "麗しい",
+          "JLPT": "N1",
+          "furigana": "うるわしい",
+          "romaji": "uruwashii",
+          "meaning": "трогательный"
+        },
+        {
+          "kanji": "根深い",
+          "JLPT": "N1",
+          "furigana": "ねぶかい",
+          "romaji": "nebukai",
+          "meaning": "укоренившийся"
+        },
+        {
+          "kanji": "忌々しい",
+          "JLPT": "N1",
+          "furigana": "いまいましい",
+          "romaji": "imaimashii",
+          "meaning": "злосчастный"
+        },
+        {
+          "kanji": "気恥ずかしい",
+          "JLPT": "N1",
+          "furigana": "きはずかしい",
+          "romaji": "kihazukashii",
+          "meaning": "смущающий"
+        }
+      ],
+      [
+        {
+          "kanji": "心ない",
+          "JLPT": "N1",
+          "furigana": "こころない",
+          "romaji": "kokoronai",
+          "meaning": "бессердечный"
+        },
+        {
+          "kanji": "擽ぐったい",
+          "JLPT": "N1",
+          "furigana": "くすぐったい",
+          "romaji": "kusuguttai",
+          "meaning": "щекотливый"
+        },
+        {
+          "kanji": "浅黒い",
+          "JLPT": "N1",
+          "furigana": "あさぐろい",
+          "romaji": "asaguroi",
+          "meaning": "смуглый"
+        },
+        {
+          "kanji": "気難しい",
+          "JLPT": "N1",
+          "furigana": "きむずかしい",
+          "romaji": "kimuzukashii",
+          "meaning": "капризный"
+        },
+        {
+          "kanji": "手厳しい",
+          "JLPT": "N1",
+          "furigana": "てきびしい",
+          "romaji": "tekibishii",
+          "meaning": "суровый, безжалостный"
+        },
+        {
+          "kanji": "生温い",
+          "JLPT": "N1",
+          "furigana": "なまぬるい",
+          "romaji": "namanurui",
+          "meaning": "тепловатый"
+        },
+        {
+          "kanji": "初々しい",
+          "JLPT": "N1",
+          "furigana": "ういういしい",
+          "romaji": "uiuishii",
+          "meaning": "невинный, неиспорченный"
+        },
+        {
+          "kanji": "程近い",
+          "JLPT": "N1",
+          "furigana": "ほどちかい",
+          "romaji": "hodochikai",
+          "meaning": "близкий; поблизости"
+        },
+        {
+          "kanji": "ごつい",
+          "JLPT": "N1",
+          "furigana": "ごつい",
+          "romaji": "gotsui",
+          "meaning": "прочный"
+        },
+        {
+          "kanji": "艶めかしい",
+          "JLPT": "N1",
+          "furigana": "なまめかしい",
+          "romaji": "namamekashii",
+          "meaning": "очаровательный, прелестный"
+        },
+        {
+          "kanji": "香ばしい",
+          "JLPT": "N1",
+          "furigana": "こうばしい",
+          "romaji": "koubashii",
+          "meaning": "ароматный, душистый"
+        }
+      ]
+    ],
+    "form": {
+      "basic": {
+        "base": "прилагательное +  существительное;",
+        "slag": "Настоящее, будущее",
+        "examples": [
+          "おいしい朝ごはん ••• вкусный завтрак (おいしいあさごはん)",
+          "美味しい役肉 ••• вкусное жареное мясо (おいしいやきにく)",
+          "高い時計 •••  дорогие часы (たかいとけい)",
+          "楽しい子ども ••• веселые дети(たのしいこども)",
+          "楽しい子ども ••• веселые дети(きらい)",
+          "甘いケーキ ••• сладкий торт (あまいケーキ)",
+          "値段が高いレストランはあまり好きじゃない Я не очень люблю дорогие рестораны.(ねだんがたかいレストランはあまりすきじゃない)"
+        ]
+      },
+      "negative": {
+        "text": "Заменить ~い на ~く или ~ありません ",
+        "slag": "Отрицание ",
+        "base": "くない",
+        "polite": "くありません",
+        "exception": [
+          "いい - よくない (хороший - не хороший)",
+          "かっこいい - かっこよくない (крутой - не крутой)"
+        ],
+        "examples": [
+          "値段が高くない ••• не высокая цена (ねだんがたかくない)",
+          "高くない自転車 ••• не дорогой велосипед (たかくないじてんしゃ)",
+          "楽しくない人 ••• не веселый(たのしくないひと)",
+          "甘くないケーキ ••• не сладкий торт(あまくないケーキ)"
+        ]
+      },
+      "past": {
+        "text": "Заменить ~い на ~かった  ",
+        "slag": "Прошедшее ",
+        "base": "かった",
+        "exception": [
+          "いい - よかった (хороший - был хороший)",
+          "かっこいい - かっこよかった (крутой - был крутой)"
+        ],
+        "examples": [
+          "高かった ••• был высоким(дорогим)(たかかった) ",
+          "楽しかった ••• был веселый(たのしかった)",
+          "甘かった ••• был сладкий(あまかった)",
+          "彼はかっこよかった ••• Он был крутым.!"
+        ]
+      },
+      "past_negative": {
+        "text": "Изменить ~い на ~く и + (は)なかった или ありませんでした  ",
+        "slag": "Прошедшее отрицание",
+        "base": "くなかった",
+        "polite": "くありませんでした",
+        "exception": [
+          "いい - よくなかった (хороший - не был хороший)",
+          "かっこいい - かっこよくなかった (крутой - не был крутым)"
+        ],
+        "examples": [
+          "おおくなかった ••• не был высоким(дорогим)",
+          "楽しくなかった ••• не был веселый",
+          "あまくなかった ••• не был сладкий"
+        ]
+      },
+      "noun": {
+        "text": "Изменить на существительное заменить ~い на さ  ",
+        "slag": "Качество, как существительное",
+        "base": "さ",
+        "examples": [
+          "たかさ - высота",
+          "あまいさ - наивность",
+          "たのしさ - вкус"
+        ]
+      },
+      "te_form": {
+        "text": "Изменить  ~い на ~く и добавить ~て  ",
+        "slag": "Описание способа действия или состояния (как, какой )",
+        "base": "くて",
+        "examples": [
+          "かわいくて",
+          "さむくて",
+          "たのしくて"
+        ]
+      },
+      "exceptions": {
+        "slag": "Исключение ",
+        "text": "いい прилагательное",
+        "exceptions_negative": "よくないです",
+        "exceptions_past": "よかったです",
+        "exceptions_past_negative": "よくなかったです"
+      }
+    }
+  },
+  {
+    "id": "1",
+    "slug": "adjectives_na",
+    "base": "な",
+    "type": "な",
+    "descriptions": "Бывают двух типов : 1.Самостоятельные прилагательные в форме существительного, 2. Прилагательные образованные от существительного с добавлением частицы の",
+    "lessons": [
+      [
+        {
+          "JLPT": "N5",
+          "kanji": "好き",
+          "furigana": "すき",
+          "romaji": "suki",
+          "meaning": "нравиться"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "嫌",
+          "furigana": "いや",
+          "romaji": "iya",
+          "meaning": "не нравится, нет"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "大変",
+          "furigana": "たいへん",
+          "romaji": "taihen",
+          "meaning": "жесткий"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "綺麗",
+          "furigana": "きれい",
+          "romaji": "kirei",
+          "meaning": "красивый"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "大丈夫",
+          "furigana": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "meaning": "нормально"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "有名",
+          "furigana": "ゆうめい",
+          "romaji": "yuumei",
+          "meaning": "знаменитый, известный"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "大切",
+          "furigana": "たいせつ",
+          "romaji": "taisetsu",
+          "meaning": "важный"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "静か",
+          "furigana": "しずか",
+          "romaji": "shizuka",
+          "meaning": "тихий (отсутствие шума, толпы)"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "大好き",
+          "furigana": "だいすき",
+          "romaji": "daisuki",
+          "meaning": "обожаемый"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "立派",
+          "furigana": "りっぱ",
+          "romaji": "rippa",
+          "meaning": "отличный, великолепный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "kanji": "上手",
+          "furigana": "じょうず",
+          "romaji": "jouzu",
+          "meaning": "хорош в чем-то"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "真っ直ぐ",
+          "furigana": "まっすぐ",
+          "romaji": "massugu",
+          "meaning": "прямо (о движении), прямой, честный (также наречие: прямо)"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "賑やか",
+          "furigana": "にぎやか",
+          "romaji": "nigiyaka",
+          "meaning": "оживлённо, шумно (суета)"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "丈夫",
+          "furigana": "じょうぶ",
+          "romaji": "joubu",
+          "meaning": "прочный, крепкий"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "確か",
+          "furigana": "たしか",
+          "romaji": "tashika",
+          "meaning": "точно, верно, точный, достоверный"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "簡単",
+          "furigana": "かんたん",
+          "romaji": "kantan",
+          "meaning": "просто, легко"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "大事",
+          "furigana": "だいじ",
+          "romaji": "daiji",
+          "meaning": "важно, ценно"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "非常",
+          "furigana": "ひじょう",
+          "romaji": "hijou",
+          "meaning": "чрезвычайно, очень"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "残念",
+          "furigana": "ざんねん",
+          "romaji": "zannen",
+          "meaning": "досадно, разочарование"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "kanji": "元気",
+          "furigana": "げんき",
+          "romaji": "genki",
+          "meaning": "здоровый, энергичный"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "暇",
+          "furigana": "ひま",
+          "romaji": "hima",
+          "meaning": "свободный (о времени)"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "安全",
+          "furigana": "あんぜん",
+          "romaji": "anzen",
+          "meaning": "безопасный"
+        },
+        {
+          "JLPT": "N5",
+          "kanji": "必要",
+          "furigana": "ひつよう",
+          "romaji": "hitsuyou",
+          "meaning": "необходимый, нужный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "複雑",
+          "furigana": "ふくざつ",
+          "romaji": "fukuzatsu",
+          "meaning": "сложный, запутанный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "真面目",
+          "furigana": "まじめ",
+          "romaji": "majime",
+          "meaning": "серьёзный, добросовестный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "丁寧",
+          "furigana": "ていねい",
+          "romaji": "teinei",
+          "meaning": "вежливый, аккуратный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "特別",
+          "furigana": "とくべつ",
+          "romaji": "tokubetsu",
+          "meaning": "особенный, специальный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "熱心",
+          "furigana": "ねっしん",
+          "romaji": "nesshin",
+          "meaning": "усердный, увлечённый"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "幸せ",
+          "furigana": "しあわせ",
+          "romaji": "shiawase",
+          "meaning": "счастливый"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "kanji": "盛ん",
+          "furigana": "さかん",
+          "romaji": "sakan",
+          "meaning": "процветающий, активный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "様々",
+          "furigana": "さまざま",
+          "romaji": "samazama",
+          "meaning": "различный, разнообразный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "正直",
+          "furigana": "しょうじき",
+          "romaji": "shoujiki",
+          "meaning": "честный, искренний"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "真剣",
+          "furigana": "しんけん",
+          "romaji": "shinken",
+          "meaning": "серьёзный, искренний"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "自由",
+          "furigana": "じゆう",
+          "romaji": "jiyuu",
+          "meaning": "свободный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "十分",
+          "furigana": "じゅうぶん",
+          "romaji": "juubun",
+          "meaning": "достаточный, вполне, достаточный, вполне"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "自然",
+          "furigana": "しぜん",
+          "romaji": "shizen",
+          "meaning": "естественный, природный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "可能",
+          "furigana": "かのう",
+          "romaji": "kanou",
+          "meaning": "возможный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "重要",
+          "furigana": "じゅうよう",
+          "romaji": "juuyou",
+          "meaning": "важный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "明らか",
+          "furigana": "あきらか",
+          "romaji": "akiraka",
+          "meaning": "очевидный, ясный"
+        },
+        {
+          "JLPT": "N4",
+          "kanji": "同様",
+          "furigana": "どうよう",
+          "romaji": "douyou",
+          "meaning": "подобный, такой же"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "kanji": "完全",
+          "furigana": "かんぜん",
+          "romaji": "kanzen",
+          "meaning": "полный, совершенный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "新た",
+          "furigana": "あらた",
+          "romaji": "arata",
+          "meaning": "новый, обновлённый"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "相当",
+          "furigana": "そうとう",
+          "romaji": "soutou",
+          "meaning": "соответствующий, значительный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "豊か",
+          "furigana": "ゆたか",
+          "romaji": "yutaka",
+          "meaning": "богатый, изобильный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "遥か",
+          "furigana": "はるか",
+          "romaji": "haruka",
+          "meaning": "далёкий, значительно (в сравнении)"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "単純",
+          "furigana": "たんじゅん",
+          "romaji": "tanjun",
+          "meaning": "простой, наивный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "明確",
+          "furigana": "めいかく",
+          "romaji": "meikaku",
+          "meaning": "ясный, чёткий, определённый"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "意外",
+          "furigana": "いがい",
+          "romaji": "igai",
+          "meaning": "неожиданный, непредвиденный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "冷静",
+          "furigana": "れいせい",
+          "romaji": "reisei",
+          "meaning": "спокойный, хладнокровный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "有効",
+          "furigana": "ゆうこう",
+          "romaji": "yuukou",
+          "meaning": "действительный, эффективный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "kanji": "確実",
+          "furigana": "かくじつ",
+          "romaji": "kakujitsu",
+          "meaning": "надёжный, достоверный, уверенный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "不思議",
+          "furigana": "ふしぎ",
+          "romaji": "fushigi",
+          "meaning": "загадочный, удивительный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "平気",
+          "furigana": "へいき",
+          "romaji": "heiki",
+          "meaning": "спокойный, безразличный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "不安",
+          "furigana": "ふあん",
+          "romaji": "fuan",
+          "meaning": "тревожный, беспокойный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "急",
+          "furigana": "きゅう",
+          "romaji": "kyuu",
+          "meaning": "срочный, внезапный (な-прилагательное в сочетаниях)"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "穏やか",
+          "furigana": "おだやか",
+          "romaji": "odayaka",
+          "meaning": "спокойный, мягкий"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "真っ青",
+          "furigana": "まっさお",
+          "romaji": "massao",
+          "meaning": "бледный, синеватый"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "不自由",
+          "furigana": "ふじゆう",
+          "romaji": "fujiyuu",
+          "meaning": "неудобный, ограниченный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "平等",
+          "furigana": "びょうどう",
+          "romaji": "byoudou",
+          "meaning": "равный, справедливый"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "有能",
+          "furigana": "ゆうのう",
+          "romaji": "yuunou",
+          "meaning": "способный, талантливый"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "kanji": "意地悪",
+          "furigana": "いじわる",
+          "romaji": "ijiwaru",
+          "meaning": "злобный, вредный"
+        },
+        {
+          "JLPT": "N3",
+          "kanji": "器用",
+          "furigana": "きよう",
+          "romaji": "kiyou",
+          "meaning": "ловкий, умелый"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "巨大",
+          "furigana": "きょだい",
+          "romaji": "kyodai",
+          "meaning": "огромный, гигантский"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "特殊",
+          "furigana": "とくしゅ",
+          "romaji": "tokushu",
+          "meaning": "особенный, специфический"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "流石",
+          "furigana": "さすが",
+          "romaji": "sasuga",
+          "meaning": "как и ожидалось, достойно"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "当たり前",
+          "furigana": "あたりまえ",
+          "romaji": "atarimae",
+          "meaning": "естественный, очевидный, само собой разумеющийся"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "見事",
+          "furigana": "みごと",
+          "romaji": "migoto",
+          "meaning": "великолепный, превосходный, блестящий"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "容易",
+          "furigana": "ようい",
+          "romaji": "youi",
+          "meaning": "лёгкий, несложный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "多様",
+          "furigana": "たよう",
+          "romaji": "tayou",
+          "meaning": "разнообразный, различный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "懸命",
+          "furigana": "けんめい",
+          "romaji": "kenmei",
+          "meaning": "усердный, самоотверженный (в работе)"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "高度",
+          "furigana": "こうど",
+          "romaji": "koudo",
+          "meaning": "высокий уровень, продвинутый, сложный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N2",
+          "kanji": "不便",
+          "furigana": "ふべん",
+          "romaji": "fuben",
+          "meaning": "неудобный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "変",
+          "furigana": "へん",
+          "romaji": "hen",
+          "meaning": "странный, необычный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "積極的",
+          "furigana": "せっきょくてき",
+          "romaji": "sekkyokuteki",
+          "meaning": "активный, инициативный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "消極的",
+          "furigana": "しょうきょくてき",
+          "romaji": "shoukyokuteki",
+          "meaning": "пассивный, неинициативный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "高級",
+          "furigana": "こうきゅう",
+          "romaji": "koukyuu",
+          "meaning": "высокого класса, люксовый"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "高価",
+          "furigana": "こうか",
+          "romaji": "kouka",
+          "meaning": "дорогой (по цене)"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "不可能",
+          "furigana": "ふかのう",
+          "romaji": "fukanou",
+          "meaning": "невозможный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "具体的",
+          "furigana": "ぐたいてき",
+          "romaji": "gutaiteki",
+          "meaning": "конкретный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "抽象的",
+          "furigana": "ちゅうしょうてき",
+          "romaji": "chuushouteki",
+          "meaning": "абстрактный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "迷惑",
+          "furigana": "めいわく",
+          "romaji": "meiwaku",
+          "meaning": "доставляющий неудобства, неприятный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N2",
+          "kanji": "豪華",
+          "furigana": "ごうか",
+          "romaji": "gouka",
+          "meaning": "роскошный, пышный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "不器用",
+          "furigana": "ぶきよう",
+          "romaji": "bukiyou",
+          "meaning": "неуклюжий, неловкий"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "緊急",
+          "furigana": "きんきゅう",
+          "romaji": "kinkyuu",
+          "meaning": "срочный, экстренный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "厳重",
+          "furigana": "げんじゅう",
+          "romaji": "genjuu",
+          "meaning": "строгий, суровый (о контроле/мерах)"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "上等",
+          "furigana": "じょうとう",
+          "romaji": "joutou",
+          "meaning": "первоклассный, отличного качества"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "賢明",
+          "furigana": "けんめい",
+          "romaji": "kenmei",
+          "meaning": "благоразумный, мудрый"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "神秘的",
+          "furigana": "しんぴてき",
+          "romaji": "shinpiteki",
+          "meaning": "таинственный, мистический"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "迅速",
+          "furigana": "じんそく",
+          "romaji": "jinsoku",
+          "meaning": "быстрый, оперативный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "平穏",
+          "furigana": "へいおん",
+          "romaji": "heion",
+          "meaning": "спокойный, мирный (о состоянии)"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "有益",
+          "furigana": "ゆうえき",
+          "romaji": "yueki",
+          "meaning": "полезный, выгодный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N2",
+          "kanji": "堅実",
+          "furigana": "けんじつ",
+          "romaji": "kenjitsu",
+          "meaning": "надёжный, основательный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "密接",
+          "furigana": "みっせつ",
+          "romaji": "missetsu",
+          "meaning": "тесный, близкий (связь/отношение)"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "過剰",
+          "furigana": "かじょう",
+          "romaji": "kajou",
+          "meaning": "избыточный, чрезмерный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "適度",
+          "furigana": "てきど",
+          "romaji": "tekido",
+          "meaning": "умеренный, в меру"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "的確",
+          "furigana": "てきかく",
+          "romaji": "tekikaku",
+          "meaning": "точный, уместный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "効率的",
+          "furigana": "こうりつてき",
+          "romaji": "kouritsuteki",
+          "meaning": "эффективный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "一般的",
+          "furigana": "いっぱんてき",
+          "romaji": "ippanteki",
+          "meaning": "общепринятый, обычный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "理想的",
+          "furigana": "りそうてき",
+          "romaji": "risouteki",
+          "meaning": "идеальный"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "有望",
+          "furigana": "ゆうぼう",
+          "romaji": "yuubou",
+          "meaning": "перспективный, многообещающий"
+        },
+        {
+          "JLPT": "N2",
+          "kanji": "万能",
+          "furigana": "ばんのう",
+          "romaji": "bannou",
+          "meaning": "универсальный, всесторонний"
+        }
+      ],
+      [
+        {
+          "JLPT": "N1",
+          "kanji": "独自",
+          "furigana": "どくじ",
+          "romaji": "dokuji",
+          "meaning": "уникальный, самостоятельный, оригинальный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "同一",
+          "furigana": "どういつ",
+          "romaji": "douitsu",
+          "meaning": "одинаковый, тот же самый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "適切",
+          "furigana": "てきせつ",
+          "romaji": "tekisetsu",
+          "meaning": "соответствующий, уместный, подходящий"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "素直",
+          "furigana": "すなお",
+          "romaji": "sunao",
+          "meaning": "послушный, искренний, откровенный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "必死",
+          "furigana": "ひっし",
+          "romaji": "hisshi",
+          "meaning": "отчаянный, изо всех сил"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "正式",
+          "furigana": "せいしき",
+          "romaji": "seishiki",
+          "meaning": "официальный, формальный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "曖昧",
+          "furigana": "あいまい",
+          "romaji": "aimai",
+          "meaning": "неопределённый, двусмысленный, неясный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "余計",
+          "furigana": "よけい",
+          "romaji": "yokei",
+          "meaning": "лишний, избыточный, ненужный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "主要",
+          "furigana": "しゅよう",
+          "romaji": "shuyou",
+          "meaning": "главный, основной"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "貴重",
+          "furigana": "きちょう",
+          "romaji": "kichou",
+          "meaning": "ценный, драгоценный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N1",
+          "kanji": "微妙",
+          "furigana": "びみょう",
+          "romaji": "bimyou",
+          "meaning": "тонкий, деликатный, неуловимый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "急速",
+          "furigana": "きゅうそく",
+          "romaji": "kyuusoku",
+          "meaning": "быстрый, стремительный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "深刻",
+          "furigana": "しんこく",
+          "romaji": "shinkoku",
+          "meaning": "серьёзный, глубокий (о проблеме, ситуации)"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "穏やか",
+          "furigana": "おだやか",
+          "romaji": "odayaka",
+          "meaning": "спокойный, мягкий, умеренный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "知的",
+          "furigana": "ちてき",
+          "romaji": "chiteki",
+          "meaning": "интеллектуальный, разумный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "強力",
+          "furigana": "きょうりょく",
+          "romaji": "kyouryoku",
+          "meaning": "мощный, сильный, эффективный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "透明",
+          "furigana": "とうめい",
+          "romaji": "toumei",
+          "meaning": "прозрачный, ясный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "身近",
+          "furigana": "みぢか",
+          "romaji": "mijika",
+          "meaning": "близкий, знакомый, повседневный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "幼稚",
+          "furigana": "ようち",
+          "romaji": "youchi",
+          "meaning": "детский, наивный, примитивный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "奇妙",
+          "furigana": "きみょう",
+          "romaji": "kimyou",
+          "meaning": "странный, необычный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N1",
+          "kanji": "密か",
+          "furigana": "ひそか",
+          "romaji": "hisoka",
+          "meaning": "тайный, скрытый, секретный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "独特",
+          "furigana": "どくとく",
+          "romaji": "dokutoku",
+          "meaning": "уникальный, своеобразный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "純粋",
+          "furigana": "じゅんすい",
+          "romaji": "junsui",
+          "meaning": "чистый, искренний"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "重大",
+          "furigana": "じゅうだい",
+          "romaji": "juudai",
+          "meaning": "серьёзный, важный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "有力",
+          "furigana": "ゆうりょく",
+          "romaji": "yuuryoku",
+          "meaning": "влиятельный, могущественный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "豊富",
+          "furigana": "ほうふ",
+          "romaji": "houfu",
+          "meaning": "обильный, богатый (на ресурсы, опыт)"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "素敵",
+          "furigana": "すてき",
+          "romaji": "suteki",
+          "meaning": "прекрасный, чудесный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "稀",
+          "furigana": "まれ",
+          "romaji": "mare",
+          "meaning": "редкий, необычный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "高等",
+          "furigana": "こうとう",
+          "romaji": "koutou",
+          "meaning": "высший, продвинутый, высокий уровень"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "可哀想",
+          "furigana": "かわいそう",
+          "romaji": "kawaisou",
+          "meaning": "бедный, жалкий, достойный сочувствия"
+        }
+      ],
+      [
+        {
+          "JLPT": "N1",
+          "kanji": "優秀",
+          "furigana": "ゆうしゅう",
+          "romaji": "yuushuu",
+          "meaning": "отличный, выдающийся, способный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "頻繁",
+          "furigana": "ひんぱん",
+          "romaji": "hinpan",
+          "meaning": "частый, нередко"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "有利",
+          "furigana": "ゆうり",
+          "romaji": "yuuri",
+          "meaning": "выгодный, благоприятный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "不可欠",
+          "furigana": "ふかけつ",
+          "romaji": "fukaketsu",
+          "meaning": "необходимый, жизненно важный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "活発",
+          "furigana": "かっぱつ",
+          "romaji": "kappatsu",
+          "meaning": "активный, энергичный, оживлённый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "公的",
+          "furigana": "こうてき",
+          "romaji": "kouteki",
+          "meaning": "публичный, официальный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "不要",
+          "furigana": "ふよう",
+          "romaji": "fuyou",
+          "meaning": "ненужный, избыточный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "夢中",
+          "furigana": "むちゅう",
+          "romaji": "muchuu",
+          "meaning": "поглощённый, увлечённый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "滅多",
+          "furigana": "めった",
+          "romaji": "metta",
+          "meaning": "редко, почти никогда (в отрицательных предложениях)"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "フル",
+          "furigana": "フル",
+          "romaji": "furu",
+          "meaning": "полный, полностью"
+        }
+      ],
+      [
+        {
+          "JLPT": "N1",
+          "kanji": "新規",
+          "furigana": "しんき",
+          "romaji": "shinki",
+          "meaning": "новый, свежий, недавний"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "強烈",
+          "furigana": "きょうれつ",
+          "romaji": "kyouretsu",
+          "meaning": "сильный, интенсивный, яркий"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "法的",
+          "furigana": "ほうてき",
+          "romaji": "houteki",
+          "meaning": "законный, юридический"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "肝心",
+          "furigana": "かんじん",
+          "romaji": "kanjin",
+          "meaning": "важный, существенный, главный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "まし",
+          "furigana": "まし",
+          "romaji": "mashi",
+          "meaning": "лучше, предпочтительнее (по сравнению с чем-то худшим)"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "微か",
+          "furigana": "かすか",
+          "romaji": "kasuka",
+          "meaning": "слабый, неясный, едва различимый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "大幅",
+          "furigana": "おおはば",
+          "romaji": "oohaba",
+          "meaning": "значительный, широкий (в переносном смысле)"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "ばらばら",
+          "furigana": "ばらばら",
+          "romaji": "barabara",
+          "meaning": "разрозненный, рассыпавшийся, несогласованный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "特有",
+          "furigana": "とくゆう",
+          "romaji": "tokuyuu",
+          "meaning": "свойственный, характерный, присущий"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "単独",
+          "furigana": "たんどく",
+          "romaji": "tandoku",
+          "meaning": "одинокий, самостоятельный, индивидуальный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N1",
+          "kanji": "偉大",
+          "furigana": "いだい",
+          "romaji": "idai",
+          "meaning": "великий, выдающийся, грандиозный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "新鮮",
+          "furigana": "しんせん",
+          "romaji": "shinsen",
+          "meaning": "свежий, новый, оригинальный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "鮮やか",
+          "furigana": "あざやか",
+          "romaji": "azayaka",
+          "meaning": "яркий, живой, впечатляющий"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "無数",
+          "furigana": "むすう",
+          "romaji": "musuu",
+          "meaning": "бесчисленный, неисчислимый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "急激",
+          "furigana": "きゅうげき",
+          "romaji": "kyuugeki",
+          "meaning": "резкий, стремительный, внезапный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "順調",
+          "furigana": "じゅんちょう",
+          "romaji": "junchou",
+          "meaning": "гладкий, благоприятный, без осложнений"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "巧み",
+          "furigana": "たくみ",
+          "romaji": "takumi",
+          "meaning": "искусный, ловкий, умелый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "厳密",
+          "furigana": "げんみつ",
+          "romaji": "genmitsu",
+          "meaning": "строгий, точный, тщательный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "広大",
+          "furigana": "こうだい",
+          "romaji": "koudai",
+          "meaning": "обширный, широкий, огромный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "大胆",
+          "furigana": "だいたん",
+          "romaji": "daitan",
+          "meaning": "смелый, дерзкий, отважный"
+        }
+      ],
+      [
+        {
+          "JLPT": "N1",
+          "kanji": "別々",
+          "furigana": "べつべつ",
+          "romaji": "betsubetsu",
+          "meaning": "отдельный, раздельный, по отдельности"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "真っ赤",
+          "furigana": "まっか",
+          "romaji": "makka",
+          "meaning": "ярко-красный, пунцовый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "柔軟",
+          "furigana": "じゅうなん",
+          "romaji": "juunan",
+          "meaning": "гибкий, мягкий, уступчивый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "強引",
+          "furigana": "ごういん",
+          "romaji": "gouin",
+          "meaning": "насильственный, напористый, настойчивый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "私的",
+          "furigana": "してき",
+          "romaji": "shiteki",
+          "meaning": "частный, личный, приватный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "気の毒",
+          "furigana": "きのどく",
+          "romaji": "kinodoku",
+          "meaning": "жалкий, достойный сожаления, бедный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "俄か",
+          "furigana": "にわか",
+          "romaji": "niwaka",
+          "meaning": "внезапный, неожиданный, скоропостижный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "健全",
+          "furigana": "けんぜん",
+          "romaji": "kenzen",
+          "meaning": "здоровый, здравый, устойчивый"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "顕著",
+          "furigana": "けんちょ",
+          "romaji": "kencho",
+          "meaning": "заметный, очевидный, ярко выраженный"
+        },
+        {
+          "JLPT": "N1",
+          "kanji": "最適",
+          "furigana": "さいてき",
+          "romaji": "saiteki",
+          "meaning": "наилучший, оптимальный, наиболее подходящий"
+        }
+      ]
+    ],
+    "examples": [
+      [
+        {
+          "furigana": "好きなこと",
+          "meaning": "любимое дело (происшествие, действие)",
+          "romaji": "sukina koto"
+        },
+        {
+          "furigana": "好きな猫",
+          "meaning": "любимая кошка",
+          "romaji": "sukina neko"
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        },
+        {
+          "furigana": "",
+          "meaning": "",
+          "romaji": ""
+        }
+      ]
+    ],
+    "form": {
+      "basic": {
+        "text": "прилагательное + な + существительное; существительное + は+ прилагательное + だ",
+        "slag": "Настоящее, будущее",
+        "base": "な (существительное, после прилагательного な, имеет какое-то свойство); だ (какой, какая)です в сокращенной форме",
+        "polite": "",
+        "examples": [
+          "きれいな女の人 ••• красивая женщина",
+          "猫は肉が好きな動物です••• кошка - это животное которое любит мясо",
+          "沖縄県できれいな海 ••• в префектуре Окинава красивое море",
+          "マイケル・ジャクソンは有名な人 ••• Майкл Джексон — известная личность",
+          "マイケル・ジャクソンは有名だ ••• Майкл Джексон знаменит",
+          "日本の寺院は有名だ ••• японские храмы знамениты",
+          "沖縄県の首里城[Shurijo]は有名だ ••• Замок Сюри в префектуре Окинава знаменит.",
+          "嫌いな映画 ••• Фильмы, которые я ненавижу (きらいなえいが)"
+        ]
+      },
+      "negative": {
+        "text": "Добавить ~ではない или ~ではありません , じゃない",
+        "slag": "Отрицание ",
+        "base": "ではない",
+        "casual": "じゃない",
+        "polite": "ではありません",
+        "examples": [
+          "りんごがすきではない ••• не люблю яблоко",
+          "りんごが好きじゃない ••• не люблю яблоко",
+          "りんごが好きでわりません ••• я не нахожусь в состоянии любви к яблоку",
+          "魚が好きな子どもです ••• ребенок любящий рыбу; 魚が好きな子どもではない - ребенок не любящий рыбу; 魚が好きな子どもではいません - ребенок не любящий рыбу (живет в этом состоянии)",
+          "私の子どもは ••• 魚がすきなタイプですー魚がすきなタイプじゃない - 魚がすきなタイプではない - 魚がすきなタイプではありません"
+        ]
+      },
+      "past": {
+        "text": "Добавить  ~だった на ~でした  ",
+        "slag": "Прошедшее ",
+        "base": "だった",
+        "polite": "でした",
+        "examples": [
+          "りんごが好きだった - нравились яблоки",
+          "すきでした",
+          "マイケル・ジャクソンは有名な人だった ••• Майкл Джексон —был известной личностью"
+        ]
+      },
+      "past_negative": {
+        "text": "Добавить  ~ではなかった или ではありませんでした , じゃなかった ",
+        "slag": "Прошедшее отрицание",
+        "base": "ではなかった",
+        "polite": "ではありませんでした",
+        "casual": "じゃなかった",
+        "casual_polite": "じゃありません",
+        "examples": [
+          "りんごがすきではなかった - не нравились яблоки",
+          "りんごが好きではありませんでした",
+          "りんごが好きじゃなかった",
+          "りんごが好きじゃありません"
+        ]
+      },
+      "noun": {
+        "text": "Обычно прилагательное, которое имеет всего два кандзи, может быть как существительное ",
+        "slag": "Существительное",
+        "examples": [
+          "すき - привлекательность",
+          "しずか - тишина"
+        ]
+      },
+      "te_form": {
+        "text": "Добавить  ~で  ",
+        "slag": "Образа действия или состояния, описывает способ действия",
+        "examples": [
+          "しずかで - тихо (что то происходило, как ))",
+          "すきで - любя"
+        ]
+      },
+      "adverb": {
+        "text": "Добавить  ~に",
+        "base": "~に",
+        "slag": "Наречие",
+        "examples": [
+          "しずかにしでください！",
+          ""
+        ]
+      }
+    }
+  }
+]

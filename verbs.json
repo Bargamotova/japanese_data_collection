@@ -1,0 +1,7082 @@
+[
+  {
+    "id": "0",
+    "slug": "verbs_type_五段",
+    "type": "五段 • ごだん",
+    "base": "V1",
+    "descriptions": "оканчиваются на う, く, ぐ, す, つ, ぬ, ぶ, む и иногда на る; ",
+    "exceptions": [
+      {
+        "JLPT": "",
+        "furigana": "帰る",
+        "kanji": "かえる",
+        "romaji": "kaeru",
+        "meaning": "уходить домой, возвращаться домой"
+      },
+      {
+        "JLPT": "",
+        "furigana": "きる",
+        "kanji": "切る",
+        "romaji": "kiru",
+        "meaning": "рубить (дерево), зарубить"
+      },
+      {
+        "JLPT": "",
+        "furigana": "へる",
+        "kanji": "減る",
+        "romaji": "heru",
+        "meaning": "уменьшаться, сокращаться; "
+      },
+      {
+        "JLPT": "",
+        "furigana": "いる",
+        "kanji": "要る",
+        "romaji": "iru",
+        "meaning": "быть нужным, требоваться"
+      },
+      {
+        "JLPT": "",
+        "furigana": "しる",
+        "kanji": "知る",
+        "romaji": "shiru",
+        "meaning": "знать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "はしる",
+        "kanji": "走る",
+        "romaji": "hashiru",
+        "meaning": "бежать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "はいる",
+        "kanji": "入る",
+        "romaji": "hairu",
+        "meaning": "входить, проникать внутрь, поступать (о доходах)"
+      },
+      {
+        "JLPT": "",
+        "furigana": "かえる",
+        "kanji": "返る",
+        "romaji": "kaeru",
+        "meaning": "возвращать, отдавать обратно"
+      },
+      {
+        "JLPT": "",
+        "furigana": "すべる",
+        "kanji": "滑る",
+        "romaji": "suberu",
+        "meaning": " скользить"
+      },
+      {
+        "JLPT": "",
+        "furigana": "まいる",
+        "kanji": "参る",
+        "romaji": "mairu",
+        "meaning": "идти, отправляться, прибывать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "まじる",
+        "kanji": "混じる",
+        "romaji": "mazeru",
+        "meaning": "смешивать; подмешивать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "にぎる",
+        "kanji": "握る",
+        "romaji": "nigiru",
+        "meaning": "выжимать, сжимать, давить, сдавливать, выдавливать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "いる",
+        "kanji": "煎る",
+        "romaji": "поджаривать; выпаривать",
+        "meaning": "iru"
+      },
+      {
+        "JLPT": "",
+        "furigana": "ねる",
+        "kanji": "練る",
+        "romaji": "neru",
+        "meaning": "месить, замесить,"
+      },
+      {
+        "JLPT": "",
+        "furigana": "ちる",
+        "kanji": "散る",
+        "romaji": "chiru",
+        "meaning": " рассыпаться; рассеиваться"
+      },
+      {
+        "JLPT": "",
+        "furigana": "てる",
+        "kanji": "照る",
+        "romaji": "teru",
+        "meaning": "сиять, светить"
+      },
+      {
+        "JLPT": "",
+        "furigana": "ける",
+        "kanji": "蹴る",
+        "romaji": "keru",
+        "meaning": "пинать, бить ногой"
+      },
+      {
+        "JLPT": "",
+        "furigana": "あせる",
+        "kanji": "焦る",
+        "romaji": "aseru",
+        "meaning": "торопиться; нервничать; страстно желать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "かぎる",
+        "kanji": "限る",
+        "romaji": "kagiru",
+        "meaning": "ограничивать,устанавливать, фиксировать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "しめる",
+        "kanji": "湿る",
+        "romaji": "shimeru",
+        "meaning": "отсыревать, "
+      },
+      {
+        "JLPT": "",
+        "furigana": "しげる",
+        "kanji": "茂る",
+        "romaji": "shigeru",
+        "meaning": "густо расти "
+      },
+      {
+        "JLPT": "",
+        "furigana": "さえぎる",
+        "kanji": "遮る",
+        "romaji": "saegiru",
+        "meaning": "преграждать, заслонять"
+      },
+      {
+        "JLPT": "",
+        "furigana": "ののしる",
+        "kanji": "罵る",
+        "romaji": "nonoshiru",
+        "meaning": "ругать, бранить, поносить"
+      },
+      {
+        "JLPT": "",
+        "furigana": "あざける",
+        "kanji": "嘲る",
+        "romaji": "azakeru",
+        "meaning": "насмехаться, издеваться, глумиться, дразнить"
+      },
+      {
+        "JLPT": "",
+        "furigana": "みなぎる",
+        "kanji": "漲る",
+        "romaji": "minagiru",
+        "meaning": "разливаться, вздуваться (о реке), переполняться"
+      },
+      {
+        "JLPT": "",
+        "furigana": "くつがえる",
+        "kanji": "覆る",
+        "romaji": "kutsugaeru",
+        "meaning": "опрокидываться, рушиться, гибнуть"
+      },
+      {
+        "JLPT": "",
+        "furigana": "しゃべる",
+        "kanji": "喋る",
+        "romaji": "shyaberu",
+        "meaning": "говорить, болтать"
+      },
+      {
+        "JLPT": "",
+        "furigana": "ひねる",
+        "kanji": "捻る",
+        "romaji": "hineru",
+        "meaning": "крутить, вертеть, закручивать; выкручивать"
+      }
+    ],
+    "lessons": [
+      [
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "ある",
+          "kanji": "有る",
+          "romaji": "aru",
+          "meaning": "быть (для неодушевлённых)"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "あう",
+          "kanji": "会う",
+          "romaji": "au",
+          "meaning": "встречаться, встретиться"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "しる",
+          "kanji": "知る",
+          "romaji": "shiru",
+          "meaning": "знать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "あらう",
+          "kanji": "洗う",
+          "romaji": "arau",
+          "meaning": "стирать, мыть"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "あるく",
+          "kanji": "歩く",
+          "romaji": "aruku",
+          "meaning": "ходить"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "いう",
+          "kanji": "言う",
+          "romaji": "iu",
+          "meaning": "сказать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "いく",
+          "kanji": "行く",
+          "romaji": "iku",
+          "meaning": "идти"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "わらう",
+          "kanji": "笑う",
+          "romaji": "warau",
+          "meaning": "улыбаться, смеяться"
+        },
+        {
+          "JLPT": "N4",
+          "page": "1",
+          "type": "godan",
+          "furigana": "いる",
+          "kanji": "要る",
+          "romaji": "iru",
+          "meaning": "быть нужным, требоваться, нуждаться"
+        },
+        {
+          "JLPT": "N5",
+          "page": "1",
+          "type": "godan",
+          "furigana": "いわう",
+          "kanji": "祝う",
+          "romaji": "iwau",
+          "meaning": "праздновать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "うたう",
+          "kanji": "歌う",
+          "romaji": "utau",
+          "meaning": "петь"
+        },
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "うる",
+          "kanji": "売る",
+          "romaji": "uru",
+          "meaning": "продавать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "おく",
+          "kanji": "置く",
+          "romaji": "oku",
+          "meaning": "помещать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おくる",
+          "kanji": "送る",
+          "romaji": "okuru",
+          "meaning": "отправлять"
+        },
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "おす",
+          "kanji": "押す",
+          "romaji": "osu",
+          "meaning": "толкать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "おもう",
+          "kanji": "思う",
+          "romaji": "omou",
+          "meaning": "думать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "かう",
+          "kanji": "買う",
+          "romaji": "kau",
+          "meaning": "покупать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "およぐ",
+          "kanji": "泳ぐ",
+          "romaji": "oyogu",
+          "meaning": "плавать, купаться"
+        },
+        {
+          "JLPT": "N5",
+          "page": "2",
+          "type": "godan",
+          "furigana": "おわる",
+          "kanji": "終わる",
+          "romaji": "owaru",
+          "meaning": "заканчивать, завершать"
+        },
+        {
+          "JLPT": "N4",
+          "page": "2",
+          "type": "godan",
+          "furigana": "えらぶ",
+          "kanji": "選ぶ",
+          "romaji": "erabu",
+          "meaning": "выбирать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "かえす",
+          "kanji": "返す",
+          "romaji": "kaesu",
+          "meaning": "возвращать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "かえる",
+          "kanji": "帰る",
+          "romaji": "kaeru",
+          "meaning": "уходить домой, возвращаться домой"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "かく",
+          "kanji": "書く",
+          "romaji": "kaku",
+          "meaning": "писать"
+        },
+        {
+          "JLPT": "N4",
+          "page": "3",
+          "type": "godan",
+          "furigana": "かす",
+          "kanji": "貸す",
+          "romaji": "kasu",
+          "meaning": "одалживать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "かぶる",
+          "kanji": "被る",
+          "romaji": "kaburu",
+          "meaning": "надевать на голову"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "きく",
+          "kanji": "聞く",
+          "romaji": "kiku",
+          "meaning": "слышать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "きる",
+          "kanji": "切る",
+          "romaji": "kiru",
+          "meaning": "рубить (дерево), резать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "くもる",
+          "kanji": "曇る",
+          "romaji": "kumoru",
+          "meaning": "покрываться облаками"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "けす",
+          "kanji": "消す",
+          "romaji": "kesu",
+          "meaning": "тушить, гасить"
+        },
+        {
+          "JLPT": "N5",
+          "page": "3",
+          "type": "godan",
+          "furigana": "こまる",
+          "kanji": "困る",
+          "romaji": "komaru",
+          "meaning": "быть в трудном положении"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "こむ",
+          "kanji": "込む",
+          "romaji": "komu",
+          "meaning": "быть переполненным (людьми)"
+        },
+        {
+          "JLPT": "N4",
+          "page": "4",
+          "type": "godan",
+          "furigana": "さがす",
+          "kanji": "探す",
+          "romaji": "sagasu",
+          "meaning": "искать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "さく",
+          "kanji": "咲く",
+          "romaji": "saku",
+          "meaning": "цвести"
+        },
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "さす",
+          "kanji": "差す",
+          "romaji": "sasu",
+          "meaning": "прибывать (о воде), проступать (о цвете), овладевать (о духе)"
+        },
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "しぬ",
+          "kanji": "死ぬ",
+          "romaji": "shinu",
+          "meaning": "умереть"
+        },
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "しまる",
+          "kanji": "閉まる",
+          "romaji": "shimaru",
+          "meaning": "быть закрытым"
+        },
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "しる",
+          "kanji": "知る",
+          "romaji": "shiru",
+          "meaning": "знать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "すう",
+          "kanji": "吸う",
+          "romaji": "suu",
+          "meaning": "вдыхать, втягивать, сосать"
+        },
+        {
+          "JLPT": "N4",
+          "page": "4",
+          "type": "godan",
+          "furigana": "すべる",
+          "kanji": "滑る",
+          "romaji": "suberu",
+          "meaning": "скользить"
+        },
+        {
+          "JLPT": "N5",
+          "page": "4",
+          "type": "godan",
+          "furigana": "すむ",
+          "kanji": "住む",
+          "romaji": "sumu",
+          "meaning": "жить, проживать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "すわる",
+          "kanji": "座る",
+          "romaji": "suwaru",
+          "meaning": "сидеть"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "だす",
+          "kanji": "出す",
+          "romaji": "dasu",
+          "meaning": "вытаскивать, выходить из себя"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "たつ",
+          "kanji": "立つ",
+          "romaji": "tatsu",
+          "meaning": "вставать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "たのむ",
+          "kanji": "頼む",
+          "romaji": "tanomu",
+          "meaning": "просить"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "ちがう",
+          "kanji": "違う",
+          "romaji": "chigau",
+          "meaning": "отличаться"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "つかう",
+          "kanji": "使う",
+          "romaji": "tsukau",
+          "meaning": "использовать"
+        },
+        {
+          "JLPT": "N4",
+          "page": "5",
+          "type": "godan",
+          "furigana": "つく",
+          "kanji": "着く",
+          "romaji": "tsuku",
+          "meaning": "прибывать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "つくる",
+          "kanji": "作る",
+          "romaji": "tsukuru",
+          "meaning": "делать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "とぶ",
+          "kanji": "飛ぶ",
+          "romaji": "tobu",
+          "meaning": "летать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "5",
+          "type": "godan",
+          "furigana": "とまる",
+          "kanji": "止まる",
+          "romaji": "tomaru",
+          "meaning": "останавливаться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "とる",
+          "kanji": "取る",
+          "romaji": "toru",
+          "meaning": "брать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "とる",
+          "kanji": "撮る",
+          "romaji": "toru",
+          "meaning": "фотографировать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "なおす",
+          "kanji": "直す",
+          "romaji": "naosu",
+          "meaning": "исправлять"
+        },
+        {
+          "JLPT": "N4",
+          "page": "6",
+          "type": "godan",
+          "furigana": "なく",
+          "kanji": "泣く",
+          "romaji": "naku",
+          "meaning": "плакать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "なやむ",
+          "kanji": "悩む",
+          "romaji": "nayamu",
+          "meaning": "страдать"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "ならう",
+          "kanji": "習う",
+          "romaji": "narau",
+          "meaning": "учиться"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "ならぶ",
+          "kanji": "並ぶ",
+          "romaji": "narabu",
+          "meaning": "равняться"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "ぬぐ",
+          "kanji": "脱ぐ",
+          "romaji": "nugu",
+          "meaning": "снимать (одежду)"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "のぼる",
+          "kanji": "登る",
+          "romaji": "noboru",
+          "meaning": "подниматься, взбираться"
+        },
+        {
+          "JLPT": "N5",
+          "page": "6",
+          "type": "godan",
+          "furigana": "のむ",
+          "kanji": "飲む",
+          "romaji": "nomu",
+          "meaning": "пить"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "のる",
+          "kanji": "乗る",
+          "romaji": "noru",
+          "meaning": "ехать, садиться в транспорт"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はいる",
+          "kanji": "入る",
+          "romaji": "hairu",
+          "meaning": "входить, проникать внутрь, поступать (о доходах)"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はく",
+          "kanji": "穿く",
+          "romaji": "haku",
+          "meaning": "надевать (брюки, носки, юбку)"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はく",
+          "kanji": "履く",
+          "romaji": "haku",
+          "meaning": "надевать (обувь)"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はじまる",
+          "kanji": "始まる",
+          "romaji": "hajimaru",
+          "meaning": "начинаться"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はしる",
+          "kanji": "走る",
+          "romaji": "hashiru",
+          "meaning": "бегать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はたらく",
+          "kanji": "働く",
+          "romaji": "hataraku",
+          "meaning": "работать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はる",
+          "kanji": "貼る",
+          "romaji": "haru",
+          "meaning": "наклеивать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ひく",
+          "kanji": "引く",
+          "romaji": "hiku",
+          "meaning": "тянуть"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "ひく",
+          "kanji": "弾く",
+          "romaji": "hiku",
+          "meaning": "играть (на муз инстр.)"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "ふく",
+          "kanji": "吹く",
+          "romaji": "fuku",
+          "meaning": "дуть"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "ふる",
+          "kanji": "振る",
+          "romaji": "furu",
+          "meaning": "махать, трясти"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "ふる",
+          "kanji": "降る",
+          "romaji": "furu",
+          "meaning": "идти (о дожде, снеге)"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "まがる",
+          "kanji": "曲がる",
+          "romaji": "magaru",
+          "meaning": "поворачивать, сгибаться"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "まつ",
+          "kanji": "待つ",
+          "romaji": "matsu",
+          "meaning": "ждать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "まよう",
+          "kanji": "迷う",
+          "romaji": "mayou",
+          "meaning": "быть растерянным, недоумевать, сомневаться"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "みおくる",
+          "kanji": "見送る",
+          "romaji": "miokuru",
+          "meaning": "провожать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "みがく",
+          "kanji": "磨く",
+          "romaji": "migaku",
+          "meaning": "шлифовать, полировать; чистить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "もうす",
+          "kanji": "申す",
+          "romaji": "mōsu",
+          "meaning": "говорить; называться"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "もつ",
+          "kanji": "持つ",
+          "romaji": "motsu",
+          "meaning": "иметь, нести"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "やすむ",
+          "kanji": "休む",
+          "romaji": "yasumu",
+          "meaning": "отдыхать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "よぶ",
+          "kanji": "呼ぶ",
+          "romaji": "yobu",
+          "meaning": "звать, вызывать, называть"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "よむ",
+          "kanji": "読む",
+          "romaji": "yomu",
+          "meaning": "читать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "わかる",
+          "kanji": "分かる",
+          "romaji": "wakaru",
+          "meaning": "понимать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "わたす",
+          "kanji": "渡す",
+          "romaji": "watasu",
+          "meaning": "переправлять"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "わたる",
+          "kanji": "渡る",
+          "romaji": "wataru",
+          "meaning": "пересекать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はなす",
+          "kanji": "話す",
+          "romaji": "hanasu",
+          "meaning": "разговаривать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "あそぶ",
+          "kanji": "遊ぶ",
+          "romaji": "asobu",
+          "meaning": "играть"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "はしる",
+          "kanji": "走る",
+          "romaji": "hashiru",
+          "meaning": "бежать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "つける",
+          "kanji": "点ける",
+          "romaji": "tsukeru",
+          "meaning": "включать (свет и т.п.)"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "あがる",
+          "kanji": "上がる",
+          "romaji": "agaru",
+          "meaning": "подниматься, повышаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "あう",
+          "kanji": "合う",
+          "romaji": "au",
+          "meaning": "подходить для чего-л."
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "あく",
+          "kanji": "空く",
+          "romaji": "aku",
+          "meaning": "быть пустым (свободным, незанятым)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "あつまる",
+          "kanji": "集まる",
+          "romaji": "atsumaru",
+          "meaning": "собираться; скопляться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "あやまる",
+          "kanji": "謝る",
+          "romaji": "ayamaru",
+          "meaning": "извиняться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "いのる",
+          "kanji": "祈る",
+          "romaji": "inoru",
+          "meaning": "молиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "いたす",
+          "kanji": "致す",
+          "romaji": "itasu",
+          "meaning": "делать (скромно о себе)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "いただく",
+          "kanji": "頂く",
+          "romaji": "itadaku",
+          "meaning": "получать, принимать, брать(скромно о себе)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "いそぐ",
+          "kanji": "急ぐ",
+          "romaji": "isogu",
+          "meaning": "торопиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "うごく",
+          "kanji": "動く",
+          "romaji": "ugoku",
+          "meaning": "двигаться,"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "うつ",
+          "kanji": "打つ",
+          "romaji": "utsu",
+          "meaning": "бить, ударять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "うつす",
+          "kanji": "写す",
+          "romaji": "utsusu",
+          "meaning": "снимать копию"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "うつる",
+          "kanji": "移る",
+          "romaji": "utsuru",
+          "meaning": "переезжать, перебираться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "うかがう",
+          "kanji": "伺う",
+          "romaji": "ukagau",
+          "meaning": "посещать; навещать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "godan",
+          "furigana": "おこなう",
+          "kanji": "行う",
+          "romaji": "okonau",
+          "meaning": "совершать; осуществлять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おこる",
+          "kanji": "怒る",
+          "romaji": "okoru",
+          "meaning": "сердиться, злиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おどる",
+          "kanji": "踊る",
+          "romaji": "odoru",
+          "meaning": "танцевать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "",
+          "kanji": "",
+          "romaji": "",
+          "meaning": ""
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おどろく",
+          "kanji": "驚く",
+          "romaji": "odoroku",
+          "meaning": " удивляться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おこす",
+          "kanji": "起こす",
+          "romaji": "okosu",
+          "meaning": "будить"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おくる",
+          "kanji": "送る",
+          "romaji": "okuru",
+          "meaning": "отправлять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おもいだす",
+          "kanji": "思い出す",
+          "romaji": "omoidasu",
+          "meaning": "вспоминать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おる",
+          "kanji": "折る",
+          "romaji": "oru",
+          "meaning": "ломать, переламывать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おっしゃる",
+          "kanji": "仰る",
+          "romaji": "ossharu",
+          "meaning": "говорить, сказать (вежливо)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "おとす",
+          "kanji": "落とす",
+          "romaji": "otosu",
+          "meaning": "ронять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かざる",
+          "kanji": "飾る",
+          "romaji": "kazaru",
+          "meaning": "украшать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かまう",
+          "kanji": "構う",
+          "romaji": "kamau",
+          "meaning": "беспокоиться, обращать внимание"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かむ",
+          "kanji": "噛む",
+          "romaji": "kamu",
+          "meaning": "кусать; жевать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かつ",
+          "kanji": "勝つ",
+          "romaji": "katsu",
+          "meaning": "побеждать, выигрывать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かよう",
+          "kanji": "通う",
+          "romaji": "kayou",
+          "meaning": "курсировать, циркулировать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かわく",
+          "kanji": "乾く",
+          "romaji": "kawaku",
+          "meaning": "сохнуть, высыхать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かわる",
+          "kanji": "変わる",
+          "romaji": "kawaru",
+          "meaning": "изменяться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "きまる",
+          "kanji": "決まる",
+          "romaji": "kimaru",
+          "meaning": "решаться, быть решённым"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "くださる",
+          "kanji": "下さる",
+          "romaji": "kudasaru",
+          "meaning": "давать; дарить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "こわす",
+          "kanji": "壊す",
+          "romaji": "kowasu",
+          "meaning": "разрушать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "こむ",
+          "kanji": "込む",
+          "romaji": "komu",
+          "meaning": "быть переполненным "
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "さわぐ",
+          "kanji": "騒ぐ",
+          "romaji": "sawagu",
+          "meaning": "шуметь"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "さわる",
+          "kanji": "触る",
+          "romaji": "sawaru",
+          "meaning": "трогать, прикасаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "さがる",
+          "kanji": "下がる",
+          "romaji": "sagaru",
+          "meaning": "свешиваться, свисать; спускаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "しかる",
+          "kanji": "叱る",
+          "romaji": "shikaru]",
+          "meaning": "ругать, бранить"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "すすむ",
+          "kanji": "進む",
+          "romaji": "susumu",
+          "meaning": "развиваться, прогрессировать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "すむ",
+          "kanji": "済む",
+          "romaji": "sumu",
+          "meaning": "окончиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "たす",
+          "kanji": "足す",
+          "romaji": "tasu",
+          "meaning": "добавлять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "つく",
+          "kanji": "付く",
+          "romaji": "tsuku",
+          "meaning": "быть прикреплённым "
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "つづく",
+          "kanji": "続く",
+          "romaji": "tsuduku",
+          "meaning": "продолжаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "つつむ",
+          "kanji": "包む",
+          "romaji": "tsutsumu",
+          "meaning": "заворачивать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "つる",
+          "kanji": "釣る",
+          "romaji": "tsuru",
+          "meaning": " удить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "てつだう",
+          "kanji": "手伝う",
+          "romaji": "tetsudau",
+          "meaning": "помогать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "とおる",
+          "kanji": "通る",
+          "romaji": "tooru",
+          "meaning": "проходить; проезжать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "とまる",
+          "kanji": "泊まる",
+          "romaji": "tomaru",
+          "meaning": "останавливаться на ночъ"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "なおす",
+          "kanji": "治す",
+          "romaji": "naosu",
+          "meaning": "лечить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "なる",
+          "kanji": "鳴る",
+          "romaji": "naru",
+          "meaning": "звучать, раздаваться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "なくなる",
+          "kanji": "無くなる",
+          "romaji": "nakunaru",
+          "meaning": "пропадать, иссякать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "なくなる",
+          "kanji": "亡くなる",
+          "romaji": "nakunaru",
+          "meaning": "скончаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "なおる",
+          "kanji": "直る",
+          "romaji": "naoru",
+          "meaning": "исправляться, выздоравливать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "なおる",
+          "kanji": "治る",
+          "romaji": "naoru",
+          "meaning": "выздоравливать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "にる",
+          "kanji": "似る",
+          "romaji": "niru",
+          "meaning": "быть похожим"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ぬすむ",
+          "kanji": "盗む",
+          "romaji": "nusumu",
+          "meaning": "красть, воровать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ぬる",
+          "kanji": "塗る",
+          "romaji": "nuru",
+          "meaning": "красить, наносить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ねむる",
+          "kanji": "眠る",
+          "romaji": "nemuru",
+          "meaning": "засыпать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "のこる",
+          "kanji": "残る",
+          "romaji": "nokoru",
+          "meaning": "оставаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "はこぶ",
+          "kanji": "運ぶ",
+          "romaji": "hakobu",
+          "meaning": "нести, переносить, перевозить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "はらう",
+          "kanji": "払う",
+          "romaji": "harau",
+          "meaning": "платить, оплачивать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ひかる",
+          "kanji": "光る",
+          "romaji": "hikaru",
+          "meaning": "сиять; светить; блестеть, сверкать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ひきだす",
+          "kanji": "引き出す",
+          "romaji": "hikidasu",
+          "meaning": "вынимать, вытаскивать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ひっこす",
+          "kanji": "引っ越す",
+          "romaji": "hikkosu",
+          "meaning": "переезжать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ひらく",
+          "kanji": "開く",
+          "romaji": "hiraku",
+          "meaning": "открывать, раскрывать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ひろう",
+          "kanji": "拾う",
+          "romaji": "hirou",
+          "meaning": "подбирать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ふとる",
+          "kanji": "太る",
+          "romaji": "futoru",
+          "meaning": "толстеть"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "ふむ",
+          "kanji": "踏む",
+          "romaji": "fumu",
+          "meaning": "ступать, топтать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "降り出す",
+          "kanji": "降り出す",
+          "romaji": "furidasu",
+          "meaning": "пойти (о дожде, снеге)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "まいる",
+          "kanji": "参る",
+          "romaji": "mairu",
+          "meaning": "идти, отправляться, прибывать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "まにあう",
+          "kanji": "間に合う",
+          "romaji": "maniau",
+          "meaning": "успевать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "まわる",
+          "kanji": "回る",
+          "romaji": "mawaru",
+          "meaning": "кружиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "むかう",
+          "kanji": "向かう",
+          "romaji": "mukau",
+          "meaning": "быть обращенным куда-л"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "めしあがる",
+          "kanji": "召し上がる",
+          "romaji": "meshiagaru",
+          "meaning": "кушать, пить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "もどる",
+          "kanji": "戻る",
+          "romaji": "modoru",
+          "meaning": "поворачивать назад, возвращаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "やく",
+          "kanji": "焼く",
+          "romaji": "yaku",
+          "meaning": "гореть, жечь, жарить, печь, обжигать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "やくにたつ",
+          "kanji": "役に立つ",
+          "romaji": "yaku-ni tatsu",
+          "meaning": "годиться, быть пригодным"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "やむ",
+          "kanji": "止む",
+          "romaji": "yamu",
+          "meaning": "прекращаться, переставать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "よる",
+          "kanji": "寄る",
+          "romaji": "yoru",
+          "meaning": "приближаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "よろこぶ",
+          "kanji": "喜ぶ",
+          "romaji": "yorokobu",
+          "meaning": "радоваться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "わかす",
+          "kanji": "沸かす",
+          "romaji": "wakasu",
+          "meaning": "кипятить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "わく",
+          "kanji": "沸く",
+          "romaji": "waku",
+          "meaning": "закипать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "のぼる",
+          "kanji": "上る",
+          "romaji": "noboru",
+          "meaning": "взбираться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "かえる",
+          "kanji": "返る",
+          "romaji": "kaeru",
+          "meaning": "возвращать, отдавать обратно"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "まなぶ",
+          "kanji": "学ぶ",
+          "romaji": "manabu",
+          "meaning": "учиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "はらう",
+          "kanji": "払う",
+          "romaji": "harau",
+          "meaning": "платить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "もどす",
+          "kanji": "戻す",
+          "romaji": "modosu",
+          "meaning": "возвращать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "のこす",
+          "kanji": "残す",
+          "romaji": "nokosu",
+          "meaning": "оставлять"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "godan",
+          "furigana": "なる",
+          "kanji": "成る",
+          "romaji": "naru",
+          "meaning": "становиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "あつかう",
+          "kanji": "扱う",
+          "romaji": "atsukau",
+          "meaning": "пользоваться чем-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "あらわす",
+          "kanji": "表す",
+          "romaji": "arawasu",
+          "meaning": "выражать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "あらわす",
+          "kanji": "現す",
+          "romaji": "arawasu",
+          "meaning": "проявлять, выказывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "あたる",
+          "kanji": "当たる",
+          "romaji": "ataru",
+          "meaning": "ударяться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "いだく",
+          "kanji": "抱く",
+          "romaji": "idaku",
+          "meaning": "обнимать; держать на руках"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "いたる",
+          "kanji": "至る",
+          "romaji": "itaru",
+          "meaning": "достигать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うけとる",
+          "kanji": "受け取る",
+          "romaji": "uketoru",
+          "meaning": "получать, принимать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うごかす",
+          "kanji": "動かす",
+          "romaji": "ugokasu",
+          "meaning": "двигать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うしなう",
+          "kanji": "失う",
+          "romaji": "ushinau",
+          "meaning": "терять, лишаться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うたがう",
+          "kanji": "疑う",
+          "romaji": "utagau",
+          "meaning": "сомневаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うつ",
+          "kanji": "撃つ",
+          "romaji": "utsu",
+          "meaning": "нападать, атаковать, стрелять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うつす",
+          "kanji": "移す",
+          "romaji": "utsusu",
+          "meaning": "перемещать, переносить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うなる",
+          "kanji": "唸る",
+          "romaji": "unaru",
+          "meaning": "стонать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うばう",
+          "kanji": "奪う",
+          "romaji": "ubau",
+          "meaning": "отнимать, завладевать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "うらぎる",
+          "kanji": "裏切る",
+          "romaji": "uragiru",
+          "meaning": "предавать, изменять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "えがく",
+          "kanji": "描く",
+          "romaji": "egaku",
+          "meaning": "рисовать; чертить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おいつく",
+          "kanji": "追いつく",
+          "romaji": "oitsuku",
+          "meaning": "догонять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おう",
+          "kanji": "追う",
+          "romaji": "ou",
+          "meaning": "преследовать, гнаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おおう",
+          "kanji": "覆う",
+          "romaji": "oou",
+          "meaning": "покрывать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おくる",
+          "kanji": "贈る",
+          "romaji": "okiru",
+          "meaning": "преподносить, дарить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おこる",
+          "kanji": "起こる",
+          "romaji": "okoru",
+          "meaning": "случаться, происходить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おとる",
+          "kanji": "劣る",
+          "romaji": "otoru",
+          "meaning": "быть хуже (ниже), уступать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "およぼす",
+          "kanji": "及ぼす",
+          "romaji": "oyobosu",
+          "meaning": "оказывать (влияние)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おろす",
+          "kanji": "下ろす",
+          "romaji": "orosu",
+          "meaning": "опускать, спускать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "おろす",
+          "kanji": "降ろす",
+          "romaji": "orosu",
+          "meaning": "помочь выйти"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かう",
+          "kanji": "飼う",
+          "romaji": "kau",
+          "meaning": "кормить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かがやく",
+          "kanji": "輝く",
+          "romaji": "kagayaku",
+          "meaning": "сверкать, блистать, сиять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かかる",
+          "kanji": "罹る",
+          "romaji": "kakaru",
+          "meaning": "заразиться "
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かぎる",
+          "kanji": "限る",
+          "romaji": "kagiru",
+          "meaning": "ограничивать, устанавливать, фиксировать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かくす",
+          "kanji": "隠す",
+          "romaji": "kakusu",
+          "meaning": "прятать, скрывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かこむ",
+          "kanji": "囲む",
+          "romaji": "kakomu",
+          "meaning": "окружать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かせぐ",
+          "kanji": "稼ぐ",
+          "romaji": "kasegu",
+          "meaning": "зарабатывать (деньги)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かたる",
+          "kanji": "語る",
+          "romaji": "kataru",
+          "meaning": "рассказывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かなしむ",
+          "kanji": "悲しむ",
+          "romaji": "kanashimu",
+          "meaning": "грустить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "かる",
+          "kanji": "刈る",
+          "romaji": "karu",
+          "meaning": "стричь"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "きく",
+          "kanji": "効く",
+          "romaji": "kiku",
+          "meaning": "быть эффективным"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "きづく",
+          "kanji": "気付く",
+          "romaji": "kiduku",
+          "meaning": "замечать;"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "きにいる",
+          "kanji": "気に入る",
+          "romaji": "ki-ni iru",
+          "meaning": "нравиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "きらう",
+          "kanji": "嫌う",
+          "romaji": "kirau",
+          "meaning": "питать отвращение"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くう",
+          "kanji": "食う",
+          "romaji": "kuu",
+          "meaning": "есть, поедать, жрать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くさる",
+          "kanji": "腐る",
+          "romaji": "kusaru",
+          "meaning": "гнить, протухать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くむ",
+          "kanji": "組む",
+          "romaji": "kumu",
+          "meaning": "объединять, собирать вместе"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くらす",
+          "kanji": "暮らす",
+          "romaji": "kurasu",
+          "meaning": "жить, существовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くりかえす",
+          "kanji": "繰り返す",
+          "romaji": "kurikaesu",
+          "meaning": "повторять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くるう",
+          "kanji": "狂う",
+          "romaji": "kuruu",
+          "meaning": "сойти с ума, помешаться, обезуметь"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くるしむ",
+          "kanji": "苦しむ",
+          "romaji": "kurushimu",
+          "meaning": "страдать, мучиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "くわわる",
+          "kanji": "加わる",
+          "romaji": "kuwawaru",
+          "meaning": "присоединяться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ことなる",
+          "kanji": "異なる",
+          "romaji": "kotonaru",
+          "meaning": "отличаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ことわる",
+          "kanji": "断る",
+          "romaji": "kotowaru",
+          "meaning": "отклонять, отказывать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "このむ",
+          "kanji": "好む",
+          "romaji": "konomu",
+          "meaning": "предпочитать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ころす",
+          "kanji": "殺す",
+          "romaji": "korosu",
+          "meaning": "убивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ころぶ",
+          "kanji": "転ぶ",
+          "romaji": "korobu",
+          "meaning": "падать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "さからう",
+          "kanji": "逆らう",
+          "romaji": "sakarau",
+          "meaning": "идти против чего-л"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "さけぶ",
+          "kanji": "叫ぶ",
+          "romaji": "sakebu",
+          "meaning": "призывать к чему-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "さす",
+          "kanji": "指す",
+          "romaji": "sasu",
+          "meaning": "указывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "さそう",
+          "kanji": "誘う",
+          "romaji": "sasou",
+          "meaning": "приглашать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "さます",
+          "kanji": "覚ます",
+          "romaji": "samasu",
+          "meaning": "протрезвляться; утрачивать иллюзии"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "さる",
+          "kanji": "去る",
+          "romaji": "saru",
+          "meaning": "покидать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "しずむ",
+          "kanji": "沈む",
+          "romaji": "shizumu",
+          "meaning": "тонуть"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "したがう",
+          "kanji": "従う",
+          "romaji": "shitagau",
+          "meaning": "сопровождать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "しはらう",
+          "kanji": "支払う",
+          "romaji": "shiharau",
+          "meaning": "платить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "しめす",
+          "kanji": "示す",
+          "romaji": "shimesu",
+          "meaning": "показывать; обозначать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "すくう",
+          "kanji": "救う",
+          "romaji": "sukuu",
+          "meaning": "спасать, выручать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "すごす",
+          "kanji": "過ごす",
+          "romaji": "sugosu",
+          "meaning": "превышать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "そそぐ",
+          "kanji": "注ぐ",
+          "romaji": "sosogu",
+          "meaning": "лить, наливать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "そだつ",
+          "kanji": "育つ",
+          "romaji": "sodatsu",
+          "meaning": "расти, воспитываться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "たおす",
+          "kanji": "倒す",
+          "romaji": "taosu",
+          "meaning": "опрокидывать, одолевать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "たたかう",
+          "kanji": "戦う",
+          "romaji": "tatakau",
+          "meaning": "сражаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "たたく",
+          "kanji": "叩く",
+          "romaji": "tataku",
+          "meaning": "колотить; стучать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "たちあがる",
+          "kanji": "立ち上がる",
+          "romaji": "tachiagaru",
+          "meaning": "вставать [на ноги] "
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "たつ",
+          "kanji": "経つ",
+          "romaji": "tatsu",
+          "meaning": "проходить (о времени)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "だまる",
+          "kanji": "黙る",
+          "romaji": "damaru",
+          "meaning": "молчать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ためす",
+          "kanji": "試す",
+          "romaji": "tamesu",
+          "meaning": "испытывать, пробовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "たよる",
+          "kanji": "頼る",
+          "romaji": "tayoru",
+          "meaning": "полагаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "つかまる",
+          "kanji": "捕まる",
+          "romaji": "tsukamaru",
+          "meaning": "быть схваченным"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "つかむ",
+          "kanji": "掴む",
+          "romaji": "tsukamu",
+          "meaning": "хватать, схватывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "つく",
+          "kanji": "就く",
+          "romaji": "tsuku",
+          "meaning": "поступать (на должность и т. п. )"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "つなぐ",
+          "kanji": "繋ぐ",
+          "romaji": "tsunagu",
+          "meaning": "привязывать, соединять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "であう",
+          "kanji": "出会う",
+          "romaji": "deau",
+          "meaning": "встретиться случайно"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "とおす",
+          "kanji": "通す",
+          "romaji": "toosu",
+          "meaning": "давать пройти, пропускать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "とく",
+          "kanji": "解く",
+          "romaji": "toku",
+          "meaning": "разгадывать; решать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "とどく",
+          "kanji": "届く",
+          "romaji": "todoku",
+          "meaning": "доставать, достигать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "とばす",
+          "kanji": "飛ばす",
+          "romaji": "tobasu",
+          "meaning": "пускать [по воздуху] "
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "とびだす",
+          "kanji": "飛び出す",
+          "romaji": "tobidasu",
+          "meaning": "вылетать; улетать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ながす",
+          "kanji": "流す",
+          "romaji": "nagasu",
+          "meaning": "смывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "にあう",
+          "kanji": "似合う",
+          "romaji": "niau",
+          "meaning": "идти, быть к лицу"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "にぎる",
+          "kanji": "握る",
+          "romaji": "nigiru",
+          "meaning": "выжимать, сжимать, давить, сдавливать, выдавливать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ぬく",
+          "kanji": "抜く",
+          "romaji": "nuku",
+          "meaning": "вытаскивать, выдёргивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ねがう",
+          "kanji": "願う",
+          "romaji": "negau",
+          "meaning": "молить, хотеть, желать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "のこす",
+          "kanji": "残す",
+          "romaji": "nokosu",
+          "meaning": "оставлять [после себя]"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "のぞく",
+          "kanji": "除く",
+          "romaji": "nozoku",
+          "meaning": "исключать, удалять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "のばす",
+          "kanji": "伸ばす",
+          "romaji": "nobasu",
+          "meaning": "растягивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "のぞむ",
+          "kanji": "望む",
+          "romaji": "nozomu",
+          "meaning": "надеяться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "のぼる",
+          "kanji": "昇る",
+          "romaji": "noboru",
+          "meaning": "взбираться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "はかる",
+          "kanji": "計る",
+          "romaji": "hakaru",
+          "meaning": "измерять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "はく",
+          "kanji": "吐く",
+          "romaji": "haku",
+          "meaning": "отхаркивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "はずす",
+          "kanji": "外す",
+          "romaji": "hazusu",
+          "meaning": "отцеплять; разъединять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "はなしあう",
+          "kanji": "話し合う",
+          "romaji": "hanashiau",
+          "meaning": "беседовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "はなす",
+          "kanji": "離す",
+          "romaji": "hanasu",
+          "meaning": "разъединять"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "はぶく",
+          "kanji": "省く",
+          "romaji": "habuku",
+          "meaning": "исключать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "はる",
+          "kanji": "張る",
+          "romaji": "haru",
+          "meaning": "расправлять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ひく",
+          "kanji": "轢く",
+          "romaji": "hiku",
+          "meaning": "переехать, задавить, сбить "
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ひっぱる",
+          "kanji": "引っ張る",
+          "romaji": "hipparu",
+          "meaning": "тянуть, тащить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ひろがる",
+          "kanji": "広がる",
+          "romaji": "hirogaru",
+          "meaning": "шириться, распространяться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ふくむ",
+          "kanji": "含む",
+          "romaji": "fukumu",
+          "meaning": "содержать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ふせぐ",
+          "kanji": "防ぐ",
+          "romaji": "fusegu",
+          "meaning": "предотвращать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "へらす",
+          "kanji": "減らす",
+          "romaji": "herasu",
+          "meaning": "уменьшать, сокращать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "へる",
+          "kanji": "減る",
+          "romaji": "heru",
+          "meaning": "стираться, изнашиваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ほほえむ",
+          "kanji": "微笑む",
+          "romaji": "hohoemu",
+          "meaning": "улыбаться, распускаться (о цветах)"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ます",
+          "kanji": "増す",
+          "romaji": "masu",
+          "meaning": "увеличивать [ся] , прибавлять [ся]"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "まねく",
+          "kanji": "招く",
+          "romaji": "maneku",
+          "meaning": "навлекать, вызывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "まもる",
+          "kanji": "守る",
+          "romaji": "mamoru",
+          "meaning": "защищать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "まわす",
+          "kanji": "回す",
+          "romaji": "mawasu",
+          "meaning": "поворачивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "むすぶ",
+          "kanji": "結ぶ",
+          "romaji": "musubu",
+          "meaning": "связывать; завязывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "もうしこむ",
+          "kanji": "申し込む",
+          "romaji": "mōshikomu",
+          "meaning": "подавать заявку"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "もとづく",
+          "kanji": "基づく",
+          "romaji": "motoduku",
+          "meaning": "основываться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "やとう",
+          "kanji": "雇う",
+          "romaji": "yatou",
+          "meaning": "нанимать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "やぶる",
+          "kanji": "破る",
+          "romaji": "yaburu",
+          "meaning": "разбивать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ゆずる",
+          "kanji": "譲る",
+          "romaji": "yuzuru",
+          "meaning": "отдавать, передавать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ゆるす",
+          "kanji": "許す",
+          "romaji": "yurusu",
+          "meaning": "прощать, извинять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "よう",
+          "kanji": "酔う",
+          "romaji": "you",
+          "meaning": "опьянеть; напиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "よこぎる",
+          "kanji": "横切る",
+          "romaji": "yokogiru",
+          "meaning": "пересекать (дорогу, реку, море и т. п. )"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "よす",
+          "kanji": "止す",
+          "romaji": "yosu",
+          "meaning": "бросать, переставать (делать что-л. )"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "わる",
+          "kanji": "割る",
+          "romaji": "waru",
+          "meaning": "делить, разделять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "まじる",
+          "kanji": "混じる",
+          "romaji": "majiru",
+          "meaning": "смешиваться; быть вперемешку"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "ける",
+          "kanji": "蹴る",
+          "romaji": "keru",
+          "meaning": "пинать, бить ногой"
+        },
+        {
+          "JLPT": "N3",
+          "type": "godan",
+          "furigana": "しゃべる",
+          "kanji": "喋る",
+          "romaji": "shaberu",
+          "meaning": "болтать, разговаривать"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "とまる",
+          "kanji": "留まる",
+          "romaji": "tomaru",
+          "meaning": "оставаться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "とまる",
+          "kanji": "留まる",
+          "romaji": "tomaru",
+          "meaning": "оставаться"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "いる",
+          "kanji": "煎る",
+          "romaji": "iru",
+          "meaning": "поджаривать; выпаривать"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "ねる",
+          "kanji": "練る",
+          "romaji": "neru",
+          "meaning": "месить, замешивать, отрабатывать"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "ちる",
+          "kanji": "散る",
+          "romaji": "chiru",
+          "meaning": "рассыпаться; рассеиваться"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "てる",
+          "kanji": "照る",
+          "romaji": "teru",
+          "meaning": "сиять, светить"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "あせる",
+          "kanji": "焦る",
+          "romaji": "aseru",
+          "meaning": "паниковать, тревожиться "
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "かぎる",
+          "kanji": "限る",
+          "romaji": "kagiru",
+          "meaning": "ограничивать, устанавливать, фиксировать"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "しめる",
+          "kanji": "湿る",
+          "romaji": "shimeru",
+          "meaning": "отсыревать"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "しげる",
+          "kanji": "茂る",
+          "romaji": "shigeru",
+          "meaning": "густо расти"
+        },
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "ひねる",
+          "kanji": "捻る",
+          "romaji": "hineru",
+          "meaning": "крутить, закручивать, скручивать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N2",
+          "type": "godan",
+          "furigana": "さえぎる",
+          "kanji": "遮る",
+          "romaji": "saegiru",
+          "meaning": "преграждать, заслонять"
+        },
+        {
+          "JLPT": "N1",
+          "type": "godan",
+          "furigana": "ののしる",
+          "kanji": "罵る",
+          "romaji": "nonoshiru",
+          "meaning": "ругать, бранить, поносить"
+        },
+        {
+          "JLPT": "N1",
+          "type": "godan",
+          "furigana": "あざける",
+          "kanji": "嘲る",
+          "romaji": "azakeru",
+          "meaning": "насмехаться, издеваться, глумиться, дразнить"
+        },
+        {
+          "JLPT": "N1",
+          "type": "godan",
+          "furigana": "みなぎる",
+          "kanji": "漲る",
+          "romaji": "minagiru",
+          "meaning": "разливаться, переполняться"
+        },
+        {
+          "JLPT": "N1",
+          "type": "godan",
+          "furigana": "くつがえる",
+          "kanji": "覆る",
+          "romaji": "kutsugaeru",
+          "meaning": "опрокидываться, рушиться, переворачиваться"
+        }
+      ]
+    ],
+    "form": {
+      "polite": {
+        "text": "последний слог う меняем на い + нужная форма ます ",
+        "text_te": "く••き, ぐ••ぎ, す••し, つ••ち, ぬ••に, む••み, , ぶ••び, る••り, う••い",
+        "slug": "Вежливый стиль",
+        "base": "+ ます",
+        "append": "+ いて , + っています , いってあります",
+        "negative": "+ ません",
+        "past": "+ ました",
+        "past_negative": "+ ませんでした",
+        "doing": "+ でください; てください; (делайте что-то)",
+        "wishes": "(ます=>) たいです; (только для глаголов действия)",
+        "examples": [
+          "おく ~ おきます・おきません",
+          "うたう ~ うたいました・うたませんでした",
+          "あう ~ あいます • あいません"
+        ]
+      },
+      "negative": {
+        "text": "изменить う на あ + ない, если глагол заканчивается на гласную う, изменяем ее на わ + ない; ",
+        "slug": "Отрицание ",
+        "base": "(あ) +ない",
+        "polite": "глагол + изменяем последний звук  (あ) +しません",
+        "exception": "если последний слог состоит из одной гласной う => あう, かう изменяем う  на わ (あわない、かわない)",
+        "changes": "く=> か, ぐ => が;  す => さ;  つ => た; ぬ => ま; ぶ => ば; む => ま",
+        "examples": [
+          "おもう　•••　おもわない　*(думать~не думать)",
+          "かう　•••　かわない　(покупать~не покупать)",
+          "きく　•••　きかない　*(слышать~не слышать)",
+          "およぐ　•••　およがない　*(плавать~не плавать)",
+          "はなす　•••　はさない　*(говорить~не говорить)",
+          "よむ　•••　よまない　*(читать~не читать)",
+          "のる　•••　のらない　*(ехать~не ехать)",
+          "はじまる　•••　はじまらない　*(начинать~не начинать)",
+          "あそぶ　•••　あそばない　*(играт~не играть)",
+          "しぬ　•••　しなない　*(умирать~не умирать)",
+          "まつ　•••　またない　*(ждать~не ждать)"
+        ]
+      },
+      "past": {
+        "text": "Последний слог меняем на く ~ いた, ぐ ~ いだ;  す ~ した;  う,つ, る ~ った;  ぬ, ぶ,む ~ んだ",
+        "slug": "Прошлое",
+        "base": "いた, った, んだ",
+        "polite": "+いました",
+        "exception": "いく => いった",
+        "changes": "く => いた, ぐ => いだ;  す => した;  う,つ, る => った;  ぬ, ぶ,む => んだ",
+        "examples": [
+          "きく　•••　きいた 　 *(слышать~слышал(а))",
+          "かく　•••　かいた 　 *(писать~писал(а))",
+          "およぐ　•••　およいだ 　 *(плавать~плавал(а))",
+          "はなす　•••　はした 　 *(говорить~говорил(а))",
+          "おもう　•••　おもった 　 *(думать~думал(а)",
+          "かう　•••　かいった 　*(покупать~покупал(а))",
+          "まつ　•••　まった 　 *(ждать~ждал(а))",
+          "のる　•••　のった 　 *(ехать~ехал(а))",
+          "はじまる　•••　はじまった 　 *(начинать~начинал(а))",
+          "しぬ　•••　しんだ 　 *(умирать~умер(ла))",
+          "あそぶ　•••　あそんだ 　 *(играт~играл(а))",
+          "よむ　•••　よんだ 　 *(читать~читал(а))"
+        ]
+      },
+      "past_negative": {
+        "text": "く~ か, ぐ ~ が, す ~ さ, つ ~ た, ぬ ~ ま, ぶ ~ ば, む ~ ま + なかった; если  う ~ わなかった,",
+        "slug": "Прошлое отрицание",
+        "base": "なかった, わなかった",
+        "polite": "(い)ませんでした",
+        "changes": "",
+        "examples": [
+          "きく　•••　きかなかった  　*(слышать~не слышал(а))",
+          "かく　•••　かかなかった  　*(писать~не писал(а))",
+          "およぐ　•••　およがなかった  　*(плавать~не плавал(а))",
+          "はなす　•••　はさなかった  　*(говорить~не говорил(а))",
+          "おもう　•••　おもわなかった  　*(думать~не думал(а)",
+          "かう　•••　かわなかった 　*(покупать~не покупал(а))",
+          "まつ　•••　またなかった  　*(ждать~не ждал(а))",
+          "のる　•••　のらなかった  　*(ехать~не ехал(а))",
+          "はじまる　•••　はじまらなかった  　*(начинать~не начинал(а))",
+          "しぬ　•••　しななかった  　*(умирать~не умер(ла))",
+          "あそぶ　•••　あそばなかった  　*(играт~не играл(а))",
+          "よむ　•••　よまなかった  　*(читать~не читал(а))"
+        ]
+      },
+      "te": {
+        "text": "Изменить く ~ いて • ぐ ~ いで • す ~ して • う,つ, る ~ って • ぬ, ぶ,む ~ んで.",
+        "slug": "Соединительная",
+        "descriptions": "Применяется для 1) описания  действия длящегося какой-либо промежуток времени в прошлом или выполняющееся в настоящий момент; ••• 2) Описание привычных, повторяющихся действий; ••• 3) При добавлении + いません указывает на незавершённость действия (ещё не доделал, ещё не дослушал); ••• 4) При добавлении + います описывает состояние объекта(объект закрыт,объект открыт)",
+        "base": "いて, いで, して, って, んで",
+        "exception": "いく => いって",
+        "polite": "",
+        "examples": [
+          "きく ••• きいて  *(слышать~слушаю)",
+          "音楽をきいています　*((я)слушаю музыку)",
+          "かく ••• かいて  *(писать~пишу)",
+          "およぐ ••• およいで  *(плавать~плаваю)",
+          "海に泳いでいます　*((я) плаваю в море)",
+          "はなす ••• はして  *(говорить~говорю)",
+          "おもう ••• おもって  *(думать~думаю)",
+          "かう ••• かいって  *(покупать~покупаю)",
+          "この自転車がいいかいっています　*(этот велосипед хорошо покупается)",
+          "まつ ••• まって  *(ждать~жду)",
+          "電車はまっています　*((я)жду поезда)",
+          "のる ••• のった  *(ехать~еду)",
+          "はじまる ••• はじまって  *(начинать~начинаю)",
+          "しぬ ••• しんで  *(умирать~умираю)",
+          "あそぶ ••• あそんで  *(играт~играю)",
+          "よむ ••• よんで  *(читать~читаю)"
+        ]
+      },
+      "wish": {
+        "text": "изменить последний звукう на い + форма",
+        "slug": "Желание",
+        "base": "～たい",
+        "negative": "～たくない",
+        "past": "～たかった",
+        "past_negative": "～たくなかった",
+        "examples": [
+          "きく ••• ききたい  *(хочу услышать)",
+          "およぐ ••• およぎたい *(хочу плавать)",
+          "はなす ••• はなしたい  *(хочу поговорить)",
+          "かう ••• かいたい *(хочу купить)",
+          "まつ ••• まちたい  *(хочу подождать)",
+          "のる ••• のりたい  *(хочу поехать (покататься))",
+          "はじまる ••• はじまりたい  *(хочу начать)",
+          "しぬ ••• しにたい  *(хочу умереть)",
+          "あそぶ ••• あそびたい  *(хочу играть)",
+          "よむ ••• よみたい  *(хочу читать)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "1",
+    "slug": "verbs_type_一段",
+    "type": "一段 • いちだん",
+    "base": "V2",
+    "descriptions": "оканчиваются на (い)る или (え)る. ",
+    "lessons": [
+      [
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "あける",
+          "kanji": "開ける",
+          "romaji": "akeru",
+          "meaning": "открыть"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "あげる",
+          "kanji": "上げる",
+          "romaji": "ageru",
+          "meaning": "увеличивать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "あびる",
+          "kanji": "浴びる",
+          "romaji": "abiru",
+          "meaning": "принять ванну"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "いる",
+          "kanji": "居る",
+          "romaji": "iru",
+          "meaning": "быть (для одушевлённых)"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "いれる",
+          "kanji": "入れる",
+          "romaji": "ireru",
+          "meaning": "вставлять"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "うまれる",
+          "kanji": "生まれる",
+          "romaji": "umareru",
+          "meaning": "родиться"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "あきる",
+          "kanji": "飽きる",
+          "romaji": "akiru",
+          "meaning": "пресыщаться, наскучивать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "おしえる",
+          "kanji": "教える",
+          "romaji": "oshieru",
+          "meaning": "обучать, давать знания"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "おぼえる",
+          "kanji": "覚える",
+          "romaji": "oboeru",
+          "meaning": "выучить наизусть, запомнить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "おりる",
+          "kanji": "下りる",
+          "romaji": "oriru",
+          "meaning": "спускаться, отправляться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "かける",
+          "kanji": "掛ける",
+          "romaji": "kakeru",
+          "meaning": "вешать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "かりる",
+          "kanji": "借りる",
+          "romaji": "kariru",
+          "meaning": "занимать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "きえる",
+          "kanji": "消える",
+          "romaji": "kieru",
+          "meaning": "гаснуть, исчезать, таять"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "きる",
+          "kanji": "着る",
+          "romaji": "kiru",
+          "meaning": "надевать (одежду), носить"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "こたえる",
+          "kanji": "答える",
+          "romaji": "kotaeru",
+          "meaning": "отвечать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "しめる",
+          "kanji": "閉める",
+          "romaji": "shimeru",
+          "meaning": "закрывать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "しんじる",
+          "kanji": "信じる",
+          "romaji": "shinjiru",
+          "meaning": "верить, полагать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "しめる",
+          "kanji": "締める",
+          "romaji": "shimeru",
+          "meaning": "затянуть, сжимать,"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "たしかめる",
+          "kanji": "確かめる",
+          "romaji": "tashikameru",
+          "meaning": "уточнять"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "たてる",
+          "kanji": "立てる",
+          "romaji": "tateru",
+          "meaning": "устанавливать; определять"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "たべる",
+          "kanji": "食べる",
+          "romaji": "taberu",
+          "meaning": "кушать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "つかれる",
+          "kanji": "疲れる",
+          "romaji": "tsukareru",
+          "meaning": "уставать,"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "つける",
+          "kanji": "着ける",
+          "romaji": "tsukeru",
+          "meaning": "носить (одежду), подводить (машину, лодку)"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "つたえる",
+          "kanji": "伝える",
+          "romaji": "tsutaeru",
+          "meaning": "сообщать, распространять"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "つとめる",
+          "kanji": "勤める",
+          "romaji": "tsutomeru",
+          "meaning": "служить, работать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "でかける",
+          "kanji": "出かける",
+          "romaji": "dekakeru",
+          "meaning": "выходить"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "でる",
+          "kanji": "出る",
+          "romaji": "deru",
+          "meaning": "выходить"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "ならべる",
+          "kanji": "並べる",
+          "romaji": "naraberu",
+          "meaning": "ставить в ряд, выстраивать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "ねる",
+          "kanji": "寝る",
+          "romaji": "neru",
+          "meaning": "спать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "はれる",
+          "kanji": "晴れる",
+          "romaji": "hareru",
+          "meaning": "проясняться, проходить (о погоде)"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "みせる",
+          "kanji": "見せる",
+          "romaji": "miseru",
+          "meaning": "показывать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "みる",
+          "kanji": "見る",
+          "romaji": "miru",
+          "meaning": "видеть"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "わすれる",
+          "kanji": "忘れる",
+          "romaji": "wasureru",
+          "meaning": "забывать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "できる",
+          "kanji": "出来る",
+          "romaji": "dekiru",
+          "meaning": "уметь, мочь"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "はじめる",
+          "kanji": "始める",
+          "romaji": "hajimeru",
+          "meaning": "начинать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "しっている",
+          "kanji": "知っている",
+          "romaji": "shitte iru",
+          "meaning": "знать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "ichidan",
+          "furigana": "おきる",
+          "kanji": "起きる",
+          "romaji": "okiru",
+          "meaning": "вставать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "あげる",
+          "kanji": "揚げる",
+          "romaji": "ageru",
+          "meaning": "давать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "あつめる",
+          "kanji": "集める",
+          "romaji": "atsumeru",
+          "meaning": "собирать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "いきる",
+          "kanji": "生きる",
+          "romaji": "ikiru",
+          "meaning": "жить"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "うえる",
+          "kanji": "植える",
+          "romaji": "ueru",
+          "meaning": "сажать (растения)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "うける",
+          "kanji": "受ける",
+          "romaji": "ukeru",
+          "meaning": "принимать, получать урок"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "おくれる",
+          "kanji": "遅れる",
+          "romaji": "okureru",
+          "meaning": "опаздывать, задерживаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "おれる",
+          "kanji": "折れる",
+          "romaji": "oreru",
+          "meaning": "ломаться, быть сломанным"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "おちる",
+          "kanji": "落ちる",
+          "romaji": "ochiru",
+          "meaning": " падать, сваливаться, обрушиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "おりる",
+          "kanji": "降りる",
+          "romaji": "oriru",
+          "meaning": "сходить (с поезда ), спускаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "かえる",
+          "kanji": "変える",
+          "romaji": "kaeru",
+          "meaning": "изменять, менять, обменивать, заменять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "かたづける",
+          "kanji": "片付ける",
+          "romaji": "katadukeru",
+          "meaning": "приводить в порядок, прибирать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "かんがえる",
+          "kanji": "考える",
+          "romaji": "kangaeru",
+          "meaning": "думать, размышлять, полагать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "きこえる",
+          "kanji": "聞こえる",
+          "romaji": "kikoeru",
+          "meaning": "быть слышным, доноситься, звучать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "きめる",
+          "kanji": "決める",
+          "romaji": "kimeru",
+          "meaning": "решать, принимать решение"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "くらべる",
+          "kanji": "比べる",
+          "romaji": "kuraberu",
+          "meaning": "сравнивать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "くれる",
+          "kanji": "暮れる",
+          "romaji": "kureru",
+          "meaning": "кончаться, подходить к концу(о дне, времени года, годе);"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "こわれる",
+          "kanji": "壊れる",
+          "romaji": "kowareru",
+          "meaning": "ломаться, разбиваться, разрушаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "さげる",
+          "kanji": "下げる",
+          "romaji": "sageru",
+          "meaning": "выдавать (разрешение и т. п. )"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "さしあげる",
+          "kanji": "差し上げる",
+          "romaji": "sashiageru",
+          "meaning": "давать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "しらべる",
+          "kanji": "調べる",
+          "romaji": "shiraberu",
+          "meaning": "расследовать, допрашивать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "しらせる",
+          "kanji": "知らせる",
+          "romaji": "shiraseru",
+          "meaning": "извещать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "しょうじる",
+          "kanji": "生じる",
+          "romaji": "chyojiru",
+          "meaning": "возникать; происходить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "すぎる",
+          "kanji": "過ぎる",
+          "romaji": "sugiru",
+          "meaning": "проходить мимо, миновать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "すてる",
+          "kanji": "捨てる",
+          "romaji": "suteru",
+          "meaning": "выбрасывать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "そだてる",
+          "kanji": "育てる",
+          "romaji": "sodateru",
+          "meaning": "воспитывать, выхаживать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "たおれる",
+          "kanji": "倒れる",
+          "romaji": "taoreru",
+          "meaning": "падать вниз"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "たずねる",
+          "kanji": "訪ねる",
+          "romaji": "tazuneru",
+          "meaning": "навещать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "たずねる",
+          "kanji": "尋ねる",
+          "romaji": "tazuneru",
+          "meaning": "спрашивать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "たてる",
+          "kanji": "建てる",
+          "romaji": "tateru",
+          "meaning": "строить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "たりる",
+          "kanji": "足りる",
+          "romaji": "tariru",
+          "meaning": "быть достаточным, хватать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "つずける",
+          "kanji": "続ける",
+          "romaji": "tsudzukeru",
+          "meaning": "продолжать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "つかまえる",
+          "kanji": "捕まえる",
+          "romaji": "tsukamaeru",
+          "meaning": "схватить, поймать, арестовать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "つける",
+          "kanji": "漬ける",
+          "romaji": "tsukeru",
+          "meaning": "вымачивать, мариновать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "つれる",
+          "kanji": "連れる",
+          "romaji": "tsureru",
+          "meaning": "брать с собой кого-л"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "とりかえる",
+          "kanji": "取り替える",
+          "romaji": "torikaeru",
+          "meaning": "менять, заменять, обмениваться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "とどける",
+          "kanji": "届ける",
+          "romaji": "todokeru",
+          "meaning": "доставлять "
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "とめる",
+          "kanji": "止める",
+          "romaji": "tomeru",
+          "meaning": "останавливать, задерживать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "なげる",
+          "kanji": "投げる",
+          "romaji": "nageru",
+          "meaning": "бросать, кидать, швырять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "なれる",
+          "kanji": "慣れる",
+          "romaji": "nareru",
+          "meaning": "привыкать, приучаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "にげる",
+          "kanji": "逃げる",
+          "romaji": "nigeru",
+          "meaning": "убежать, сбежать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "ぬれる",
+          "kanji": "濡れる",
+          "romaji": "nureru",
+          "meaning": "промокать, намокать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "",
+          "kanji": "乗り換える",
+          "romaji": "norikaeru",
+          "meaning": "делать пересадку, пересаживаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "ひえる",
+          "kanji": "冷える",
+          "romaji": "hieru",
+          "meaning": "охлаждаться, остывать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "ふえる",
+          "kanji": "増える",
+          "romaji": "fueru",
+          "meaning": "увеличиваться, прибавляться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "ほめる",
+          "kanji": "褒める",
+          "romaji": "homeru",
+          "meaning": "хвалить; восхищаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "まける",
+          "kanji": "負ける",
+          "romaji": "makeru",
+          "meaning": "терять, проигрывать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "みえる",
+          "kanji": "見える",
+          "romaji": "mieru",
+          "meaning": "быть в состоянии разглядеть"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "まちがえる",
+          "kanji": "間違える",
+          "romaji": "machigaeru",
+          "meaning": "ошибаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "みつける",
+          "kanji": "見つける",
+          "romaji": "mitsukeru",
+          "meaning": "находить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "むかえる",
+          "kanji": "迎える",
+          "romaji": "mukaeru",
+          "meaning": "встречать, выходить навстречу"
+        },
+        {
+          "JLPT": "",
+          "type": "ichidan",
+          "furigana": "もうしあげる",
+          "kanji": "申し上げる",
+          "romaji": "moshiageru",
+          "meaning": "сказать, заметить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "やせる",
+          "kanji": "痩せる",
+          "romaji": "yaseru",
+          "meaning": "худеть"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "やける",
+          "kanji": "焼ける",
+          "romaji": "yakeru",
+          "meaning": "гореть; сгорать, жариться; печься"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "ゆれる",
+          "kanji": "揺れる",
+          "romaji": "yureru",
+          "meaning": "качаться, колебаться, дрожать, вибрировать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "よごれる",
+          "kanji": "汚れる",
+          "romaji": "yogoreru",
+          "meaning": "пачкаться, загрязняться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "わかれる",
+          "kanji": "別れる",
+          "romaji": "wakareru",
+          "meaning": "разделяться;"
+        },
+        {
+          "JLPT": "N4",
+          "type": "ichidan",
+          "furigana": "われる",
+          "kanji": "割れる",
+          "romaji": "wareru",
+          "meaning": "ломаться, разбиваться; трескаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "うったえる",
+          "kanji": "訴える",
+          "romaji": "uttaeru",
+          "meaning": "жаловаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "える",
+          "kanji": "得る",
+          "romaji": "eru",
+          "meaning": "получать, завоёвывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "うれる",
+          "kanji": "売れる",
+          "romaji": "ureru",
+          "meaning": " продавать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "おうじる",
+          "kanji": "応じる",
+          "romaji": "oujiru",
+          "meaning": "отвечать, откликаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "おえる",
+          "kanji": "終える",
+          "romaji": "oeru",
+          "meaning": "заканчивать, завершать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "おさめる",
+          "kanji": "収める",
+          "romaji": "osameru",
+          "meaning": "получать; принимать; добиваться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "おそれる",
+          "kanji": "恐れる",
+          "romaji": "osoreru",
+          "meaning": "бояться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "おぼれる",
+          "kanji": "溺れる",
+          "romaji": "oboreru",
+          "meaning": "тонуть"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "かかえる",
+          "kanji": "抱える",
+          "romaji": "kakaeru",
+          "meaning": "держать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "かくれる",
+          "kanji": "隠れる",
+          "romaji": "kakureru",
+          "meaning": "прятаться, скрываться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "かける",
+          "kanji": "欠ける",
+          "romaji": "kakeru",
+          "meaning": "недоставать, не хватать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "かぞえる",
+          "kanji": "数える",
+          "romaji": "kazoeru",
+          "meaning": "считать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "かんじる",
+          "kanji": "感じる",
+          "romaji": "kanjiru",
+          "meaning": "чувствовать, ощущать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "きれる",
+          "kanji": "切れる",
+          "romaji": "kireru",
+          "meaning": "сломить, вырваться, нарушать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "くわえる",
+          "kanji": "加える",
+          "romaji": "kuwaeru",
+          "meaning": "добавлять, прибавлять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "こえる",
+          "kanji": "越える",
+          "romaji": "koeru",
+          "meaning": "переходить, перебираться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "さける",
+          "kanji": "避ける",
+          "romaji": "sakeru",
+          "meaning": "избегать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ささえる",
+          "kanji": "支える",
+          "romaji": "sasaeru",
+          "meaning": "подпирать, поддерживать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "さめる",
+          "kanji": "覚める",
+          "romaji": "sameru",
+          "meaning": "просыпаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "しめる",
+          "kanji": "占める",
+          "romaji": "shimeru",
+          "meaning": "занимать (место)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "すぐれる",
+          "kanji": "優れる",
+          "romaji": "sugureru",
+          "meaning": "превосходить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "すすめる",
+          "kanji": "進める",
+          "romaji": "susumeru",
+          "meaning": "продвигать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "すすめる",
+          "kanji": "勧める",
+          "romaji": "susumeru",
+          "meaning": "советовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "すます",
+          "kanji": "済ます",
+          "romaji": "sumasu",
+          "meaning": "заканчивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "せめる",
+          "kanji": "責める",
+          "romaji": "semeru",
+          "meaning": "упрекать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "そなえる",
+          "kanji": "備える",
+          "romaji": "sonaeru",
+          "meaning": "готовиться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "たすける",
+          "kanji": "助ける",
+          "romaji": "tasukeru",
+          "meaning": "спасать, выручать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "つうじる",
+          "kanji": "通じる",
+          "romaji": "tsujiru",
+          "meaning": "иметь смысл"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "つめる",
+          "kanji": "詰める",
+          "romaji": "tsumeru",
+          "meaning": "наполнять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "とける",
+          "kanji": "解ける",
+          "romaji": "tokeru",
+          "meaning": "развязываться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "とりあげる",
+          "kanji": "取り上げる",
+          "romaji": "toriageru",
+          "meaning": "отбирать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "とれる",
+          "kanji": "取れる",
+          "romaji": "toreru",
+          "meaning": "отрываться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ながめる",
+          "kanji": "眺める",
+          "romaji": "nagameru",
+          "meaning": "разглядывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ながれる",
+          "kanji": "流れる",
+          "romaji": "nagareru",
+          "meaning": "плыть"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "なまける",
+          "kanji": "怠ける",
+          "romaji": "namakeru",
+          "meaning": "лениться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ぬける",
+          "kanji": "抜ける",
+          "romaji": "nukeru",
+          "meaning": "выпадать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "のせる",
+          "kanji": "乗せる",
+          "romaji": "noseru",
+          "meaning": "сажать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "のびる",
+          "kanji": "伸びる",
+          "romaji": "nobiru",
+          "meaning": "растягиваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "のべる",
+          "kanji": "述べる",
+          "romaji": "noberu",
+          "meaning": "излагать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "はなれる",
+          "kanji": "離れる",
+          "romaji": "hanareru",
+          "meaning": "расставаться, разлучаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ふるえる",
+          "kanji": "震える",
+          "romaji": "furueru",
+          "meaning": "трястись, дрожать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ふれる",
+          "kanji": "触れる",
+          "romaji": "fureru",
+          "meaning": "трогать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ほえる",
+          "kanji": "吠える",
+          "romaji": "hoeru",
+          "meaning": "лаять, реветь, выть"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "まかせる",
+          "kanji": "任せる",
+          "romaji": "makaseru",
+          "meaning": "поручать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "みちる",
+          "kanji": "満ちる",
+          "romaji": "michiru",
+          "meaning": "наполнять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "みとめる",
+          "kanji": "認める",
+          "romaji": "mitomeru",
+          "meaning": "признавать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "むける",
+          "kanji": "向ける",
+          "romaji": "mukeru",
+          "meaning": "поворачивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "めいじる",
+          "kanji": "命じる",
+          "romaji": "meijiru",
+          "meaning": "приказывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "もえる",
+          "kanji": "燃える",
+          "romaji": "moeru",
+          "meaning": "гореть, пылать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "もちあげる",
+          "kanji": "持ち上げる",
+          "romaji": "mochiageru",
+          "meaning": "поднимать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "もちいる",
+          "kanji": "用いる",
+          "romaji": "mochiiru",
+          "meaning": "пользоваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "もとめる",
+          "kanji": "求める",
+          "romaji": "motomeru",
+          "meaning": "требовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "やめる",
+          "kanji": "辞める",
+          "romaji": "yameru",
+          "meaning": "уходить в отставку"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "ろんじる",
+          "kanji": "論じる",
+          "romaji": "",
+          "meaning": "рассуждать, спорить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "わける",
+          "kanji": "分ける",
+          "romaji": "wakeru",
+          "meaning": "делить, сортировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "とじる",
+          "kanji": "閉じる",
+          "romaji": "tojiru",
+          "meaning": "закрывать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "ichidan",
+          "furigana": "しめる",
+          "kanji": "締める",
+          "romaji": "shimeru",
+          "meaning": "затягивать, завязывать"
+        },
+        {
+          "JLPT": "N2",
+          "type": "ichidan",
+          "furigana": "たえる",
+          "kanji": "耐える",
+          "romaji": "taeru",
+          "meaning": "терпеть"
+        },
+        {
+          "JLPT": "N1",
+          "type": "ichidan",
+          "furigana": "かんじいる",
+          "kanji": "感じいる",
+          "romaji": "kanjiiru",
+          "meaning": "чувствовать"
+        }
+      ]
+    ],
+    "form": {
+      "polite": {
+        "text": "る изменяем => нужная форма ます",
+        "slug": "Вежливый стиль",
+        "base": "+ ます",
+        "negative": "+ ません",
+        "past": "+ ました",
+        "past_negative": "+ ませんでした",
+        "doing": "+ でください; +てください; (делайте что-то)",
+        "wishes": "ます изменяется на たいです (только для глаголов действия)",
+        "examples": [
+          "たべる (кушать)",
+          "たべます ~ たべません (кушать - не кушать)",
+          "たべました ~ たべませんでした (кушал - не кушал)",
+          "たべてください (кушайте пожалуйста)",
+          "たべたいです (хочется кушать)"
+        ]
+      },
+      "negative": {
+        "text": "изменить る на  ない",
+        "slug": "Отрицание",
+        "base": "ない",
+        "polite": "しません",
+        "examples": [
+          "あける ~ あけない (открыть - не открывать)",
+          "おしえる ~ おしえない (обучать - не обучать)",
+          "きる ~ きない (надевать - не надевать)",
+          "たべる ~ たべない (кушать - не кушать)",
+          "ねる ~ ねない (спать - не спать)",
+          "おそれる ~ おそれない (бояться - не бояться)",
+          "なまける ~ なまけない (лениться - не лениться)"
+        ]
+      },
+      "past": {
+        "text": "изменить る на た",
+        "slug": "Прошлое",
+        "base": "た",
+        "polite": "",
+        "examples": [
+          "あける ~ あけた (открыть - открыл)",
+          "おしえる ~ おしえた (обучать - обучал)",
+          "きる ~ きた (надевать - надевал)",
+          "たべる ~ たべた (кушать - кушал)",
+          "ねる ~ ねた (спать - спал)",
+          "おそれる ~ おそれた (бояться - боялся)",
+          "なまける ~ なまけた (лениться - ленился)"
+        ]
+      },
+      "past_negative": {
+        "text": "изменить る на なかった",
+        "slug": "Прошлое отрицание",
+        "base": "なかった",
+        "polite": "",
+        "examples": [
+          "あける ~ あけなかった (открыть - не открыл)",
+          "おしえる ~ おしえなかった (обучать - не обучал)",
+          "きる ~ きなかった (надевать - не надевал)",
+          "たべる ~ たべなかった (кушать - не кушал)",
+          "ねる ~ ねなかった (спать - не спал)",
+          "おそれる ~ おそれなかった (бояться - не боялся)",
+          "なまける ~ なまけなかった (лениться - не ленился)"
+        ]
+      },
+      "te": {
+        "text": "изменить る на て",
+        "slug": "Соединительная, нахождение в состоянии действия",
+        "base": "て",
+        "polite": "ています, てあります",
+        "examples": [
+          "あける ~ あけて (открываю)",
+          "おしえる ~ おしえて (обучаю)",
+          "きる ~ きて (надеваю)",
+          "たべる ~ たべて (кушаю)",
+          "ねる ~ ねて (сплю)",
+          "おそれる ~ おそれて (боюсь)",
+          "なまける ~ なまけて (ленюсь)"
+        ]
+      },
+      "wish": {
+        "text": "изменить る на い + форма ",
+        "slug": "Желание",
+        "base": "～たい",
+        "negative": "～たくない",
+        "past": "～たかった",
+        "past_negative": "～たくなかった",
+        "examples": [
+          "あける ~ あけたい (хочу открыть), あけたくない (не хочу открывать)",
+          " あけたかった (хотел открыть),あけたくなかった (не хотел открывать)",
+          "おしえる ~ おしえたい (хочу обучать),おしえたくない (не хочу обучать)",
+          " おしえたかった (хотел обучать), おしえたくなかった (не хотел обучать)",
+          "きる ~ きたい (хочу надевать), きたくない (не хочу надевать)",
+          "きたかった (хотел надевать), きたくなかった (не хотел надевать)",
+          "たべる ~ たべたい (хочу кушать), たべたくない (не хочу кушать)",
+          "たべたかった (хотел кушать), たべたくなかった (не хотел кушать)",
+          "ねる ~ ねたい (хочу спать),  ねたくない (не хочу спать)",
+          "ねたかった (хотел спать), ねたくなかった (не хотел спать)",
+          "おそれる ~ おそれたい (хочу бояться), おそれたくない (не хочу бояться)",
+          "おそれたかった (хотел бояться), おそれたくなかった (не хотел бояться)",
+          "なまける ~ なまけたい (хочу лениться), なまけたくない (не хочу лениться)",
+          "なまけたかった (хотел лениться), なまけたくなかった (не хотел лениться)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "2",
+    "slug": "verbs_type_不規則動詞",
+    "type": "不規則動詞 • ふきそくどうし",
+    "base": "V3",
+    "descriptions": "ふきそくどうし, нерегулярные, необычные, особые глаголы. В основном глаголы образованные от существительных с добавлением する.",
+    "lessons": [
+      [
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "",
+          "furigana": "する",
+          "romaji": "suru",
+          "meaning": "делать (быть в состоянии делания)"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "来る",
+          "furigana": "くる",
+          "romaji": "kuru",
+          "meaning": "приезжать, приходить"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "運転する",
+          "furigana": "うんてんする",
+          "romaji": "unten suru",
+          "meaning": "управлять механизмом"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "外出する",
+          "furigana": "がいしゅうする",
+          "romaji": "gaishuu suru",
+          "meaning": "выходить на улицу, гулять"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "帰国する",
+          "furigana": "きこくする",
+          "romaji": "kikoku suru",
+          "meaning": "возвращаться на родину"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "休憩する",
+          "furigana": "きゅうけいする",
+          "romaji": "kyuukei suru",
+          "meaning": "прерываться"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "結婚する",
+          "furigana": "けっこんする",
+          "romaji": "kekkon suru",
+          "meaning": "жениться, выходить замуж"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "散歩する",
+          "furigana": "さんぽする",
+          "romaji": "sanpo suru",
+          "meaning": "гулять, прогуливаться"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "furigana": "せつめいする",
+          "kanji": "説明する",
+          "romaji": "setsumei suru",
+          "meaning": "объяснять, разъяснять"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "整理する",
+          "furigana": "せいりする",
+          "romaji": "seiru suru",
+          "meaning": "упорядочивать; реорганизовать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "成立する",
+          "furigana": "せいりつする",
+          "romaji": "seiritsu suru",
+          "meaning": "осуществиться, состояться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "洗濯する",
+          "furigana": "せんたくする",
+          "romaji": "sentaku suru",
+          "meaning": "стирать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "掃除する",
+          "furigana": "そうじする",
+          "romaji": "souji suru",
+          "meaning": "делать уборку, чистить"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "注文する",
+          "furigana": "ちゅうもんする",
+          "romaji": "chuumon suru",
+          "meaning": "заказывать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "持ってくる",
+          "furigana": "もってくる",
+          "romaji": "motte kuru",
+          "meaning": "приносить"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "勉強する",
+          "furigana": "べんきょうする",
+          "romaji": "benkyo suru",
+          "meaning": "изучать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "訪問する",
+          "furigana": "ほうもんする",
+          "romaji": "houmon suru",
+          "meaning": "посещать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "料理する",
+          "furigana": "りょうりする",
+          "romaji": "ryouri suru",
+          "meaning": "готовить, стряпать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "留学する",
+          "furigana": "りゅうがくする",
+          "romaji": "ryugaku suru",
+          "meaning": "обучаться за границей"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "旅行する",
+          "furigana": "りょこする",
+          "romaji": "ryoko suru",
+          "meaning": "путешествовать"
+        },
+        {
+          "JLPT": "N5",
+          "type": "fukisokudoshi",
+          "kanji": "練習する",
+          "furigana": "れんしゅうする",
+          "romaji": "renshuu suru",
+          "meaning": "практиковаться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "愛する",
+          "furigana": "あいする",
+          "romaji": "ai suru",
+          "meaning": "любить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "挨拶する",
+          "furigana": "あいさつする",
+          "romaji": "aisatsu suru",
+          "meaning": "приветствовать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "安心する",
+          "furigana": "あんしんする",
+          "romaji": "anshin suru",
+          "meaning": "быть спокойным, успокаиваться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "案内する",
+          "furigana": "あんないする",
+          "romaji": "annai suru",
+          "meaning": "быть проводником, показывать (дорогу, город, музей и т. п. )"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "遠慮する",
+          "furigana": "えんりょする",
+          "romaji": "enryo suru",
+          "meaning": "воздерживаться от чего-л."
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "関係する",
+          "furigana": "かんけいする",
+          "romaji": "kankei suru",
+          "meaning": "быть причастным, иметь отношение"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "会話する",
+          "furigana": "かいわする",
+          "romaji": "kaiwa suru",
+          "meaning": "разговаривать, беседовать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "競争する",
+          "furigana": "きょうそうする",
+          "romaji": "kyousou suru",
+          "meaning": "соревноваться; конкурировать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "急行する",
+          "furigana": "きゅうこうする",
+          "romaji": "kyukou suru",
+          "meaning": "спешить, торопиться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "教育する",
+          "furigana": "きょういくする",
+          "romaji": "kyouiku suru",
+          "meaning": "обучаться, образовываться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "研究する",
+          "furigana": "けんきゅうする",
+          "romaji": "kenkyu suru",
+          "meaning": "вести исследования, изучать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "喧嘩する",
+          "furigana": "けんかする",
+          "romaji": "kenka suru",
+          "meaning": "ссориться; драться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "経験する",
+          "furigana": "けいけんする",
+          "romaji": "keiken suru",
+          "meaning": "испытать, знать по опыту"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "怪我する",
+          "furigana": "けがする",
+          "romaji": "kega suru",
+          "meaning": "пораниться, травмироваться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "計画する",
+          "furigana": "けいかくする",
+          "romaji": "keikaku suru",
+          "meaning": "планировать, рассчитывать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "見物する",
+          "furigana": "けんぶつする",
+          "romaji": "kenbutsu suru",
+          "meaning": "осматривать (достопримечательности)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "下宿する",
+          "furigana": "げしゅくする",
+          "romaji": "geshyuku suru",
+          "meaning": "квартировать, снимать комнату"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "故障する",
+          "furigana": "こしょうする",
+          "romaji": "koshyo suru",
+          "meaning": "препятствовать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "失敗する",
+          "furigana": "しっぱいする",
+          "romaji": "shyupai suru",
+          "meaning": "потерпеть неудачу, провалиться;"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "紹介する",
+          "furigana": "しょうかいする",
+          "romaji": "shyouka suru",
+          "meaning": "знакомить, представлять"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "準備する",
+          "furigana": "じゅんびする",
+          "romaji": "junbi suru",
+          "meaning": "подгатавливаться, готовиться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "生活する",
+          "furigana": "せいかつする",
+          "romaji": "seikatsu suru",
+          "meaning": "жить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "生産する",
+          "furigana": "せいさんする",
+          "romaji": "seisan suru",
+          "meaning": "производить, выпускать, делать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "相談する",
+          "furigana": "そうだんする",
+          "romaji": "soudan suru",
+          "meaning": "советоваться, консультироваться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "卒業する",
+          "furigana": "そつぎょうする",
+          "romaji": "sotsugyou suru",
+          "meaning": "окончить (школу, вуз)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "誕生する",
+          "furigana": "たんじょうする",
+          "romaji": "tanjyou suru",
+          "meaning": "рождаться"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "退院する",
+          "furigana": "たいいんする",
+          "romaji": "taiin suru",
+          "meaning": "выписываться из больницы"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "注意する",
+          "furigana": "ちゅういする",
+          "romaji": "chyui suru",
+          "meaning": "быть внимательным, предупреждать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "注射する",
+          "furigana": "ちゅうしゃする",
+          "romaji": "chyusha sur",
+          "meaning": "делать инъекцию"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "入学する",
+          "furigana": "にゅうがくする",
+          "romaji": "nyugaku suru",
+          "meaning": "поступать (в учебное заведение)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "入院する",
+          "furigana": "にゅういんする",
+          "romaji": "nyuun suru",
+          "meaning": "ложиться в больницу"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "寝坊する",
+          "furigana": "ねぼうする",
+          "romaji": "nebou suru",
+          "meaning": "проспать, встать поздно"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "拝見する",
+          "furigana": "はいけんする",
+          "romaji": "haiken suru",
+          "meaning": "смотреть, видеть (скромно о себе)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "反対する",
+          "furigana": "はんたいする",
+          "romaji": "hantai suru",
+          "meaning": "быть против, противодействовать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "発音する",
+          "furigana": "はつおんする",
+          "romaji": "hatsuon suru",
+          "meaning": "произношение, произносить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "復習する",
+          "furigana": "ふくしゅうする",
+          "romaji": "fukushyu suru",
+          "meaning": "повторять (урок и т. п. )"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "返事する",
+          "furigana": "へんじする",
+          "romaji": "henji suru",
+          "meaning": "отвечать, давать ответ"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "放送する",
+          "furigana": "ほうそうする",
+          "romaji": "housou suru",
+          "meaning": "передавать, транслировать (радио, телевидение)"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "翻訳する",
+          "furigana": "ほんやくする",
+          "romaji": "honyaku suru",
+          "meaning": "переводить"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "無理する",
+          "furigana": "むりする",
+          "romaji": "muri suru",
+          "meaning": "перенапрягаться; пытаться сделать невозможное"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "約束する",
+          "furigana": "やくそくする",
+          "romaji": "yakusoku suru",
+          "meaning": "обещать; договориться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "用意する",
+          "furigana": "よういする",
+          "romaji": "youi suru",
+          "meaning": "готовиться, делать приготовления"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "予習する",
+          "furigana": "よしゅうする",
+          "romaji": "yoshyu suru",
+          "meaning": "готовить уроки"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "予約する",
+          "furigana": "よやくする",
+          "romaji": "yoyaku suru",
+          "meaning": "заказывать; бронировать"
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "利用する",
+          "furigana": "りようする",
+          "romaji": "riyou suru",
+          "meaning": "пользоваться, употреблять, использовать что-л. или кого-л."
+        },
+        {
+          "JLPT": "N4",
+          "type": "fukisokudoshi",
+          "kanji": "連絡する",
+          "furigana": "れんらくする",
+          "romaji": "ren raku suru",
+          "meaning": "связываться, соединяться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "合図する",
+          "furigana": "あいずする",
+          "romaji": "aizu suru",
+          "meaning": "сигналить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "握手する",
+          "furigana": "あくしゅする",
+          "romaji": "akushyu suru",
+          "meaning": "рукопожатие"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "暗記する",
+          "furigana": "あんきする",
+          "romaji": "anki suru",
+          "meaning": "запоминать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "安定する",
+          "furigana": "あんていする",
+          "romaji": "antei suru",
+          "meaning": "быть устойчивым; стабилизироваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "維持する",
+          "furigana": "いじする",
+          "romaji": "iji suru",
+          "meaning": "поддерживать, сохранять, оберегать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "意識する",
+          "furigana": "いしきする",
+          "romaji": "ishiki suru",
+          "meaning": "сознавать, осознават"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "位置する",
+          "furigana": "いちする",
+          "romaji": "ichi suru",
+          "meaning": "располагаться, размещаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "移動する",
+          "furigana": "いどうする",
+          "romaji": "ideu suru",
+          "meaning": "двигаться, передвигаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "違反する",
+          "furigana": "いはんする",
+          "romaji": "ihan suru",
+          "meaning": "нарушать, идти против"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "依頼する",
+          "furigana": "いらいする",
+          "romaji": "irai suru",
+          "meaning": "просить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "印刷する",
+          "furigana": "いんさつする",
+          "romaji": "insatsu suru",
+          "meaning": "печатать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "引退する",
+          "furigana": "いんたいする",
+          "romaji": "intai suru",
+          "meaning": "удалиться от дел, уйти на покой"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "引用する",
+          "furigana": "いんようする",
+          "romaji": "inyou suru",
+          "meaning": "цитировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "運転する",
+          "furigana": "うんてんする",
+          "romaji": "unten suru",
+          "meaning": "вести, пилотировать, сидеть за рулём"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "運動する",
+          "furigana": "うんどうする",
+          "romaji": "undeu suru",
+          "meaning": "заниматься физкультурой"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "営業する",
+          "furigana": "えいぎょうする",
+          "romaji": "eigyou suru",
+          "meaning": "работать, быть открытым"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "延期する",
+          "furigana": "えんきする",
+          "romaji": "enki suru",
+          "meaning": "откладывать, переносить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "援助する",
+          "furigana": "えんじょする",
+          "romaji": "enjyo suru",
+          "meaning": "помогать, поддерживать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "演説する",
+          "furigana": "えんぜつする",
+          "romaji": "enzetsu suru",
+          "meaning": "произносить речь, выступать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "演奏する",
+          "furigana": "えんそうする",
+          "romaji": "ensou suru",
+          "meaning": "играть, исполнять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "横断する",
+          "furigana": "おうだんする",
+          "romaji": "oudan suru",
+          "meaning": "пересекать, перебираться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "汚染する",
+          "furigana": "おせんする",
+          "romaji": "osen suru",
+          "meaning": "загрязнять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "解決する",
+          "furigana": "かいけつする",
+          "romaji": "kaiketsu suru",
+          "meaning": "разрешать (вопрос), улаживать (проблему);"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "会合する",
+          "furigana": "かいごうする",
+          "romaji": "kaigou suru",
+          "meaning": "встречаться, собираться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "開始する",
+          "furigana": "かいしする",
+          "romaji": "kaishi suru",
+          "meaning": "начинать, открывать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "解釈する",
+          "furigana": "かいしゃくする",
+          "romaji": "kaishyaku suru",
+          "meaning": "истолковывать, интерпретировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "改善する",
+          "furigana": "かいぜんする",
+          "romaji": "kaizen suru",
+          "meaning": "улучшать, совершенствовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "回復する",
+          "furigana": "かいふくする",
+          "romaji": "kaifuku suru",
+          "meaning": "восстанавливать, выздоравливать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "覚悟する",
+          "furigana": "かくごする",
+          "romaji": "kakugo suru",
+          "meaning": "быть готовым, решиться "
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "学習する",
+          "furigana": "がくしゅうする",
+          "romaji": "gakushyu suru",
+          "meaning": "заниматься, учиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "拡大する",
+          "furigana": "かくだいする",
+          "romaji": "kakudai suru",
+          "meaning": "увеличивать, расширять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "確認する",
+          "furigana": "かくにんする",
+          "romaji": "kakunin suru",
+          "meaning": "подтверждать, признавать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "加減する",
+          "furigana": "かげんする",
+          "romaji": "kagen suru",
+          "meaning": "учитывать, вносить поправку"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "活動する",
+          "furigana": "かつどうする",
+          "romaji": "katsude suru",
+          "meaning": "быть активным"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "活用する",
+          "furigana": "かつようする",
+          "romaji": "katsuyo suru",
+          "meaning": "применять на практике"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "我慢する",
+          "furigana": "がまんする",
+          "romaji": "gaman suru",
+          "meaning": "терпеть, выносить, обходиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "歓迎する",
+          "furigana": "かんげいする",
+          "romaji": "kangei suru",
+          "meaning": "тепло принимать,"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "観光する",
+          "furigana": "かんこうする",
+          "romaji": "kankou suru",
+          "meaning": "экскурсия,"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "観察する",
+          "furigana": "かんさつする",
+          "romaji": "kansatsu suru",
+          "meaning": "наблюдать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "感謝する",
+          "furigana": "かんしゃする",
+          "romaji": "kanshya suru",
+          "meaning": "благодарить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "感心する",
+          "furigana": "かんしんする",
+          "romaji": "kanshin suru",
+          "meaning": "восхищаться "
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "完成する",
+          "furigana": "かんせいする",
+          "romaji": "kansei suru",
+          "meaning": "завершать [ся]"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "感動する",
+          "furigana": "かんどうする",
+          "romaji": "kandō suru",
+          "meaning": "быть взволнованным"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "監督する",
+          "furigana": "かんとくする",
+          "romaji": "kantoku suru",
+          "meaning": "контролировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "理解する",
+          "furigana": "りかいする",
+          "romaji": "rikai suru",
+          "meaning": "понимать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "管理する",
+          "furigana": "かんりする",
+          "romaji": "kanri suru",
+          "meaning": "управлять "
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "完了する",
+          "furigana": "かんりょうする",
+          "romaji": "kanryō suru",
+          "meaning": "оканчивать [ся] "
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "関連する",
+          "furigana": "かんれんする",
+          "romaji": "kanren suru",
+          "meaning": "иметь отношение к чему-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "記憶する",
+          "furigana": "きおくする",
+          "romaji": "kioku suru",
+          "meaning": "запоминать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "期待する",
+          "furigana": "きたいする",
+          "romaji": "kitai suru",
+          "meaning": "ожидать, надеяться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "帰宅する",
+          "furigana": "きたくする",
+          "romaji": "kitaku suru",
+          "meaning": "возвращаться домой"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "記入する",
+          "furigana": "きにゅうする",
+          "romaji": "kinyū suru",
+          "meaning": "заполнять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "記念する",
+          "furigana": "きねんする",
+          "romaji": "kinen suru",
+          "meaning": "отмечать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "機能する",
+          "furigana": "きのうする",
+          "romaji": "kinō-ki suru",
+          "meaning": "функционировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "流行する",
+          "furigana": "りゅうこうする",
+          "romaji": "ryūkō suru",
+          "meaning": "свирепствовать (о болезни)"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "寄付する",
+          "furigana": "きふする",
+          "romaji": "kifu suru",
+          "meaning": "вносить пожертвование"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "希望する",
+          "furigana": "きぼうする",
+          "romaji": "kibō suru",
+          "meaning": "надеяться, желать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "休憩する",
+          "furigana": "きゅうけいする",
+          "romaji": "kyūkei suru",
+          "meaning": "отдыхать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "吸収する",
+          "furigana": "きゅうしゅうする",
+          "romaji": "kyūshū suru",
+          "meaning": "впитывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "救助する",
+          "furigana": "きゅうじょする",
+          "romaji": "kyūjo suru",
+          "meaning": "спасать, выручать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "供給する",
+          "furigana": "きょうきゅうする",
+          "romaji": "kyōkyū suru",
+          "meaning": "снабжать, обеспечивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "教授する",
+          "furigana": "きょうじゅする",
+          "romaji": "kyōju suru",
+          "meaning": "преподавать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "強調する",
+          "furigana": "きょうちょうする",
+          "romaji": "kyōchō suru",
+          "meaning": "подчёркивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "協力する",
+          "furigana": "きょうりょくする",
+          "romaji": "kyōryoku suru",
+          "meaning": "сотрудничать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "連想する",
+          "furigana": "れんそうする",
+          "romaji": "rensō suru",
+          "meaning": "ассоциировать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "記録する",
+          "furigana": "きろくする",
+          "romaji": "kiroku suru",
+          "meaning": "вести запись"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "議論する",
+          "furigana": "ぎろんする",
+          "romaji": "giron suru",
+          "meaning": "дискутировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "禁煙する",
+          "furigana": "きんえんする",
+          "romaji": "kin'en suru",
+          "meaning": "бросать курить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "禁止する",
+          "furigana": "きんしする",
+          "romaji": "kinshi suru",
+          "meaning": "запрещать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "緊張する",
+          "furigana": "きんちょうする",
+          "romaji": "kinchō suru",
+          "meaning": "быть напряжённым"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "区別する",
+          "furigana": "くべつする",
+          "romaji": "kubetsu suru",
+          "meaning": "различать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "苦労する",
+          "furigana": "くろうする",
+          "romaji": "kurō suru",
+          "meaning": "переносить лишения, бедствовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "訓練する",
+          "furigana": "くんれんする",
+          "romaji": "kunren suru",
+          "meaning": "тренировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "経営する",
+          "furigana": "けいえいする",
+          "romaji": "keiei suru",
+          "meaning": "вести (бизнес), управлять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "警告する",
+          "furigana": "けいこくする",
+          "romaji": "keikoku suru",
+          "meaning": "предупреждать, предостерегать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "計算する",
+          "furigana": "けいさんする",
+          "romaji": "keisan suru",
+          "meaning": "вычислять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "掲示する",
+          "furigana": "けいじする",
+          "romaji": "keiji suru",
+          "meaning": "давать (вывешивать) объявление"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "契約する",
+          "furigana": "けいやくする",
+          "romaji": "keiyaku suru",
+          "meaning": "заключать договор"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "経由する",
+          "furigana": "けいゆする",
+          "romaji": "keiyu suru",
+          "meaning": "проходить (проезжать) "
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "化粧する",
+          "furigana": "けしょうする",
+          "romaji": "keshō suru",
+          "meaning": "накладывать макияж (грим), краситься"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "決心する",
+          "furigana": "けっしんする",
+          "romaji": "kesshin suru",
+          "meaning": "решать [ся] , принимать решение"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "欠席する",
+          "furigana": "けっせきする",
+          "romaji": "kesseki suru",
+          "meaning": "не являться куда-л"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "決定する",
+          "furigana": "けっていする",
+          "romaji": "kettei suru",
+          "meaning": "решать, постановлять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "検査する",
+          "furigana": "けんさする",
+          "romaji": "kensa suru",
+          "meaning": "проверять, инспектировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "建設する",
+          "furigana": "けんせつする",
+          "romaji": "kensetsu suru",
+          "meaning": "строить, сооружать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "検討する",
+          "furigana": "けんとうする",
+          "romaji": "kentō suru",
+          "meaning": "рассматривать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "合格する",
+          "furigana": "ごうかくする",
+          "romaji": "gōkaku suru",
+          "meaning": "проити экзамен"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "交換する",
+          "furigana": "こうかんする",
+          "romaji": "kōkan suru",
+          "meaning": "обменивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "合計する",
+          "furigana": "ごうけいする",
+          "romaji": "gōkei suru",
+          "meaning": "суммировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "攻撃する",
+          "furigana": "こうげきする",
+          "romaji": "kōgeki suru",
+          "meaning": "нападать, аттаковать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "貢献する",
+          "furigana": "こうけんする",
+          "romaji": "kōken suru",
+          "meaning": "содействовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "交際する",
+          "furigana": "こうさいする",
+          "romaji": "kōsai suru",
+          "meaning": "поддерживать знакомство"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "行動する",
+          "furigana": "こうどうする",
+          "romaji": "kōdō suru",
+          "meaning": "действовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "考慮する",
+          "furigana": "こうりょする",
+          "romaji": "kōryo suru",
+          "meaning": "учитывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "誤解する",
+          "furigana": "ごかいする",
+          "romaji": "gokai suru",
+          "meaning": "ошибаться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "呼吸する",
+          "furigana": "こきゅうする",
+          "romaji": "kokyū suru",
+          "meaning": "дышать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "克服する",
+          "furigana": "こくふくする",
+          "romaji": "kokufuku suru",
+          "meaning": "преодолевать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "骨折する",
+          "furigana": "こっせつする",
+          "romaji": "kossetsu suru",
+          "meaning": "ломать кости"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "混雑する",
+          "furigana": "こんざつする",
+          "romaji": "konzatsu suru",
+          "meaning": "быть переполненным народом"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "婚約する",
+          "furigana": "こんやくする",
+          "romaji": "kon'yaku suru",
+          "meaning": "быть помолвленным"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "混乱する",
+          "furigana": "こんらんする",
+          "romaji": "konran suru",
+          "meaning": "быть в беспорядке"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "作曲する",
+          "furigana": "さっきょくする",
+          "romaji": "sakkyoku suru",
+          "meaning": "писать музыку"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "差別する",
+          "furigana": "さべつする",
+          "romaji": "sabetsu suru",
+          "meaning": "дискриминировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "離婚する",
+          "furigana": "りこんする",
+          "romaji": "rikon suru",
+          "meaning": "расторгать брак"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "連続する",
+          "furigana": "れんぞくする",
+          "romaji": "renzoku suru",
+          "meaning": "продолжаться, длиться"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "左右する",
+          "furigana": "さゆうする",
+          "romaji": "sayū suru",
+          "meaning": "доминировать; влиять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "参加する",
+          "furigana": "さんかする",
+          "romaji": "sanka suru",
+          "meaning": "участвовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "参考する",
+          "furigana": "さんこうする",
+          "romaji": "sankō suru",
+          "meaning": "ссылаться на (книгу)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "賛成する",
+          "furigana": "さんせいする",
+          "romaji": "sansei suru",
+          "meaning": "давать согласие"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "支給する",
+          "furigana": "しきゅうする",
+          "romaji": "shikyū suru",
+          "meaning": "оплачивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "刺激する",
+          "furigana": "しげきする",
+          "romaji": "shigeki suru",
+          "meaning": "стимулировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "自殺する",
+          "furigana": "じさつする",
+          "romaji": "jisatsu suru",
+          "meaning": "покончить с собой"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "支出する",
+          "furigana": "ししゅつする",
+          "romaji": "shishutsu suru",
+          "meaning": "расходовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "支度する",
+          "furigana": "したくする",
+          "romaji": "shitaku suru",
+          "meaning": "готовиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "失業する",
+          "furigana": "しつぎょうする",
+          "romaji": "shitsugyō suru",
+          "meaning": "быть безработным"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "実験する",
+          "furigana": "じっけんする",
+          "romaji": "jikken suru",
+          "meaning": "экспериментировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "実現する",
+          "furigana": "じつげんする",
+          "romaji": "jitsugen suru",
+          "meaning": "реализовывать, сбываться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "実行する",
+          "furigana": "じっこうする",
+          "romaji": "jikkō suru",
+          "meaning": "выполнять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "実施する",
+          "furigana": "じっしする",
+          "romaji": "jisshi suru",
+          "meaning": "проводить, выполнять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "失望する",
+          "furigana": "しつぼうする",
+          "romaji": "shitsubō suru",
+          "meaning": "разочароваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "指導する",
+          "furigana": "しどうする",
+          "romaji": "shidō suru",
+          "meaning": "инструктировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "支配する",
+          "furigana": "しはいする",
+          "romaji": "shihai suru",
+          "meaning": "господствовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "死亡する",
+          "furigana": "しぼうする",
+          "romaji": "shibō suru",
+          "meaning": "умереть, скончаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "自慢する",
+          "furigana": "じまんする",
+          "romaji": "jiman suru",
+          "meaning": "хвалиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "邪魔する",
+          "furigana": "じゃまする",
+          "romaji": "jama suru",
+          "meaning": "мешать, препятствовать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "収穫する",
+          "furigana": "しゅうかくする",
+          "romaji": "shūkaku suru",
+          "meaning": "собирать урожай"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "重視する",
+          "furigana": "じゅうしする",
+          "romaji": "jūshi suru",
+          "meaning": "придавать большое значение"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "就職する",
+          "furigana": "しゅうしょくする",
+          "romaji": "shūshoku suru",
+          "meaning": "устроиться на работу"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "修正する",
+          "furigana": "しゅうせいする",
+          "romaji": "shūsei suru",
+          "meaning": "корректировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "集中する",
+          "furigana": "しゅうちゅうする",
+          "romaji": "shūchū suru",
+          "meaning": "концентрировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "修理する",
+          "furigana": "しゅうりする",
+          "romaji": "shūri suru",
+          "meaning": "ремонтировать, чинить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "出席する",
+          "furigana": "しゅっせきする",
+          "romaji": "shusseki suru",
+          "meaning": "присутствовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "出発する",
+          "furigana": "しゅっぱつする",
+          "romaji": "shuppatsu suru",
+          "meaning": "отправляться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "出版する",
+          "furigana": "しゅっぱんする",
+          "romaji": "shuppan suru",
+          "meaning": "публиковаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "使用する",
+          "furigana": "しようする",
+          "romaji": "shiyō suru",
+          "meaning": "употреблять, применять"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "信頼する",
+          "furigana": "しんらいする",
+          "romaji": "shinrai suru",
+          "meaning": "доверять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "招待する",
+          "furigana": "しょうたいする",
+          "romaji": "shōtai suru",
+          "meaning": "приглашать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "上達する",
+          "furigana": "じょうたつする",
+          "romaji": "jōtatsu suru",
+          "meaning": "делать успехи"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "承知する",
+          "furigana": "しょうちする",
+          "romaji": "shōchi suru",
+          "meaning": "быть осведомлённым"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "衝突する",
+          "furigana": "しょうとつする",
+          "romaji": "shōtotsu suru",
+          "meaning": "сталкиваться, конфликтовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "承認する",
+          "furigana": "しょうにんする",
+          "romaji": "shōnin suru",
+          "meaning": "одобрять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "商売する",
+          "furigana": "しょうばいする",
+          "romaji": "shōbai suru",
+          "meaning": "торговать, вести бизнес"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "消費する",
+          "furigana": "しょうひする",
+          "romaji": "shōhi suru",
+          "meaning": "потреблять, поглощать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "",
+          "furigana": "する",
+          "romaji": " suru",
+          "meaning": ""
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "証明する",
+          "furigana": "しょうめいする",
+          "romaji": "shōmei suru",
+          "meaning": "доказывать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "食事する",
+          "furigana": "しょくじする",
+          "romaji": "shokuji suru",
+          "meaning": "питаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "処理する",
+          "furigana": "しょりする",
+          "romaji": "shori suru",
+          "meaning": "обрабатывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "進学する",
+          "furigana": "しんがくする",
+          "romaji": "shingaku suru",
+          "meaning": "поступать в учебное заведение"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "信仰する",
+          "furigana": "しんこうする",
+          "romaji": "shinkō suru",
+          "meaning": "верить (в Бога), исповедовать (религию)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "診察する",
+          "furigana": "しんさつする",
+          "romaji": "shinsatsu suru",
+          "meaning": "осматриваться у доктора"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "心配する",
+          "furigana": "しんぱいする",
+          "romaji": "shinpai suru",
+          "meaning": "беспокоиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "信用する",
+          "furigana": "しんようする",
+          "romaji": "shin'yō suru",
+          "meaning": "доверять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "上京する",
+          "furigana": "じょうきょうする",
+          "romaji": "jōkyō suru",
+          "meaning": "приезжать в столицу"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "推薦する",
+          "furigana": "すいせんする",
+          "romaji": "suisen suru",
+          "meaning": "давать кому-л. рекомендацию"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "論争する",
+          "furigana": "ろんそうする",
+          "romaji": "ronsō suru",
+          "meaning": "спорить, дискутировать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "請求する",
+          "furigana": "せいきゅうする",
+          "romaji": "seikyū suru",
+          "meaning": "требовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "制限する",
+          "furigana": "せいげんする",
+          "romaji": "seigen suru",
+          "meaning": "ограничивать, лимитировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "成功する",
+          "furigana": "せいこうする",
+          "romaji": "seikō suru",
+          "meaning": "удаваться, иметь успех"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "製造する",
+          "furigana": "せいぞうする",
+          "romaji": "seizō suru",
+          "meaning": "производить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "成長する",
+          "furigana": "せいちょうする",
+          "romaji": "seichō suru",
+          "meaning": "расти, вырастать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "設計する",
+          "furigana": "せっけいする",
+          "romaji": "sekkei suru",
+          "meaning": "проектировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "絶滅する",
+          "furigana": "ぜつめつする",
+          "romaji": "zetsumetsu suru",
+          "meaning": "истреблять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "専攻する",
+          "furigana": "せんこうする",
+          "romaji": "senkō suru",
+          "meaning": "специализироваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "前進する",
+          "furigana": "ぜんしんする",
+          "romaji": "zenshin suru",
+          "meaning": "становиться лучше, прогрессировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "選択する",
+          "furigana": "せんたくする",
+          "romaji": "sentaku suru",
+          "meaning": "выбирать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "増加する",
+          "furigana": "ぞうかする",
+          "romaji": "zōka suru",
+          "meaning": "увеличивать [ся] "
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "操作する",
+          "furigana": "そうさする",
+          "romaji": "sōsa suru",
+          "meaning": "оперировать, обращаться с чем-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "想像する",
+          "furigana": "そうぞうする",
+          "romaji": "sōzō suru",
+          "meaning": "воображать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "相続する",
+          "furigana": "そうぞくする",
+          "romaji": "sōzoku suru",
+          "meaning": "наследовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "相当する",
+          "furigana": "そうとうする",
+          "romaji": "sōtō suru",
+          "meaning": "подходить, годиться,"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "組織する",
+          "furigana": "そしきする",
+          "romaji": "soshiki suru",
+          "meaning": "организовывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "尊敬する",
+          "furigana": "そんけいする",
+          "romaji": "sonkei suru",
+          "meaning": "уважать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "存在する",
+          "furigana": "そんざいする",
+          "romaji": "sonzai suru",
+          "meaning": "существовать,"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "滞在する",
+          "furigana": "たいざいする",
+          "romaji": "taizai suru",
+          "meaning": "останавливаться (где-л. в пути)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "代表する",
+          "furigana": "だいひょうする",
+          "romaji": "daihyō suru",
+          "meaning": "представлять"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "逮捕する",
+          "furigana": "たいほする",
+          "romaji": "taiho suru",
+          "meaning": "арестовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "代理する",
+          "furigana": "だいりする",
+          "romaji": "dairi suru",
+          "meaning": "заменять кого-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "担当する",
+          "furigana": "たんとうする",
+          "romaji": "tantō suru",
+          "meaning": "нести обязанности"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "遅刻する",
+          "furigana": "ちこくする",
+          "romaji": "chikoku suru",
+          "meaning": "опоздать куда-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "中止する",
+          "furigana": "ちゅうしする",
+          "romaji": "chūshi suru",
+          "meaning": "прерывать, прекращать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "駐車する",
+          "furigana": "ちゅうしゃする",
+          "romaji": "chūsha suru",
+          "meaning": "парковаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "注目する",
+          "furigana": "ちゅうもくする",
+          "romaji": "chūmoku suru",
+          "meaning": "следить, наблюдать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "注文する",
+          "furigana": "ちゅうもんする",
+          "romaji": "chūmon suru",
+          "meaning": "заказывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "調査する",
+          "furigana": "ちょうさする",
+          "romaji": "chōsa suru",
+          "meaning": "расследовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "貯金する",
+          "furigana": "ちょきんする",
+          "romaji": "chokin suru",
+          "meaning": "хранить сбережения"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "通過する",
+          "furigana": "つうかする",
+          "romaji": "tsūka suru",
+          "meaning": "проходить (контроль, испытания, голосование и т. п. )"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "通学する",
+          "furigana": "つうがくする",
+          "romaji": "tsūgaku suru",
+          "meaning": "ходить (ездить) в школу"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "提案する",
+          "furigana": "ていあんする",
+          "romaji": "teian suru",
+          "meaning": "предлагать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "抵抗する",
+          "furigana": "ていこうする",
+          "romaji": "teikō suru",
+          "meaning": "сопротивляться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "提出する",
+          "furigana": "ていしゅつする",
+          "romaji": "teishutsu suru",
+          "meaning": "подавать (заявку и т. п. )"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "適する",
+          "furigana": "てきする",
+          "romaji": "tekisuru",
+          "meaning": "соответствовать, подходить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "適用する",
+          "furigana": "てきようする",
+          "romaji": "tekiyō suru",
+          "meaning": "применять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "徹底する",
+          "furigana": "てっていする",
+          "romaji": "tettei suru",
+          "meaning": "проникаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "徹夜する",
+          "furigana": "てつやする",
+          "romaji": "tetsuya suru",
+          "meaning": "не спать всю ночь"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "到着する",
+          "furigana": "とうちゃくする",
+          "romaji": "tōchaku suru",
+          "meaning": "прибывать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "投票する",
+          "furigana": "とうひょうする",
+          "romaji": "tōhyō suru",
+          "meaning": "голосовать за кого-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "読書する",
+          "furigana": "どくしょする",
+          "romaji": "dokusho suru",
+          "meaning": "читать (книги)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "独立する",
+          "furigana": "どくりつする",
+          "romaji": "dokuritsu suru",
+          "meaning": "стоять отдельно"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "登山する",
+          "furigana": "とざんする",
+          "romaji": "tozan suru",
+          "meaning": "подниматься на гору"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "努力する",
+          "furigana": "どりょくする",
+          "romaji": "doryoku suru",
+          "meaning": "стараться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "納得する",
+          "furigana": "なっとくする",
+          "romaji": "nattoku suru",
+          "meaning": "согласиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "入場する",
+          "furigana": "にゅうじょうする",
+          "romaji": "nyūjō suru",
+          "meaning": "входить"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "熱中する",
+          "furigana": "ねっちゅうする",
+          "romaji": "netchū suru",
+          "meaning": "посвятить себя чему-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "配達する",
+          "furigana": "はいたつする",
+          "romaji": "haitatsu suru",
+          "meaning": "доставлять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "拍手する",
+          "furigana": "はくしゅする",
+          "romaji": "hakushu suru",
+          "meaning": "аплодировать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "爆発する",
+          "furigana": "ばくはつする",
+          "romaji": "bakuhatsu suru",
+          "meaning": "взрываться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "破産する",
+          "furigana": "はさんする",
+          "romaji": "hasan suru",
+          "meaning": "обанкротиться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "発見する",
+          "furigana": "はっけんする",
+          "romaji": "hakken suru",
+          "meaning": "открывать, обнаруживать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "発行する",
+          "furigana": "はっこうする",
+          "romaji": "hakkō suru",
+          "meaning": "издаваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "発車する",
+          "furigana": "はっしゃする",
+          "romaji": "hassha suru",
+          "meaning": "отправляться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "罰する",
+          "furigana": "ばっする",
+          "romaji": "bassuru",
+          "meaning": "наказывать; карать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "発達する",
+          "furigana": "はったつする",
+          "romaji": "hattatsu suru",
+          "meaning": "развиваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "発表する",
+          "furigana": "はっぴょうする",
+          "romaji": "happyō suru",
+          "meaning": "сообщать, публиковать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "発展する",
+          "furigana": "はってんする",
+          "romaji": "hatten suru",
+          "meaning": "процветать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "発明する",
+          "furigana": "はつめいする",
+          "romaji": "hatsumei suru",
+          "meaning": "изобретать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "反抗する",
+          "furigana": "はんこうする",
+          "romaji": "hankō suru",
+          "meaning": "бунтовать, восставать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "判断する",
+          "furigana": "はんだんする",
+          "romaji": "handan suru",
+          "meaning": "судить о чём-л"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "販売する",
+          "furigana": "はんばいする",
+          "romaji": "hanbai suru",
+          "meaning": "продавать, торговать чем-л."
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "比較する",
+          "furigana": "ひかくする",
+          "romaji": "hikaku suru",
+          "meaning": "сравнивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "飛行する",
+          "furigana": "ひこうする",
+          "romaji": "hikō suru",
+          "meaning": "летать (авиация)"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "否定する",
+          "furigana": "ひていする",
+          "romaji": "hitei suru",
+          "meaning": "отрицать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "批判する",
+          "furigana": "ひはんする",
+          "romaji": "hihan suru",
+          "meaning": "критиковать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "評価する",
+          "furigana": "ひょうかする",
+          "romaji": "hyōka suru",
+          "meaning": "оценивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "表現する",
+          "furigana": "ひょうげんする",
+          "romaji": "hyōgen suru",
+          "meaning": "выражать, проявлять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "不足する",
+          "furigana": "ふそくする",
+          "romaji": "fusoku suru",
+          "meaning": "испытывать недостаток в чём-л"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "分析する",
+          "furigana": "ぶんせきする",
+          "romaji": "bunseki suru",
+          "meaning": "анализировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "平均する",
+          "furigana": "へいきんする",
+          "romaji": "heikin suru",
+          "meaning": "сохранять равновесие"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "変化する",
+          "furigana": "へんかする",
+          "romaji": "henka suru",
+          "meaning": "варьироваться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "変更する",
+          "furigana": "へんこうする",
+          "romaji": "henkō suru",
+          "meaning": "менять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "冒険する",
+          "furigana": "ぼうけんする",
+          "romaji": "bōken suru",
+          "meaning": "рисковать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "報告する",
+          "furigana": "ほうこくする",
+          "romaji": "hōkoku suru",
+          "meaning": "докладывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "訪問する",
+          "furigana": "ほうもんする",
+          "romaji": "hōmon suru",
+          "meaning": "посещать, навещать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "保証する",
+          "furigana": "ほしょうする",
+          "romaji": "hoshō suru",
+          "meaning": "гарантировать, ручаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "保存する",
+          "furigana": "ほぞんする",
+          "romaji": "hozon suru",
+          "meaning": "сохранять"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "真似する",
+          "furigana": "まねする",
+          "romaji": "mane suru",
+          "meaning": "подражать"
+        }
+      ],
+      [
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "満足する",
+          "furigana": "まんぞくする",
+          "romaji": "manzoku suru",
+          "meaning": "быть удовлетворённым"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "無視する",
+          "furigana": "むしする",
+          "romaji": "mushi suru",
+          "meaning": "игнорировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "命令する",
+          "furigana": "めいれいする",
+          "romaji": "meirei suru",
+          "meaning": "приказывать, командовать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "優勝する",
+          "furigana": "ゆうしょうする",
+          "romaji": "yūshō suru",
+          "meaning": "одерживать победу"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "輸出する",
+          "furigana": "ゆしゅつする",
+          "romaji": "yushutsu suru",
+          "meaning": "вывозить, экспортировать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "要求する",
+          "furigana": "ようきゅうする",
+          "romaji": "yōkyū suru",
+          "meaning": "требовать, запрашивать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "用心する",
+          "furigana": "ようじんする",
+          "romaji": "yōjin suru",
+          "meaning": "остерегаться"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "予期する",
+          "furigana": "よきする",
+          "romaji": "yoki suru",
+          "meaning": "ожидать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "予測する",
+          "furigana": "よそくする",
+          "romaji": "yosoku suru",
+          "meaning": "предсказывать"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "予防する",
+          "furigana": "よぼうする",
+          "romaji": "yobō suru",
+          "meaning": "предотвращение"
+        },
+        {
+          "JLPT": "N3",
+          "type": "fukisokudoshi",
+          "kanji": "達する",
+          "furigana": "たっする",
+          "romaji": "tassuru",
+          "meaning": "достигать"
+        }
+      ]
+    ],
+    "form": {
+      "polite": {
+        "text": "",
+        "slug": "Вежливый стиль",
+        "base": "します, きます",
+        "negative": "しません, きません",
+        "past": "しました, きました",
+        "past_negative": " しませんでした, きませんでした",
+        "wishes": "したいです, きたうです (хочу делать)",
+        "imperative": "しましょう,きましょう(делайте что-то)",
+        "examples": [
+          "べんきょうします (изучать)",
+          "べんきょうしません (не изучать)",
+          "べんきょうしました (изучал)",
+          "べんきょうしませんでした (не изучал)",
+          "べんきょうしたいです (хочу изучать)",
+          "べんきょうしましょう (изучайте)"
+        ]
+      },
+      "negative": {
+        "text": "",
+        "slug": "Отрицание",
+        "base": "しない, こない",
+        "polite": "",
+        "examples": [
+          "がいしゅうしない (не выходить на улицу)",
+          "けっこんしない (не жениться, выходить замуж)",
+          "ちゅうもんしない (не заказывать)",
+          "りょうりしない (не готовить)",
+          "たんじょうしない (не рождаться)",
+          "こきゅうしない (не дышать)",
+          "べんきょうしない (не изучать)",
+          "さんぽしない (не гулять)"
+        ]
+      },
+      "past": {
+        "text": "",
+        "slug": "Прошлое",
+        "base": "した, きた",
+        "polite": "",
+        "examples": [
+          "がいしゅうした (выходил на улицу)",
+          "けっこんした (женился, вышла замуж)",
+          "ちゅうもんした (заказала)",
+          "りょうりした (приготовила)",
+          "たんじょうした (родился)",
+          "こきゅうした (дышал)",
+          "べんきょうした (изучал)",
+          "さんぽした (гулял)"
+        ]
+      },
+      "past_negative": {
+        "text": "",
+        "slug": "Прошлое отрицание",
+        "base": "しなかった, こなかった",
+        "polite": "",
+        "examples": [
+          "がいしゅうしなかった (не выходил на улицу)",
+          "けっこんしなかった (не женился, вышла замуж)",
+          "ちゅうもんしなかった (не заказала)",
+          "りょうりしなかった (не приготовила)",
+          "たんじょうしなかった (не родился)",
+          "こきゅうしなかった (не дышал)",
+          "べんきょうしなかった (не изучал)",
+          "さんぽしなかった (не гулял)"
+        ]
+      },
+      "te": {
+        "text": "",
+        "slug": "Соединительная",
+        "base": "して, きて",
+        "polite": "しています, してあります",
+        "examples": [
+          "がいしゅうして (хочу выходить на улицу)",
+          "けっこんして (хочу жениться, выходить замуж)",
+          "ちゅうもんして (хочу заказывать)",
+          "りょうりして (хочу готовить)",
+          "たんじょうして (хочу рождаться)",
+          "こきゅうして (хочу дышать)",
+          "べんきょうして (хочу изучать)",
+          "さんぽして (хочу гулять)"
+        ]
+      }
+    }
+  }
+]
