@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "1",
+    "list": [
+      {
+        "furigana": "一",
+        "romaji": "ichi",
+        "meaning": "один"
+      },
+      {
+        "furigana": "一時",
+        "romaji": "ichiji",
+        "meaning": "один час"
+      },
+      {
+        "furigana": "一年",
+        "romaji": "ichinen",
+        "meaning": "один год"
+      },
+      {
+        "furigana": "一月",
+        "romaji": "ichigatsu",
+        "meaning": "январь"
+      },
+      {
+        "furigana": "一つ",
+        "romaji": "hitotsu",
+        "meaning": "один"
+      },
+      {
+        "furigana": "一人",
+        "romaji": "hitori",
+        "meaning": "Один человек"
+      },
+      {
+        "furigana": "一日",
+        "romaji": "tsuitachi, ichinichi, ",
+        "meaning": "один день"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "list": [
+      {
+        "furigana": "右側",
+        "romaji": "usoku",
+        "meaning": "правая сторона"
+      },
+      {
+        "furigana": "右の",
+        "romaji": "migi",
+        "meaning": "с права"
+      },
+      {
+        "furigana": "右肩",
+        "romaji": "migikata",
+        "meaning": "правое плечо"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "list": [
+      {
+        "furigana": "雨林",
+        "romaji": "urin",
+        "meaning": "тропический лес"
+      },
+      {
+        "furigana": "雨",
+        "romaji": "ame",
+        "meaning": "дождь"
+      },
+      {
+        "furigana": "雨雲",
+        "romaji": "amagumo",
+        "meaning": "дождевое облако"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "list": [
+      {
+        "furigana": "円高",
+        "romaji": "endaka",
+        "meaning": "высокий курс иены"
+      },
+      {
+        "furigana": "円い",
+        "romaji": "marui",
+        "meaning": "круглый"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "list": [
+      {
+        "furigana": "王国",
+        "romaji": "ōkoku",
+        "meaning": "королевство"
+      },
+      {
+        "furigana": "王様",
+        "romaji": "ousama",
+        "meaning": "царь, король,"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "list": [
+      {
+        "furigana": "音",
+        "romaji": "on",
+        "meaning": " звук"
+      },
+      {
+        "furigana": "音楽",
+        "romaji": "ongaku",
+        "meaning": "музыка"
+      },
+      {
+        "furigana": "子音",
+        "romaji": "shiin",
+        "meaning": "согласный звук"
+      },
+      {
+        "furigana": "音",
+        "romaji": "oto [~ga suru]",
+        "meaning": "звук; шум, издавать звук"
+      },
+      {
+        "furigana": "音",
+        "romaji": "ne",
+        "meaning": "тон"
+      },
+      {
+        "furigana": "弱音",
+        "romaji": "yowane",
+        "meaning": "жалобы"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "list": [
+      {
+        "furigana": "下",
+        "romaji": "ka",
+        "meaning": "под"
+      },
+      {
+        "furigana": "地下",
+        "romaji": "chika",
+        "meaning": "подземный"
+      },
+      {
+        "furigana": "下男",
+        "romaji": "genan",
+        "meaning": "слуга"
+      },
+      {
+        "furigana": "下",
+        "romaji": "shita",
+        "meaning": "низ"
+      },
+      {
+        "furigana": "下",
+        "romaji": "shimo",
+        "meaning": "нижний"
+      },
+      {
+        "furigana": "下げる",
+        "romaji": "sageru",
+        "meaning": "спускать, вешать, носить (на цепочке)"
+      },
+      {
+        "furigana": "下がる",
+        "romaji": "sagaru",
+        "meaning": "свешиваться, свисать; спускаться;"
+      },
+      {
+        "furigana": "下る",
+        "romaji": "kudaru",
+        "meaning": "сдаться"
+      },
+      {
+        "furigana": "下す",
+        "romaji": "kudasu",
+        "meaning": "принять (решение)"
+      },
+      {
+        "furigana": "下さる",
+        "romaji": "kudasaru",
+        "meaning": "давать; дарить"
+      },
+      {
+        "furigana": "下ろす",
+        "romaji": "orosu",
+        "meaning": "опустить, понизить"
+      },
+      {
+        "furigana": "下りる",
+        "romaji": "oriru",
+        "meaning": "опускаться, падать"
+      },
+      {
+        "furigana": "下",
+        "romaji": "moto",
+        "meaning": "(послелог) под, по, при"
+      },
+      {
+        "furigana": "下手",
+        "romaji": "heta",
+        "meaning": "неумелый, бедный, неуклюжий"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "list": [
+      {
+        "furigana": "火曜日",
+        "romaji": "kayōbi",
+        "meaning": "Вторник"
+      },
+      {
+        "furigana": "火元",
+        "romaji": "himoto",
+        "meaning": "источник огня"
+      },
+      {
+        "furigana": "花火",
+        "romaji": "hanabi",
+        "meaning": "фейерверк"
+      },
+      {
+        "furigana": "火照る",
+        "romaji": "hoteru",
+        "meaning": "пылать"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "list": [
+      {
+        "furigana": "花園",
+        "romaji": "kaen",
+        "meaning": "цветочный сад"
+      },
+      {
+        "furigana": "花",
+        "romaji": "hana",
+        "meaning": "цветок"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "list": [
+      {
+        "furigana": "貝貨",
+        "romaji": "baika",
+        "meaning": "ракушки (как средство платежа)"
+      },
+      {
+        "furigana": "貝",
+        "romaji": "kai",
+        "meaning": "раковина; моллюск с раковиной"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "list": [
+      {
+        "furigana": "学",
+        "romaji": "gaku",
+        "meaning": "учение; знания; наука"
+      },
+      {
+        "furigana": "学校",
+        "romaji": "gakkō",
+        "meaning": "школа"
+      },
+      {
+        "furigana": "学習",
+        "romaji": "gakushū",
+        "meaning": "занятия"
+      },
+      {
+        "furigana": "学生",
+        "romaji": "gakusei",
+        "meaning": "студент"
+      },
+      {
+        "furigana": "留学",
+        "romaji": "ryūgaku",
+        "meaning": "обучение за границей"
+      },
+      {
+        "furigana": "独学",
+        "romaji": "dokugaku",
+        "meaning": "самообразование"
+      },
+      {
+        "furigana": "無学",
+        "romaji": "mugaku",
+        "meaning": "безграмотность"
+      },
+      {
+        "furigana": "科学",
+        "romaji": "kagaku",
+        "meaning": "наука"
+      },
+      {
+        "furigana": "物理学",
+        "romaji": "butsurigaku",
+        "meaning": "физика"
+      },
+      {
+        "furigana": "化学",
+        "romaji": "kagaku",
+        "meaning": "химия"
+      },
+      {
+        "furigana": "学ぶ",
+        "romaji": "manabu",
+        "meaning": "учиться, изучать"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "list": [
+      {
+        "furigana": "気体",
+        "romaji": "kitai",
+        "meaning": "газ"
+      },
+      {
+        "furigana": "気分",
+        "romaji": "kibun",
+        "meaning": "чувство, настроение"
+      },
+      {
+        "furigana": "気候",
+        "romaji": "kikou",
+        "meaning": "климат"
+      },
+      {
+        "furigana": "病気",
+        "romaji": "byoki",
+        "meaning": "болезнь"
+      },
+      {
+        "furigana": "電気",
+        "romaji": "denki",
+        "meaning": "электричество"
+      },
+      {
+        "furigana": "いい 気持ち",
+        "romaji": "ii kimochi",
+        "meaning": "хорошее настроение"
+      },
+      {
+        "furigana": "元気 ですか",
+        "romaji": "genki desuka",
+        "meaning": "всё отлично?"
+      },
+      {
+        "furigana": "気高い",
+        "romaji": "kedakai",
+        "meaning": "благородный"
+      },
+      {
+        "furigana": "塩気",
+        "romaji": "shioke",
+        "meaning": "солёный привкус"
+      },
+      {
+        "furigana": "寒気",
+        "romaji": "samuke",
+        "meaning": "ощущение холода"
+      },
+      {
+        "furigana": "陰気",
+        "romaji": "inki",
+        "meaning": "мрачность"
+      },
+      {
+        "furigana": "勇気",
+        "romaji": "yuki",
+        "meaning": "смелость, храбрость"
+      },
+      {
+        "furigana": "気さく",
+        "romaji": "kisaku",
+        "meaning": "искренний, открытый"
+      },
+      {
+        "furigana": "気にする",
+        "romaji": "ki-ni suru",
+        "meaning": "принимать близко к сердцу"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "list": [
+      {
+        "furigana": "九",
+        "romaji": "ku, kyu",
+        "meaning": "девять"
+      },
+      {
+        "furigana": "九個",
+        "romaji": "kyuko",
+        "meaning": "девять штук"
+      },
+      {
+        "furigana": "九時",
+        "romaji": "kuji",
+        "meaning": "девять часов"
+      },
+      {
+        "furigana": "九々",
+        "romaji": "kuku",
+        "meaning": "таблица умножения"
+      },
+      {
+        "furigana": "九月",
+        "romaji": "kugatsu",
+        "meaning": "сентябрь"
+      },
+      {
+        "furigana": "九つ",
+        "romaji": "kokonotsu",
+        "meaning": "девять"
+      },
+      {
+        "furigana": "九日",
+        "romaji": "kokonoka",
+        "meaning": "девять дней, девятое число"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "list": [
+      {
+        "furigana": "休日",
+        "romaji": "kyujitsu",
+        "meaning": "праздник"
+      },
+      {
+        "furigana": "休戦",
+        "romaji": "kyusen",
+        "meaning": "перемирие"
+      },
+      {
+        "furigana": "休業",
+        "romaji": "kyugyou",
+        "meaning": "закрыто (например, магазин)"
+      },
+      {
+        "furigana": "連休",
+        "romaji": "renkyu",
+        "meaning": "праздничные дни"
+      },
+      {
+        "furigana": "休む",
+        "romaji": "yasumu",
+        "meaning": "отдыхать"
+      },
+      {
+        "furigana": "休める",
+        "romaji": "yasumeru",
+        "meaning": "давать отдых, успокаивать"
+      },
+      {
+        "furigana": "お休みなさい",
+        "romaji": "o yasumi nasai",
+        "meaning": "спокойной ночи"
+      },
+      {
+        "furigana": "夏休み",
+        "romaji": "natsuyasumi",
+        "meaning": "летние каникулы"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "list": [
+      {
+        "furigana": "玉",
+        "romaji": "gyoku",
+        "meaning": "драгоценный камень, нефрит; яшма"
+      },
+      {
+        "furigana": "玉音",
+        "romaji": "gyokuon",
+        "meaning": "красивый голос; красивый звук"
+      },
+      {
+        "furigana": "玉音",
+        "romaji": "gyokuin",
+        "meaning": "звон драгоценных камней"
+      },
+      {
+        "furigana": "玉門",
+        "romaji": "gyokumon",
+        "meaning": "красивые, декоративно украшенные ворота"
+      },
+      {
+        "furigana": "玉砕をする",
+        "romaji": "gyokusai osuru",
+        "meaning": "предпочесть смерть бесчестью"
+      },
+      {
+        "furigana": "青玉",
+        "romaji": "seigyoku",
+        "meaning": "сапфир"
+      },
+      {
+        "furigana": "玉",
+        "romaji": "tama",
+        "meaning": "драгоценный камень, шар, сфера, глобус"
+      },
+      {
+        "furigana": "玉石",
+        "romaji": "tamaishi",
+        "meaning": "круглый камень"
+      },
+      {
+        "furigana": "水玉",
+        "romaji": "mizutama",
+        "meaning": "капля воды"
+      },
+      {
+        "furigana": "お年玉",
+        "romaji": "otoshidama",
+        "meaning": "Новогодний подарок"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "list": [
+      {
+        "furigana": "金曜日",
+        "romaji": "kinyobi",
+        "meaning": "пятница"
+      },
+      {
+        "furigana": "金星",
+        "romaji": "kinsei",
+        "meaning": "Венера"
+      },
+      {
+        "furigana": "金魚",
+        "romaji": "kingyo",
+        "meaning": "золотая рыбка"
+      },
+      {
+        "furigana": "金色",
+        "romaji": "kiniro, konjiki",
+        "meaning": "золотой цвет"
+      },
+      {
+        "furigana": "お金",
+        "romaji": "okane",
+        "meaning": "деньги"
+      },
+      {
+        "furigana": "金持ち",
+        "romaji": "kanemochi",
+        "meaning": "богач"
+      },
+      {
+        "furigana": "現金な人",
+        "romaji": "genkina hito",
+        "meaning": "меркантильный человек"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "list": [
+      {
+        "furigana": "空気",
+        "romaji": "kuki",
+        "meaning": "воздух"
+      },
+      {
+        "furigana": "空間",
+        "romaji": "kūkan",
+        "meaning": "пространство"
+      },
+      {
+        "furigana": "空車",
+        "romaji": "kūsha",
+        "meaning": "свободная машина (такси), свободные места на автостоянке"
+      },
+      {
+        "furigana": "空想",
+        "romaji": "kūsō",
+        "meaning": "фантазия"
+      },
+      {
+        "furigana": "空港",
+        "romaji": "kuko",
+        "meaning": "аэропорт"
+      },
+      {
+        "furigana": "おおい空",
+        "romaji": "ooi sora",
+        "meaning": "огромное небо"
+      },
+      {
+        "furigana": "空言",
+        "romaji": "soragoto",
+        "meaning": "ложь"
+      },
+      {
+        "furigana": "空箱",
+        "romaji": "karabako",
+        "meaning": "пустая коробка"
+      },
+      {
+        "furigana": "空元気",
+        "romaji": "karagenki",
+        "meaning": "бравада"
+      },
+      {
+        "furigana": "空",
+        "romaji": "kara",
+        "meaning": "пустой, полый"
+      },
+      {
+        "furigana": "空き",
+        "romaji": "aki",
+        "meaning": "пустой промежуток, свободное место, отверстие"
+      },
+      {
+        "furigana": "空き家",
+        "romaji": "akiya",
+        "meaning": "пустой дом"
+      },
+      {
+        "furigana": "空ける",
+        "romaji": "akeru",
+        "meaning": "освобождать"
+      },
+      {
+        "furigana": "空しい",
+        "romaji": "munashii",
+        "meaning": "пустой,напрасный, тщетный,безжизненный, мёртвый"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "list": [
+      {
+        "furigana": "一月",
+        "romaji": "ichigatsu",
+        "meaning": "январь"
+      },
+      {
+        "furigana": "月曜",
+        "romaji": "getsuyou",
+        "meaning": "понедельник"
+      },
+      {
+        "furigana": "先月",
+        "romaji": "sengetsu",
+        "meaning": "последняя неделя"
+      },
+      {
+        "furigana": "正月",
+        "romaji": "shōgatsu",
+        "meaning": "Новый год"
+      },
+      {
+        "furigana": "一年の最初の月は一月です",
+        "romaji": "ichinen no saisyono tsuki wa ichigatsu desu",
+        "meaning": "январь - первый месяц года "
+      },
+      {
+        "furigana": "一月は雪が降る",
+        "romaji": "ichigatsu wa yuki ga furu",
+        "meaning": "Снег идет в январе"
+      },
+      {
+        "furigana": "つき",
+        "romaji": "tsuki",
+        "meaning": "луна, месяц"
+      },
+      {
+        "furigana": "毎月",
+        "romaji": "maitsuki",
+        "meaning": "каждый месяц"
+      },
+      {
+        "furigana": "年月",
+        "romaji": "toshitsuki",
+        "meaning": "месяца и года"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "list": [
+      {
+        "furigana": "畜犬",
+        "romaji": "chikuken",
+        "meaning": "домашний пес"
+      },
+      {
+        "furigana": "野犬",
+        "romaji": "yaken",
+        "meaning": "бродячая собака"
+      },
+      {
+        "furigana": "狂犬",
+        "romaji": "kyōken",
+        "meaning": "бешеная собака"
+      },
+      {
+        "furigana": "犬歯",
+        "romaji": "kenshi",
+        "meaning": "клык"
+      },
+      {
+        "furigana": "犬神",
+        "romaji": "inugami",
+        "meaning": "страшный собачий бог"
+      },
+      {
+        "furigana": "犬小屋",
+        "romaji": "inugoya",
+        "meaning": "собачья конура"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "list": [
+      {
+        "furigana": "見学",
+        "romaji": "kengaku",
+        "meaning": "экскурсия"
+      },
+      {
+        "furigana": "見物",
+        "romaji": "kenbutsu",
+        "meaning": "достопримечательности"
+      },
+      {
+        "furigana": "見解",
+        "romaji": "kenkai",
+        "meaning": "мнение"
+      },
+      {
+        "furigana": "外見",
+        "romaji": "gaiken",
+        "meaning": "внешний вид"
+      },
+      {
+        "furigana": "一見",
+        "romaji": "ikken",
+        "meaning": "посмотри, мельком"
+      },
+      {
+        "furigana": "見る",
+        "romaji": "miru",
+        "meaning": "смотреть, видеть, наблюдать"
+      },
+      {
+        "furigana": "見える",
+        "romaji": "mieru",
+        "meaning": "мочь видеть, казаться, быть на виду"
+      },
+      {
+        "furigana": "見せしめ",
+        "romaji": "miseshime",
+        "meaning": "пример для других"
+      },
+      {
+        "furigana": "見事",
+        "romaji": "migoto",
+        "meaning": "великолепный"
+      },
+      {
+        "furigana": "花見",
+        "romaji": "hanami",
+        "meaning": "любование цветами"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "list": [
+      {
+        "furigana": "五",
+        "romaji": "go",
+        "meaning": "пять"
+      },
+      {
+        "furigana": "五月",
+        "romaji": "gogatsu",
+        "meaning": "май"
+      },
+      {
+        "furigana": "五人",
+        "romaji": "gonin",
+        "meaning": "пять человек"
+      },
+      {
+        "furigana": "五つ",
+        "romaji": "itsu",
+        "meaning": "пять"
+      },
+      {
+        "furigana": "五日",
+        "romaji": "itsuka",
+        "meaning": "пятый день месяца"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "list": [
+      {
+        "furigana": "口蓋",
+        "romaji": "kōgai",
+        "meaning": "нёбо"
+      },
+      {
+        "furigana": "口語",
+        "romaji": "kōgo",
+        "meaning": "разговорный язык"
+      },
+      {
+        "furigana": "人口",
+        "romaji": "jinkō",
+        "meaning": "население"
+      },
+      {
+        "furigana": "入口",
+        "romaji": "iriguchi",
+        "meaning": "вход"
+      },
+      {
+        "furigana": "出口",
+        "romaji": "deguchi",
+        "meaning": "выход"
+      },
+      {
+        "furigana": "口",
+        "romaji": "kuchi",
+        "meaning": " рот, отверстие, щель, отверстие, горлышко"
+      },
+      {
+        "furigana": "口当たり",
+        "romaji": "kuchiatari",
+        "meaning": "вкус"
+      },
+      {
+        "furigana": "口紅",
+        "romaji": "kuchibeni",
+        "meaning": "помада"
+      },
+      {
+        "furigana": "悪口",
+        "romaji": "warukuchi, waruguchi, akkō",
+        "meaning": "злословие"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "list": [
+      {
+        "furigana": "校",
+        "romaji": "ko",
+        "meaning": "школа, доказательство"
+      },
+      {
+        "furigana": "校歌",
+        "romaji": "kouka",
+        "meaning": "школьная песня"
+      },
+      {
+        "furigana": "校訂",
+        "romaji": "kōtei",
+        "meaning": "переработка"
+      },
+      {
+        "furigana": "学校",
+        "romaji": "gakkō",
+        "meaning": "школа"
+      },
+      {
+        "furigana": "校長",
+        "romaji": "kōchō",
+        "meaning": "директор школы"
+      },
+      {
+        "furigana": "校則",
+        "romaji": "kōsoku",
+        "meaning": "школьные правила"
+      },
+      {
+        "furigana": "警察学校",
+        "romaji": "keisatsu gakkō",
+        "meaning": "полицейская академия"
+      },
+      {
+        "furigana": "私立学校",
+        "romaji": "shiritsu gakkō",
+        "meaning": "частная школа"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "list": [
+      {
+        "furigana": "左折",
+        "romaji": "sasetsu wo suru",
+        "meaning": "поворачивать налево"
+      },
+      {
+        "furigana": "左翼",
+        "romaji": "sayoku",
+        "meaning": "левое крыло"
+      },
+      {
+        "furigana": "左様なら",
+        "romaji": "sayonara",
+        "meaning": "до свидания"
+      },
+      {
+        "furigana": "証左",
+        "romaji": "shōsa",
+        "meaning": "подтверждение"
+      },
+      {
+        "furigana": "左側",
+        "romaji": "hidarigawa",
+        "meaning": "левый; левая сторона"
+      },
+      {
+        "furigana": "左利き",
+        "romaji": "hidariki",
+        "meaning": " левша; пьющий; любитель вина"
+      },
+      {
+        "furigana": "左手",
+        "romaji": "hidarite",
+        "meaning": "левая рука"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "list": [
+      {
+        "furigana": "三",
+        "romaji": "san",
+        "meaning": "три"
+      },
+      {
+        "furigana": "三時",
+        "romaji": "sanji",
+        "meaning": "три часа"
+      },
+      {
+        "furigana": "三月",
+        "romaji": "sangatsu",
+        "meaning": "март"
+      },
+      {
+        "furigana": "三度",
+        "romaji": "sando",
+        "meaning": "три раза"
+      },
+      {
+        "furigana": "三つ",
+        "romaji": "mittsu",
+        "meaning": "три"
+      },
+      {
+        "furigana": "三日",
+        "romaji": "mikka",
+        "meaning": "три дня"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "list": [
+      {
+        "furigana": "山岳",
+        "romaji": "sangaku",
+        "meaning": "горы"
+      },
+      {
+        "furigana": "山林",
+        "romaji": "sanrin",
+        "meaning": "горный лес"
+      },
+      {
+        "furigana": "火山",
+        "romaji": "kazan",
+        "meaning": "вулкан"
+      },
+      {
+        "furigana": "富士山",
+        "romaji": "fujisan",
+        "meaning": "гора Фудзи"
+      },
+      {
+        "furigana": "山火事",
+        "romaji": "yamakaji",
+        "meaning": "лесной пожар"
+      },
+      {
+        "furigana": "山荒し",
+        "romaji": "yamaarashi",
+        "meaning": "дикобраз"
+      },
+      {
+        "furigana": "山登り",
+        "romaji": "yamanobori",
+        "meaning": "подъём на гору"
+      },
+      {
+        "furigana": "山葵",
+        "romaji": "wasabi",
+        "meaning": "васаби"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "list": [
+      {
+        "furigana": "四",
+        "romaji": "shi",
+        "meaning": "четыре"
+      },
+      {
+        "furigana": "四月",
+        "romaji": "shigatsu",
+        "meaning": "апрель"
+      },
+      {
+        "furigana": "四",
+        "romaji": "yon",
+        "meaning": "четыре"
+      },
+      {
+        "furigana": "四つ",
+        "romaji": "yotsu",
+        "meaning": "четыре"
+      },
+      {
+        "furigana": "四日",
+        "romaji": "yokka",
+        "meaning": "четыре дня, червертый день месяца"
+      },
+      {
+        "furigana": "四時",
+        "romaji": "yoji",
+        "meaning": "четыре часа"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "list": [
+      {
+        "furigana": "子息",
+        "romaji": "shisoku",
+        "meaning": "[ваш, его, её] сын"
+      },
+      {
+        "furigana": "子孫",
+        "romaji": "shison",
+        "meaning": "потомки, потомство"
+      },
+      {
+        "furigana": "原子",
+        "romaji": "genshi",
+        "meaning": "атом"
+      },
+      {
+        "furigana": "精子",
+        "romaji": "seishi",
+        "meaning": "сперматозоид"
+      },
+      {
+        "furigana": "椅子",
+        "romaji": "isu",
+        "meaning": "стул"
+      },
+      {
+        "furigana": "子",
+        "romaji": "ko",
+        "meaning": "ребёнок; детёныш"
+      },
+      {
+        "furigana": "子供",
+        "romaji": "kodomo",
+        "meaning": "ребёнок"
+      },
+      {
+        "furigana": "男の子",
+        "romaji": "otokonoko",
+        "meaning": "мальчик"
+      },
+      {
+        "furigana": "女の子",
+        "romaji": "onnanoko",
+        "meaning": "девочка"
+      },
+      {
+        "furigana": "竹の子",
+        "romaji": "takenoko",
+        "meaning": "побеги бамбука"
+      },
+      {
+        "furigana": "子",
+        "romaji": "ne",
+        "meaning": "Крыса (знак китайского зодиака) "
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "list": [
+      {
+        "furigana": "製糸",
+        "romaji": "seishi",
+        "meaning": "шёлкопрядение"
+      },
+      {
+        "furigana": "綿糸",
+        "romaji": "menshi",
+        "meaning": "хлопчатобумажная пряжа"
+      },
+      {
+        "furigana": "絹糸",
+        "romaji": "kenshi, kinuito",
+        "meaning": "шёлковая нить"
+      },
+      {
+        "furigana": "糸",
+        "romaji": "ito",
+        "meaning": "нить, нитка; леска"
+      },
+      {
+        "furigana": "釣糸",
+        "romaji": "tsuriito",
+        "meaning": "леска"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "list": [
+      {
+        "furigana": "漢字",
+        "romaji": "kanji",
+        "meaning": "китайский иероглиф"
+      },
+      {
+        "furigana": "数字",
+        "romaji": "sūji",
+        "meaning": "цифра"
+      },
+      {
+        "furigana": "文字",
+        "romaji": "moji",
+        "meaning": "буква"
+      },
+      {
+        "furigana": "名字",
+        "romaji": "myōji",
+        "meaning": "фамилия"
+      },
+      {
+        "furigana": "字体",
+        "romaji": "jitai",
+        "meaning": "начертание иероглифа"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "list": [
+      {
+        "furigana": "耳鼻科",
+        "romaji": "jibika",
+        "meaning": "отоларингология"
+      },
+      {
+        "furigana": "耳朶",
+        "romaji": "jida, mimitabu",
+        "meaning": "мочка уха"
+      },
+      {
+        "furigana": "内耳",
+        "romaji": "naiji",
+        "meaning": "внутреннее ухо"
+      },
+      {
+        "furigana": "外耳",
+        "romaji": "gaiji",
+        "meaning": "ушная раковина"
+      },
+      {
+        "furigana": "耳垢",
+        "romaji": "mimiaka",
+        "meaning": "ушная сера"
+      },
+      {
+        "furigana": "両耳",
+        "romaji": "ryōmimi",
+        "meaning": "оба уха"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "list": [
+      {
+        "furigana": "七",
+        "romaji": "shichi",
+        "meaning": "семь"
+      },
+      {
+        "furigana": "七月",
+        "romaji": "shichigatsu",
+        "meaning": "июль"
+      },
+      {
+        "furigana": "七面鳥",
+        "romaji": "shichimencho",
+        "meaning": "индюк"
+      },
+      {
+        "furigana": "七",
+        "romaji": "nana",
+        "meaning": "семь"
+      },
+      {
+        "furigana": "七つ",
+        "romaji": "nanatsu",
+        "meaning": "семь"
+      },
+      {
+        "furigana": "七日",
+        "romaji": "nanoka",
+        "meaning": "семь дней, седьмое число (месяца)"
+      },
+      {
+        "furigana": "七色",
+        "romaji": "nanairo, shichishoku",
+        "meaning": "семь цветов [радуги]"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "list": [
+      {
+        "furigana": "車両",
+        "romaji": "sharyō",
+        "meaning": "транспортные средства"
+      },
+      {
+        "furigana": "車輪",
+        "romaji": "sharin",
+        "meaning": "колесо"
+      },
+      {
+        "furigana": "電車",
+        "romaji": "densha",
+        "meaning": "электропоезд"
+      },
+      {
+        "furigana": "風車",
+        "romaji": "kazaguruma",
+        "meaning": "ветряная мельница, вертушка из бумаги"
+      },
+      {
+        "furigana": "猫車",
+        "romaji": "nekoguruma",
+        "meaning": "тачка"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "list": [
+      {
+        "furigana": "手術",
+        "romaji": "shujutsu",
+        "meaning": "хирургическая операция"
+      },
+      {
+        "furigana": "手腕",
+        "romaji": "shuwan",
+        "meaning": "способности"
+      },
+      {
+        "furigana": "上手",
+        "romaji": "jōzu",
+        "meaning": "умелый"
+      },
+      {
+        "furigana": "下手",
+        "romaji": "heta",
+        "meaning": "неумелый"
+      },
+      {
+        "furigana": "拍手",
+        "romaji": "hakushu",
+        "meaning": "аплодисменты"
+      },
+      {
+        "furigana": "手首",
+        "romaji": "tekubi",
+        "meaning": "запястье"
+      },
+      {
+        "furigana": "空手",
+        "romaji": "karate",
+        "meaning": "пустые руки"
+      },
+      {
+        "furigana": "手始め",
+        "romaji": "tehajime",
+        "meaning": "начало"
+      },
+      {
+        "furigana": "手厳しい",
+        "romaji": "tekibishii",
+        "meaning": "суровый"
+      },
+      {
+        "furigana": "手元",
+        "romaji": "temoto",
+        "meaning": "под рукой, поблизости"
+      },
+      {
+        "furigana": "手数",
+        "romaji": "tesū",
+        "meaning": "беспокойство"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "list": [
+      {
+        "furigana": "十",
+        "romaji": "juu",
+        "meaning": "десять"
+      },
+      {
+        "furigana": "十時",
+        "romaji": "jyuji",
+        "meaning": "десять часов"
+      },
+      {
+        "furigana": "十月",
+        "romaji": "jyugatsu",
+        "meaning": "октябрь"
+      },
+      {
+        "furigana": "十分",
+        "romaji": "jippun, juppun",
+        "meaning": "десять минут"
+      },
+      {
+        "furigana": "十",
+        "romaji": "too",
+        "meaning": "десять"
+      },
+      {
+        "furigana": "十日",
+        "romaji": "tooka",
+        "meaning": "10-е число месяца"
+      },
+      {
+        "furigana": "二十歳",
+        "romaji": "hatachi",
+        "meaning": "двадцать лет"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "list": [
+      {
+        "furigana": "出発",
+        "romaji": "shuppatsu",
+        "meaning": "отправление"
+      },
+      {
+        "furigana": "出産",
+        "romaji": "shussan",
+        "meaning": "роды"
+      },
+      {
+        "furigana": "出納",
+        "romaji": "suitō",
+        "meaning": "расходы и поступления"
+      },
+      {
+        "furigana": "出口",
+        "romaji": "deguchi",
+        "meaning": "выход"
+      },
+      {
+        "furigana": "出し",
+        "romaji": "dashi",
+        "meaning": "бульон; суп, предлог, отговорка;"
+      },
+      {
+        "furigana": "出でる ",
+        "romaji": "ideru",
+        "meaning": "выходить"
+      },
+      {
+        "furigana": "出す",
+        "romaji": "dasu",
+        "meaning": "выставлять; вытаскивать"
+      },
+      {
+        "furigana": "出る",
+        "romaji": "deru",
+        "meaning": "выходить, появляться; присутствовать"
+      },
+      {
+        "furigana": "思い出す",
+        "romaji": "omoidasu",
+        "meaning": "вспоминать"
+      },
+      {
+        "furigana": "考え出す",
+        "romaji": "kangaedasu",
+        "meaning": "придумывать, задумываться"
+      },
+      {
+        "furigana": "思い出す",
+        "romaji": "omoidasu",
+        "meaning": "вспоминать"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "list": [
+      {
+        "furigana": "女性",
+        "romaji": "josei",
+        "meaning": "женщина, женский пол"
+      },
+      {
+        "furigana": "彼女",
+        "romaji": "kanojo",
+        "meaning": "она"
+      },
+      {
+        "furigana": "女人",
+        "romaji": "nyonin",
+        "meaning": "женщины"
+      },
+      {
+        "furigana": "女の人",
+        "romaji": "onnanohito",
+        "meaning": "женщина"
+      },
+      {
+        "furigana": "女の子",
+        "romaji": "onnanoko",
+        "meaning": "девочка"
+      },
+      {
+        "furigana": "女神",
+        "romaji": "megami",
+        "meaning": "богиня"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "list": [
+      {
+        "furigana": "小児",
+        "romaji": "shouni",
+        "meaning": "младенец"
+      },
+      {
+        "furigana": "小説",
+        "romaji": "shousetsu",
+        "meaning": "роман, рассказ"
+      },
+      {
+        "furigana": "小惑星",
+        "romaji": "shōwakusei",
+        "meaning": "астероид"
+      },
+      {
+        "furigana": "小さい",
+        "romaji": "chiisai",
+        "meaning": "маленький, небольшой; мелкий"
+      },
+      {
+        "furigana": "小人",
+        "romaji": "kobito",
+        "meaning": "карлик"
+      },
+      {
+        "furigana": "小指",
+        "romaji": "koyubi",
+        "meaning": "мизинец"
+      },
+      {
+        "furigana": "小麦",
+        "romaji": "komugi",
+        "meaning": "пшеница"
+      },
+      {
+        "furigana": "小父さん",
+        "romaji": "ojisan",
+        "meaning": "мужчина среднего возраста"
+      },
+      {
+        "furigana": "小母さん",
+        "romaji": "obasan",
+        "meaning": "Тётя"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "list": [
+      {
+        "furigana": "うえ",
+        "romaji": "ue",
+        "meaning": "вверх, над"
+      },
+      {
+        "furigana": "上手な",
+        "romaji": "jyosuna",
+        "meaning": "хорош в чем-то"
+      },
+      {
+        "furigana": "屋上",
+        "romaji": "okujyou",
+        "meaning": "крыша"
+      },
+      {
+        "furigana": "上る",
+        "romaji": "noboru",
+        "meaning": "подняться, карабкаться вверх"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "list": [
+      {
+        "furigana": "人々",
+        "romaji": "hitobito",
+        "meaning": "люди, народ"
+      },
+      {
+        "furigana": "人となり",
+        "romaji": "hitotonari",
+        "meaning": "натура, характер"
+      },
+      {
+        "furigana": "人種",
+        "romaji": "jinshu",
+        "meaning": "раса"
+      },
+      {
+        "furigana": "外人",
+        "romaji": "gaijin",
+        "meaning": "иностранец"
+      },
+      {
+        "furigana": "日本人",
+        "romaji": "nihonjin",
+        "meaning": "японец"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "list": [
+      {
+        "furigana": "水曜日",
+        "romaji": "suiyobi",
+        "meaning": "среда"
+      },
+      {
+        "furigana": "水道",
+        "romaji": "suidō",
+        "meaning": "водопровод"
+      },
+      {
+        "furigana": "水源",
+        "romaji": "suigen",
+        "meaning": "источник воды"
+      },
+      {
+        "furigana": "香水",
+        "romaji": "kōsui",
+        "meaning": "духи, парфюм"
+      },
+      {
+        "furigana": "水中",
+        "romaji": "suichu",
+        "meaning": "в воде"
+      },
+      {
+        "furigana": "水",
+        "romaji": "mizu",
+        "meaning": "вода; холодная вода"
+      },
+      {
+        "furigana": "水溜まり",
+        "romaji": "mizutamari",
+        "meaning": "лужа"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "list": [
+      {
+        "furigana": "生",
+        "romaji": "sei",
+        "meaning": "жизнь, существование"
+      },
+      {
+        "furigana": "生活",
+        "romaji": "seikatsu",
+        "meaning": "жизнь"
+      },
+      {
+        "furigana": "生物学",
+        "romaji": "seibutsugaku",
+        "meaning": "биология"
+      },
+      {
+        "furigana": "生じる",
+        "romaji": "shojiru",
+        "meaning": "возникать; происходить, порождать; вызывать"
+      },
+      {
+        "furigana": "生きる",
+        "romaji": "ikiru",
+        "meaning": "жить, быть живым"
+      },
+      {
+        "furigana": "生かす",
+        "romaji": "ikasu",
+        "meaning": "оживлять; оставлять в живых"
+      },
+      {
+        "furigana": "生き物",
+        "romaji": "ikimono",
+        "meaning": "живое существо"
+      },
+      {
+        "furigana": "生身",
+        "romaji": "namami",
+        "meaning": "живой человек"
+      },
+      {
+        "furigana": "生える",
+        "romaji": "haeru",
+        "meaning": "расти (о растениях; волосах, ногтях, зубах, крыльях)"
+      },
+      {
+        "furigana": "生まれる",
+        "romaji": "umareru",
+        "meaning": "родиться"
+      },
+      {
+        "furigana": "生む",
+        "romaji": "umu",
+        "meaning": "рождать, приносить"
+      },
+      {
+        "furigana": "生る",
+        "romaji": "naru",
+        "meaning": "плодоносить"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "list": [
+      {
+        "furigana": "夕陽",
+        "romaji": "sekiyō",
+        "meaning": "заходящее солнце"
+      },
+      {
+        "furigana": "夕; 夕べ",
+        "romaji": "yūbe, yu",
+        "meaning": "вечер"
+      },
+      {
+        "furigana": "夕方",
+        "romaji": "yūgata",
+        "meaning": "вечер"
+      },
+      {
+        "furigana": "夕映え",
+        "romaji": "yūbae",
+        "meaning": "вечерний свет"
+      },
+      {
+        "furigana": "夕刊",
+        "romaji": "yūkan",
+        "meaning": "вечерний выпуск (газеты)"
+      },
+      {
+        "furigana": "昨夕",
+        "romaji": "sakyu",
+        "meaning": "Вчера вечером"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "list": [
+      {
+        "furigana": "先",
+        "romaji": "sen",
+        "meaning": " будущее, преимущество; инициатива"
+      },
+      {
+        "furigana": "先生",
+        "romaji": "sensei",
+        "meaning": "учитель"
+      },
+      {
+        "furigana": "先見",
+        "romaji": "senken",
+        "meaning": "дальновидность"
+      },
+      {
+        "furigana": "先月",
+        "romaji": "sengetsu",
+        "meaning": "прошлый месяц"
+      },
+      {
+        "furigana": "先",
+        "romaji": "saki",
+        "meaning": "кончик, остриё, далее, впереди чего-л., будущее, дальнейшее"
+      },
+      {
+        "furigana": "先頃",
+        "romaji": "sakigoro",
+        "meaning": "недавно"
+      },
+      {
+        "furigana": "宛先",
+        "romaji": "atesaki",
+        "meaning": "адрес"
+      },
+      {
+        "furigana": "旅行先",
+        "romaji": "ryokousaki",
+        "meaning": "место назначения"
+      },
+      {
+        "furigana": "指先",
+        "romaji": "yubisaki",
+        "meaning": "кончики пальцев"
+      },
+      {
+        "furigana": "先ず",
+        "romaji": "mazu",
+        "meaning": "сначала, прежде всего"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "list": [
+      {
+        "furigana": "千万",
+        "romaji": "senman",
+        "meaning": "десять миллионов"
+      },
+      {
+        "furigana": "千古",
+        "romaji": "senko",
+        "meaning": "глубокая древность, вечность"
+      },
+      {
+        "furigana": "千代",
+        "romaji": "chiyo",
+        "meaning": "тысяча поколений"
+      },
+      {
+        "furigana": "千々に",
+        "romaji": "chidi-ni",
+        "meaning": "вдребезги"
+      },
+      {
+        "furigana": "千島列島",
+        "romaji": "chishimatettou",
+        "meaning": "Курильские острова"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "list": [
+      {
+        "furigana": "山川",
+        "romaji": "sansen",
+        "meaning": "горы и реки"
+      },
+      {
+        "furigana": "川口",
+        "romaji": "kawaguchi",
+        "meaning": "устье"
+      },
+      {
+        "furigana": "川獺",
+        "romaji": "kawauso",
+        "meaning": "выдра"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "list": [
+      {
+        "furigana": "先",
+        "romaji": "sen",
+        "meaning": " будущее, преимущество; инициатива"
+      },
+      {
+        "furigana": "先生",
+        "romaji": "sensei",
+        "meaning": "учитель"
+      },
+      {
+        "furigana": "先見",
+        "romaji": "senken",
+        "meaning": "дальновидность"
+      },
+      {
+        "furigana": "先月",
+        "romaji": "sengetsu",
+        "meaning": "прошлый месяц"
+      },
+      {
+        "furigana": "先",
+        "romaji": "saki",
+        "meaning": "кончик, остриё, далее, впереди чего-л., будущее, дальнейшее"
+      },
+      {
+        "furigana": "先頃",
+        "romaji": "sakigoro",
+        "meaning": "недавно"
+      },
+      {
+        "furigana": "宛先",
+        "romaji": "atesaki",
+        "meaning": "адрес"
+      },
+      {
+        "furigana": "旅行先",
+        "romaji": "ryokousaki",
+        "meaning": "место назначения"
+      },
+      {
+        "furigana": "指先",
+        "romaji": "yubisaki",
+        "meaning": "кончики пальцев"
+      },
+      {
+        "furigana": "先ず",
+        "romaji": "mazu",
+        "meaning": "сначала, прежде всего"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "list": [
+      {
+        "furigana": "早朝",
+        "romaji": "sōchō",
+        "meaning": "раннее утро"
+      },
+      {
+        "furigana": "早速",
+        "romaji": "sassoku",
+        "meaning": "немедленно"
+      },
+      {
+        "furigana": "早急",
+        "romaji": "sakkyū",
+        "meaning": "срочный"
+      },
+      {
+        "furigana": "早い",
+        "romaji": "hayai",
+        "meaning": "ранний; рано, быстрый, скорый"
+      },
+      {
+        "furigana": "早める",
+        "romaji": "hayameru",
+        "meaning": "ускорять, приближать"
+      },
+      {
+        "furigana": "お早う",
+        "romaji": "o-hayō",
+        "meaning": "доброе утро!"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "list": [
+      {
+        "furigana": "草木 ",
+        "romaji": "sōmoku",
+        "meaning": "деревья и травы"
+      },
+      {
+        "furigana": "煙草",
+        "romaji": "tabako",
+        "meaning": "табак"
+      },
+      {
+        "furigana": "本草",
+        "romaji": "honzō",
+        "meaning": "растения"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "list": [
+      {
+        "furigana": "男性",
+        "romaji": "dansei",
+        "meaning": "мужской пол"
+      },
+      {
+        "furigana": "男子",
+        "romaji": "danshi",
+        "meaning": "юноша"
+      },
+      {
+        "furigana": "長男",
+        "romaji": "chōnan",
+        "meaning": "старший сын"
+      },
+      {
+        "furigana": "次男",
+        "romaji": "jinan",
+        "meaning": "второй сын"
+      },
+      {
+        "furigana": "三男",
+        "romaji": "sannan",
+        "meaning": "третий сын"
+      },
+      {
+        "furigana": "男",
+        "romaji": "otoko",
+        "meaning": "мужчина; парень"
+      },
+      {
+        "furigana": "男の人",
+        "romaji": "otokonohito",
+        "meaning": "мужчина"
+      },
+      {
+        "furigana": "男の子",
+        "romaji": "otokonoko",
+        "meaning": "мальчик"
+      },
+      {
+        "furigana": "男らしい",
+        "romaji": "otokorashii",
+        "meaning": "мужской, маскулинный"
+      },
+      {
+        "furigana": "男っぽい",
+        "romaji": "otokoppoi",
+        "meaning": "мужеподобный"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "list": [
+      {
+        "furigana": "中央",
+        "romaji": "chūō",
+        "meaning": "центр"
+      },
+      {
+        "furigana": "中国",
+        "romaji": "chūgoku",
+        "meaning": "Китай"
+      },
+      {
+        "furigana": "一年中",
+        "romaji": "ichinenjyu",
+        "meaning": "весь год"
+      },
+      {
+        "furigana": "一日中",
+        "romaji": "ichinichijū",
+        "meaning": "целый день"
+      },
+      {
+        "furigana": "中",
+        "romaji": "naka",
+        "meaning": "середина, внутренняя часть"
+      },
+      {
+        "furigana": "中でも",
+        "romaji": "nakademo",
+        "meaning": "особенно, главным образом"
+      },
+      {
+        "furigana": "中る",
+        "romaji": "ataru",
+        "meaning": " попадать (в цель)"
+      },
+      {
+        "furigana": "中",
+        "romaji": "uchi",
+        "meaning": "внутри; пока, в течение. . ."
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "list": [
+      {
+        "furigana": "虫垂",
+        "romaji": "chūsui",
+        "meaning": "аппендикс"
+      },
+      {
+        "furigana": "昆虫",
+        "romaji": "konchū",
+        "meaning": "насекомые"
+      },
+      {
+        "furigana": "虫",
+        "romaji": "mushi",
+        "meaning": "насекомое; червь, гусеница; паразиты"
+      },
+      {
+        "furigana": "虫歯",
+        "romaji": "mushiba",
+        "meaning": "испорченный зуб"
+      },
+      {
+        "furigana": "毛虫",
+        "romaji": "kemushi",
+        "meaning": "волосатая гусеница"
+      },
+      {
+        "furigana": "兜虫",
+        "romaji": "kabutomushi",
+        "meaning": "жук"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "list": [
+      {
+        "furigana": "天",
+        "romaji": "ten",
+        "meaning": "небо, небеса"
+      },
+      {
+        "furigana": "天文",
+        "romaji": "tenmon",
+        "meaning": "небесные явления"
+      },
+      {
+        "furigana": "天体",
+        "romaji": "tentai",
+        "meaning": "небесное тело"
+      },
+      {
+        "furigana": "天気",
+        "romaji": "tenki",
+        "meaning": "погода"
+      },
+      {
+        "furigana": "晴天",
+        "romaji": "seiten",
+        "meaning": "ясная погода"
+      },
+      {
+        "furigana": "雨天",
+        "romaji": "uten",
+        "meaning": "дождливая погода"
+      },
+      {
+        "furigana": "天使",
+        "romaji": "tenshi",
+        "meaning": "ангел"
+      },
+      {
+        "furigana": "天国",
+        "romaji": "tengoku",
+        "meaning": "рай"
+      },
+      {
+        "furigana": "天災",
+        "romaji": "tensai",
+        "meaning": "стихийное бедствие"
+      },
+      {
+        "furigana": "天井",
+        "romaji": "tenjō",
+        "meaning": "потолок"
+      },
+      {
+        "furigana": "天",
+        "romaji": "ame",
+        "meaning": "небо"
+      },
+      {
+        "furigana": "天の河",
+        "romaji": "amanogawa",
+        "meaning": "Млечный Путь"
+      },
+      {
+        "furigana": "天地",
+        "romaji": "ametsuchi",
+        "meaning": "небо и земля"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "list": [
+      {
+        "furigana": "土曜日",
+        "romaji": "doyobi",
+        "meaning": "Суббота"
+      },
+      {
+        "furigana": "土星",
+        "romaji": "dosei",
+        "meaning": "Сатурн"
+      },
+      {
+        "furigana": "泥土",
+        "romaji": "deido",
+        "meaning": "грязь"
+      },
+      {
+        "furigana": "本土",
+        "romaji": "hondo",
+        "meaning": "материк"
+      },
+      {
+        "furigana": "土地",
+        "romaji": "tochi",
+        "meaning": "земля"
+      },
+      {
+        "furigana": "土",
+        "romaji": "tsuchi",
+        "meaning": "земля"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "list": [
+      {
+        "furigana": "二",
+        "romaji": "ni",
+        "meaning": "два"
+      },
+      {
+        "furigana": "二時",
+        "romaji": "niji",
+        "meaning": "два часа"
+      },
+      {
+        "furigana": "二月",
+        "romaji": "nigatsu",
+        "meaning": "февраль"
+      },
+      {
+        "furigana": "二つ",
+        "romaji": "futatsu",
+        "meaning": "два"
+      },
+      {
+        "furigana": "二日",
+        "romaji": "futsuka",
+        "meaning": "два дня, 2-е число месяца"
+      },
+      {
+        "furigana": "二人",
+        "romaji": "futari",
+        "meaning": "два человека"
+      },
+      {
+        "furigana": "二十日",
+        "romaji": "hatsuka",
+        "meaning": "двадцать дней, двадцатое число (месяца)"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "list": [
+      {
+        "furigana": "日曜",
+        "romaji": "nichiyo",
+        "meaning": "Воскресенье"
+      },
+      {
+        "furigana": "数日",
+        "romaji": "sujitsu",
+        "meaning": "несколько дней"
+      },
+      {
+        "furigana": "日",
+        "romaji": "hi",
+        "meaning": "день, солнце"
+      },
+      {
+        "furigana": "日々",
+        "romaji": "hibi",
+        "meaning": "ежедневно; день за днём"
+      },
+      {
+        "furigana": "休日",
+        "romaji": "kyuujitsu",
+        "meaning": "праздничный день"
+      },
+      {
+        "furigana": "誕生日",
+        "romaji": "tanjobi",
+        "meaning": "день рождения"
+      },
+      {
+        "furigana": "今日",
+        "romaji": "kyou",
+        "meaning": "сегодня"
+      },
+      {
+        "furigana": "明日",
+        "romaji": "ashita",
+        "meaning": "завтра"
+      },
+      {
+        "furigana": "昨日",
+        "romaji": "kinou",
+        "meaning": "вчера"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "list": [
+      {
+        "furigana": "入場",
+        "romaji": "nyūjō",
+        "meaning": "вход"
+      },
+      {
+        "furigana": "入国",
+        "romaji": "nyūkoku",
+        "meaning": "въезд в страну"
+      },
+      {
+        "furigana": "入院",
+        "romaji": "nyūin",
+        "meaning": "госпитализация"
+      },
+      {
+        "furigana": "入れ墨",
+        "romaji": "irezumi",
+        "meaning": "татуировка"
+      },
+      {
+        "furigana": "入口",
+        "romaji": "iriguchi",
+        "meaning": "вход"
+      },
+      {
+        "furigana": "入る",
+        "romaji": "iru",
+        "meaning": "входить; вступать, садиться (о солнце)"
+      },
+      {
+        "furigana": "入れる",
+        "romaji": "ireru",
+        "meaning": "вкладывать, вставлять"
+      },
+      {
+        "furigana": "這入る",
+        "romaji": "hairu",
+        "meaning": "входить, проникать, поступать"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "list": [
+      {
+        "furigana": "年期",
+        "romaji": "nenki",
+        "meaning": "срок найма"
+      },
+      {
+        "furigana": "年代",
+        "romaji": "nendai",
+        "meaning": "годы"
+      },
+      {
+        "furigana": "一年",
+        "romaji": "ichinen",
+        "meaning": "один год"
+      },
+      {
+        "furigana": "来年",
+        "romaji": "kotoshi, konnen",
+        "meaning": "этот год"
+      },
+      {
+        "furigana": "去年",
+        "romaji": "kyonen",
+        "meaning": "прошлый год"
+      },
+      {
+        "furigana": "来年",
+        "romaji": "rainen",
+        "meaning": "будущий год"
+      },
+      {
+        "furigana": "生年",
+        "romaji": "seinen",
+        "meaning": "год рождения"
+      },
+      {
+        "furigana": "年",
+        "romaji": "toshi",
+        "meaning": "год"
+      },
+      {
+        "furigana": "年寄り",
+        "romaji": "toshiyori",
+        "meaning": "пожилой человек"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "list": [
+      {
+        "furigana": "八",
+        "romaji": "hachi",
+        "meaning": "восемь"
+      },
+      {
+        "furigana": "八月",
+        "romaji": "hachigatsu",
+        "meaning": "август"
+      },
+      {
+        "furigana": "八丁",
+        "romaji": "hatcho",
+        "meaning": "умение"
+      },
+      {
+        "furigana": "八つ",
+        "romaji": "yatsu",
+        "meaning": "восемь"
+      },
+      {
+        "furigana": "八百屋",
+        "romaji": "yaoya",
+        "meaning": "овощная лавка"
+      },
+      {
+        "furigana": "八日",
+        "romaji": "youka",
+        "meaning": "8-е число месяца"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "list": [
+      {
+        "furigana": "百",
+        "romaji": "hyaku",
+        "meaning": "сто"
+      },
+      {
+        "furigana": "百円",
+        "romaji": "hyakuen",
+        "meaning": "сто иен"
+      },
+      {
+        "furigana": "百万",
+        "romaji": "hyakuman",
+        "meaning": "миллион"
+      },
+      {
+        "furigana": "百足",
+        "romaji": "mukade",
+        "meaning": "многоножка"
+      },
+      {
+        "furigana": "百夜",
+        "romaji": "momoyo",
+        "meaning": "мгого ночей"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "list": [
+      {
+        "furigana": "木曜日",
+        "romaji": "mokuyoubi",
+        "meaning": "четверг"
+      },
+      {
+        "furigana": "木星",
+        "romaji": "mokusei",
+        "meaning": "Юпитер"
+      },
+      {
+        "furigana": "草木",
+        "romaji": "sōmoku",
+        "meaning": "деревья и травы"
+      },
+      {
+        "furigana": "木剣",
+        "romaji": "bokken",
+        "meaning": "деревянный меч"
+      },
+      {
+        "furigana": "木々",
+        "romaji": "kigi",
+        "meaning": "каждое дерево; деревья"
+      },
+      {
+        "furigana": "植木",
+        "romaji": "ueki",
+        "meaning": "растение"
+      },
+      {
+        "furigana": "木陰",
+        "romaji": "kokage",
+        "meaning": "тень деревьев"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "list": [
+      {
+        "furigana": "本",
+        "romaji": "moto",
+        "meaning": "корни дерева"
+      },
+      {
+        "furigana": "本能",
+        "romaji": "honnō",
+        "meaning": "инстинк"
+      },
+      {
+        "furigana": "資本",
+        "romaji": "shihon",
+        "meaning": "капитал"
+      },
+      {
+        "furigana": "本当",
+        "romaji": "hontō",
+        "meaning": "правда"
+      },
+      {
+        "furigana": "本音",
+        "romaji": "honne",
+        "meaning": "истинные мотивы, намерения"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "list": [
+      {
+        "furigana": "夕陽",
+        "romaji": "sekiyō",
+        "meaning": "заходящее солнце"
+      },
+      {
+        "furigana": "夕; 夕べ",
+        "romaji": "yūbe, yu",
+        "meaning": "вечер"
+      },
+      {
+        "furigana": "夕方",
+        "romaji": "yūgata",
+        "meaning": "вечер"
+      },
+      {
+        "furigana": "夕映え",
+        "romaji": "yūbae",
+        "meaning": "вечерний свет"
+      },
+      {
+        "furigana": "夕刊",
+        "romaji": "yūkan",
+        "meaning": "вечерний выпуск (газеты)"
+      },
+      {
+        "furigana": "昨夕",
+        "romaji": "sakyu",
+        "meaning": "Вчера вечером"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "list": [
+      {
+        "furigana": "立像",
+        "romaji": "ritsuzō",
+        "meaning": "статуя"
+      },
+      {
+        "furigana": "立証",
+        "romaji": "risshō",
+        "meaning": "доказательство"
+      },
+      {
+        "furigana": "立つ",
+        "romaji": "tatsu",
+        "meaning": "стоять; вставать"
+      },
+      {
+        "furigana": "立てる",
+        "romaji": "tateru",
+        "meaning": "вставать, ставить, устанавливать, воздвигать, поднять"
+      },
+      {
+        "furigana": "独立",
+        "romaji": "dokuritsu",
+        "meaning": "независимость"
+      },
+      {
+        "furigana": "私立",
+        "romaji": "shiritsu",
+        "meaning": "частное заведение"
+      },
+      {
+        "furigana": "私立",
+        "romaji": "kondae",
+        "meaning": "меню"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "list": [
+      {
+        "furigana": "努力",
+        "romaji": "doryoku",
+        "meaning": "старания"
+      },
+      {
+        "furigana": "兵力",
+        "romaji": "heiryoku",
+        "meaning": "военная мощь"
+      },
+      {
+        "furigana": "圧力",
+        "romaji": "atsuryoku",
+        "meaning": "давление"
+      },
+      {
+        "furigana": "力作",
+        "romaji": "rikisaku",
+        "meaning": "замечательная работа"
+      },
+      {
+        "furigana": "念力",
+        "romaji": "nenriki",
+        "meaning": "сила воли"
+      },
+      {
+        "furigana": "馬力",
+        "romaji": "bariki",
+        "meaning": "лошадиная сила"
+      },
+      {
+        "furigana": "力む",
+        "romaji": "rikimu",
+        "meaning": "стараться, силиться, хвастаться; грозиться"
+      },
+      {
+        "furigana": "力",
+        "romaji": "chikara",
+        "meaning": "сила, усилия, старания"
+      },
+      {
+        "furigana": "力添え",
+        "romaji": "chikarazoe",
+        "meaning": "помощь"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "list": [
+      {
+        "furigana": "林檎",
+        "romaji": "ringo",
+        "meaning": "яблоко"
+      },
+      {
+        "furigana": "林業",
+        "romaji": "ringyō",
+        "meaning": "лесоводство"
+      },
+      {
+        "furigana": "竹林",
+        "romaji": "chikurin",
+        "meaning": "бамбуковая роща"
+      },
+      {
+        "furigana": "林",
+        "romaji": "hayashi",
+        "meaning": "роща, лес"
+      },
+      {
+        "furigana": "松林",
+        "romaji": "matsubayashi",
+        "meaning": "сосновая роща"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "list": [
+      {
+        "furigana": "六",
+        "romaji": "roku",
+        "meaning": "шесть"
+      },
+      {
+        "furigana": "六月",
+        "romaji": "rokugatsu",
+        "meaning": "июнь"
+      },
+      {
+        "furigana": "六百",
+        "romaji": "roppyaku",
+        "meaning": "шестьсот"
+      },
+      {
+        "furigana": "六合",
+        "romaji": "rikugo",
+        "meaning": "вселенная, космос"
+      },
+      {
+        "furigana": "六つ",
+        "romaji": "mutsu",
+        "meaning": "шесть"
+      },
+      {
+        "furigana": "六日",
+        "romaji": "muika",
+        "meaning": "шесть дней, шестое число (месяца)"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "list": [
+      {
+        "furigana": "引力",
+        "romaji": "inryoku",
+        "meaning": "притяжение, привлекательность"
+      },
+      {
+        "furigana": "引退",
+        "romaji": "intai",
+        "meaning": "отставка"
+      },
+      {
+        "furigana": "引く",
+        "romaji": "hiku",
+        "meaning": "тянуть"
+      },
+      {
+        "furigana": "引き",
+        "romaji": "hiki",
+        "meaning": "протекция, скидка, уступка"
+      },
+      {
+        "furigana": "字引",
+        "romaji": "jibiki",
+        "meaning": "словарь"
+      },
+      {
+        "furigana": "福引",
+        "romaji": "fukubiki",
+        "meaning": "лотерея"
+      },
+      {
+        "furigana": "引ける",
+        "romaji": "hikeru",
+        "meaning": "закрываться"
+      },
+      {
+        "furigana": "引け",
+        "romaji": "hike",
+        "meaning": "время окончания работы, поражение; потери"
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "list": [
+      {
+        "furigana": "羽毛",
+        "romaji": "umō",
+        "meaning": "перья"
+      },
+      {
+        "furigana": "羽",
+        "romaji": "hane",
+        "meaning": "перо; оперение, крылья"
+      },
+      {
+        "furigana": "羽織",
+        "romaji": "haori",
+        "meaning": "хаори"
+      },
+      {
+        "furigana": "兎六羽",
+        "romaji": "usagi roppa",
+        "meaning": "шесть кроликов"
+      },
+      {
+        "furigana": "千羽鶴",
+        "romaji": "senbaduru",
+        "meaning": "тысяча бумажных журавликов"
+      },
+      {
+        "furigana": "鳩一羽",
+        "romaji": "hato ichiwa",
+        "meaning": "один голубь"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "list": [
+      {
+        "furigana": "雲丹",
+        "romaji": "uni",
+        "meaning": "морской ёж"
+      },
+      {
+        "furigana": "雲景",
+        "romaji": "unkei",
+        "meaning": "облачный пейзаж"
+      },
+      {
+        "furigana": "風雲",
+        "romaji": "fūun",
+        "meaning": "ветер и тучи"
+      },
+      {
+        "furigana": "雲",
+        "romaji": "kumo",
+        "meaning": "облако, туча"
+      },
+      {
+        "furigana": "雨雲",
+        "romaji": "amagumo",
+        "meaning": "дождевое облако"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "list": [
+      {
+        "furigana": "公園",
+        "romaji": "kōen",
+        "meaning": "общественный парк"
+      },
+      {
+        "furigana": "動物園",
+        "romaji": "dōbutsuen",
+        "meaning": "зоопарк"
+      },
+      {
+        "furigana": "果樹園",
+        "romaji": "kajuen",
+        "meaning": "фруктовый сад"
+      },
+      {
+        "furigana": "楽園",
+        "romaji": "rakuen",
+        "meaning": "рай"
+      },
+      {
+        "furigana": "園",
+        "romaji": "sono",
+        "meaning": "сад"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "list": [
+      {
+        "furigana": "遠慮",
+        "romaji": "enryo",
+        "meaning": "дальновидность"
+      },
+      {
+        "furigana": "遠征",
+        "romaji": "ensei",
+        "meaning": "экспедиция"
+      },
+      {
+        "furigana": "久遠",
+        "romaji": "kuon",
+        "meaning": "вечность"
+      },
+      {
+        "furigana": "遠い",
+        "romaji": "tooi",
+        "meaning": "далёкий; далеко"
+      },
+      {
+        "furigana": "遠くに",
+        "romaji": "tookuni",
+        "meaning": "вдали, далеко"
+      },
+      {
+        "furigana": "遠くから",
+        "romaji": "tookukara",
+        "meaning": "издали, издалека"
+      },
+      {
+        "furigana": "遠ざかる",
+        "romaji": "toozakaru",
+        "meaning": "отдаляться, держаться на расстоянии"
+      },
+      {
+        "furigana": "遠ざける",
+        "romaji": "toozakeru",
+        "meaning": "воздерживаться; избегать"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "list": [
+      {
+        "furigana": "幾何学",
+        "romaji": "kikagaku",
+        "meaning": "геометрия"
+      },
+      {
+        "furigana": "如何ですか。",
+        "romaji": "ikagadesu ka?",
+        "meaning": "как?каким образом?"
+      },
+      {
+        "furigana": "何処",
+        "romaji": "doko",
+        "meaning": "где?"
+      },
+      {
+        "furigana": "何故",
+        "romaji": "naze",
+        "meaning": "почему?"
+      },
+      {
+        "furigana": "何方",
+        "romaji": "dochira, donata",
+        "meaning": "который?; кто?"
+      },
+      {
+        "furigana": "何時",
+        "romaji": "itsu",
+        "meaning": "когда?"
+      },
+      {
+        "furigana": "何",
+        "romaji": "nani, nan",
+        "meaning": "что"
+      },
+      {
+        "furigana": "何か",
+        "romaji": "nanika",
+        "meaning": "что-нибудь, что-то"
+      },
+      {
+        "furigana": "何も",
+        "romaji": "nanimo",
+        "meaning": "ничего"
+      },
+      {
+        "furigana": "何で",
+        "romaji": "nande",
+        "meaning": "почему?, отчего?"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "list": [
+      {
+        "furigana": "科学",
+        "romaji": "kagaku",
+        "meaning": "наука"
+      },
+      {
+        "furigana": "外科",
+        "romaji": "geka",
+        "meaning": "хирургия"
+      },
+      {
+        "furigana": "猫科",
+        "romaji": "nekoka",
+        "meaning": "кошачьи"
+      },
+      {
+        "furigana": "科料",
+        "romaji": "karyō",
+        "meaning": "штраф"
+      },
+      {
+        "furigana": "罪科",
+        "romaji": "zaika",
+        "meaning": "преступление"
+      },
+      {
+        "furigana": "科",
+        "romaji": "ka",
+        "meaning": "факультет, отделение"
+      },
+      {
+        "furigana": "科する",
+        "romaji": "kasuru",
+        "meaning": "налагать"
+      },
+      {
+        "furigana": "科",
+        "romaji": "shina",
+        "meaning": "кокетство"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "list": [
+      {
+        "furigana": "夏期",
+        "romaji": "kaki",
+        "meaning": "летний период"
+      },
+      {
+        "furigana": "夏休み",
+        "romaji": "natsuyasumi",
+        "meaning": "летние каникулы"
+      },
+      {
+        "furigana": "夏至",
+        "romaji": "geshi",
+        "meaning": "летнее солнцестояние"
+      },
+      {
+        "furigana": "初夏",
+        "romaji": "shoka",
+        "meaning": "начало лета"
+      },
+      {
+        "furigana": "夏",
+        "romaji": "natsu",
+        "meaning": "лето"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "list": [
+      {
+        "furigana": "家族",
+        "romaji": "kazoku",
+        "meaning": "семья"
+      },
+      {
+        "furigana": "作家",
+        "romaji": "sakka",
+        "meaning": "писатель"
+      },
+      {
+        "furigana": "家主",
+        "romaji": "yanushi",
+        "meaning": "домовладелец"
+      },
+      {
+        "furigana": "政治家",
+        "romaji": "seijika",
+        "meaning": "политик"
+      },
+      {
+        "furigana": "家具",
+        "romaji": "kagu",
+        "meaning": "мебель"
+      },
+      {
+        "furigana": "人家",
+        "romaji": "jinka",
+        "meaning": "жилище"
+      },
+      {
+        "furigana": "家",
+        "romaji": "ie",
+        "meaning": "дом, здание; помещение"
+      },
+      {
+        "furigana": "家の",
+        "romaji": "uchino",
+        "meaning": "мой дом"
+      },
+      {
+        "furigana": "家々",
+        "romaji": "ieie",
+        "meaning": "дома"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "list": [
+      {
+        "furigana": "歌手",
+        "romaji": "kashu",
+        "meaning": "певец"
+      },
+      {
+        "furigana": "歌舞伎",
+        "romaji": "kabuki",
+        "meaning": "Кабуки (японский классический театр)"
+      },
+      {
+        "furigana": "国歌",
+        "romaji": "kokka",
+        "meaning": "государственный гимн"
+      },
+      {
+        "furigana": "和歌",
+        "romaji": "waka",
+        "meaning": "японские стихи"
+      },
+      {
+        "furigana": "歌",
+        "romaji": "uta",
+        "meaning": "песня"
+      },
+      {
+        "furigana": "歌う",
+        "romaji": "utau",
+        "meaning": "петь"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "list": [
+      {
+        "furigana": "画家",
+        "romaji": "gaka",
+        "meaning": "художник"
+      },
+      {
+        "furigana": "映画",
+        "romaji": "eiga",
+        "meaning": "кинофильм"
+      },
+      {
+        "furigana": "漫画",
+        "romaji": "manga",
+        "meaning": "комиксы"
+      },
+      {
+        "furigana": "画策",
+        "romaji": "kakusaku",
+        "meaning": "планирование"
+      },
+      {
+        "furigana": "映画狂",
+        "romaji": "eiga kyoo",
+        "meaning": "любитель кино"
+      },
+      {
+        "furigana": "画",
+        "romaji": "e",
+        "meaning": "картина"
+      },
+      {
+        "furigana": "画く",
+        "romaji": "egaku",
+        "meaning": "рисовать"
+      },
+      {
+        "furigana": "画する",
+        "romaji": "kakusuru",
+        "meaning": "чертить; разграничивать"
+      },
+      {
+        "furigana": "画数",
+        "romaji": "kakusu",
+        "meaning": "количество черт (в иероглифе)"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "list": [
+      {
+        "furigana": "回転",
+        "romaji": "kaiten",
+        "meaning": "вращение"
+      },
+      {
+        "furigana": "回想",
+        "romaji": "kaisō",
+        "meaning": "воспоминаниe"
+      },
+      {
+        "furigana": "回答",
+        "romaji": "kaitō",
+        "meaning": "ответ"
+      },
+      {
+        "furigana": "回",
+        "romaji": "kai",
+        "meaning": "раз"
+      },
+      {
+        "furigana": "一回",
+        "romaji": "ikkai",
+        "meaning": "один раз"
+      },
+      {
+        "furigana": "今回",
+        "romaji": "konkai",
+        "meaning": "в этот раз"
+      },
+      {
+        "furigana": "脳回",
+        "romaji": "nōkai",
+        "meaning": "мозговая извилина"
+      },
+      {
+        "furigana": "回る",
+        "romaji": "mawaru",
+        "meaning": "кружиться, вертеться, вращаться"
+      },
+      {
+        "furigana": "回す",
+        "romaji": "mawasu",
+        "meaning": "вертеть, крутить, вращать"
+      },
+      {
+        "furigana": "回り道",
+        "romaji": "mawari michi",
+        "meaning": "объезд, обходной путь"
+      },
+      {
+        "furigana": "回り",
+        "romaji": "mawari",
+        "meaning": "окружность, окрестности, соседство"
+      },
+      {
+        "furigana": "回し",
+        "romaji": "mawashi",
+        "meaning": "пояс (борца сумо), накидка, плащ"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "list": [
+      {
+        "furigana": "会見",
+        "romaji": "kaiken",
+        "meaning": "встреча"
+      },
+      {
+        "furigana": "会話",
+        "romaji": "kaiwa",
+        "meaning": "разговор"
+      },
+      {
+        "furigana": "密会",
+        "romaji": "mikkai",
+        "meaning": "тайная встреча"
+      },
+      {
+        "furigana": "国会",
+        "romaji": "kokkai",
+        "meaning": "парламент"
+      },
+      {
+        "furigana": "協会",
+        "romaji": "kyōkai",
+        "meaning": "общество"
+      },
+      {
+        "furigana": "学会",
+        "romaji": "gakkai",
+        "meaning": "научное общество"
+      },
+      {
+        "furigana": "会得",
+        "romaji": "etoku",
+        "meaning": "понимание"
+      },
+      {
+        "furigana": "会",
+        "romaji": "kai",
+        "meaning": "заседание, собрание; кружок"
+      },
+      {
+        "furigana": "会する",
+        "romaji": "kaisuru",
+        "meaning": "собираться, встречаться; сливаться"
+      },
+      {
+        "furigana": "会う",
+        "romaji": "au",
+        "meaning": "встречать [ся]"
+      },
+      {
+        "furigana": "会わせる",
+        "romaji": "awaseru",
+        "meaning": " заставить (кого-то) встретиться, позволить (кому-то) встретиться"
+      },
+      {
+        "furigana": "出会う",
+        "romaji": "teau",
+        "meaning": "случайно встретиься, пересечься"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "list": [
+      {
+        "furigana": "海岸",
+        "romaji": "kaigan",
+        "meaning": "морской берег"
+      },
+      {
+        "furigana": "黄海",
+        "romaji": "kōkai",
+        "meaning": "Жёлтое море"
+      },
+      {
+        "furigana": "日本海",
+        "romaji": "nihonkai",
+        "meaning": "Японское море"
+      },
+      {
+        "furigana": "海老",
+        "romaji": "ebi",
+        "meaning": "креветка"
+      },
+      {
+        "furigana": "海豚",
+        "romaji": "iruka",
+        "meaning": "дельфин"
+      },
+      {
+        "furigana": "海豹",
+        "romaji": "azarashi",
+        "meaning": "тюлень"
+      },
+      {
+        "furigana": "海月",
+        "romaji": "kurage",
+        "meaning": "медуза"
+      },
+      {
+        "furigana": "海星",
+        "romaji": "hitode",
+        "meaning": "морская звезда"
+      },
+      {
+        "furigana": "海象",
+        "romaji": "seiuchi",
+        "meaning": "морж"
+      },
+      {
+        "furigana": "海",
+        "romaji": "umi",
+        "meaning": "море"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "list": [
+      {
+        "furigana": "絵画",
+        "romaji": "kaiga",
+        "meaning": "картины"
+      },
+      {
+        "furigana": "絵画館",
+        "romaji": "kaigakan",
+        "meaning": "арт или картинная галерея"
+      },
+      {
+        "furigana": "絵本",
+        "romaji": "ehon",
+        "meaning": "книга в картинках"
+      },
+      {
+        "furigana": "絵図",
+        "romaji": "ezu",
+        "meaning": "рисунок"
+      },
+      {
+        "furigana": "絵物語",
+        "romaji": "emonogatari",
+        "meaning": "фоторепортаж"
+      },
+      {
+        "furigana": "絵",
+        "romaji": "e",
+        "meaning": "рисунок"
+      },
+      {
+        "furigana": "絵葉書",
+        "romaji": "ehagaki",
+        "meaning": "открытка с рисуноком"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "list": [
+      {
+        "furigana": "外見",
+        "romaji": "gaiken",
+        "meaning": "внешний вид"
+      },
+      {
+        "furigana": "外科",
+        "romaji": "geka",
+        "meaning": "хирургия"
+      },
+      {
+        "furigana": "外国",
+        "romaji": "gaikoku",
+        "meaning": "иностранное государство"
+      },
+      {
+        "furigana": "海外",
+        "romaji": "kaigai",
+        "meaning": "зарубежные страны"
+      },
+      {
+        "furigana": "例外",
+        "romaji": "reigai",
+        "meaning": "исключение"
+      },
+      {
+        "furigana": "外",
+        "romaji": "soto",
+        "meaning": "улица, открытый воздух, снаружи, на улице"
+      },
+      {
+        "furigana": "外",
+        "romaji": "hoka",
+        "meaning": "другой"
+      },
+      {
+        "furigana": "外れる",
+        "romaji": "hazureru",
+        "meaning": "соскакивать; соскальзывать"
+      },
+      {
+        "furigana": "外れ",
+        "romaji": "hazure",
+        "meaning": "край, оконечность, окраина"
+      },
+      {
+        "furigana": "町外れ",
+        "romaji": "machihazure",
+        "meaning": "окраина города"
+      },
+      {
+        "furigana": "町の外れの古い神社",
+        "romaji": "machi no hazure no furui jinjya",
+        "meaning": "на окраине города старое святилище"
+      },
+      {
+        "furigana": "外す",
+        "romaji": "hazusu",
+        "meaning": "отцеплять; разъединять, распускать"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "list": [
+      {
+        "furigana": "角材",
+        "romaji": "kakuzai",
+        "meaning": "брус"
+      },
+      {
+        "furigana": "三角",
+        "romaji": "sankaku",
+        "meaning": "треугольный"
+      },
+      {
+        "furigana": "角錐",
+        "romaji": "kakusui",
+        "meaning": "пирамида"
+      },
+      {
+        "furigana": "一角獣",
+        "romaji": "ikkakujū",
+        "meaning": "единорог"
+      },
+      {
+        "furigana": "角逐",
+        "romaji": "kakuchiku",
+        "meaning": "соревноваться"
+      },
+      {
+        "furigana": "角力",
+        "romaji": "sumō",
+        "meaning": "борьба сумо"
+      },
+      {
+        "furigana": "角",
+        "romaji": "kaku",
+        "meaning": "угол,квадрат,балка, брус"
+      },
+      {
+        "furigana": "角",
+        "romaji": "kado",
+        "meaning": "угловатость; резкость"
+      },
+      {
+        "furigana": "角",
+        "romaji": "tsuno",
+        "meaning": "рог, рога"
+      },
+      {
+        "furigana": "牛の角はりっぱだ",
+        "romaji": "ushi no TSUNO wa rippada",
+        "meaning": "Рога у коровы великолепные."
+      },
+      {
+        "furigana": "アリは触角があります",
+        "romaji": "Ari wa SHOKKAKU ga arimasu",
+        "meaning": "У муравьев есть усики"
+      },
+      {
+        "furigana": "角",
+        "romaji": "sumi",
+        "meaning": "[внутренний] угол"
+      },
+      {
+        "furigana": "角ぐむ",
+        "romaji": "tsunogumu",
+        "meaning": "пускать ростки"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "list": [
+      {
+        "furigana": "楽団",
+        "romaji": "gakudan",
+        "meaning": "оркестр"
+      },
+      {
+        "furigana": "音楽",
+        "romaji": "ongaku",
+        "meaning": "музыка"
+      },
+      {
+        "furigana": "楽園",
+        "romaji": "rakuen",
+        "meaning": "рай"
+      },
+      {
+        "furigana": "娯楽",
+        "romaji": "goraku",
+        "meaning": "развлечение"
+      },
+      {
+        "furigana": "楽ちん ",
+        "romaji": "rakuchin",
+        "meaning": "весело"
+      },
+      {
+        "furigana": "楽",
+        "romaji": "raku",
+        "meaning": "приятный, лёгкий, легко, привольно, удобно"
+      },
+      {
+        "furigana": "行楽",
+        "romaji": "kouraku",
+        "meaning": "прогулка, экскурсия, увеселительная поездка"
+      },
+      {
+        "furigana": "楽しい",
+        "romaji": "tanoshii",
+        "meaning": "радостный; весёлый; приятный"
+      },
+      {
+        "furigana": "楽しい思い出",
+        "romaji": "tanoshiiomoide",
+        "meaning": "расчастливые воспоминания, сладкие воспоминания"
+      },
+      {
+        "furigana": "楽しむ",
+        "romaji": "tanoshimu",
+        "meaning": "находить удовольствие, наслаждаться"
+      },
+      {
+        "furigana": "楽しみ",
+        "romaji": "tanoshimi",
+        "meaning": "удовольствие; развлечение"
+      },
+      {
+        "furigana": "独楽",
+        "romaji": "koma",
+        "meaning": "волчок"
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "list": [
+      {
+        "furigana": "活動",
+        "romaji": "katsudō",
+        "meaning": "деятельность"
+      },
+      {
+        "furigana": "生活",
+        "romaji": "seikatsu",
+        "meaning": "жизнь, существование, быт"
+      },
+      {
+        "furigana": "活",
+        "romaji": "KATSU",
+        "meaning": "оживление, приведение в чувство"
+      },
+      {
+        "furigana": "活用",
+        "romaji": "katsuyō",
+        "meaning": "практическое применение"
+      },
+      {
+        "furigana": "活きる",
+        "romaji": "ikiru",
+        "meaning": "жить, быть живым"
+      },
+      {
+        "furigana": "活かす",
+        "romaji": "ikasu",
+        "meaning": "оживлять; оставлять в живых"
+      },
+      {
+        "furigana": "活ける",
+        "romaji": "ikeru",
+        "meaning": "расставлять цветы, делать икэбану, держать живым"
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "list": [
+      {
+        "furigana": "間隔",
+        "romaji": "kankaku",
+        "meaning": "промежуток"
+      },
+      {
+        "furigana": "時間",
+        "romaji": "jikan",
+        "meaning": "промежуток времени"
+      },
+      {
+        "furigana": "眉間",
+        "romaji": "miken",
+        "meaning": "середина лба"
+      },
+      {
+        "furigana": "間",
+        "romaji": "aida",
+        "meaning": "промежуток, интервал; расстояние, период времени"
+      },
+      {
+        "furigana": "間",
+        "romaji": "ma",
+        "meaning": "свободное место; промежуток"
+      },
+      {
+        "furigana": "間もなく",
+        "romaji": "mamonaku",
+        "meaning": "вскоре, скоро"
+      },
+      {
+        "furigana": "間々",
+        "romaji": "mama",
+        "meaning": "временами, иногда"
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "list": [
+      {
+        "furigana": "丸",
+        "romaji": "gan",
+        "meaning": "рыбный шарик, фрикаделька"
+      },
+      {
+        "furigana": "丸薬",
+        "romaji": "gan'yaku",
+        "meaning": "пилюля, таблетка"
+      },
+      {
+        "furigana": "弾丸",
+        "romaji": "dangan",
+        "meaning": "пуля"
+      },
+      {
+        "furigana": "丸木",
+        "romaji": "maruki",
+        "meaning": "бревно"
+      },
+      {
+        "furigana": "丸儲け",
+        "romaji": "marumōke",
+        "meaning": "чистая прибыль"
+      },
+      {
+        "furigana": "丸",
+        "romaji": "maru",
+        "meaning": "круг"
+      },
+      {
+        "furigana": "丸い",
+        "romaji": "marui",
+        "meaning": "круглый"
+      },
+      {
+        "furigana": "丸っこい",
+        "romaji": "marukkoi",
+        "meaning": "округлый, скруглённый"
+      },
+      {
+        "furigana": "丸める",
+        "romaji": "marumeru",
+        "meaning": "придавать круглую форму"
+      },
+      {
+        "furigana": "丸み",
+        "romaji": "marumi",
+        "meaning": "округлость"
+      },
+      {
+        "furigana": "丸で",
+        "romaji": "marude",
+        "meaning": "совершенно, совсем"
+      },
+      {
+        "furigana": "丸ごと",
+        "romaji": "marugoto",
+        "meaning": "целиком, всё вместе"
+      },
+      {
+        "furigana": "丸ぽちゃ",
+        "romaji": "marupocha",
+        "meaning": "пухленький, щекастый"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "list": [
+      {
+        "furigana": "岩石",
+        "romaji": "ganseki",
+        "meaning": "камень"
+      },
+      {
+        "furigana": "岩礁",
+        "romaji": "ganshō",
+        "meaning": "береговой риф"
+      },
+      {
+        "furigana": "溶岩",
+        "romaji": "yōgan",
+        "meaning": "лава"
+      },
+      {
+        "furigana": "岩屋",
+        "romaji": "iwaya",
+        "meaning": "пещера"
+      },
+      {
+        "furigana": "岩",
+        "romaji": "iwa",
+        "meaning": "скала, утёс"
+      },
+      {
+        "furigana": "岩登り",
+        "romaji": "iwanobori",
+        "meaning": "скалолазание"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "list": [
+      {
+        "furigana": "笑顔",
+        "romaji": "egao",
+        "meaning": "улыбающееся лицо"
+      },
+      {
+        "furigana": "顔付き",
+        "romaji": "kaotsuki",
+        "meaning": "выражение лица"
+      },
+      {
+        "furigana": "童顔",
+        "romaji": "dōgan",
+        "meaning": "детское лицо"
+      },
+      {
+        "furigana": "顔",
+        "romaji": "kao",
+        "meaning": "лицо, выражение лица, вид, перен. лицо, репутация"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "list": [
+      {
+        "furigana": "汽車",
+        "romaji": "kishya",
+        "meaning": "паровоз"
+      },
+      {
+        "furigana": "汽船",
+        "romaji": "kisen",
+        "meaning": "пароход"
+      },
+      {
+        "furigana": "汽",
+        "romaji": "ki",
+        "meaning": "пар"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "list": [
+      {
+        "furigana": "記",
+        "romaji": "ki",
+        "meaning": "рассказ, история, хроника,запись"
+      },
+      {
+        "furigana": "日記",
+        "romaji": "nikki",
+        "meaning": "дневник"
+      },
+      {
+        "furigana": "記事",
+        "romaji": "kiji",
+        "meaning": "статья"
+      },
+      {
+        "furigana": "書記",
+        "romaji": "shoki",
+        "meaning": "секретарь"
+      },
+      {
+        "furigana": "手記",
+        "romaji": "shyuki",
+        "meaning": "заметка, записка"
+      },
+      {
+        "furigana": "記す",
+        "romaji": "shirusu",
+        "meaning": "записывать, отмечать, делать заметки, запоминать"
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "list": [
+      {
+        "furigana": "帰国",
+        "romaji": "kikoku",
+        "meaning": "возвращение на родину"
+      },
+      {
+        "furigana": "お帰りなさい",
+        "romaji": "o-kaeri-nasai",
+        "meaning": "добро пожаловать домой!"
+      },
+      {
+        "furigana": "帰る",
+        "romaji": "kaeru",
+        "meaning": "возвращаться домой"
+      },
+      {
+        "furigana": "帰す",
+        "romaji": "kaesu",
+        "meaning": "отпускать [домой] ; возвращать"
+      },
+      {
+        "furigana": "帰する",
+        "romaji": "kisuru",
+        "meaning": "приходить в итоге к чему-л"
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "list": [
+      {
+        "furigana": "大弓",
+        "romaji": "daikyuu",
+        "meaning": "лук, длинный лук"
+      },
+      {
+        "furigana": "弓矢",
+        "romaji": "yumiya",
+        "meaning": "лук и стрелы, оружие, оружие"
+      },
+      {
+        "furigana": "弓",
+        "romaji": "yumi",
+        "meaning": "лук (оружие)"
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "list": [
+      {
+        "furigana": "牛",
+        "romaji": "gyū",
+        "meaning": "говядина"
+      },
+      {
+        "furigana": "牛乳",
+        "romaji": "gyūnyū",
+        "meaning": "молоко"
+      },
+      {
+        "furigana": "水牛",
+        "romaji": "suigyū",
+        "meaning": "буйвол"
+      },
+      {
+        "furigana": "海牛",
+        "romaji": "kaigyuu",
+        "meaning": "морская корова"
+      },
+      {
+        "furigana": "牛",
+        "romaji": "ushi",
+        "meaning": "бык; корова; крупный рогатый скот"
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "list": [
+      {
+        "furigana": "魚介",
+        "romaji": "gyokai",
+        "meaning": "рыбы ракообразные и моллюски"
+      },
+      {
+        "furigana": "金魚",
+        "romaji": "kingyo",
+        "meaning": "золотая рыбка"
+      },
+      {
+        "furigana": "人魚",
+        "romaji": "ningyo",
+        "meaning": "русалка"
+      },
+      {
+        "furigana": "魚市場",
+        "romaji": "uoichiba",
+        "meaning": "рыбный рынок"
+      },
+      {
+        "furigana": "魚",
+        "romaji": "sakana, uo",
+        "meaning": "рыба"
+      },
+      {
+        "furigana": "魚釣り",
+        "romaji": "sakanatsuri",
+        "meaning": "рыбалка"
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "list": [
+      {
+        "furigana": "京都",
+        "romaji": "kyōto",
+        "meaning": "Киото"
+      },
+      {
+        "furigana": "東京",
+        "romaji": "tōkyō",
+        "meaning": "Токио"
+      },
+      {
+        "furigana": "帰京",
+        "romaji": "kikyō",
+        "meaning": "возвращение в Токио"
+      },
+      {
+        "furigana": "京",
+        "romaji": "kyō",
+        "meaning": "столица"
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "list": [
+      {
+        "furigana": "強行",
+        "romaji": "kyōkō",
+        "meaning": "~suru форсировать"
+      },
+      {
+        "furigana": "強化",
+        "romaji": "kyōka",
+        "meaning": "подкрепление"
+      },
+      {
+        "furigana": "強盗",
+        "romaji": "gōtō",
+        "meaning": "ограбление"
+      },
+      {
+        "furigana": "五十強",
+        "romaji": "gojūkyō",
+        "meaning": "чуть больше пятидесяти"
+      },
+      {
+        "furigana": "強い",
+        "romaji": "tsuyoi",
+        "meaning": "сильный; крепкий; прочный"
+      },
+      {
+        "furigana": "強まる",
+        "romaji": "tsuyomaru",
+        "meaning": "усиливаться, укрепляться"
+      },
+      {
+        "furigana": "強いる",
+        "romaji": "shiiru",
+        "meaning": "заставлять, принуждат"
+      },
+      {
+        "furigana": "強い",
+        "romaji": "kowai",
+        "meaning": "твёрдый, жёсткий"
+      },
+      {
+        "furigana": "強引",
+        "romaji": "gōin",
+        "meaning": "сильный"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "list": [
+      {
+        "furigana": "教科書",
+        "romaji": "kyōkasho",
+        "meaning": "учебник"
+      },
+      {
+        "furigana": "教会",
+        "romaji": "kyōkai",
+        "meaning": "церковь"
+      },
+      {
+        "furigana": "教える",
+        "romaji": "oshieru",
+        "meaning": "преподавать, учить, обучать, объяснять, показывать"
+      },
+      {
+        "furigana": "教え",
+        "romaji": "oshie",
+        "meaning": " [религиозное] учение, доктрина, обучение, наставление"
+      },
+      {
+        "furigana": "教わる",
+        "romaji": "osowaru",
+        "meaning": "учиться, обучаться"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "list": [
+      {
+        "furigana": "近日",
+        "romaji": "kinjitsu",
+        "meaning": "в скором времени"
+      },
+      {
+        "furigana": "近海",
+        "romaji": "kinkai",
+        "meaning": "прибрежные воды, прилегающие моря"
+      },
+      {
+        "furigana": "近い",
+        "romaji": "chikai",
+        "meaning": "близкий, недалекий"
+      },
+      {
+        "furigana": "近く",
+        "romaji": "chikaku",
+        "meaning": "~[ni] близко, рукой подать"
+      },
+      {
+        "furigana": "近しい",
+        "romaji": "chikashii",
+        "meaning": "близкий, дружеский"
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "list": [
+      {
+        "furigana": "父兄",
+        "romaji": "fukei",
+        "meaning": "старшие"
+      },
+      {
+        "furigana": "兄弟",
+        "romaji": "kyōdai",
+        "meaning": "брат"
+      },
+      {
+        "furigana": "兄",
+        "romaji": "ani",
+        "meaning": "старший брат"
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "list": [
+      {
+        "furigana": "人形",
+        "romaji": "ningyō",
+        "meaning": "кукла"
+      },
+      {
+        "furigana": "三角形",
+        "romaji": "sankakukei",
+        "meaning": "геом. треугольник"
+      },
+      {
+        "furigana": "形",
+        "romaji": "kata",
+        "meaning": "форма, вид; фигура"
+      },
+      {
+        "furigana": "形",
+        "romaji": "katachi",
+        "meaning": "форма, вид; образ"
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "list": [
+      {
+        "furigana": "時計",
+        "romaji": "tokei",
+        "meaning": "часы"
+      },
+      {
+        "furigana": "体温計",
+        "romaji": "taionkei",
+        "meaning": "медицинский термометр"
+      },
+      {
+        "furigana": "家計",
+        "romaji": "kakei",
+        "meaning": "расходы на жизнь"
+      },
+      {
+        "furigana": "生計",
+        "romaji": "seikei",
+        "meaning": "средства к существованию"
+      },
+      {
+        "furigana": "計算",
+        "romaji": "keisan",
+        "meaning": "счёт"
+      },
+      {
+        "furigana": "計画",
+        "romaji": "keikaku",
+        "meaning": "план"
+      },
+      {
+        "furigana": "合計",
+        "romaji": "gōkei",
+        "meaning": "итог"
+      },
+      {
+        "furigana": "計る",
+        "romaji": "hakaru",
+        "meaning": "мерить, измерять, подсчитывать, вычислять, угадывать, примерно оценивать, советоваться"
+      },
+      {
+        "furigana": "計らう",
+        "romaji": "hakarau",
+        "meaning": "распоряжаться; устраивать"
+      },
+      {
+        "furigana": "計らい",
+        "romaji": "hakarai",
+        "meaning": "распоряжение; усмотрение,содействие, любезность"
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "list": [
+      {
+        "furigana": "元気",
+        "romaji": "genki",
+        "meaning": "бодрость"
+      },
+      {
+        "furigana": "元首",
+        "romaji": "genshu",
+        "meaning": "правитель"
+      },
+      {
+        "furigana": "元来",
+        "romaji": "ganrai",
+        "meaning": "первоначально"
+      },
+      {
+        "furigana": "元日",
+        "romaji": "ganjitsu",
+        "meaning": "первый день года"
+      },
+      {
+        "furigana": "元",
+        "romaji": "moto",
+        "meaning": "начало, исток"
+      },
+      {
+        "furigana": "元々",
+        "romaji": "motomoto",
+        "meaning": "с самого начала; от природы"
+      },
+      {
+        "furigana": "地元",
+        "romaji": "jimoto",
+        "meaning": "родной район; родной город"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "list": [
+      {
+        "furigana": "言葉",
+        "romaji": "kotoba",
+        "meaning": "слово"
+      },
+      {
+        "furigana": "言明",
+        "romaji": "genmei",
+        "meaning": "заявление"
+      },
+      {
+        "furigana": "無言",
+        "romaji": "mugon",
+        "meaning": "молчание"
+      },
+      {
+        "furigana": "言う",
+        "romaji": "iu",
+        "meaning": " говорить; сказать"
+      },
+      {
+        "furigana": "言わば",
+        "romaji": "iwaba",
+        "meaning": "так сказать, одним словом"
+      },
+      {
+        "furigana": "言えば",
+        "romaji": "ieba",
+        "meaning": "говоря"
+      },
+      {
+        "furigana": "言",
+        "romaji": "koto",
+        "meaning": "слово"
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "list": [
+      {
+        "furigana": "高原",
+        "romaji": "kōgen",
+        "meaning": "плоскогорье"
+      },
+      {
+        "furigana": "原爆",
+        "romaji": "genbaku",
+        "meaning": "атомная бомба"
+      },
+      {
+        "furigana": "原発",
+        "romaji": "genpatsu",
+        "meaning": "атомная электростанция"
+      },
+      {
+        "furigana": "原子",
+        "romaji": "genshi",
+        "meaning": "атом"
+      },
+      {
+        "furigana": "原型",
+        "romaji": "genkei",
+        "meaning": "прототип"
+      },
+      {
+        "furigana": "原因",
+        "romaji": "gen'in",
+        "meaning": "причина"
+      },
+      {
+        "furigana": "原",
+        "romaji": "hara",
+        "meaning": "равнина, поле; степь"
+      },
+      {
+        "furigana": "原",
+        "romaji": "moto",
+        "meaning": "начало, источник; основа"
+      },
+      {
+        "furigana": "原っぱ",
+        "romaji": "harappa",
+        "meaning": "пустырь"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "list": [
+      {
+        "furigana": "上戸",
+        "romaji": "jōgo",
+        "meaning": "пьяница"
+      },
+      {
+        "furigana": "下戸",
+        "romaji": "geko",
+        "meaning": "трезвенник"
+      },
+      {
+        "furigana": "戸主",
+        "romaji": "koshu",
+        "meaning": "глава семьи"
+      },
+      {
+        "furigana": "戸口",
+        "romaji": "toguchi",
+        "meaning": "двери"
+      },
+      {
+        "furigana": "戸",
+        "romaji": "to",
+        "meaning": "дверь, ставня"
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "list": [
+      {
+        "furigana": "古代",
+        "romaji": "kodai",
+        "meaning": "древние времена"
+      },
+      {
+        "furigana": "考古学",
+        "romaji": "kōkogaku",
+        "meaning": "археология"
+      },
+      {
+        "furigana": "古い",
+        "romaji": "furui",
+        "meaning": "старый, давний; устарелый, отсталый"
+      },
+      {
+        "furigana": "古く",
+        "romaji": "furuku",
+        "meaning": "в старину, давно, издавна"
+      },
+      {
+        "furigana": "古びる",
+        "romaji": "furubiru",
+        "meaning": "изнашиваться, стареть"
+      },
+      {
+        "furigana": "古めかしい",
+        "romaji": "furumekashii",
+        "meaning": "старый на вид"
+      },
+      {
+        "furigana": "お古う",
+        "romaji": "o-furu",
+        "meaning": "подержанная вещь"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "list": [
+      {
+        "furigana": "午前",
+        "romaji": "gozen",
+        "meaning": "до полудня"
+      },
+      {
+        "furigana": "午後",
+        "romaji": "gogo",
+        "meaning": "после полудня"
+      },
+      {
+        "furigana": "正午",
+        "romaji": "shōgo",
+        "meaning": "полдень"
+      },
+      {
+        "furigana": "午睡",
+        "romaji": "gosui",
+        "meaning": "дневной сон"
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "list": [
+      {
+        "furigana": "午後",
+        "romaji": "gogo",
+        "meaning": "после полудня"
+      },
+      {
+        "furigana": "後半",
+        "romaji": "kōhan",
+        "meaning": "вторая половина"
+      },
+      {
+        "furigana": "後任",
+        "romaji": "kōnin",
+        "meaning": "преемник"
+      },
+      {
+        "furigana": "その後",
+        "romaji": "sonogo",
+        "meaning": "после этого"
+      },
+      {
+        "furigana": "後",
+        "romaji": "ushiro",
+        "meaning": "позади, сзади"
+      },
+      {
+        "furigana": "後",
+        "romaji": "nochi",
+        "meaning": "потом, позднее"
+      },
+      {
+        "furigana": "後",
+        "romaji": "ato",
+        "meaning": "позади, затем , дальнейшее"
+      },
+      {
+        "furigana": "後れる",
+        "romaji": "okureru",
+        "meaning": "опаздывать, задерживаться"
+      },
+      {
+        "furigana": "後れ",
+        "romaji": "okure",
+        "meaning": "отсталость, неуверенность"
+      },
+      {
+        "furigana": "後々",
+        "romaji": "atoato",
+        "meaning": "отдалённое будущее"
+      },
+      {
+        "furigana": "雨後雪",
+        "romaji": "ame nochi yuki",
+        "meaning": "дождь потом снег"
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "list": [
+      {
+        "furigana": "語",
+        "romaji": "go",
+        "meaning": "слово; речь; язык"
+      },
+      {
+        "furigana": "日本語",
+        "romaji": "nihongo",
+        "meaning": "японский язык"
+      },
+      {
+        "furigana": "語学",
+        "romaji": "gogaku",
+        "meaning": "изучение языков"
+      },
+      {
+        "furigana": "敬語",
+        "romaji": "keigo",
+        "meaning": "вежливое слово или выражение"
+      },
+      {
+        "furigana": "語る",
+        "romaji": "kataru",
+        "meaning": "говорить, рассказывать"
+      },
+      {
+        "furigana": "語らう",
+        "romaji": "katarau",
+        "meaning": "беседовать, сговариваться"
+      },
+      {
+        "furigana": "語らい",
+        "romaji": "katarai",
+        "meaning": "разговор, беседа, обещание"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "list": [
+      {
+        "furigana": "工作",
+        "romaji": "kōsaku",
+        "meaning": "инженерно-строительные работы, ручная работа"
+      },
+      {
+        "furigana": "工事",
+        "romaji": "kōji",
+        "meaning": "работы строительные"
+      },
+      {
+        "furigana": "工場",
+        "romaji": "kōjō",
+        "meaning": "завод"
+      },
+      {
+        "furigana": "電気工",
+        "romaji": "denkikō",
+        "meaning": "электрик"
+      },
+      {
+        "furigana": "配管工",
+        "romaji": "haikankō",
+        "meaning": "водопроводчик"
+      },
+      {
+        "furigana": "石工",
+        "romaji": "ishiku, sekkō",
+        "meaning": "каменщик"
+      },
+      {
+        "furigana": "工夫",
+        "romaji": "kufū",
+        "meaning": "идея"
+      },
+      {
+        "furigana": "工面",
+        "romaji": "kumen",
+        "meaning": "изобретательность"
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "list": [
+      {
+        "furigana": "公園",
+        "romaji": "kōen",
+        "meaning": "общедоступный парк"
+      },
+      {
+        "furigana": "公安",
+        "romaji": "kōan",
+        "meaning": "общественное спокойствие"
+      },
+      {
+        "furigana": "公方",
+        "romaji": "kubō",
+        "meaning": "императорский двор"
+      },
+      {
+        "furigana": "公分母",
+        "romaji": "kōbunbo",
+        "meaning": "мат. общий знаменатель"
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "list": [
+      {
+        "furigana": "広大",
+        "romaji": "kōdai",
+        "meaning": "обширный, величественный"
+      },
+      {
+        "furigana": "広告",
+        "romaji": "kōkoku",
+        "meaning": "объявление"
+      },
+      {
+        "furigana": "広い",
+        "romaji": "hiroi",
+        "meaning": "широкий; обширный"
+      },
+      {
+        "furigana": "広まる",
+        "romaji": "hiromaru",
+        "meaning": "распространяться. разноситься"
+      },
+      {
+        "furigana": "広める",
+        "romaji": "hiromeru",
+        "meaning": "пропагандировать"
+      },
+      {
+        "furigana": "広がる",
+        "romaji": "hirogaru",
+        "meaning": "простираться"
+      },
+      {
+        "furigana": "広げる",
+        "romaji": "hirogeru",
+        "meaning": "разворачивать; расстилать"
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "list": [
+      {
+        "furigana": "交番",
+        "romaji": "kōban",
+        "meaning": "полицейский пост"
+      },
+      {
+        "furigana": "交通",
+        "romaji": "kōtsū",
+        "meaning": "дорожное движение, сообщение"
+      },
+      {
+        "furigana": "交わる",
+        "romaji": "majiwaru",
+        "meaning": "пересекаться (встречаться)"
+      },
+      {
+        "furigana": "交える",
+        "romaji": "majieru",
+        "meaning": "обмениваться"
+      },
+      {
+        "furigana": "交ぜる",
+        "romaji": "mazeru",
+        "meaning": "смешивать; включать"
+      },
+      {
+        "furigana": "交ざる",
+        "romaji": "mazaru",
+        "meaning": "быть смешанным"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "list": [
+      {
+        "furigana": "光学",
+        "romaji": "kōgaku",
+        "meaning": "оптика"
+      },
+      {
+        "furigana": "日光",
+        "romaji": "nikkō",
+        "meaning": "солнечный свет"
+      },
+      {
+        "furigana": "栄光",
+        "romaji": "eikō",
+        "meaning": "слава"
+      },
+      {
+        "furigana": "光彩",
+        "romaji": "kōsai",
+        "meaning": "блеск"
+      },
+      {
+        "furigana": "光景",
+        "romaji": "kōkei",
+        "meaning": "зрелище"
+      },
+      {
+        "furigana": "光る",
+        "romaji": "hikaru",
+        "meaning": "сиять; светить; блестеть, сверкать"
+      },
+      {
+        "furigana": "光",
+        "romaji": "hikari",
+        "meaning": "сияние; блеск;"
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "list": [
+      {
+        "furigana": "考古学",
+        "romaji": "kōkogaku",
+        "meaning": "археология"
+      },
+      {
+        "furigana": "思考",
+        "romaji": "shikō",
+        "meaning": "мышление"
+      },
+      {
+        "furigana": "考える",
+        "romaji": "kangaeru",
+        "meaning": "думать, размышлять, придумывать, представлять себе, учитывать"
+      },
+      {
+        "furigana": "考え",
+        "romaji": "kangae",
+        "meaning": "мысль, идея, мнение, намерение"
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "list": [
+      {
+        "furigana": "行為",
+        "romaji": "kōi",
+        "meaning": "действие"
+      },
+      {
+        "furigana": "行間",
+        "romaji": "gyōkan",
+        "meaning": "между строк"
+      },
+      {
+        "furigana": "銀行",
+        "romaji": "ginkō",
+        "meaning": "банк"
+      },
+      {
+        "furigana": "行く",
+        "romaji": "iku",
+        "meaning": "идти, ходить"
+      },
+      {
+        "furigana": "行う",
+        "romaji": "okonau",
+        "meaning": "совершать; осуществлять"
+      },
+      {
+        "furigana": "行い",
+        "romaji": "okonai",
+        "meaning": "действие; поведение"
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "list": [
+      {
+        "furigana": "高校",
+        "romaji": "kōkō",
+        "meaning": "старшая школа"
+      },
+      {
+        "furigana": "最高",
+        "romaji": "saikō",
+        "meaning": "максимум,  отлично!"
+      },
+      {
+        "furigana": "高じる",
+        "romaji": "kojiru",
+        "meaning": "усугубляться, ухудшаться"
+      },
+      {
+        "furigana": "高い",
+        "romaji": "takai",
+        "meaning": "высокий, дорогой"
+      },
+      {
+        "furigana": "高",
+        "romaji": "taka",
+        "meaning": "количество; сумма"
+      },
+      {
+        "furigana": "高まる",
+        "romaji": "takamaru",
+        "meaning": "повышаться"
+      },
+      {
+        "furigana": "高める",
+        "romaji": "takameru",
+        "meaning": "повышать"
+      },
+      {
+        "furigana": "高ぶる",
+        "romaji": "takaburu",
+        "meaning": "важничать, заноситься"
+      },
+      {
+        "furigana": "高み",
+        "romaji": "takami",
+        "meaning": "возвышенность"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "list": [
+      {
+        "furigana": "黄海",
+        "romaji": "kōkai",
+        "meaning": "Жёлтое море"
+      },
+      {
+        "furigana": "黄金",
+        "romaji": "kogane",
+        "meaning": "золото"
+      },
+      {
+        "furigana": "硫黄",
+        "romaji": "iō",
+        "meaning": "сера"
+      },
+      {
+        "furigana": "黄色い",
+        "romaji": "kiiroi",
+        "meaning": "жёлтый"
+      },
+      {
+        "furigana": "黄ばむ",
+        "romaji": "kibamu",
+        "meaning": "желтеть"
+      },
+      {
+        "furigana": "黄ばみ",
+        "romaji": "kibami",
+        "meaning": "желтизна"
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "list": [
+      {
+        "furigana": "合計",
+        "romaji": "gōkei",
+        "meaning": "итог"
+      },
+      {
+        "furigana": "合衆国",
+        "romaji": "gasshūkoku",
+        "meaning": "Соединённые Штаты"
+      },
+      {
+        "furigana": "合う",
+        "romaji": "au",
+        "meaning": "подходить для чего-л.,  совпадать"
+      },
+      {
+        "furigana": "合わせる",
+        "romaji": "awaseru",
+        "meaning": "при соединять"
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "list": [
+      {
+        "furigana": "峡谷",
+        "romaji": "kyōkoku",
+        "meaning": "ущелье"
+      },
+      {
+        "furigana": "渓谷",
+        "romaji": "keikoku",
+        "meaning": "долина"
+      },
+      {
+        "furigana": "谷",
+        "romaji": "tani",
+        "meaning": "долина; лощина; ущелье"
+      },
+      {
+        "furigana": "谷まる",
+        "romaji": "kiwamaru",
+        "meaning": "прийти к концу, зайти в тупик"
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "list": [
+      {
+        "furigana": "国家",
+        "romaji": "kokka",
+        "meaning": "государство"
+      },
+      {
+        "furigana": "国民",
+        "romaji": "kokumin",
+        "meaning": "народ"
+      },
+      {
+        "furigana": "国立",
+        "romaji": "kokuritsu",
+        "meaning": "национальный"
+      },
+      {
+        "furigana": "全国",
+        "romaji": "zenkoku",
+        "meaning": "вся страна"
+      },
+      {
+        "furigana": "外国",
+        "romaji": "gaikoku",
+        "meaning": "иностранное государство"
+      },
+      {
+        "furigana": "国",
+        "romaji": "kuni",
+        "meaning": "страна, государство, родина"
+      },
+      {
+        "furigana": "国々",
+        "romaji": "kuniguni",
+        "meaning": "страны, государства"
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "list": [
+      {
+        "furigana": "黒人",
+        "romaji": "kokujin",
+        "meaning": "негр"
+      },
+      {
+        "furigana": "黒海",
+        "romaji": "kokkai",
+        "meaning": "Чёрное море"
+      },
+      {
+        "furigana": "黒",
+        "romaji": "kuro",
+        "meaning": "чернота"
+      },
+      {
+        "furigana": "黒い",
+        "romaji": "kuroi",
+        "meaning": "чёрный"
+      },
+      {
+        "furigana": "黒める",
+        "romaji": "kuromeru",
+        "meaning": "чернить, зачернять"
+      },
+      {
+        "furigana": "黒まる",
+        "romaji": "kuromaru",
+        "meaning": "чернеть"
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "list": [
+      {
+        "furigana": "今回",
+        "romaji": "konkai",
+        "meaning": "в этот раз"
+      },
+      {
+        "furigana": "今週",
+        "romaji": "konshū",
+        "meaning": "эта неделя"
+      },
+      {
+        "furigana": "今日",
+        "romaji": "kyō",
+        "meaning": "сегодня"
+      },
+      {
+        "furigana": "今",
+        "romaji": "ima",
+        "meaning": "сейчас, теперь"
+      },
+      {
+        "furigana": "今めかしい",
+        "romaji": "imamekashii",
+        "meaning": "модный"
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "list": [
+      {
+        "furigana": "天才",
+        "romaji": "tensai",
+        "meaning": "природный талант"
+      },
+      {
+        "furigana": "才",
+        "romaji": "sai",
+        "meaning": "талант, дарование, интеллект, находчивость"
+      },
+      {
+        "furigana": "才覚",
+        "romaji": "saikaku",
+        "meaning": "сообразительность"
+      },
+      {
+        "furigana": "才気",
+        "romaji": "saiki",
+        "meaning": "одарённость"
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "list": [
+      {
+        "furigana": "細菌",
+        "romaji": "saikin",
+        "meaning": "микроб"
+      },
+      {
+        "furigana": "明細",
+        "romaji": "meisai",
+        "meaning": "подробности"
+      },
+      {
+        "furigana": "微細",
+        "romaji": "bisai",
+        "meaning": "крошечный"
+      },
+      {
+        "furigana": "細い",
+        "romaji": "hosoi",
+        "meaning": "тонкий; узкий"
+      },
+      {
+        "furigana": "細る",
+        "romaji": "hosoru",
+        "meaning": "сужаться; заостряться"
+      },
+      {
+        "furigana": "細かい",
+        "romaji": "komakai",
+        "meaning": "мелкий; тонкий, подробный; тщательный"
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "list": [
+      {
+        "furigana": "作文",
+        "romaji": "sakubun",
+        "meaning": "сочинение"
+      },
+      {
+        "furigana": "工作",
+        "romaji": "kōsaku",
+        "meaning": "инженерно-строительные работы"
+      },
+      {
+        "furigana": "作家",
+        "romaji": "sakka",
+        "meaning": "писатель"
+      },
+      {
+        "furigana": "作る",
+        "romaji": "tsukuru",
+        "meaning": "делать, создавать, изготовлять"
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "list": [
+      {
+        "furigana": "算",
+        "romaji": "san",
+        "meaning": "счёт, расчёт"
+      },
+      {
+        "furigana": "算する",
+        "romaji": "sansuru",
+        "meaning": "насчитываться, составлять"
+      },
+      {
+        "furigana": "算なし",
+        "romaji": "sannashi",
+        "meaning": "несчётно, не счесть"
+      },
+      {
+        "furigana": "足し算",
+        "romaji": "tashizan",
+        "meaning": "сложение"
+      },
+      {
+        "furigana": "引き算",
+        "romaji": "hikizan",
+        "meaning": "вычитание"
+      },
+      {
+        "furigana": "掛け算",
+        "romaji": "kakezan",
+        "meaning": "умножение"
+      },
+      {
+        "furigana": "割り算",
+        "romaji": "warizan",
+        "meaning": "деление"
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "list": [
+      {
+        "furigana": "中止",
+        "romaji": "chūshi",
+        "meaning": "приостановка"
+      },
+      {
+        "furigana": "止む",
+        "romaji": "yamu",
+        "meaning": "прекращаться, переставать"
+      },
+      {
+        "furigana": "止める",
+        "romaji": "yameru",
+        "meaning": "прекращать, переставать"
+      },
+      {
+        "furigana": "止す",
+        "romaji": "yosu",
+        "meaning": "бросать, переставать"
+      },
+      {
+        "furigana": "止まる",
+        "romaji": "tomaru",
+        "meaning": "останавливаться"
+      },
+      {
+        "furigana": "止まり",
+        "romaji": "tomari",
+        "meaning": "остановка"
+      },
+      {
+        "furigana": "止める",
+        "romaji": "tomeru",
+        "meaning": "останавливать, задерживать"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "list": [
+      {
+        "furigana": "市",
+        "romaji": "shi",
+        "meaning": "крупный город"
+      },
+      {
+        "furigana": "市民",
+        "romaji": "shimin",
+        "meaning": "горожанин"
+      },
+      {
+        "furigana": "京都市",
+        "romaji": "kyōtoshi",
+        "meaning": "город Киото"
+      },
+      {
+        "furigana": "市",
+        "romaji": "ichi",
+        "meaning": "рынок, базар"
+      },
+      {
+        "furigana": "市場",
+        "romaji": "ichiba",
+        "meaning": "рынок"
+      },
+      {
+        "furigana": "魚市場",
+        "romaji": "uoichiba",
+        "meaning": "рыбный рынок"
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "list": [
+      {
+        "furigana": "一矢 ",
+        "romaji": "isshi",
+        "meaning": "ответный выпад"
+      },
+      {
+        "furigana": "矢",
+        "romaji": "ya",
+        "meaning": "стрела"
+      },
+      {
+        "furigana": "矢先",
+        "romaji": "yasaki",
+        "meaning": "наконечник стрелы, тот самый момент"
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "list": [
+      {
+        "furigana": "姉妹",
+        "romaji": "shimai",
+        "meaning": "сёстры"
+      },
+      {
+        "furigana": "義姉",
+        "romaji": "gishi",
+        "meaning": "названая сестра"
+      },
+      {
+        "furigana": "姉",
+        "romaji": "ane",
+        "meaning": "старшая сестра"
+      },
+      {
+        "furigana": "姉さん",
+        "romaji": "ne:san",
+        "meaning": " старшая сестра"
+      },
+      {
+        "furigana": "姉娘",
+        "romaji": "anemusume",
+        "meaning": "старшая дочь"
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "list": [
+      {
+        "furigana": "思考",
+        "romaji": "shikō",
+        "meaning": "мышление"
+      },
+      {
+        "furigana": "思想",
+        "romaji": "идея",
+        "meaning": "shisō"
+      },
+      {
+        "furigana": "思う",
+        "romaji": "omou",
+        "meaning": "думать; полагать"
+      },
+      {
+        "furigana": "思い",
+        "romaji": "omoi",
+        "meaning": "мысль, думы; ожидания; желания"
+      },
+      {
+        "furigana": "思わず",
+        "romaji": "omowazu",
+        "meaning": "невольно"
+      },
+      {
+        "furigana": "思わしい",
+        "romaji": "omowashii",
+        "meaning": "желательный"
+      },
+      {
+        "furigana": "思わせる",
+        "romaji": "omowaseru",
+        "meaning": "внушать; напоминать"
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "list": [
+      {
+        "furigana": "用紙",
+        "romaji": "yōshi",
+        "meaning": "бланк"
+      },
+      {
+        "furigana": "手紙",
+        "romaji": "tegami",
+        "meaning": "письмо"
+      },
+      {
+        "furigana": "紙",
+        "romaji": "kami",
+        "meaning": "бумага"
+      },
+      {
+        "furigana": "折り紙",
+        "romaji": "origami",
+        "meaning": "искусство складывани бумажных фигурок"
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "list": [
+      {
+        "furigana": "古寺",
+        "romaji": "koji",
+        "meaning": "старый храм"
+      },
+      {
+        "furigana": "寺院",
+        "romaji": "jiin",
+        "meaning": "Буддийский храм"
+      },
+      {
+        "furigana": "大寺院",
+        "romaji": "daijiin",
+        "meaning": "большой храм"
+      },
+      {
+        "furigana": "寺",
+        "romaji": "tera",
+        "meaning": "храм"
+      },
+      {
+        "furigana": "山寺",
+        "romaji": "yamatera",
+        "meaning": "горный храм"
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "list": [
+      {
+        "furigana": "自然",
+        "romaji": "shizen",
+        "meaning": "природа"
+      },
+      {
+        "furigana": "自殺",
+        "romaji": "jisatsu",
+        "meaning": "самоубийство"
+      },
+      {
+        "furigana": "自ら",
+        "romaji": "mizukara",
+        "meaning": "сам; лично; свой собственный"
+      },
+      {
+        "furigana": "自ずから",
+        "romaji": "onozukara",
+        "meaning": "само собой, спонтанно"
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "list": [
+      {
+        "furigana": "時",
+        "romaji": "ji",
+        "meaning": "время,  час"
+      },
+      {
+        "furigana": "時間",
+        "romaji": "jikan",
+        "meaning": "время, час"
+      },
+      {
+        "furigana": "時代",
+        "romaji": "jidai",
+        "meaning": "период"
+      },
+      {
+        "furigana": "時",
+        "romaji": "toki",
+        "meaning": "возможность, когда, в то время как. . ."
+      },
+      {
+        "furigana": "時計",
+        "romaji": "tokei",
+        "meaning": "часы"
+      },
+      {
+        "furigana": "時々",
+        "romaji": "tokidoki",
+        "meaning": "иногда"
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "list": [
+      {
+        "furigana": "教室",
+        "romaji": "kyōshitsu",
+        "meaning": "класс"
+      },
+      {
+        "furigana": "室",
+        "romaji": "shitsu",
+        "meaning": "комната, помещение; камера"
+      },
+      {
+        "furigana": "室",
+        "romaji": "muro",
+        "meaning": "теплица, парник; погреб"
+      },
+      {
+        "furigana": "氷室",
+        "romaji": "himuro",
+        "meaning": "ледник"
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "list": [
+      {
+        "furigana": "社",
+        "romaji": "sha",
+        "meaning": "святилище, фирма, компания"
+      },
+      {
+        "furigana": "会社",
+        "romaji": "kaisha",
+        "meaning": "компания"
+      },
+      {
+        "furigana": "社員",
+        "romaji": "shain",
+        "meaning": "служащий"
+      },
+      {
+        "furigana": "社",
+        "romaji": "yashiro",
+        "meaning": "святилище, синтоистский храм"
+      },
+      {
+        "furigana": "神社",
+        "romaji": "jinja",
+        "meaning": "синтоистское святилище"
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "list": [
+      {
+        "furigana": "弱年",
+        "romaji": "jakunen",
+        "meaning": "юные годы"
+      },
+      {
+        "furigana": "弱い",
+        "romaji": "yowai",
+        "meaning": "слабый"
+      },
+      {
+        "furigana": "弱る",
+        "romaji": "yowaru",
+        "meaning": "слабеть, попадать в сложное положение"
+      },
+      {
+        "furigana": "弱まる",
+        "romaji": "yowamaru",
+        "meaning": "слабеть, ослабевать"
+      },
+      {
+        "furigana": "弱める",
+        "romaji": "yowameru",
+        "meaning": "ослаблять"
+      },
+      {
+        "furigana": "弱音",
+        "romaji": "yowane",
+        "meaning": "хныканье"
+      },
+      {
+        "furigana": "か弱い",
+        "romaji": "kayowai",
+        "meaning": "слабый, нежный, беспомощный"
+      },
+      {
+        "furigana": "ひ弱い",
+        "romaji": "hiyowai",
+        "meaning": "слабый, хрупкий, хилый"
+      },
+      {
+        "furigana": "弱",
+        "romaji": "jaku",
+        "meaning": "слабость"
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "list": [
+      {
+        "furigana": "斬首",
+        "romaji": "zanshu",
+        "meaning": "обезглавливание"
+      },
+      {
+        "furigana": "元首",
+        "romaji": "genshu",
+        "meaning": "правитель"
+      },
+      {
+        "furigana": "首",
+        "romaji": "kubi",
+        "meaning": "шея, горлышко, узкая часть"
+      },
+      {
+        "furigana": "手首",
+        "romaji": "tekubi",
+        "meaning": "запястье"
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "list": [
+      {
+        "furigana": "秋分",
+        "romaji": "shūbun",
+        "meaning": "осеннее равноденствие"
+      },
+      {
+        "furigana": "秋",
+        "romaji": "aki",
+        "meaning": "осень"
+      },
+      {
+        "furigana": "秋",
+        "romaji": "toki",
+        "meaning": "критическое время, роковой момент"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "list": [
+      {
+        "furigana": "週",
+        "romaji": "shuu",
+        "meaning": "неделя"
+      },
+      {
+        "furigana": "週間",
+        "romaji": "shūkan",
+        "meaning": "неделя"
+      },
+      {
+        "furigana": "先週",
+        "romaji": "senshū",
+        "meaning": "прошлая неделя"
+      },
+      {
+        "furigana": "今週",
+        "romaji": "konshū",
+        "meaning": "эта неделя"
+      },
+      {
+        "furigana": "来週",
+        "romaji": "raishū",
+        "meaning": "следующая неделя"
+      },
+      {
+        "furigana": "週刊",
+        "romaji": "shūkan",
+        "meaning": "еженедельное издание"
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "list": [
+      {
+        "furigana": "春画",
+        "romaji": "shunga",
+        "meaning": "непристойная картина"
+      },
+      {
+        "furigana": "春情",
+        "romaji": "shunjō",
+        "meaning": "половое влечение"
+      },
+      {
+        "furigana": "春",
+        "romaji": "haru",
+        "meaning": "весна"
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "list": [
+      {
+        "furigana": "書道",
+        "romaji": "shodō",
+        "meaning": "каллиграфия"
+      },
+      {
+        "furigana": "辞書",
+        "romaji": "jisho",
+        "meaning": "словарь"
+      },
+      {
+        "furigana": "図書館",
+        "romaji": "toshokan",
+        "meaning": "публичная] библиотека"
+      },
+      {
+        "furigana": "教科書",
+        "romaji": "kyōkasho",
+        "meaning": "учебник"
+      },
+      {
+        "furigana": "証明書",
+        "romaji": "shōmeisho",
+        "meaning": "удостоверение"
+      },
+      {
+        "furigana": "葉書",
+        "romaji": "hagaki",
+        "meaning": "открытка"
+      },
+      {
+        "furigana": "書く",
+        "romaji": "kaku",
+        "meaning": "писать, проводить линии"
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "list": [
+      {
+        "furigana": "少数",
+        "romaji": "shōsū",
+        "meaning": "малое число"
+      },
+      {
+        "furigana": "少ない",
+        "romaji": "sukunai",
+        "meaning": "немногочисленный, мало"
+      },
+      {
+        "furigana": "少し",
+        "romaji": "sukoshi",
+        "meaning": "немножко"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "list": [
+      {
+        "furigana": "場所",
+        "romaji": "basho",
+        "meaning": "место"
+      },
+      {
+        "furigana": "市場",
+        "romaji": "ichiba",
+        "meaning": "рынок"
+      },
+      {
+        "furigana": "場",
+        "romaji": "ba",
+        "meaning": "место, ситуация, момент, сцена "
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "list": [
+      {
+        "furigana": "単色",
+        "romaji": "tanshoku",
+        "meaning": "одноцветный"
+      },
+      {
+        "furigana": "色素",
+        "romaji": "shikiso",
+        "meaning": "пигмент"
+      },
+      {
+        "furigana": "色",
+        "romaji": "iro",
+        "meaning": "цвет, окраска, облик, сорт"
+      },
+      {
+        "furigana": "色っぽい",
+        "romaji": "iroppoi",
+        "meaning": "соблазнительный, сексуальный"
+      },
+      {
+        "furigana": "桃色",
+        "romaji": "momoiro",
+        "meaning": "персиковый цвет"
+      },
+      {
+        "furigana": "色々",
+        "romaji": "iroiro",
+        "meaning": "всяческие, различные"
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "list": [
+      {
+        "furigana": "食",
+        "romaji": "shoku",
+        "meaning": "еда, пища; приём пищи"
+      },
+      {
+        "furigana": "断食",
+        "romaji": "danjiki",
+        "meaning": "пост"
+      },
+      {
+        "furigana": "食べる",
+        "romaji": "taberu",
+        "meaning": "есть"
+      },
+      {
+        "furigana": "食らわす",
+        "romaji": "kurawasu",
+        "meaning": "кормить"
+      },
+      {
+        "furigana": "食む",
+        "romaji": "hamu",
+        "meaning": "есть, жрать; щипать"
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "list": [
+      {
+        "furigana": "心",
+        "romaji": "shin",
+        "meaning": "сердце, душа, сердцевина, ядро"
+      },
+      {
+        "furigana": "心配",
+        "romaji": "shinpai",
+        "meaning": "беспокойство"
+      },
+      {
+        "furigana": "心筋",
+        "romaji": "shinkin",
+        "meaning": "сердечная мышца"
+      },
+      {
+        "furigana": "心",
+        "romaji": "kokoro",
+        "meaning": "душа, сердце, чувства"
+      },
+      {
+        "furigana": "心する",
+        "romaji": "kokoro-suru",
+        "meaning": "принимать к сердцу"
+      },
+      {
+        "furigana": "心ならずも",
+        "romaji": "kokoronarazumo",
+        "meaning": "против воли"
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "188",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "192",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "196",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "208",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "217",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "218",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "220",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "221",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "223",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "226",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "227",
+    "list": [
+      {
+        "furigana": "万",
+        "romaji": "man",
+        "meaning": "десять тысяч, всё, всякие, всевозможные"
+      },
+      {
+        "furigana": "万引",
+        "romaji": "manbiki",
+        "meaning": "кража в магазине"
+      },
+      {
+        "furigana": "万国",
+        "romaji": "bankoku",
+        "meaning": "все страны"
+      },
+      {
+        "furigana": "万代",
+        "romaji": "bandai",
+        "meaning": "тысячи лет, вечность, все поколения"
+      },
+      {
+        "furigana": "万事",
+        "romaji": "banji",
+        "meaning": "всё"
+      },
+      {
+        "furigana": "万人",
+        "romaji": "bannin",
+        "meaning": "все люди"
+      }
+    ]
+  },
+  {
+    "id": "228",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "230",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "231",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "232",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "236",
+    "list": [
+      {
+        "furigana": "曜日",
+        "romaji": "yobi",
+        "meaning": "день недели"
+      },
+      {
+        "furigana": "月曜日",
+        "romaji": "getsuyobi",
+        "meaning": "Понедельник"
+      },
+      {
+        "furigana": "火曜日",
+        "romaji": "kayobi",
+        "meaning": "Вторник"
+      },
+      {
+        "furigana": "水曜日",
+        "romaji": "suiyobi",
+        "meaning": "Среда"
+      },
+      {
+        "furigana": "木曜日",
+        "romaji": "mokuyoubi",
+        "meaning": "Четверг"
+      },
+      {
+        "furigana": "金曜日",
+        "romaji": "kinyoubi",
+        "meaning": "Пятница"
+      },
+      {
+        "furigana": "土曜日",
+        "romaji": "doyoubi",
+        "meaning": "Суббота"
+      },
+      {
+        "furigana": "日曜日",
+        "romaji": "nichiyoubi",
+        "meaning": "Воскресенье"
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "238",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "list": [
+      {
+        "furigana": "分",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "分ける",
+        "romaji": "wakeru",
+        "meaning": "уделять, выделять, сортировать"
+      },
+      {
+        "furigana": "分かれる",
+        "romaji": "wakareru",
+        "meaning": "отделяться, расставаться, разводиться"
+      },
+      {
+        "furigana": "分かつ",
+        "romaji": "wakatsu",
+        "meaning": "делить, различать, "
+      },
+      {
+        "furigana": "分かる",
+        "romaji": "wakaru",
+        "meaning": "понимать, знать"
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "list": [
+      {
+        "furigana": "悪い",
+        "romaji": "warui",
+        "meaning": "плохой"
+      },
+      {
+        "furigana": "悪し",
+        "romaji": "ashi",
+        "meaning": "плохой"
+      },
+      {
+        "furigana": "悪しからず",
+        "romaji": "ashikarazu",
+        "meaning": "не поймите превратно"
+      },
+      {
+        "furigana": "悪たれる",
+        "romaji": "akutareru",
+        "meaning": "безобразничать"
+      },
+      {
+        "furigana": "悪質",
+        "romaji": "akushitsu",
+        "meaning": "плохое качество"
+      },
+      {
+        "furigana": "憎悪",
+        "romaji": "zōo",
+        "meaning": "ненависть"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "245",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "248",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "249",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "250",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "251",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "259",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "260",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "263",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "265",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "266",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "267",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "268",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "269",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "270",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "271",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "272",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "274",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "275",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "276",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "277",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "278",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "279",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "280",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "281",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "282",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "283",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "284",
+    "list": [
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      },
+      {
+        "furigana": "",
+        "romaji": "",
+        "meaning": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,5355 @@
+[
+  {
+    "id": "81",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N3",
+    "kanji": "引",
+    "strokes": "4",
+    "radical": "弓",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "イン"
+        ],
+        "romaji": [
+          "in"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ひく",
+          "ひける"
+        ],
+        "romaji": [
+          "hiku",
+          "hikeru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "тянуть, дергать",
+    "name": "тянуть"
+  },
+  {
+    "id": "82",
+    "slug": "Grade-2",
+    "classification": "животные",
+    "JLPT": "N2",
+    "kanji": "羽",
+    "strokes": "6",
+    "radical": "羽",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ウ"
+        ],
+        "romaji": [
+          "u"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はね",
+          "は",
+          "わ"
+        ],
+        "romaji": [
+          "hane",
+          "ha",
+          "wa"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "перья",
+    "name": "перья"
+  },
+  {
+    "id": "83",
+    "slug": "Grade-2",
+    "classification": "природа, погода",
+    "JLPT": "N2",
+    "kanji": "雲",
+    "strokes": "12",
+    "radical": "雨",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ウン"
+        ],
+        "romaji": [
+          "un"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "くも"
+        ],
+        "romaji": [
+          "kumo"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "тучи, облака",
+    "name": "облака"
+  },
+  {
+    "id": "84",
+    "slug": "Grade-2",
+    "classification": "места, природа",
+    "JLPT": "N3",
+    "kanji": "園",
+    "strokes": "13",
+    "radical": "囗",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "エン"
+        ],
+        "romaji": [
+          "en"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "その"
+        ],
+        "romaji": [
+          "sono"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "парк, сад, ферма",
+    "name": "парк"
+  },
+  {
+    "id": "85",
+    "slug": "Grade-2",
+    "classification": "направление",
+    "JLPT": "N3",
+    "kanji": "遠",
+    "strokes": "13",
+    "radical": "辵",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "エン",
+          "オン"
+        ],
+        "romaji": [
+          "en",
+          "on"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "とおい"
+        ],
+        "romaji": [
+          "tooi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "далеко",
+    "name": "далеко"
+  },
+  {
+    "id": "86",
+    "slug": "Grade-2",
+    "classification": "вопрос, разное",
+    "JLPT": "N5",
+    "kanji": "何",
+    "strokes": "7",
+    "radical": "人",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カ"
+        ],
+        "romaji": [
+          "ka"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "なに",
+          "なん"
+        ],
+        "romaji": [
+          "nani",
+          "nan"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "что",
+    "name": "что"
+  },
+  {
+    "id": "87",
+    "slug": "Grade-2",
+    "classification": "образование",
+    "JLPT": "N3",
+    "kanji": "科",
+    "strokes": "9",
+    "radical": "禾",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カ"
+        ],
+        "romaji": [
+          "ka"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "kanji": "科学",
+      "furigana": "かがく",
+      "romaji": "kagaku",
+      "meaning": "наука"
+    },
+    "meaning": "семейство, факультет, отделение, курс, вина",
+    "name": "семейство"
+  },
+  {
+    "id": "88",
+    "slug": "Grade-2",
+    "classification": "сезон",
+    "JLPT": "N4",
+    "kanji": "夏",
+    "strokes": "10",
+    "radical": "夊",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カ",
+          "ゲ"
+        ],
+        "romaji": [
+          "ka",
+          "ge"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "なつ"
+        ],
+        "romaji": [
+          "natsu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "лето",
+    "name": "лето"
+  },
+  {
+    "id": "89",
+    "slug": "Grade-2",
+    "classification": "места, семья, человек",
+    "JLPT": "N4",
+    "kanji": "家",
+    "strokes": "10",
+    "radical": "宀",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カ",
+          "ケ"
+        ],
+        "romaji": [
+          "ka",
+          "ke"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いえ",
+          "や",
+          "(うち)"
+        ],
+        "romaji": [
+          "ie",
+          "ya",
+          "uchi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "дом, семья, профессионал",
+    "name": "дом"
+  },
+  {
+    "id": "90",
+    "slug": "Grade-2",
+    "classification": "действие, искуство",
+    "JLPT": "N4",
+    "kanji": "歌",
+    "strokes": "14",
+    "radical": "欠",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カ"
+        ],
+        "romaji": [
+          "ka"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "うた",
+          "うたう"
+        ],
+        "romaji": [
+          "uta",
+          "utau"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "песня, петь",
+    "name": "песня"
+  },
+  {
+    "id": "91",
+    "slug": "Grade-2",
+    "classification": "искуство, действие",
+    "JLPT": "N4",
+    "kanji": "画",
+    "strokes": "8",
+    "radical": "田",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ガ",
+          "カク"
+        ],
+        "romaji": [
+          "ga",
+          "kaku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "kanji": "画家",
+      "furigana": "がか",
+      "romaji": "gaka",
+      "meaning": "художник"
+    },
+    "meaning": "картина, мазок кисти",
+    "name": "картина, мазок кисти"
+  },
+  {
+    "id": "92",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N3",
+    "kanji": "回",
+    "strokes": "6",
+    "radical": "囗",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カイ",
+          "(エ)"
+        ],
+        "romaji": [
+          "kai",
+          "e"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "まわる",
+          "まわす"
+        ],
+        "romaji": [
+          "mawaru",
+          "mawasu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "вращать, счётчик событий, объезд",
+    "name": "вращать"
+  },
+  {
+    "id": "93",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "会",
+    "strokes": "6",
+    "radical": "人",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カイ",
+          "(エ)"
+        ],
+        "romaji": [
+          "kai",
+          "e"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あう",
+          "あわせる",
+          "あつまる"
+        ],
+        "romaji": [
+          "au",
+          "awaseru",
+          "atsumaru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "встречать [ся], собрание, кружок",
+    "name": "встречаться"
+  },
+  {
+    "id": "94",
+    "slug": "Grade-2",
+    "classification": "природа",
+    "JLPT": "N4",
+    "kanji": "海",
+    "strokes": "9",
+    "radical": "水",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カイ"
+        ],
+        "romaji": [
+          "kai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "うみ"
+        ],
+        "romaji": [
+          "umi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "море",
+    "name": "море"
+  },
+  {
+    "id": "95",
+    "slug": "Grade-2",
+    "classification": "искуство",
+    "JLPT": "N3",
+    "kanji": "絵",
+    "strokes": "12",
+    "radical": "糸",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カイ",
+          "エ"
+        ],
+        "romaji": [
+          "kai",
+          "e"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "furigana": "かいが",
+      "kanji": "絵画",
+      "romaji": "kaiga",
+      "meaning": "картины"
+    },
+    "meaning": "рисунок, картина, живопись",
+    "name": "рисунок"
+  },
+  {
+    "id": "96",
+    "idG": "057",
+    "idGenki": "Genki-4",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "направление, места",
+    "JLPT": "N5",
+    "kanji": "外",
+    "strokes": "5",
+    "radical": "夕",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "ゲ"
+        ],
+        "romaji": [
+          "gai",
+          "ge"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "そと",
+          "ほか",
+          "はずす",
+          "はずれる"
+        ],
+        "romaji": [
+          "soto",
+          "hoka",
+          "hazusu",
+          "hazureru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "снаружи, на улице, вне чьей-либо группы",
+    "name": "снаружи"
+  },
+  {
+    "id": "97",
+    "slug": "Grade-2",
+    "classification": "форма",
+    "JLPT": "N2",
+    "kanji": "角",
+    "strokes": "7",
+    "radical": "角",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かど",
+          "つの"
+        ],
+        "romaji": [
+          "kado",
+          "tsuno"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "угол, квадрат, брус, рога, усики",
+    "name": "угол, рога"
+  },
+  {
+    "id": "98",
+    "slug": "Grade-2",
+    "classification": "описание, искуство",
+    "JLPT": "N4",
+    "kanji": "楽",
+    "strokes": "13",
+    "radical": "木",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ガク",
+          "ラク"
+        ],
+        "romaji": [
+          "gaku",
+          "raku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "たのしい",
+          "たのしむ"
+        ],
+        "romaji": [
+          "tanoshii",
+          "tanoshimu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "веселье, музыка, комфорт, легкость",
+    "name": "веселье"
+  },
+  {
+    "id": "99",
+    "slug": "Grade-2",
+    "classification": "действие, разное",
+    "JLPT": "N3",
+    "kanji": "活",
+    "strokes": "9",
+    "radical": "水",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カツ"
+        ],
+        "romaji": [
+          "katsu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "kanji": "活",
+      "furigana": "かつ",
+      "romaji": "katsu",
+      "meaning": "оживление, приведение в чувство"
+    },
+    "meaning": "живой, оживлять, быть живым, вторая жизнь",
+    "name": "оживлять"
+  },
+  {
+    "id": "100",
+    "slug": "Grade-2",
+    "classification": "время",
+    "JLPT": "N5",
+    "kanji": "間",
+    "strokes": "12",
+    "radical": "門",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あいだ",
+          "ま"
+        ],
+        "romaji": [
+          "aida",
+          "ma"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "промежуток, интервал, между, расстояние, период времени",
+    "name": "интервал, между"
+  },
+  {
+    "id": "101",
+    "slug": "Grade-2",
+    "classification": "форма, описание, действие",
+    "JLPT": "N2",
+    "kanji": "丸",
+    "strokes": "3",
+    "radical": "丶",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "まる",
+          "まるい",
+          "まるめる"
+        ],
+        "romaji": [
+          "maru",
+          "marui",
+          "marumeru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "круг, круглый, придавать круглую форму",
+    "name": "круг"
+  },
+  {
+    "id": "102",
+    "slug": "Grade-2",
+    "classification": "природа",
+    "JLPT": "N2",
+    "kanji": "岩",
+    "strokes": "8",
+    "radical": "山",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いわ"
+        ],
+        "romaji": [
+          "iwa"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "скала, горная порода",
+    "name": "скала"
+  },
+  {
+    "id": "103",
+    "slug": "Grade-2",
+    "classification": "части_тела, человек",
+    "JLPT": "N3",
+    "kanji": "顔",
+    "strokes": "18",
+    "radical": "頁",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かお"
+        ],
+        "romaji": [
+          "kao"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "лицо, вид, выражение лица",
+    "name": "лицо"
+  },
+  {
+    "id": "104",
+    "slug": "Grade-2",
+    "classification": "природа, разное",
+    "JLPT": "N1",
+    "kanji": "汽",
+    "strokes": "7",
+    "radical": "水",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "kanji": "汽車",
+      "furigana": "きしゃ",
+      "romaji": "kishya",
+      "meaning": "паровоз"
+    },
+    "meaning": "пар водяной",
+    "name": "пар"
+  },
+  {
+    "id": "105",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N3",
+    "kanji": "記",
+    "strokes": "10",
+    "radical": "言",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "しるす"
+        ],
+        "romaji": [
+          "shirusu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "записывать, хроника, запись;",
+    "name": "записывать"
+  },
+  {
+    "id": "106",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "帰",
+    "strokes": "10",
+    "radical": "刀",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かえる",
+          "かえす"
+        ],
+        "romaji": [
+          "kaeru",
+          "kaesu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "возвращение домой, уходить [домой], приходить в итоге к чему-л.",
+    "name": "возвращение"
+  },
+  {
+    "id": "107",
+    "slug": "Grade-2",
+    "classification": "оружие, искуство",
+    "JLPT": "N1",
+    "kanji": "弓",
+    "strokes": "3",
+    "radical": "弓",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ゆみ"
+        ],
+        "romaji": [
+          "yumi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "лук; смычок; дуга",
+    "name": "лук"
+  },
+  {
+    "id": "108",
+    "slug": "Grade-2",
+    "classification": "животные, еда",
+    "JLPT": "N4",
+    "kanji": "牛",
+    "strokes": "4",
+    "radical": "牛",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ギュウ"
+        ],
+        "romaji": [
+          "gyuu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "うし"
+        ],
+        "romaji": [
+          "ushi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "корова, бык, телёнок, говядина, молоко (коровье)",
+    "name": "корова"
+  },
+  {
+    "id": "109",
+    "slug": "Grade-2",
+    "classification": "животные, еда",
+    "JLPT": "N4",
+    "kanji": "魚",
+    "strokes": "11",
+    "radical": "魚",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ギョ"
+        ],
+        "romaji": [
+          "gyo"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "さかな",
+          "うお"
+        ],
+        "romaji": [
+          "sakana",
+          "uo"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "рыба",
+    "name": "рыба"
+  },
+  {
+    "id": "110",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N4",
+    "kanji": "京",
+    "strokes": "8",
+    "radical": "亠",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キョウ",
+          "(ケイ)"
+        ],
+        "romaji": [
+          "kyo",
+          "kei"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "kanji": "京都",
+      "furigana": "きょうと",
+      "romaji": "kyōto",
+      "meaning": "Киото"
+    },
+    "meaning": "столица, десять квадриллионов",
+    "name": "столица"
+  },
+  {
+    "id": "111",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N4",
+    "kanji": "強",
+    "strokes": "11",
+    "radical": "弓",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キョウ",
+          "(ゴウ)"
+        ],
+        "romaji": [
+          "kyo",
+          "gou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "つよい",
+          "つよまる",
+          "つよめる",
+          "(しいる)",
+          "(こわい)"
+        ],
+        "romaji": [
+          "tsuyoi",
+          "tsuyomaru",
+          "tsuyomeru",
+          "shiiru",
+          "kowai"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "сила; сильный, крепкий, насилие; насильно, немного больше",
+    "name": "сильный"
+  },
+  {
+    "id": "112",
+    "slug": "Grade-2",
+    "classification": "образование, действие",
+    "JLPT": "N4",
+    "kanji": "教",
+    "strokes": "11",
+    "radical": "攴",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "おしえる",
+          "おそわる"
+        ],
+        "romaji": [
+          "oshieru",
+          "osowaru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "преподавать,объяснять, учить; просвещение, учение; религия",
+    "name": "преподавать"
+  },
+  {
+    "id": "113",
+    "slug": "Grade-2",
+    "classification": "направление",
+    "JLPT": "N4",
+    "kanji": "近",
+    "strokes": "7",
+    "radical": "辵",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ちかい"
+        ],
+        "romaji": [
+          "chikai"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "близкий, соседний, недавно,около, приблизительно, в последнее время, вскоре",
+    "name": "близко"
+  },
+  {
+    "id": "114",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N4",
+    "kanji": "兄",
+    "strokes": "5",
+    "radical": "儿",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "(ケイ)",
+          "キョウ"
+        ],
+        "romaji": [
+          "kei",
+          "kyo"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あに"
+        ],
+        "romaji": [
+          "ani"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "старший брат, то же, ",
+    "name": "старший брат"
+  },
+  {
+    "id": "115",
+    "slug": "Grade-2",
+    "classification": "форма",
+    "JLPT": "N3",
+    "kanji": "形",
+    "strokes": "7",
+    "radical": "彡",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ケイ",
+          "ギョウ"
+        ],
+        "romaji": [
+          "kei",
+          "gyou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かた",
+          "かたち"
+        ],
+        "romaji": [
+          "kata",
+          "katachi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "форма, образ, стиль",
+    "name": "форма"
+  },
+  {
+    "id": "116",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "計",
+    "strokes": "9",
+    "radical": "言",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ケイ"
+        ],
+        "romaji": [
+          "kei"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はかる",
+          "はからう"
+        ],
+        "romaji": [
+          "hakaru",
+          "hakarau"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "план; расчёты, вычислять; измерять,смета; расходы, всего, итого",
+    "name": "измерять, расчёт"
+  },
+  {
+    "id": "117",
+    "idG": "032",
+    "idGenki": "Genki-3",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N4",
+    "kanji": "元",
+    "strokes": "4",
+    "radical": "儿",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゲン",
+          "ガン"
+        ],
+        "romaji": [
+          "gen",
+          "gan"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "もと"
+        ],
+        "romaji": [
+          "moto"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "начало, исток, происхождение, эра, годы правления, бывший; прежний, прежде",
+    "name": "начало"
+  },
+  {
+    "id": "118",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "言",
+    "strokes": "7",
+    "radical": "言",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゲン",
+          "ゴン"
+        ],
+        "romaji": [
+          "gen",
+          "gon"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いう",
+          "こと"
+        ],
+        "romaji": [
+          "iu",
+          "koto"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "Слова, сказать",
+    "name": "Слова, сказать"
+  },
+  {
+    "id": "119",
+    "slug": "Grade-2",
+    "classification": "природа",
+    "JLPT": "N3",
+    "kanji": "原",
+    "strokes": "10",
+    "radical": "厂",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゲン"
+        ],
+        "romaji": [
+          "gen"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はら"
+        ],
+        "romaji": [
+          "hara"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "равнина, основа, первичный, атомный, ядерный",
+    "name": "равнина"
+  },
+  {
+    "id": "120",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N2",
+    "kanji": "戸",
+    "strokes": "4",
+    "radical": "戶",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コ"
+        ],
+        "romaji": [
+          "ko"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "と"
+        ],
+        "romaji": [
+          "to"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "дверь, ставня, пьянство",
+    "name": "дверь"
+  },
+  {
+    "id": "121",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N4",
+    "kanji": "古",
+    "strokes": "5",
+    "radical": "口",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コ"
+        ],
+        "romaji": [
+          "ko"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ふるい",
+          "ふるす"
+        ],
+        "romaji": [
+          "furui",
+          "furusu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "старый",
+    "name": "старый"
+  },
+  {
+    "id": "122",
+    "slug": "Grade-2",
+    "classification": "время",
+    "JLPT": "N5",
+    "kanji": "午",
+    "strokes": "4",
+    "radical": "十",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゴ"
+        ],
+        "romaji": [
+          "go"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "kanji": "午前",
+      "furigana": "ごぜん",
+      "romaji": "gozen",
+      "meaning": "до полудня"
+    },
+    "meaning": "полдень, Лошадь (знак китайского гороскопа)",
+    "name": "полдень"
+  },
+  {
+    "id": "123",
+    "slug": "Grade-2",
+    "classification": "направление, дата",
+    "JLPT": "N5",
+    "kanji": "後",
+    "strokes": "9",
+    "radical": "彳",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゴ",
+          "コウ"
+        ],
+        "romaji": [
+          "go",
+          "kou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "のち",
+          "うしる",
+          "あと",
+          "おくれる"
+        ],
+        "romaji": [
+          "nochi",
+          "ushiru",
+          "ato",
+          "okureru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "после, позади, сзади",
+    "name": "после, позади, позже"
+  },
+  {
+    "id": "124",
+    "slug": "Grade-2",
+    "classification": "образование, действие",
+    "JLPT": "N5",
+    "kanji": "語",
+    "strokes": "14",
+    "radical": "言",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゴ"
+        ],
+        "romaji": [
+          "go"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かたる",
+          "かたらう"
+        ],
+        "romaji": [
+          "kataru",
+          "katarau"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "слово; речь; язык, говорить о, рассказывать,",
+    "name": "язык, слова"
+  },
+  {
+    "id": "125",
+    "slug": "Grade-2",
+    "classification": "описание, действие",
+    "JLPT": "N4",
+    "kanji": "工",
+    "strokes": "3",
+    "radical": "工",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ",
+          "ク",
+          "グ"
+        ],
+        "romaji": [
+          "kou",
+          "ku",
+          "gu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {
+      "kanji": "電気工",
+      "furigana": "でんきこう",
+      "romaji": "denkikō",
+      "meaning": "электрик"
+    },
+    "meaning": "Техника, мастер, ремесленник, строительство",
+    "name": "мастер"
+  },
+  {
+    "id": "126",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N4",
+    "kanji": "公",
+    "strokes": "4",
+    "radical": "八",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ",
+          "ク"
+        ],
+        "romaji": [
+          "kou",
+          "u"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "おおやけ"
+        ],
+        "romaji": [
+          "ooyake"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "общественный, государственный, публичный",
+    "name": "общественный, публичный"
+  },
+  {
+    "id": "127",
+    "slug": "Grade-2",
+    "classification": "описание, действие",
+    "JLPT": "N4",
+    "kanji": "広",
+    "strokes": "5",
+    "radical": "广",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ"
+        ],
+        "romaji": [
+          "kou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ひろい",
+          "ひろまる",
+          "ひろめる",
+          "ひろがる",
+          "ひろげる"
+        ],
+        "romaji": [
+          "hiroi",
+          "hiromaru",
+          "hiromeru",
+          "hirogaru",
+          "hirogeru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "широкий, просторный, распространять, пропагандировать",
+    "name": "широкий, просторный"
+  },
+  {
+    "id": "128",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N3",
+    "kanji": "交",
+    "strokes": "6",
+    "radical": "亠",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ"
+        ],
+        "romaji": [
+          "kou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "まじわる",
+          "まじえる",
+          "まじる",
+          "まざる",
+          "まぜる",
+          "かう",
+          "かわす",
+          "こもごむ"
+        ],
+        "romaji": [
+          "majiwaru",
+          "majieru",
+          "majiru",
+          "mazaru",
+          "mazeru",
+          "kau",
+          "kawasu",
+          "komogomu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "объединять, смешивать, смешаться с чем-то",
+    "name": "смешивать, объединять"
+  },
+  {
+    "id": "129",
+    "slug": "Grade-2",
+    "classification": "действие, природа",
+    "JLPT": "N3",
+    "kanji": "光",
+    "strokes": "6",
+    "radical": "儿",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ"
+        ],
+        "romaji": [
+          "kou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ひかる",
+          "ひかり"
+        ],
+        "romaji": [
+          "hikaru",
+          "hikari"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "луч, свет; сияние; блеск; пейзаж; сиять;",
+    "name": "луч, сиять"
+  },
+  {
+    "id": "130",
+    "slug": "Grade-2",
+    "classification": "числа, действие",
+    "JLPT": "N4",
+    "kanji": "考",
+    "strokes": "6",
+    "radical": "老",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ"
+        ],
+        "romaji": [
+          "kou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かんがえる"
+        ],
+        "romaji": [
+          "kangaeru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "думать, обдумывать, размышлять",
+    "name": "думать; обдумывать"
+  },
+  {
+    "id": "131",
+    "idG": "041",
+    "idGenki": "Genki-3",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N5",
+    "kanji": "行",
+    "strokes": "6",
+    "radical": "行",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ",
+          "ギョウ",
+          "アン"
+        ],
+        "romaji": [
+          "kou",
+          "gyou",
+          "an"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いく",
+          "ゆく",
+          "おこなう"
+        ],
+        "romaji": [
+          "iku",
+          "yuku",
+          "okanau"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "идти, ходить, действие, поступок; поведение",
+    "name": "идти"
+  },
+  {
+    "id": "132",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N5",
+    "kanji": "高",
+    "strokes": "10",
+    "radical": "高",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ"
+        ],
+        "romaji": [
+          "kou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "たかい",
+          "たか",
+          "たかまる",
+          "たかめる"
+        ],
+        "romaji": [
+          "takai",
+          "taka",
+          "takamaru",
+          "takameru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "высокий, дорогой, громкий",
+    "name": "высокий, дорогой"
+  },
+  {
+    "id": "133",
+    "slug": "Grade-2",
+    "classification": "цвет",
+    "JLPT": "N2",
+    "kanji": "黄",
+    "strokes": "11",
+    "radical": "黃",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コウ",
+          "オウ"
+        ],
+        "romaji": [
+          "kou",
+          "ou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "き",
+          "こ"
+        ],
+        "romaji": [
+          "ki",
+          "ko"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "жёлтый",
+    "name": "жёлтый"
+  },
+  {
+    "id": "134",
+    "slug": "Grade-2",
+    "classification": "описание, разное",
+    "JLPT": "N3",
+    "kanji": "合",
+    "strokes": "6",
+    "radical": "口",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゴウ",
+          "ガッ",
+          "カッ"
+        ],
+        "romaji": [
+          "gou",
+          "gatsu",
+          "katsu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あう",
+          "あわす",
+          "あわせる"
+        ],
+        "romaji": [
+          "au",
+          "awasu",
+          "awaseru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "подходить, совпадать",
+    "name": "подходить"
+  },
+  {
+    "id": "135",
+    "slug": "Grade-2",
+    "classification": "природа",
+    "JLPT": "N2",
+    "kanji": "谷",
+    "strokes": "7",
+    "radical": "谷",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コク"
+        ],
+        "romaji": [
+          "koku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "たに"
+        ],
+        "romaji": [
+          "tani"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "долина; лощина; ущелье",
+    "name": "долина"
+  },
+  {
+    "id": "136",
+    "idG": "058",
+    "idGenki": "Genki-4",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N5",
+    "kanji": "国",
+    "strokes": "8",
+    "radical": "囗",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コク"
+        ],
+        "romaji": [
+          "koku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "くに"
+        ],
+        "romaji": [
+          "kuni"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "страна, государство, родина",
+    "name": "страна"
+  },
+  {
+    "id": "137",
+    "slug": "Grade-2",
+    "classification": "цвет",
+    "JLPT": "N4",
+    "kanji": "黒",
+    "strokes": "11",
+    "radical": "黑",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コク"
+        ],
+        "romaji": [
+          "koku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "くろ",
+          "くろい"
+        ],
+        "romaji": [
+          "kuro",
+          "kuroi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "чернота, чёрный",
+    "name": "чернота"
+  },
+  {
+    "id": "138",
+    "idG": "036",
+    "idGenki": "Genki-3",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "дата",
+    "JLPT": "N5",
+    "kanji": "今",
+    "strokes": "4",
+    "radical": "人",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "コン",
+          "キン"
+        ],
+        "romaji": [
+          "kon",
+          "kin"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いま"
+        ],
+        "romaji": [
+          "ima"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "сейчас, теперь",
+    "name": "сейчас"
+  },
+  {
+    "id": "139",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N3",
+    "kanji": "才",
+    "strokes": "3",
+    "radical": "手",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "サイ"
+        ],
+        "romaji": [
+          "sai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "талант, дарование, интеллект, находчивость, годы, возраст, тоннаж, кубатура",
+    "name": "талант, интеллект"
+  },
+  {
+    "id": "140",
+    "slug": "Grade-2",
+    "classification": "описание, действие",
+    "JLPT": "N2",
+    "kanji": "細",
+    "strokes": "11",
+    "radical": "糸",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "サイ"
+        ],
+        "romaji": [
+          "sai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ほそい",
+          "ほそる",
+          "こまか",
+          "こまかい"
+        ],
+        "romaji": [
+          "hosoi",
+          "hosoru",
+          "komaka",
+          "komakau"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "мелкий, тонкий; узкий, сужаться; заостряться",
+    "name": "мелкий, тонкий, сужаться"
+  },
+  {
+    "id": "141",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "作",
+    "strokes": "7",
+    "radical": "人",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "サク",
+          "サ"
+        ],
+        "romaji": [
+          "saku",
+          "sa"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "つくる"
+        ],
+        "romaji": [
+          "tsukuru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "делать, создавать, изготовлять, изготовлять, сочинять",
+    "name": "создавать"
+  },
+  {
+    "id": "142",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N2",
+    "kanji": "算",
+    "strokes": "14",
+    "radical": "竹",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "サン"
+        ],
+        "romaji": [
+          "san"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "вычислять, счёт, расчёт, считать",
+    "name": "вычислять"
+  },
+  {
+    "id": "143",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "止",
+    "strokes": "4",
+    "radical": "止",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シ"
+        ],
+        "romaji": [
+          "shi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "とまる",
+          "とめる"
+        ],
+        "romaji": [
+          "tomaru",
+          "tomeru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "останавливать, прекращать",
+    "name": "останавливать"
+  },
+  {
+    "id": "144",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N3",
+    "kanji": "市",
+    "strokes": "5",
+    "radical": "巾",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シ"
+        ],
+        "romaji": [
+          "shi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いち"
+        ],
+        "romaji": [
+          "ichi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "[крупный] город, рынок, базар",
+    "name": "город"
+  },
+  {
+    "id": "145",
+    "slug": "Grade-2",
+    "classification": "оружие, разное",
+    "JLPT": "N1",
+    "kanji": "矢",
+    "strokes": "5",
+    "radical": "矢",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シ"
+        ],
+        "romaji": [
+          "shi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "や"
+        ],
+        "romaji": [
+          "ya"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "стрела",
+    "name": "стрела"
+  },
+  {
+    "id": "146",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N4",
+    "kanji": "姉",
+    "strokes": "8",
+    "radical": "女",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シ"
+        ],
+        "romaji": [
+          "shi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あね",
+          "はは"
+        ],
+        "romaji": [
+          "ane",
+          "haha"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "старшая сестра",
+    "name": "старшая сестра"
+  },
+  {
+    "id": "147",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "思",
+    "strokes": "9",
+    "radical": "心",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シ"
+        ],
+        "romaji": [
+          "shi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "おもう"
+        ],
+        "romaji": [
+          "omou"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "думать, предполагать, полагать",
+    "name": "думать, предполагать"
+  },
+  {
+    "id": "148",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N4",
+    "kanji": "紙",
+    "strokes": "10",
+    "radical": "糸",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シ"
+        ],
+        "romaji": [
+          "shi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かみ"
+        ],
+        "romaji": [
+          "kami"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "бумага",
+    "name": "бумага"
+  },
+  {
+    "id": "149",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N2",
+    "kanji": "寺",
+    "strokes": "6",
+    "radical": "寸",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ジ"
+        ],
+        "romaji": [
+          "ji"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "てら"
+        ],
+        "romaji": [
+          "tera"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "буддийский храм",
+    "name": "буддийский храм"
+  },
+  {
+    "id": "150",
+    "slug": "Grade-2",
+    "classification": "человек",
+    "JLPT": "N4",
+    "kanji": "自",
+    "strokes": "6",
+    "radical": "自",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ジ",
+          "シ"
+        ],
+        "romaji": [
+          "ji",
+          "shi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "みずから"
+        ],
+        "romaji": [
+          "mizukara"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "сам; лично",
+    "name": "сам; лично"
+  },
+  {
+    "id": "151",
+    "idG": "015",
+    "idGenki": "Genki-1",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "время",
+    "JLPT": "N5",
+    "kanji": "時",
+    "strokes": "10",
+    "radical": "日",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ジ"
+        ],
+        "romaji": [
+          "ji"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "とき"
+        ],
+        "romaji": [
+          "toki"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "время, час",
+    "name": "время, час"
+  },
+  {
+    "id": "152",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N4",
+    "kanji": "室",
+    "strokes": "9",
+    "radical": "宀",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シツ"
+        ],
+        "romaji": [
+          "shitsu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "むろ"
+        ],
+        "romaji": [
+          "muro"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "комната, оранжерея, подвал",
+    "name": "комната"
+  },
+  {
+    "id": "153",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N4",
+    "kanji": "社",
+    "strokes": "7",
+    "radical": "示",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シャ"
+        ],
+        "romaji": [
+          "sha"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "やしろ"
+        ],
+        "romaji": [
+          "yashiro"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "святилище, фирма, компания",
+    "name": "фирма"
+  },
+  {
+    "id": "154",
+    "slug": "Grade-2",
+    "classification": "описание, действие",
+    "JLPT": "N2",
+    "kanji": "弱",
+    "strokes": "10",
+    "radical": "弓",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ジャク"
+        ],
+        "romaji": [
+          "yaku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "よわい",
+          "よわる",
+          "よわまる",
+          "よわめる"
+        ],
+        "romaji": [
+          "yowai",
+          "yowaru",
+          "yowamaru",
+          "yowameru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "слабый, хрупкий",
+    "name": "слабый"
+  },
+  {
+    "id": "155",
+    "slug": "Grade-2",
+    "classification": "части_тела, разное",
+    "JLPT": "N3",
+    "kanji": "首",
+    "strokes": "9",
+    "radical": "首",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シュ"
+        ],
+        "romaji": [
+          "shu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "くび"
+        ],
+        "romaji": [
+          "kubi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "шея; голова; узкая часть",
+    "name": "шея"
+  },
+  {
+    "id": "156",
+    "slug": "Grade-2",
+    "classification": "сезон",
+    "JLPT": "N4",
+    "kanji": "秋",
+    "strokes": "9",
+    "radical": "禾",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シュウ"
+        ],
+        "romaji": [
+          "shuu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あき"
+        ],
+        "romaji": [
+          "aki"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "осень",
+    "name": "осень"
+  },
+  {
+    "id": "157",
+    "slug": "Grade-2",
+    "classification": "дата",
+    "JLPT": "N4",
+    "kanji": "週",
+    "strokes": "11",
+    "radical": "辵",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シュウ"
+        ],
+        "romaji": [
+          "shuu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "неделя",
+    "name": "неделя"
+  },
+  {
+    "id": "158",
+    "slug": "Grade-2",
+    "classification": "сезон",
+    "JLPT": "N4",
+    "kanji": "春",
+    "strokes": "9",
+    "radical": "日",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シュン"
+        ],
+        "romaji": [
+          "shun"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はる"
+        ],
+        "romaji": [
+          "haru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "весна",
+    "name": "весна"
+  },
+  {
+    "id": "159",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N5",
+    "kanji": "書",
+    "strokes": "10",
+    "radical": "曰",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ショ"
+        ],
+        "romaji": [
+          "sho"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かく"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "писать, проводить линии",
+    "name": "писать"
+  },
+  {
+    "id": "160",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N4",
+    "kanji": "少",
+    "strokes": "4",
+    "radical": "小",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ショウ"
+        ],
+        "romaji": [
+          "shou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "すくない",
+          "すこし"
+        ],
+        "romaji": [
+          "sukunai",
+          "sukoshi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "немножко, немногочисленный; мало, незначительно",
+    "name": "мало"
+  },
+  {
+    "id": "161",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N4",
+    "kanji": "場",
+    "strokes": "12",
+    "radical": "土",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ジョウ",
+          "チョウ"
+        ],
+        "romaji": [
+          "jou",
+          "chou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ば"
+        ],
+        "romaji": [
+          "ba"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "место; помещение",
+    "name": "место"
+  },
+  {
+    "id": "162",
+    "slug": "Grade-2",
+    "classification": "цвет",
+    "JLPT": "N4",
+    "kanji": "色",
+    "strokes": "6",
+    "radical": "色",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ショク",
+          "シキ"
+        ],
+        "romaji": [
+          "shoku",
+          "shiki"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いろ"
+        ],
+        "romaji": [
+          "iru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "цвет, окраска",
+    "name": "цвет"
+  },
+  {
+    "id": "163",
+    "idG": "042",
+    "idGenki": "Genki-3",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "действие, еда",
+    "JLPT": "N5",
+    "kanji": "食",
+    "strokes": "9",
+    "radical": "食",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ショク",
+          "ジキ"
+        ],
+        "romaji": [
+          "shoku",
+          "jiki"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "くう",
+          "たべる",
+          "くらう"
+        ],
+        "romaji": [
+          "kuu",
+          "taberu",
+          "kurau"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "еда, пища; кушать",
+    "name": "еда"
+  },
+  {
+    "id": "164",
+    "slug": "Grade-2",
+    "classification": "человек",
+    "JLPT": "N4",
+    "kanji": "心",
+    "strokes": "7",
+    "radical": "心",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シン"
+        ],
+        "romaji": [
+          "shin"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "こころ"
+        ],
+        "romaji": [
+          "kokoro"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "душа, сердце, чувства",
+    "name": "сердце"
+  },
+  {
+    "id": "165",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N4",
+    "kanji": "新",
+    "strokes": "13",
+    "radical": "斤",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シン"
+        ],
+        "romaji": [
+          "shin"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あたらしい-",
+          "あらた",
+          "あら",
+          "にい"
+        ],
+        "romaji": [
+          "atarashii",
+          "arata",
+          "arā",
+          "niī"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "новый",
+    "name": "новый"
+  },
+  {
+    "id": "166",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N4",
+    "kanji": "親",
+    "strokes": "16",
+    "radical": "見",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "シン"
+        ],
+        "romaji": [
+          "shin"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "おや",
+          "したしい",
+          "したしむ"
+        ],
+        "romaji": [
+          "oya",
+          "shitashii",
+          "shitamu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "родители, родственники, дружеский, близкий",
+    "name": "родители"
+  },
+  {
+    "id": "167",
+    "slug": "Grade-2",
+    "classification": "разное, действие",
+    "JLPT": "N4",
+    "kanji": "図",
+    "strokes": "7",
+    "radical": "囗",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ズ",
+          "ト"
+        ],
+        "romaji": [
+          "zu",
+          "to"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "え",
+          "はかる"
+        ],
+        "romaji": [
+          "e",
+          "hakaru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "чертёж; план; карта; заботиться",
+    "name": "карта; план, рисование"
+  },
+  {
+    "id": "168",
+    "slug": "Grade-2",
+    "classification": "форма, числа",
+    "JLPT": "N3",
+    "kanji": "数",
+    "strokes": "13",
+    "radical": "攴",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "スウ",
+          "サク",
+          "ソク",
+          "シュ"
+        ],
+        "romaji": [
+          "suu",
+          "saku",
+          "soku",
+          "shu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かず",
+          "かぞえる",
+          "しばしば",
+          "せめる",
+          "わずらわしい"
+        ],
+        "romaji": [
+          "kazu",
+          "kazoeru",
+          "shibashiba",
+          "semeru",
+          "wazurawashii"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "цифра; число, количество",
+    "name": "цифра; число"
+  },
+  {
+    "id": "169",
+    "idG": "045",
+    "idGenki": "Genki-4",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "направление",
+    "JLPT": "N5",
+    "kanji": "西",
+    "strokes": "6",
+    "radical": "西",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セイ",
+          "サイ",
+          "ス"
+        ],
+        "romaji": [
+          "sei",
+          "sai",
+          "su"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "にし"
+        ],
+        "romaji": [
+          "nishi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "запад",
+    "name": "запад"
+  },
+  {
+    "id": "170",
+    "slug": "Grade-2",
+    "classification": "человек, действие",
+    "JLPT": "N3",
+    "kanji": "声",
+    "strokes": "7",
+    "radical": "士",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セイ",
+          "ショウ"
+        ],
+        "romaji": [
+          "sei",
+          "shou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "こえ",
+          "こわ"
+        ],
+        "romaji": [
+          "koe",
+          "kowā"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "звук, говорить, известность",
+    "name": "звук"
+  },
+  {
+    "id": "171",
+    "slug": "Grade-2",
+    "classification": "природа",
+    "JLPT": "N2",
+    "kanji": "星",
+    "strokes": "9",
+    "radical": "日",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セイ",
+          "ショウ"
+        ],
+        "romaji": [
+          "sei",
+          "shou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ほし",
+          "ぼし"
+        ],
+        "romaji": [
+          "hoshi",
+          "boshi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "звезда, пятно, пятнышко, отметка,",
+    "name": "звезда, пятно"
+  },
+  {
+    "id": "172",
+    "slug": "Grade-2",
+    "classification": "природа, погода",
+    "JLPT": "N3",
+    "kanji": "晴",
+    "strokes": "12",
+    "radical": "日",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セイ"
+        ],
+        "romaji": [
+          "sei"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はれる",
+          "はれ",
+          "ばれ",
+          "はらす"
+        ],
+        "romaji": [
+          "hareru",
+          "hare",
+          "bare",
+          "harasu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "ясная погода, проясняться",
+    "name": "ясная погода"
+  },
+  {
+    "id": "173",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "切",
+    "strokes": "4",
+    "radical": "刀",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セツ",
+          "サイ"
+        ],
+        "romaji": [
+          "setsu",
+          "sai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "きる",
+          "きり",
+          "きれる"
+        ],
+        "romaji": [
+          "kiru",
+          "kiri",
+          "kireru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "резать, рубить, отрезать",
+    "name": "резать"
+  },
+  {
+    "id": "174",
+    "slug": "Grade-2",
+    "classification": "природа, погода, действие",
+    "JLPT": "N3",
+    "kanji": "雪",
+    "strokes": "11",
+    "radical": "雨",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セツ"
+        ],
+        "romaji": [
+          "setsu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ゆき"
+        ],
+        "romaji": [
+          "yuki"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "снег, смывать",
+    "name": "снег, смывать"
+  },
+  {
+    "id": "175",
+    "slug": "Grade-2",
+    "classification": "транспорт, разное",
+    "JLPT": "N3",
+    "kanji": "船",
+    "strokes": "11",
+    "radical": "舟",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セン"
+        ],
+        "romaji": [
+          "sen"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ふね",
+          "ふな"
+        ],
+        "romaji": [
+          "fune",
+          "funa"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "судно; лодка",
+    "name": "судно; лодка"
+  },
+  {
+    "id": "176",
+    "slug": "Grade-2",
+    "classification": "форма",
+    "JLPT": "N2",
+    "kanji": "線",
+    "strokes": "15",
+    "radical": "糸",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "セン"
+        ],
+        "romaji": [
+          "sen"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "すじ"
+        ],
+        "romaji": [
+          "suji"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "линия, черта",
+    "name": "линия"
+  },
+  {
+    "id": "177",
+    "slug": "Grade-2",
+    "classification": "направление",
+    "JLPT": "N5",
+    "kanji": "前",
+    "strokes": "9",
+    "radical": "刀",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ゼン"
+        ],
+        "romaji": [
+          "zen"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "まえ"
+        ],
+        "romaji": [
+          "mae"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "впереди; спереди, перед",
+    "name": "впереди; перед"
+  },
+  {
+    "id": "178",
+    "slug": "Grade-2",
+    "classification": "человек, действие",
+    "JLPT": "N3",
+    "kanji": "組",
+    "strokes": "11",
+    "radical": "糸",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ソ"
+        ],
+        "romaji": [
+          "so"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "くむ",
+          "くみ",
+          "ぐみ"
+        ],
+        "romaji": [
+          "kumu",
+          "kumi",
+          "gumi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "группа; класс, составлять, объединяться",
+    "name": "группа, собирать"
+  },
+  {
+    "id": "179",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "走",
+    "strokes": "7",
+    "radical": "走",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ソウ"
+        ],
+        "romaji": [
+          "sou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はしる"
+        ],
+        "romaji": [
+          "hashiru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "бежать, ехать на чём-л., убегать",
+    "name": "бежать"
+  },
+  {
+    "id": "180",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N4",
+    "kanji": "多",
+    "strokes": "6",
+    "radical": "夕",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "タ"
+        ],
+        "romaji": [
+          "ta"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "おおい",
+          "まさに",
+          "まさる"
+        ],
+        "romaji": [
+          "ooi",
+          "masani",
+          "masaru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "много; многочисленный;",
+    "name": "много"
+  },
+  {
+    "id": "181",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N3",
+    "kanji": "太",
+    "strokes": "4",
+    "radical": "大",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "タイ",
+          "タ"
+        ],
+        "romaji": [
+          "tai",
+          "ta"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ふとい",
+          "ふとる"
+        ],
+        "romaji": [
+          "futoi",
+          "futoru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "толстый; жирный, наглый, бесстыдный",
+    "name": "толстый; жирный"
+  },
+  {
+    "id": "182",
+    "slug": "Grade-2",
+    "classification": "части_тела, человек",
+    "JLPT": "N4",
+    "kanji": "体",
+    "strokes": "7",
+    "radical": "人",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "タイ",
+          "テイ"
+        ],
+        "romaji": [
+          "tai",
+          "tei"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "からだ",
+          "かたち"
+        ],
+        "romaji": [
+          "karada",
+          "katachi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "тело, объект, вещество, субстанция",
+    "name": "тело"
+  },
+  {
+    "id": "183",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N4",
+    "kanji": "台",
+    "strokes": "5",
+    "radical": "口",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ダイ",
+          "たい"
+        ],
+        "romaji": [
+          "dai",
+          "tai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "うてな",
+          "われ",
+          "つかさ"
+        ],
+        "romaji": [
+          "utena",
+          "ware",
+          "tsukasa"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "стойка; стеллаж; станина; тумба;подмостки; помост",
+    "name": "подставка"
+  },
+  {
+    "id": "184",
+    "slug": "Grade-2",
+    "classification": "природа, места",
+    "JLPT": "N4",
+    "kanji": "地",
+    "strokes": "6",
+    "radical": "宀",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チ",
+          "ジ"
+        ],
+        "romaji": [
+          "chi",
+          "ji"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "どま"
+        ],
+        "romaji": [
+          "doma"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "земля, почва, местность, район",
+    "name": "земля, почва"
+  },
+  {
+    "id": "185",
+    "slug": "Grade-2",
+    "classification": "природа",
+    "JLPT": "N2",
+    "kanji": "池",
+    "strokes": "6",
+    "radical": "水",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チ"
+        ],
+        "romaji": [
+          "chi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いけ"
+        ],
+        "romaji": [
+          "ike"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "пруд, водоём",
+    "name": "пруд"
+  },
+  {
+    "id": "186",
+    "slug": "Grade-2",
+    "classification": "разное, образование",
+    "JLPT": "N4",
+    "kanji": "知",
+    "strokes": "8",
+    "radical": "矢",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チ"
+        ],
+        "romaji": [
+          "chi"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "しる",
+          "しらせる"
+        ],
+        "romaji": [
+          "shiru",
+          "shiraseru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "мудрость; знания, знать; узнавать; понимать",
+    "name": "мудрость; знания"
+  },
+  {
+    "id": "187",
+    "slug": "Grade-2",
+    "classification": "еда",
+    "JLPT": "N4",
+    "kanji": "茶",
+    "strokes": "9",
+    "radical": "艸",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チャ",
+          "サ"
+        ],
+        "romaji": [
+          "cha",
+          "sa"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ちゃ"
+        ],
+        "romaji": [
+          "chiya"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "чай",
+    "name": "чай"
+  },
+  {
+    "id": "188",
+    "slug": "Grade-2",
+    "classification": "время",
+    "JLPT": "N4",
+    "kanji": "昼",
+    "strokes": "9",
+    "radical": "日",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チュウ"
+        ],
+        "romaji": [
+          "chuu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ひる"
+        ],
+        "romaji": [
+          "hiru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "дневное время, середина дня",
+    "name": "дневное время, середина дня"
+  },
+  {
+    "id": "189",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N5",
+    "kanji": "長",
+    "strokes": "8",
+    "radical": "長",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チョウ"
+        ],
+        "romaji": [
+          "chou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ながい",
+          "おさ"
+        ],
+        "romaji": [
+          "nagai",
+          "osa"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "длинный, долгий; вечный",
+    "name": "длинный"
+  },
+  {
+    "id": "190",
+    "slug": "Grade-2",
+    "classification": "животные",
+    "JLPT": "N4",
+    "kanji": "鳥",
+    "strokes": "11",
+    "radical": "鳥",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チョウ"
+        ],
+        "romaji": [
+          "chou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "とり"
+        ],
+        "romaji": [
+          "tori"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "птица, домашняя птица, курица",
+    "name": "птица"
+  },
+  {
+    "id": "191",
+    "slug": "Grade-2",
+    "classification": "время",
+    "JLPT": "N4",
+    "kanji": "朝",
+    "strokes": "12",
+    "radical": "月",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チョウ"
+        ],
+        "romaji": [
+          "chou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あさ"
+        ],
+        "romaji": [
+          "asa"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "утро; власть, правительство",
+    "name": "утро"
+  },
+  {
+    "id": "192",
+    "slug": "Grade-2",
+    "classification": "описание, действие",
+    "JLPT": "N3",
+    "kanji": "直",
+    "strokes": "8",
+    "radical": "目",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "チョク",
+          "ジキ",
+          "ジカ"
+        ],
+        "romaji": [
+          "choku",
+          "jiki",
+          "jika"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ただちに",
+          "なおす",
+          "なおる",
+          "なおき",
+          "すぐ"
+        ],
+        "romaji": [
+          "tadachini",
+          "naosu",
+          "naoru",
+          "naoki",
+          "sugu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "прямой; исправлять, поправлять; чинить;приводить в порядок",
+    "name": "прямой; исправлять"
+  },
+  {
+    "id": "193",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "通",
+    "strokes": "10",
+    "radical": "辵",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ツウ",
+          "ツ"
+        ],
+        "romaji": [
+          "tsuu",
+          "tsu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "とおる",
+          "とおり",
+          "どおり",
+          "どおす",
+          "どおし",
+          "かよう"
+        ],
+        "romaji": [
+          "tooru",
+          "toori",
+          "doori",
+          "doosu",
+          "dooshi",
+          "kayou"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "улица, дорога, проезд, проходить; проезжать, проникать",
+    "name": "улица, проходить"
+  },
+  {
+    "id": "194",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N4",
+    "kanji": "弟",
+    "strokes": "7",
+    "radical": "弓",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "テイ",
+          "ダイ",
+          "デ"
+        ],
+        "romaji": [
+          "tei",
+          "dai",
+          "de"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "おとうと"
+        ],
+        "romaji": [
+          "otouto"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "младший брат; младшая сестра, ученик",
+    "name": "младший брат"
+  },
+  {
+    "id": "195",
+    "slug": "Grade-2",
+    "classification": "места, еда",
+    "JLPT": "N4",
+    "kanji": "店",
+    "strokes": "8",
+    "radical": "广",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "テン"
+        ],
+        "romaji": [
+          "ten"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "みせ",
+          "たな"
+        ],
+        "romaji": [
+          "mise",
+          "tana"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "лавка, магазин; заведение; фирма",
+    "name": "магазин"
+  },
+  {
+    "id": "196",
+    "slug": "Grade-2",
+    "classification": "форма, действие, разное",
+    "JLPT": "N3",
+    "kanji": "点",
+    "strokes": "9",
+    "radical": "火",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "テン"
+        ],
+        "romaji": [
+          "ten"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "つける",
+          "つく",
+          "たてる",
+          "さす",
+          "とぼす",
+          "ともす",
+          "ぼち"
+        ],
+        "romaji": [
+          "tsukeru",
+          "tsuku",
+          "tateru",
+          "sasu",
+          "tobosu",
+          "tomosu",
+          "bochi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "точка, отметка, балл, очко, пятнышко, зажигать, включать",
+    "name": "точка, зажигать"
+  },
+  {
+    "id": "197",
+    "slug": "Grade-2",
+    "classification": "природа, разное",
+    "JLPT": "N5",
+    "kanji": "電",
+    "strokes": "13",
+    "radical": "雨",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "デン"
+        ],
+        "romaji": [
+          "den"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "молния, электричество",
+    "name": "молния, электричество"
+  },
+  {
+    "id": "198",
+    "slug": "Grade-2",
+    "classification": "оружие",
+    "JLPT": "N1",
+    "kanji": "刀",
+    "strokes": "2",
+    "radical": "刀",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "トウ"
+        ],
+        "romaji": [
+          "tou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かたな",
+          "そり"
+        ],
+        "romaji": [
+          "katana",
+          "sori"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "катана, меч, клинок, холодное оружие",
+    "name": "катана,"
+  },
+  {
+    "id": "199",
+    "slug": "Grade-2",
+    "classification": "сезон",
+    "JLPT": "N4",
+    "kanji": "冬",
+    "strokes": "5",
+    "radical": "冫",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "トウ"
+        ],
+        "romaji": [
+          "tou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ふゆ"
+        ],
+        "romaji": [
+          "fuyu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "зима",
+    "name": "зима"
+  },
+  {
+    "id": "200",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N3",
+    "kanji": "当",
+    "strokes": "6",
+    "radical": "小",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "トウ"
+        ],
+        "romaji": [
+          "tou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あたる",
+          "あたり",
+          "あてる",
+          "まさに",
+          "まさにべし"
+        ],
+        "romaji": [
+          "ataru",
+          "atari",
+          "ateru",
+          "masani",
+          "masanibeshi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "попадать [в цель] , ударяться",
+    "name": "попадать, ударяться"
+  },
+  {
+    "id": "201",
+    "idG": "044",
+    "idGenki": "Genki-4",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "направление",
+    "JLPT": "N5",
+    "kanji": "東",
+    "strokes": "8",
+    "radical": "木",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "トウ"
+        ],
+        "romaji": [
+          "tou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ひがし"
+        ],
+        "romaji": [
+          "higashi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "восток",
+    "name": "восток"
+  },
+  {
+    "id": "202",
+    "slug": "Grade-2",
+    "classification": "действие, разное",
+    "JLPT": "N4",
+    "kanji": "答",
+    "strokes": "12",
+    "radical": "竹",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "トウ"
+        ],
+        "romaji": [
+          "tou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "こたえる",
+          "こたえ"
+        ],
+        "romaji": [
+          "kotaeru",
+          "kotae"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "ответ, отвечать",
+    "name": "ответ, отвечать"
+  },
+  {
+    "id": "203",
+    "slug": "Grade-2",
+    "classification": "части_тела, разное",
+    "JLPT": "N3",
+    "kanji": "頭",
+    "strokes": "16",
+    "radical": "頁",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "トウ",
+          "ズ",
+          "ト"
+        ],
+        "romaji": [
+          "tou",
+          "zu",
+          "to"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あたま",
+          "かしら",
+          "かぶり"
+        ],
+        "romaji": [
+          "atama",
+          "kashira",
+          "kaburi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "голова, ум; мысли; образ мыслей",
+    "name": "голова"
+  },
+  {
+    "id": "204",
+    "slug": "Grade-2",
+    "classification": "описание",
+    "JLPT": "N4",
+    "kanji": "同",
+    "strokes": "6",
+    "radical": "口",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ドウ"
+        ],
+        "romaji": [
+          "dou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "おなじ"
+        ],
+        "romaji": [
+          "onaji"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "одинаковый, такой же; тот же",
+    "name": "одинаковый"
+  },
+  {
+    "id": "205",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N4",
+    "kanji": "道",
+    "strokes": "12",
+    "radical": "辵",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ドウ",
+          "トウ"
+        ],
+        "romaji": [
+          "dou",
+          "tou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "みち"
+        ],
+        "romaji": [
+          "michi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "дорога, путь, расстояние",
+    "name": "дорога, путь"
+  },
+  {
+    "id": "206",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N5",
+    "kanji": "読",
+    "strokes": "14",
+    "radical": "言",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ドク",
+          "トク",
+          "トウ"
+        ],
+        "romaji": [
+          "doku",
+          "toku",
+          "tou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "よむ",
+          "よみ"
+        ],
+        "romaji": [
+          "yomu",
+          "yomi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "читать",
+    "name": "читать"
+  },
+  {
+    "id": "207",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N3",
+    "kanji": "内",
+    "strokes": "4",
+    "radical": "冂",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ナイ",
+          "ダイ"
+        ],
+        "romaji": [
+          "nai",
+          "dai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "うち"
+        ],
+        "romaji": [
+          "uchi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "дом, семья, внутри; среди",
+    "name": "дом; среди"
+  },
+  {
+    "id": "208",
+    "idG": "046",
+    "idGenki": "Genki-4",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "направление",
+    "JLPT": "N5",
+    "kanji": "南",
+    "strokes": "9",
+    "radical": "十",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ナン",
+          "ナ"
+        ],
+        "romaji": [
+          "nan",
+          "na"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "みなみ"
+        ],
+        "romaji": [
+          "minami"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "юг",
+    "name": "юг"
+  },
+  {
+    "id": "209",
+    "slug": "Grade-2",
+    "classification": "еда",
+    "JLPT": "N4",
+    "kanji": "肉",
+    "strokes": "6",
+    "radical": "肉",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ニク"
+        ],
+        "romaji": [
+          "niku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "しし"
+        ],
+        "romaji": [
+          "shishi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "мясо, плоть",
+    "name": "мясо"
+  },
+  {
+    "id": "210",
+    "slug": "Grade-2",
+    "classification": "животные",
+    "JLPT": "N3",
+    "kanji": "馬",
+    "strokes": "10",
+    "radical": "馬",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "バ"
+        ],
+        "romaji": [
+          "ba"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "うま",
+          "ま"
+        ],
+        "romaji": [
+          "uma",
+          "ma"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "лошадь, конь",
+    "name": "лошадь"
+  },
+  {
+    "id": "211",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "売",
+    "strokes": "7",
+    "radical": "士",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "バイ"
+        ],
+        "romaji": [
+          "bai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "うる",
+          "うれる"
+        ],
+        "romaji": [
+          "uru",
+          "ureru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "продавать",
+    "name": "продавать"
+  },
+  {
+    "id": "212",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N4",
+    "kanji": "買",
+    "strokes": "12",
+    "radical": "貝",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "バイ"
+        ],
+        "romaji": [
+          "bai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かう"
+        ],
+        "romaji": [
+          "kau"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "покупать, приобретат",
+    "name": "покупать,"
+  },
+  {
+    "id": "213",
+    "slug": "Grade-2",
+    "classification": "природа",
+    "JLPT": "N2",
+    "kanji": "麦",
+    "strokes": "7",
+    "radical": "麥",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "バク"
+        ],
+        "romaji": [
+          "baku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "むぎ"
+        ],
+        "romaji": [
+          "mugi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "ячмень, пшеница, хлебные злаки, зерновые",
+    "name": "хлебные злаки"
+  },
+  {
+    "id": "214",
+    "idG": "029",
+    "idGenki": "Genki-2",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "описание, разное",
+    "JLPT": "N5",
+    "kanji": "半",
+    "strokes": "5",
+    "radical": "十",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ハン"
+        ],
+        "romaji": [
+          "han"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "なかば"
+        ],
+        "romaji": [
+          "nakaba"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "половина, частично, нечётное число",
+    "name": "половина"
+  },
+  {
+    "id": "215",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N3",
+    "kanji": "番",
+    "strokes": "12",
+    "radical": "田",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "バン"
+        ],
+        "romaji": [
+          "ban"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "つがい"
+        ],
+        "romaji": [
+          "tsugai"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "очередь, номер",
+    "name": "очередь"
+  },
+  {
+    "id": "216",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N5",
+    "kanji": "父",
+    "strokes": "4",
+    "radical": "父",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "フ"
+        ],
+        "romaji": [
+          "fu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ちち"
+        ],
+        "romaji": [
+          "chichi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "отец",
+    "name": "отец"
+  },
+  {
+    "id": "217",
+    "slug": "Grade-2",
+    "classification": "природа, погода",
+    "JLPT": "N4",
+    "kanji": "風",
+    "strokes": "9",
+    "radical": "風",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "フウ",
+          "フ"
+        ],
+        "romaji": [
+          "fuu",
+          "fu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "カゼ",
+          "かざ"
+        ],
+        "romaji": [
+          "kaze",
+          "kaza"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "ветер, обычаи",
+    "name": "ветер"
+  },
+  {
+    "id": "218",
+    "idG": "052",
+    "idGenki": "Genki-4",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "время",
+    "JLPT": "N5",
+    "kanji": "分",
+    "strokes": "5",
+    "radical": "赤",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ブン",
+          "フン",
+          "ブ"
+        ],
+        "romaji": [
+          "bun",
+          "fun",
+          "bu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "わける",
+          "わかれる",
+          "わかつ"
+        ],
+        "romaji": [
+          "wakeru",
+          "wakereru",
+          "wakatsu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "минута, понимать",
+    "name": "минута, понимать"
+  },
+  {
+    "id": "219",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N5",
+    "kanji": "聞",
+    "strokes": "14",
+    "radical": "門",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ブン",
+          "モン"
+        ],
+        "romaji": [
+          "bun",
+          "mon"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "きく",
+          "きこえる"
+        ],
+        "romaji": [
+          "kiku",
+          "kikoeru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "слышать, спрашивать, слушаться",
+    "name": "слышать"
+  },
+  {
+    "id": "220",
+    "slug": "Grade-2",
+    "classification": "еда",
+    "JLPT": "N3",
+    "kanji": "米",
+    "strokes": "6",
+    "radical": "米",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ベイ",
+          "マイ",
+          "メエトル"
+        ],
+        "romaji": [
+          "bei",
+          "mai",
+          "meetoru"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "こめ",
+          "よね"
+        ],
+        "romaji": [
+          "kome",
+          "yone"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "рис",
+    "name": "рис"
+  },
+  {
+    "id": "221",
+    "slug": "Grade-2",
+    "classification": "действие, разное",
+    "JLPT": "N4",
+    "kanji": "歩",
+    "strokes": "8",
+    "radical": "止",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ホ",
+          "ブ",
+          "フ"
+        ],
+        "romaji": [
+          "ho",
+          "bu",
+          "fu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あるく",
+          "あゆむ"
+        ],
+        "romaji": [
+          "arukuu",
+          "ayum"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "идти, ходить, шаги, количеставо шагов",
+    "name": "ходить"
+  },
+  {
+    "id": "222",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N5",
+    "kanji": "母",
+    "strokes": "5",
+    "radical": "毋",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ボ"
+        ],
+        "romaji": [
+          "bo"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はは",
+          "も"
+        ],
+        "romaji": [
+          "haha",
+          "mo"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "мать",
+    "name": "мать"
+  },
+  {
+    "id": "223",
+    "slug": "Grade-2",
+    "classification": "направление, форма",
+    "JLPT": "N4",
+    "kanji": "方",
+    "strokes": "4",
+    "radical": "方",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ホウ"
+        ],
+        "romaji": [
+          "hou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かた",
+          "がた"
+        ],
+        "romaji": [
+          "kata",
+          "gata"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "направление; сторона, квадрат, к. . . (о времени), приблизительно, около ",
+    "name": "направление, сторона"
+  },
+  {
+    "id": "224",
+    "idG": "047",
+    "idGenki": "Genki-4",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "направление",
+    "JLPT": "N5",
+    "kanji": "北",
+    "strokes": "5",
+    "radical": "匕",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ホク"
+        ],
+        "romaji": [
+          "hoku"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "きた"
+        ],
+        "romaji": [
+          "kita"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "север",
+    "name": "север"
+  },
+  {
+    "id": "225",
+    "slug": "Grade-2",
+    "classification": "дата",
+    "JLPT": "N5",
+    "kanji": "毎",
+    "strokes": "6",
+    "radical": "毋",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "マイ"
+        ],
+        "romaji": [
+          "mai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ごと",
+          "ごとに"
+        ],
+        "romaji": [
+          "goto",
+          "gotoni"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "каждый раз",
+    "name": "каждый раз"
+  },
+  {
+    "id": "226",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N4",
+    "kanji": "妹",
+    "strokes": "8",
+    "radical": "女",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "マイ"
+        ],
+        "romaji": [
+          "mai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "いもうと"
+        ],
+        "romaji": [
+          "imouto"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "младшая сестра",
+    "name": "младшая сестра"
+  },
+  {
+    "id": "227",
+    "idG": "013",
+    "idGenki": "Genki-1",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "числа, разное",
+    "JLPT": "N5",
+    "kanji": "万",
+    "strokes": "3",
+    "radical": "一",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "マン",
+          "バン"
+        ],
+        "romaji": [
+          "man",
+          "ban"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "よろず"
+        ],
+        "romaji": [
+          "yorozu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "десять тысяч, весь; все",
+    "name": "десять тысяч"
+  },
+  {
+    "id": "228",
+    "slug": "Grade-2",
+    "classification": "описание, разное",
+    "JLPT": "N4",
+    "kanji": "明",
+    "strokes": "8",
+    "radical": "日",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "メイ",
+          "ミョウ",
+          "ミン"
+        ],
+        "romaji": [
+          "mei",
+          "myou",
+          "min"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "あかり",
+          "あかるい",
+          "あかるむ",
+          "あからむ",
+          "あきらか",
+          "あける",
+          "あけ",
+          "あく",
+          "あくる",
+          "あかす"
+        ],
+        "romaji": [
+          "akari",
+          "akarui",
+          "akarumu",
+          "akaramu",
+          "akiraka",
+          "akeru",
+          "ake",
+          "aku",
+          "akuru",
+          "akasu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "ясный, очевидный, свет; освещение, лампа, светать, рассветать",
+    "name": "ясный, очевидный"
+  },
+  {
+    "id": "229",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N3",
+    "kanji": "鳴",
+    "strokes": "14",
+    "radical": "口",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "メイ"
+        ],
+        "romaji": [
+          "mei"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "なく",
+          "なる",
+          "ならす"
+        ],
+        "romaji": [
+          "naku",
+          "naru",
+          "narasu"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "звучать, раздаваться, петь, щебетать, чирикать; кудахтать; кукарекать; крякать; лаять; мяукать; мычать; блеять; ржать; реветь; выть;жужжать; стрекотать; пищать",
+    "name": "звучать, раздаваться"
+  },
+  {
+    "id": "230",
+    "slug": "Grade-2",
+    "classification": "части_тела, разное",
+    "JLPT": "N2",
+    "kanji": "毛",
+    "strokes": "4",
+    "radical": "毛",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "モウ"
+        ],
+        "romaji": [
+          "mou"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "け"
+        ],
+        "romaji": [
+          "ke"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "волос; волосы; мех; шерсть; пух; ворс",
+    "name": "волосы; шерсть"
+  },
+  {
+    "id": "231",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N2",
+    "kanji": "門",
+    "strokes": "8",
+    "radical": "門",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "モン"
+        ],
+        "romaji": [
+          "mon"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "かど",
+          "と"
+        ],
+        "romaji": [
+          "kado",
+          "to"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "ворота, двери; вход; выход",
+    "name": "ворота; вход"
+  },
+  {
+    "id": "232",
+    "slug": "Grade-2",
+    "classification": "время",
+    "JLPT": "N4",
+    "kanji": "夜",
+    "strokes": "8",
+    "radical": "夕",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ヤ"
+        ],
+        "romaji": [
+          "ya"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "よ",
+          "よる"
+        ],
+        "romaji": [
+          "yo",
+          "yoru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "ночь; поздний вечер; ночью, каждую ночь,",
+    "name": "ночь, вечер"
+  },
+  {
+    "id": "233",
+    "slug": "Grade-2",
+    "classification": "природа, места, описание",
+    "JLPT": "N4",
+    "kanji": "野",
+    "strokes": "11",
+    "radical": "田",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ヤ",
+          "ショ"
+        ],
+        "romaji": [
+          "ya",
+          "sho"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "の"
+        ],
+        "romaji": [
+          "no"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "поле, открытая местность, дикий (о растениях и животных)",
+    "name": "поле; равнина"
+  },
+  {
+    "id": "234",
+    "slug": "Grade-2",
+    "classification": "семья, человек",
+    "JLPT": "N5",
+    "kanji": "友",
+    "strokes": "4",
+    "radical": "又",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ユウ"
+        ],
+        "romaji": [
+          "yuu"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "とも"
+        ],
+        "romaji": [
+          "tomo"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "друг; дружба; дружеский",
+    "name": "друг"
+  },
+  {
+    "id": "235",
+    "slug": "Grade-2",
+    "classification": "действие, разное",
+    "JLPT": "N4",
+    "kanji": "用",
+    "strokes": "5",
+    "radical": "用",
+    "isRadical": true,
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ヨウ"
+        ],
+        "romaji": [
+          "you"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "もちいる"
+        ],
+        "romaji": [
+          "mochiiru"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "пользоваться, употреблять, дело, надобность",
+    "name": "пользоваться"
+  },
+  {
+    "id": "236",
+    "idG": "025",
+    "idGenki": "Genki-2",
+    "isGenki": true,
+    "slug": "Grade-2",
+    "classification": "дата",
+    "JLPT": "N4",
+    "kanji": "曜",
+    "strokes": "18",
+    "radical": "日",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ヨウ"
+        ],
+        "romaji": [
+          "you"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "~"
+        ],
+        "romaji": [
+          "~"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "день недели, семь дней недели",
+    "name": "день недели"
+  },
+  {
+    "id": "237",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N5",
+    "kanji": "来",
+    "strokes": "7",
+    "radical": "木",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ライ",
+          "タイ"
+        ],
+        "romaji": [
+          "rai",
+          "tai"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "くる",
+          "きたる",
+          "きたす",
+          "きたす",
+          "きたる",
+          "き",
+          "こ"
+        ],
+        "romaji": [
+          "kuru",
+          "kitaru",
+          "kitasu",
+          "kitasu",
+          "kitaru",
+          "ki",
+          "ko"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "приходить; приезжать; прибывать",
+    "name": "приходить"
+  },
+  {
+    "id": "238",
+    "slug": "Grade-2",
+    "classification": "места",
+    "JLPT": "N1",
+    "kanji": "里",
+    "strokes": "7",
+    "radical": "田",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "リ"
+        ],
+        "romaji": [
+          "ri"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "さと"
+        ],
+        "romaji": [
+          "sato"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "деревня, дом родителей, мера длины",
+    "name": "деревня; дом родителей"
+  },
+  {
+    "id": "239",
+    "slug": "Grade-2",
+    "classification": "разное",
+    "JLPT": "N4",
+    "kanji": "理",
+    "strokes": "11",
+    "radical": "玉",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "リ"
+        ],
+        "romaji": [
+          "ri"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "ことわり"
+        ],
+        "romaji": [
+          "kotowari"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "довод, аргумент, резон, основание, правда, справедливость",
+    "name": "правда, справедливость"
+  },
+  {
+    "id": "240",
+    "slug": "Grade-2",
+    "classification": "действие",
+    "JLPT": "N5",
+    "kanji": "話",
+    "strokes": "13",
+    "radical": "言",
+    "reading": {
+      "onyomi": {
+        "write": [
+          "ワ"
+        ],
+        "romaji": [
+          "wa"
+        ]
+      },
+      "kunyomi": {
+        "write": [
+          "はなす",
+          "はなし"
+        ],
+        "romaji": [
+          "hanasu",
+          "hanashi"
+        ]
+      }
+    },
+    "onyomi": {},
+    "meaning": "рассказ, говорить; беседовать; рассказывать, разговор, беседа",
+    "name": "говорить"
+  }
+]
