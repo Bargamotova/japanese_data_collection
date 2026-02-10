@@ -1049,43 +1049,8 @@
       }
     ]
   },
-  {
+   {
     "id": "27",
-    "list": [
-      {
-        "furigana": "四",
-        "romaji": "shi",
-        "meaning": "четыре"
-      },
-      {
-        "furigana": "四月",
-        "romaji": "shigatsu",
-        "meaning": "апрель"
-      },
-      {
-        "furigana": "四",
-        "romaji": "yon",
-        "meaning": "четыре"
-      },
-      {
-        "furigana": "四つ",
-        "romaji": "yotsu",
-        "meaning": "четыре"
-      },
-      {
-        "furigana": "四日",
-        "romaji": "yokka",
-        "meaning": "четыре дня, червертый день месяца"
-      },
-      {
-        "furigana": "四時",
-        "romaji": "yoji",
-        "meaning": "четыре часа"
-      }
-    ]
-  },
-  {
-    "id": "28",
     "list": [
       {
         "furigana": "子息",
@@ -1144,6 +1109,42 @@
       }
     ]
   },
+  {
+    "id": "28",
+    "list": [
+      {
+        "furigana": "四",
+        "romaji": "shi",
+        "meaning": "четыре"
+      },
+      {
+        "furigana": "四月",
+        "romaji": "shigatsu",
+        "meaning": "апрель"
+      },
+      {
+        "furigana": "四",
+        "romaji": "yon",
+        "meaning": "четыре"
+      },
+      {
+        "furigana": "四つ",
+        "romaji": "yotsu",
+        "meaning": "четыре"
+      },
+      {
+        "furigana": "四日",
+        "romaji": "yokka",
+        "meaning": "четыре дня, червертый день месяца"
+      },
+      {
+        "furigana": "四時",
+        "romaji": "yoji",
+        "meaning": "четыре часа"
+      }
+    ]
+  },
+ 
   {
     "id": "29",
     "list": [
