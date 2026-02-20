@@ -313,7 +313,7 @@
       {
         "id": "9",
         "slug": "Grade-1",
-        "classification": "природа, растения",
+        "classification": "природа",
         "JLPT": "N4",
         "image": "0",
         "kanji": "花",
@@ -344,7 +344,7 @@
       {
         "id": "10",
         "slug": "Grade-1",
-        "classification": "животные_насекомые",
+        "classification": "животные",
         "JLPT": "N2",
         "image": "0",
         "kanji": "貝",
@@ -674,7 +674,7 @@
       {
         "id": "19",
         "slug": "Grade-1",
-        "classification": "животные_насекомые",
+        "classification": "животные",
         "JLPT": "N4",
         "image": "0",
         "kanji": "犬",
@@ -784,7 +784,7 @@
         "idGenki": "Genki-4",
         "isGenki": true,
         "slug": "Grade-1",
-        "classification": "части_тела",
+        "classification": "человек",
         "JLPT": "N4",
         "image": "0",
         "kanji": "口",
@@ -1112,7 +1112,7 @@
       {
         "id": "31",
         "slug": "Grade-1",
-        "classification": "части_тела",
+        "classification": "человек",
         "JLPT": "N3",
         "image": "0",
         "kanji": "耳",
@@ -1214,7 +1214,7 @@
       {
         "id": "34",
         "slug": "Grade-1",
-        "classification": "части_тела",
+        "classification": "человек",
         "JLPT": "N4",
         "image": "0",
         "kanji": "手",
@@ -1449,7 +1449,7 @@
       {
         "id": "40",
         "slug": "Grade-1",
-        "classification": "природа, растения",
+        "classification": "природа",
         "JLPT": "N2",
         "image": "0",
         "kanji": "森",
@@ -1911,7 +1911,7 @@
       {
         "id": "53",
         "slug": "Grade-1",
-        "classification": "природа, растения",
+        "classification": "природа",
         "JLPT": "N3",
         "image": "0",
         "kanji": "草",
@@ -1942,7 +1942,7 @@
       {
         "id": "54",
         "slug": "Grade-1",
-        "classification": "части_тела",
+        "classification": "человек",
         "JLPT": "N4",
         "image": "0",
         "kanji": "足",
@@ -2089,7 +2089,7 @@
       {
         "id": "58",
         "slug": "Grade-1",
-        "classification": "природа, растения",
+        "classification": "природа",
         "JLPT": "N2",
         "image": "0",
         "kanji": "竹",
@@ -2159,7 +2159,7 @@
       {
         "id": "60",
         "slug": "Grade-1",
-        "classification": "животные_насекомые",
+        "classification": "животные",
         "JLPT": "N2",
         "image": "0",
         "kanji": "虫",
@@ -2636,7 +2636,7 @@
         "idGenki": "Genki-2",
         "isGenki": true,
         "slug": "Grade-1",
-        "classification": "природа, растения",
+        "classification": "природа",
         "JLPT": "N5",
         "image": "0",
         "kanji": "木",
@@ -2739,7 +2739,7 @@
       {
         "id": "76",
         "slug": "Grade-1",
-        "classification": "части_тела",
+        "classification": "человек",
         "JLPT": "N4",
         "image": "0",
         "kanji": "目",
@@ -2848,7 +2848,7 @@
       {
         "id": "79",
         "slug": "Grade-1",
-        "classification": "природа, растения",
+        "classification": "природа",
         "JLPT": "N2",
         "image": "0",
         "kanji": "林",
@@ -51699,7 +51699,7 @@
       {
         "id": "2103",
         "slug": "Grade-8",
-        "classification": "природа, растения",
+        "classification": "природа",
         "JLPT": "N1",
         "kanji": "藻",
         "strokes": "19",
@@ -56043,7 +56043,7 @@
       {
         "id": "2245",
         "slug": "Grade-8",
-        "classification": "описание, растения",
+        "classification": "описание",
         "JLPT": "N1",
         "kanji": "稲",
         "strokes": "14",
