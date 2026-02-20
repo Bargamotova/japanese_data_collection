@@ -554,7 +554,7 @@
         "idGenki": "Genki-2",
         "isGenki": true,
         "slug": "Grade-1",
-        "classification": "природа, метал",
+        "classification": "природа, природа",
         "JLPT": "N5",
         "image": "0",
         "kanji": "金",
@@ -640,7 +640,7 @@
         "idGenki": "Genki-2",
         "isGenki": true,
         "slug": "Grade-1",
-        "classification": "время / дата",
+        "classification": "время",
         "JLPT": "N5",
         "image": "0",
         "kanji": "月",
@@ -1182,7 +1182,7 @@
       {
         "id": "33",
         "slug": "Grade-1",
-        "classification": "разное",
+        "classification": "механизм",
         "JLPT": "N5",
         "image": "0",
         "kanji": "車",
@@ -1667,7 +1667,7 @@
       {
         "id": "46",
         "slug": "Grade-1",
-        "classification": "время / дата",
+        "classification": "время",
         "JLPT": "N4",
         "image": "0",
         "kanji": "夕",
@@ -1843,7 +1843,7 @@
         "idGenki": "Genki-4",
         "isGenki": true,
         "slug": "Grade-1",
-        "classification": "время / дата",
+        "classification": "время",
         "JLPT": "N5",
         "image": "0",
         "kanji": "先",
@@ -1876,7 +1876,7 @@
       {
         "id": "52",
         "slug": "Grade-1",
-        "classification": "время / дата",
+        "classification": "время",
         "JLPT": "N4",
         "image": "0",
         "kanji": "早",
@@ -2378,7 +2378,7 @@
         "idGenki": "Genki-2",
         "isGenki": true,
         "slug": "Grade-1",
-        "classification": "время / дата",
+        "classification": "время",
         "JLPT": "N5",
         "image": "0",
         "kanji": "日",
@@ -2454,7 +2454,7 @@
       {
         "id": "68",
         "slug": "Grade-1",
-        "classification": "время / дата",
+        "classification": "время",
         "JLPT": "N5",
         "image": "0",
         "kanji": "年",
@@ -3666,7 +3666,7 @@
       {
         "id": "103",
         "slug": "Grade-2",
-        "classification": "части_тела, человек",
+        "classification": "человек",
         "JLPT": "N3",
         "kanji": "顔",
         "strokes": "18",
@@ -3824,7 +3824,7 @@
       {
         "id": "108",
         "slug": "Grade-2",
-        "classification": "животные, еда",
+        "classification": "животные",
         "JLPT": "N4",
         "kanji": "牛",
         "strokes": "4",
@@ -3855,7 +3855,7 @@
       {
         "id": "109",
         "slug": "Grade-2",
-        "classification": "животные, еда",
+        "classification": "животные",
         "JLPT": "N4",
         "kanji": "魚",
         "strokes": "11",
@@ -5400,7 +5400,7 @@
       {
         "id": "155",
         "slug": "Grade-2",
-        "classification": "части_тела, разное",
+        "classification": "человек, описание",
         "JLPT": "N3",
         "kanji": "首",
         "strokes": "9",
@@ -5651,7 +5651,7 @@
         "idGenki": "Genki-3",
         "isGenki": true,
         "slug": "Grade-2",
-        "classification": "действие, еда",
+        "classification": "действие",
         "JLPT": "N5",
         "kanji": "食",
         "strokes": "9",
@@ -6074,7 +6074,7 @@
       {
         "id": "175",
         "slug": "Grade-2",
-        "classification": "транспорт, разное",
+        "classification": "механизм",
         "JLPT": "N3",
         "kanji": "船",
         "strokes": "11",
@@ -6299,7 +6299,7 @@
       {
         "id": "182",
         "slug": "Grade-2",
-        "classification": "части_тела, человек",
+        "classification": "человек",
         "JLPT": "N4",
         "kanji": "体",
         "strokes": "7",
@@ -6463,7 +6463,7 @@
       {
         "id": "187",
         "slug": "Grade-2",
-        "classification": "еда",
+        "classification": "природа",
         "JLPT": "N4",
         "kanji": "茶",
         "strokes": "9",
@@ -6736,7 +6736,7 @@
       {
         "id": "195",
         "slug": "Grade-2",
-        "classification": "места, еда",
+        "classification": "места",
         "JLPT": "N4",
         "kanji": "店",
         "strokes": "8",
@@ -7005,7 +7005,7 @@
       {
         "id": "203",
         "slug": "Grade-2",
-        "classification": "части_тела, разное",
+        "classification": "человек",
         "JLPT": "N3",
         "kanji": "頭",
         "strokes": "16",
@@ -7208,7 +7208,7 @@
       {
         "id": "209",
         "slug": "Grade-2",
-        "classification": "еда",
+        "classification": "природа",
         "JLPT": "N4",
         "kanji": "肉",
         "strokes": "6",
@@ -7568,7 +7568,7 @@
       {
         "id": "220",
         "slug": "Grade-2",
-        "classification": "еда",
+        "classification": "природа",
         "JLPT": "N3",
         "kanji": "米",
         "strokes": "6",
@@ -7921,7 +7921,7 @@
       {
         "id": "230",
         "slug": "Grade-2",
-        "classification": "части_тела, разное",
+        "classification": "человек, разное",
         "JLPT": "N2",
         "kanji": "毛",
         "strokes": "4",
@@ -11265,7 +11265,7 @@
           }
         },
         "onyomi": {},
-        "meaning": "садиться (в транспорт), везти",
+        "meaning": "садиться (в механизм), везти",
         "name": "ехать"
       },
       {
@@ -15031,7 +15031,7 @@
       {
         "id": "457",
         "slug": "Grade-4",
-        "classification": "описание",
+        "classification": "механизм",
         "JLPT": "N2",
         "kanji": "械",
         "strokes": "11",
@@ -15447,7 +15447,7 @@
       {
         "id": "471",
         "slug": "Grade-4",
-        "classification": "описание",
+        "classification": "механизм",
         "JLPT": "N2",
         "kanji": "機",
         "strokes": "16",
@@ -46445,7 +46445,7 @@
       {
         "id": "1930",
         "slug": "Grade-8",
-        "classification": "время/дата",
+        "classification": "время",
         "JLPT": "N1",
         "kanji": "旬",
         "strokes": "6",
@@ -47115,7 +47115,7 @@
       {
         "id": "1952",
         "slug": "Grade-8",
-        "classification": "время/дата, природа",
+        "classification": "время, природа",
         "JLPT": "N1",
         "kanji": "宵",
         "strokes": "10",
@@ -47903,7 +47903,7 @@
       {
         "id": "1978",
         "slug": "Grade-8",
-        "classification": "время/дата, места",
+        "classification": "время, места",
         "JLPT": "N1",
         "kanji": "壌",
         "strokes": "16",
@@ -48239,7 +48239,7 @@
       {
         "id": "1989",
         "slug": "Grade-8",
-        "classification": "части тела, направление",
+        "classification": "человек, направление",
         "JLPT": "N1",
         "kanji": "尻",
         "strokes": "5",
@@ -48423,7 +48423,7 @@
       {
         "id": "1995",
         "slug": "Grade-8",
-        "classification": "части тела",
+        "classification": "человек",
         "JLPT": "N1",
         "kanji": "唇",
         "strokes": "10",
@@ -48949,7 +48949,7 @@
       {
         "id": "2012",
         "slug": "Grade-8",
-        "classification": "части тела",
+        "classification": "человек",
         "JLPT": "N1",
         "kanji": "腎",
         "strokes": "13",
@@ -49309,7 +49309,7 @@
       {
         "id": "2024",
         "slug": "Grade-8",
-        "classification": "части тела",
+        "classification": "человек",
         "JLPT": "N1",
         "kanji": "髄",
         "strokes": "19",
@@ -49948,7 +49948,7 @@
       {
         "id": "2045",
         "slug": "Grade-8",
-        "classification": "части тела, счетный суффикс",
+        "classification": "человек, счетный суффикс",
         "JLPT": "N2",
         "kanji": "隻",
         "strokes": "10",
@@ -51796,7 +51796,7 @@
       {
         "id": "2106",
         "slug": "Grade-8",
-        "classification": "время/дата, описание",
+        "classification": "время, описание",
         "JLPT": "N1",
         "kanji": "即",
         "strokes": "7",
@@ -52218,7 +52218,7 @@
       {
         "id": "2120",
         "slug": "Grade-8",
-        "classification": "время/дата, части тела",
+        "classification": "время, человек",
         "JLPT": "N1",
         "kanji": "胎",
         "strokes": "9",
@@ -52914,7 +52914,7 @@
       {
         "id": "2143",
         "slug": "Grade-8",
-        "classification": "время/дата, природа",
+        "classification": "время, природа",
         "JLPT": "N1",
         "kanji": "旦",
         "strokes": "5",
@@ -54483,7 +54483,7 @@
       {
         "id": "2194",
         "slug": "Grade-8",
-        "classification": "части тела",
+        "classification": "человек",
         "JLPT": "N1",
         "kanji": "爪",
         "strokes": "4",
@@ -56648,7 +56648,7 @@
       {
         "id": "2265",
         "slug": "Grade-8",
-        "classification": "время/дата",
+        "classification": "время",
         "JLPT": "N2",
         "kanji": "曇",
         "strokes": "16",
@@ -56951,7 +56951,7 @@
       {
         "id": "2275",
         "slug": "Grade-8",
-        "classification": "части тела",
+        "classification": "человек",
         "JLPT": "N1",
         "kanji": "尿",
         "strokes": "7",
