@@ -2769,7 +2769,7 @@
       {
         "id": "83",
         "slug": "Grade-2",
-        "classification": "природа, погода",
+        "classification": "природа",
         "JLPT": "N2",
         "kanji": "雲",
         "strokes": "12",
@@ -3750,7 +3750,7 @@
       {
         "id": "116",
         "slug": "Grade-2",
-        "classification": "глагол",
+        "classification": "существительное, глагол",
         "JLPT": "N4",
         "kanji": "計",
         "strokes": "9",
@@ -5328,7 +5328,7 @@
       {
         "id": "167",
         "slug": "Grade-2",
-        "classification": "разное, глагол",
+        "classification": "существительное, глагол",
         "JLPT": "N4",
         "kanji": "図",
         "strokes": "7",
@@ -5504,7 +5504,7 @@
       {
         "id": "172",
         "slug": "Grade-2",
-        "classification": "природа, погода",
+        "classification": "природа, глагол",
         "JLPT": "N3",
         "kanji": "晴",
         "strokes": "12",
@@ -5574,7 +5574,7 @@
       {
         "id": "174",
         "slug": "Grade-2",
-        "classification": "природа, погода, глагол",
+        "classification": "природа, глагол",
         "JLPT": "N3",
         "kanji": "雪",
         "strokes": "11",
@@ -6828,7 +6828,7 @@
       {
         "id": "217",
         "slug": "Grade-2",
-        "classification": "природа, погода",
+        "classification": "природа",
         "JLPT": "N4",
         "kanji": "風",
         "strokes": "9",
@@ -7891,7 +7891,7 @@
       {
         "id": "253",
         "slug": "Grade-3",
-        "classification": "место",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "駅",
         "strokes": "14",
@@ -7911,7 +7911,7 @@
       {
         "id": "254",
         "slug": "Grade-3",
-        "classification": "место",
+        "classification": "существительное",
         "JLPT": "N2",
         "kanji": "央",
         "strokes": "5",
@@ -7925,7 +7925,7 @@
           ],
           "list": []
         },
-        "meaning": "центр, середина",
+        "meaning": "центр",
         "name": "центр"
       },
       {
@@ -9986,7 +9986,7 @@
       {
         "id": "328",
         "slug": "Grade-3",
-        "classification": "прилагательное",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "所",
         "strokes": "8",
@@ -13235,7 +13235,7 @@
       {
         "id": "441",
         "slug": "Grade-4",
-        "classification": "прилагательное",
+        "classification": "прилагательное, глагол",
         "JLPT": "N3",
         "kanji": "愛",
         "strokes": "13",
@@ -13258,8 +13258,8 @@
           ],
           "list": []
         },
-        "meaning": "любовь, привязанность",
-        "name": "любовь"
+        "meaning": "любить, льбимый",
+        "name": "любить"
       },
       {
         "id": "442",
@@ -13284,7 +13284,7 @@
       {
         "id": "443",
         "slug": "Grade-4",
-        "classification": "прилагательное",
+        "classification": "прилагательное, направление",
         "JLPT": "N3",
         "kanji": "以",
         "strokes": "5",
@@ -13298,7 +13298,16 @@
           ],
           "list": []
         },
-        "meaning": "с, посредством, начиная с",
+        "kunyomi": {
+          "write": [
+            "もって"
+          ],
+          "romaji": [
+            "motte"
+          ],
+          "list": []
+        },
+        "meaning": "с, посредством, начиная с, префикс направления",
         "name": "посредством"
       },
       {
@@ -14704,7 +14713,7 @@
       {
         "id": "496",
         "slug": "Grade-4",
-        "classification": "прилагательное, природа",
+        "classification": "природа, глагол",
         "JLPT": "N3",
         "kanji": "候",
         "strokes": "10",
@@ -18285,20 +18294,29 @@
         "slug": "Grade-4",
         "classification": "прилагательное",
         "JLPT": "N2",
-        "kanji": "愛情",
+        "kanji": "情",
         "strokes": "13",
         "radical": null,
         "onyomi": {
           "write": [
-            "アイジョウ"
+            "ジョウ", "セイ"
           ],
           "romaji": [
-            "aijou"
+            "jou", "sei"
           ],
           "list": []
         },
-        "meaning": "любовь, привязанность (сочетание)",
-        "name": "любовь"
+        "kunyomi": {
+          "write": [
+            "なさ.け"
+          ],
+          "romaji": [
+            "nasake"
+          ],
+          "list": []
+        },
+        "meaning": "чувство, жалость, сострадание",
+        "name": "чувство"
       },
       {
         "id": "628",
@@ -33934,7 +33952,7 @@
       {
         "id": "1186",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "существительное, глагол",
         "JLPT": "N1",
         "kanji": "企",
         "strokes": "6",
@@ -33950,15 +33968,21 @@
         },
         "kunyomi": {
           "write": [
-            "くわだ-てる"
+            "くわだ-てる",
+            "くわだ-て",
+            "たくらむ",
+            "たくらみ"
           ],
           "romaji": [
-            "kuwada-teru"
+            "kuwada-teru",
+            "kuwada-te",
+            "takuramu",
+            "takurami"
           ],
           "list": []
         },
-        "meaning": "план",
-        "name": "план"
+        "meaning": "замысел, план, намереваться; строить планы",
+        "name": "замысел, намереваться"
       },
       {
         "id": "1187",
@@ -50512,7 +50536,7 @@
       {
         "id": "2265",
         "slug": "Grade-8",
-        "classification": "время",
+        "classification": "природа, глагол",
         "JLPT": "N2",
         "kanji": "曇",
         "strokes": "16",
@@ -50528,14 +50552,16 @@
         },
         "kunyomi": {
           "write": [
-            "くも-る"
+            "くも-る",
+            "くも-り"
           ],
           "romaji": [
-            "kumo-ru"
+            "kumo-ru",
+            "kumo-ri"
           ],
           "list": []
         },
-        "meaning": "пасмурная погода",
+        "meaning": "пасмурная погода, покрываться облаками",
         "name": "пасмурная погода"
       },
       {
