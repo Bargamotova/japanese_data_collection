@@ -2735,7 +2735,7 @@
       {
         "id": "82",
         "slug": "Grade-2",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N2",
         "kanji": "羽",
         "strokes": "6",
@@ -2858,7 +2858,7 @@
       {
         "id": "86",
         "slug": "Grade-2",
-        "classification": "вопрос",
+        "classification": "глагол",
         "JLPT": "N5",
         "kanji": "何",
         "strokes": "7",
@@ -3514,7 +3514,7 @@
       {
         "id": "108",
         "slug": "Grade-2",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N4",
         "kanji": "牛",
         "strokes": "4",
@@ -3544,7 +3544,7 @@
       {
         "id": "109",
         "slug": "Grade-2",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N4",
         "kanji": "魚",
         "strokes": "11",
@@ -5515,7 +5515,7 @@
       {
         "id": "172",
         "slug": "Grade-2",
-        "classification": "природа, глагол",
+        "classification": "природа",
         "JLPT": "N3",
         "kanji": "晴",
         "strokes": "12",
@@ -5885,7 +5885,7 @@
       {
         "id": "184",
         "slug": "Grade-2",
-        "classification": "природа, существительное",
+        "classification": "природа",
         "JLPT": "N4",
         "kanji": "地",
         "strokes": "6",
@@ -5901,7 +5901,7 @@
           ],
           "list": []
         },
-        "meaning": "земля, почва, местность, район",
+        "meaning": "земля, почва, местность",
         "name": "земля, почва"
       },
       {
@@ -5936,7 +5936,7 @@
       {
         "id": "186",
         "slug": "Grade-2",
-        "classification": "глагол",
+        "classification": "глагол, существительное",
         "JLPT": "N4",
         "kanji": "知",
         "strokes": "8",
@@ -6045,7 +6045,7 @@
       {
         "id": "190",
         "slug": "Grade-2",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N4",
         "kanji": "鳥",
         "strokes": "11",
@@ -6647,7 +6647,7 @@
       {
         "id": "210",
         "slug": "Grade-2",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N3",
         "kanji": "馬",
         "strokes": "10",
@@ -7735,7 +7735,7 @@
       {
         "id": "246",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "意",
         "strokes": "13",
@@ -7808,7 +7808,7 @@
       {
         "id": "249",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "院",
         "strokes": "10",
@@ -8115,7 +8115,7 @@
       {
         "id": "260",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "界",
         "strokes": "9",
@@ -8217,7 +8217,7 @@
       {
         "id": "264",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "感",
         "strokes": "13",
@@ -8237,7 +8237,7 @@
       {
         "id": "265",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "漢",
         "strokes": "13",
@@ -8348,7 +8348,7 @@
       {
         "id": "269",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "期",
         "strokes": "12",
@@ -8390,7 +8390,7 @@
       {
         "id": "271",
         "slug": "Grade-3",
-        "classification": "глагол, описание",
+        "classification": "глагол",
         "JLPT": "N2",
         "kanji": "究",
         "strokes": "7",
@@ -8448,7 +8448,7 @@
       {
         "id": "273",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "級",
         "strokes": "9",
@@ -8468,7 +8468,7 @@
       {
         "id": "274",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "宮",
         "strokes": "10",
@@ -8501,7 +8501,7 @@
       {
         "id": "275",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "球",
         "strokes": "11",
@@ -8561,7 +8561,7 @@
       {
         "id": "277",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "橋",
         "strokes": "16",
@@ -8590,7 +8590,7 @@
       {
         "id": "278",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "業",
         "strokes": "13",
@@ -8652,7 +8652,7 @@
       {
         "id": "280",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "局",
         "strokes": "7",
@@ -8692,7 +8692,7 @@
       {
         "id": "282",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное, описание",
         "JLPT": "N4",
         "kanji": "区",
         "strokes": "4",
@@ -8703,6 +8703,15 @@
           ],
           "romaji": [
             "ku"
+          ],
+          "list": []
+        },
+        "kunyomi": {
+          "write": [
+            "きク"
+          ],
+          "romaji": [
+            "kiku"
           ],
           "list": []
         },
@@ -8745,7 +8754,7 @@
       {
         "id": "284",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "具",
         "strokes": "8",
@@ -8761,10 +8770,12 @@
         },
         "kunyomi": {
           "write": [
-            "そなえる"
+            "そなえる",
+            "そなわる"
           ],
           "romaji": [
-            "sonaeru"
+            "sonaeru",
+            "sonawaru"
           ],
           "list": []
         },
@@ -8865,7 +8876,7 @@
       {
         "id": "288",
         "slug": "Grade-3",
-        "classification": "природа",
+        "classification": "природа, тело",
         "JLPT": "N3",
         "kanji": "血",
         "strokes": "6",
@@ -8954,7 +8965,7 @@
       {
         "id": "291",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "県",
         "strokes": "9",
@@ -8974,7 +8985,7 @@
       {
         "id": "292",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "庫",
         "strokes": "10",
@@ -9023,7 +9034,7 @@
       {
         "id": "294",
         "slug": "Grade-3",
-        "classification": "глагол, описание",
+        "classification": "глагол, направление",
         "JLPT": "N3",
         "kanji": "向",
         "strokes": "6",
@@ -9058,7 +9069,7 @@
       {
         "id": "295",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "幸",
         "strokes": "8",
@@ -9118,7 +9129,7 @@
       {
         "id": "297",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "号",
         "strokes": "5",
@@ -9132,7 +9143,7 @@
           ],
           "list": []
         },
-        "meaning": "номер, знак, крик",
+        "meaning": "номер, знак, называть, именовать",
         "name": "номер"
       },
       {
@@ -9405,7 +9416,7 @@
       {
         "id": "307",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "詩",
         "strokes": "13",
@@ -9456,7 +9467,7 @@
       {
         "id": "309",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "事",
         "strokes": "8",
@@ -9479,8 +9490,8 @@
           ],
           "list": []
         },
-        "meaning": "дело, факт",
-        "name": "дело"
+        "meaning": "обстоятельство, дело, факт",
+        "name": "обстоятельство"
       },
       {
         "id": "310",
@@ -9534,7 +9545,7 @@
       {
         "id": "312",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное, глагол",
         "JLPT": "N3",
         "kanji": "実",
         "strokes": "8",
@@ -9559,8 +9570,8 @@
           ],
           "list": []
         },
-        "meaning": "плод, реальность, подлинный",
-        "name": "реальность"
+        "meaning": "плод, правда, суть, содержание, плодоносить",
+        "name": "плод, плодоносить"
       },
       {
         "id": "313",
@@ -9625,7 +9636,7 @@
       {
         "id": "315",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "主",
         "strokes": "5",
@@ -9652,8 +9663,8 @@
           ],
           "list": []
         },
-        "meaning": "господин, хозяин, главный",
-        "name": "главный"
+        "meaning": "хозяин, владелец, главный, господин",
+        "name": "хозяин"
       },
       {
         "id": "316",
@@ -9993,7 +10004,7 @@
       {
         "id": "327",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "宿",
         "strokes": "11",
@@ -10127,8 +10138,8 @@
           ],
           "list": []
         },
-        "meaning": "ясный, сияющий (эпоха Сёва)",
-        "name": "сияние"
+        "meaning": "яркий, светлый",
+        "name": "яркий, светлый"
       },
       {
         "id": "332",
@@ -10193,7 +10204,7 @@
       {
         "id": "334",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "章",
         "strokes": "11",
@@ -10400,7 +10411,7 @@
       {
         "id": "341",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "真",
         "strokes": "10",
@@ -10425,7 +10436,7 @@
           ],
           "list": []
         },
-        "meaning": "истина, правда",
+        "meaning": "правда; истина; подлинность",
         "name": "истина"
       },
       {
@@ -10559,7 +10570,7 @@
       {
         "id": "346",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "время, описание",
         "JLPT": "N3",
         "kanji": "昔",
         "strokes": "8",
@@ -10621,7 +10632,7 @@
       {
         "id": "348",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "相",
         "strokes": "9",
@@ -10646,7 +10657,7 @@
           ],
           "list": []
         },
-        "meaning": "взаимный, министр, облик",
+        "meaning": "вид, взаимный, министр, облик",
         "name": "взаимный"
       },
       {
@@ -10735,7 +10746,7 @@
           ],
           "list": []
         },
-        "meaning": "дыхание",
+        "meaning": "дыхание, вздох",
         "name": "дыхание"
       },
       {
@@ -10774,7 +10785,7 @@
       {
         "id": "353",
         "slug": "Grade-3",
-        "classification": "существительное",
+        "classification": "человек",
         "JLPT": "N3",
         "kanji": "族",
         "strokes": "11",
@@ -10788,8 +10799,8 @@
           ],
           "list": []
         },
-        "meaning": "род, племя, семья",
-        "name": "род"
+        "meaning": "семья; родственники",
+        "name": "родственники"
       },
       {
         "id": "354",
@@ -10846,13 +10857,13 @@
           ],
           "list": []
         },
-        "meaning": "ударять",
+        "meaning": "бить, ударять, стучать",
         "name": "удар"
       },
       {
         "id": "356",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "対",
         "strokes": "7",
@@ -10868,8 +10879,8 @@
           ],
           "list": []
         },
-        "meaning": "против, по отношению к",
-        "name": "против"
+        "meaning": "противоположность, антоним, пара",
+        "name": "противоположность"
       },
       {
         "id": "357",
@@ -10903,7 +10914,7 @@
       {
         "id": "358",
         "slug": "Grade-3",
-        "classification": "глагол, описание",
+        "classification": "глагол, существительное",
         "JLPT": "N4",
         "kanji": "代",
         "strokes": "5",
@@ -10932,13 +10943,13 @@
           ],
           "list": []
         },
-        "meaning": "замена, поколение, цена",
-        "name": "замена"
+        "meaning": "заменять, замещать, замена",
+        "name": "заменять, "
       },
       {
         "id": "359",
         "slug": "Grade-3",
-        "classification": "глагол, описание",
+        "classification": "существительное",
         "JLPT": "N1",
         "kanji": "第",
         "strokes": "5",
@@ -10954,13 +10965,13 @@
           ],
           "list": []
         },
-        "meaning": "Префикс числительных, экзамен",
+        "meaning": "префикс порядковых числительных, экзамен",
         "name": "экзамен"
       },
       {
         "id": "360",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "題",
         "strokes": "18",
@@ -11116,13 +11127,13 @@
           ],
           "list": []
         },
-        "meaning": "лить, примечание",
-        "name": "лить"
+        "meaning": "примечание, комментарий, лить, наливать",
+        "name": "наливать"
       },
       {
         "id": "366",
         "slug": "Grade-3",
-        "classification": "природа",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "柱",
         "strokes": "9",
@@ -11151,7 +11162,7 @@
       {
         "id": "367",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "丁",
         "strokes": "2",
@@ -11173,7 +11184,7 @@
       {
         "id": "368",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "帳",
         "strokes": "11",
@@ -11196,13 +11207,13 @@
           ],
           "list": []
         },
-        "meaning": "счётная книга, занавес",
-        "name": "книга"
+        "meaning": "книга для записей, занавеска",
+        "name": "книга для записей"
       },
       {
         "id": "369",
         "slug": "Grade-3",
-        "classification": "глагол, описание",
+        "classification": "глагол",
         "JLPT": "N3",
         "kanji": "調",
         "strokes": "15",
@@ -11264,7 +11275,7 @@
       {
         "id": "371",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "глагол, существительное",
         "JLPT": "N3",
         "kanji": "定",
         "strokes": "8",
@@ -11291,7 +11302,7 @@
           ],
           "list": []
         },
-        "meaning": "определять, решать, устойчивый",
+        "meaning": "определять, решать, правило",
         "name": "определять"
       },
       {
@@ -11326,7 +11337,7 @@
       {
         "id": "373",
         "slug": "Grade-3",
-        "classification": "природа",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "笛",
         "strokes": "11",
@@ -11408,7 +11419,7 @@
       {
         "id": "376",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "都",
         "strokes": "11",
@@ -11439,7 +11450,7 @@
       {
         "id": "377",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "度",
         "strokes": "9",
@@ -11466,8 +11477,8 @@
           ],
           "list": []
         },
-        "meaning": "степень, раз",
-        "name": "раз"
+        "meaning": "степень, мера, градус",
+        "name": "степень"
       },
       {
         "id": "378",
@@ -11526,8 +11537,8 @@
           ],
           "list": []
         },
-        "meaning": "боб",
-        "name": "боб"
+        "meaning": "бобы, горох",
+        "name": "бобы"
       },
       {
         "id": "380",
@@ -11584,8 +11595,8 @@
           ],
           "list": []
         },
-        "meaning": "Горячая вода, горячий источник, ванна, баня",
-        "name": "Горячая вода"
+        "meaning": "горячая вода, горячий источник, ванна, баня",
+        "name": "горячий источник"
       },
       {
         "id": "382",
@@ -11644,7 +11655,7 @@
           ],
           "list": []
         },
-        "meaning": "равный, и так далее",
+        "meaning": "равный, одинаковый",
         "name": "равный"
       },
       {
@@ -11710,7 +11721,7 @@
       {
         "id": "386",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "農",
         "strokes": "13",
@@ -11802,13 +11813,13 @@
           ],
           "list": []
         },
-        "meaning": "вдвое, кратный",
-        "name": "вдвое"
+        "meaning": "двойной, удвоенный",
+        "name": "двойной"
       },
       {
         "id": "390",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "箱",
         "strokes": "15",
@@ -11831,7 +11842,7 @@
           ],
           "list": []
         },
-        "meaning": "коробка",
+        "meaning": "ящик; коробка",
         "name": "коробка"
       },
       {
@@ -11890,7 +11901,7 @@
       {
         "id": "393",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "глагол",
         "JLPT": "N3",
         "kanji": "反",
         "strokes": "4",
@@ -11954,7 +11965,7 @@
       {
         "id": "395",
         "slug": "Grade-3",
-        "classification": "природа",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "板",
         "strokes": "8",
@@ -11983,7 +11994,7 @@
       {
         "id": "396",
         "slug": "Grade-3",
-        "classification": "природа",
+        "classification": "природа, тело",
         "JLPT": "N3",
         "kanji": "皮",
         "strokes": "5",
@@ -12101,7 +12112,7 @@
       {
         "id": "400",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "筆",
         "strokes": "12",
@@ -12161,7 +12172,7 @@
       {
         "id": "402",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "глагол, описание",
         "JLPT": "N4",
         "kanji": "表",
         "strokes": "8",
@@ -12214,7 +12225,7 @@
       {
         "id": "404",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "病",
         "strokes": "10",
@@ -12245,7 +12256,7 @@
       {
         "id": "405",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "品",
         "strokes": "9",
@@ -12305,7 +12316,7 @@
       {
         "id": "407",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "部",
         "strokes": "11",
@@ -12325,7 +12336,7 @@
       {
         "id": "408",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "服",
         "strokes": "8",
@@ -12345,7 +12356,7 @@
       {
         "id": "409",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "福",
         "strokes": "13",
@@ -12365,7 +12376,7 @@
       {
         "id": "410",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "物",
         "strokes": "8",
@@ -12513,7 +12524,7 @@
       {
         "id": "415",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "глагол, существительное",
         "JLPT": "N4",
         "kanji": "味",
         "strokes": "8",
@@ -12544,7 +12555,7 @@
       {
         "id": "416",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "命",
         "strokes": "8",
@@ -12575,7 +12586,7 @@
       {
         "id": "417",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "тело, существительное",
         "JLPT": "N3",
         "kanji": "面",
         "strokes": "9",
@@ -12602,7 +12613,7 @@
           ],
           "list": []
         },
-        "meaning": "лицо, поверхность, аспект",
+        "meaning": "лицо, поверхность, маска",
         "name": "лицо"
       },
       {
@@ -12661,7 +12672,7 @@
       {
         "id": "420",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "薬",
         "strokes": "16",
@@ -12690,7 +12701,7 @@
       {
         "id": "421",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "由",
         "strokes": "5",
@@ -12750,7 +12761,7 @@
       {
         "id": "423",
         "slug": "Grade-3",
-        "classification": "глагол, описание",
+        "classification": "глагол",
         "JLPT": "N4",
         "kanji": "有",
         "strokes": "6",
@@ -12776,7 +12787,7 @@
           "list": []
         },
         "meaning": "иметь, существовать",
-        "name": "иметь"
+        "name": "существовать"
       },
       {
         "id": "424",
@@ -12826,13 +12837,13 @@
           ],
           "list": []
         },
-        "meaning": "заранее, пред-",
+        "meaning": "заранее, наперёд; предварительно",
         "name": "предварительно"
       },
       {
         "id": "426",
         "slug": "Grade-3",
-        "classification": "природа",
+        "classification": "природа, животные",
         "JLPT": "N3",
         "kanji": "羊",
         "strokes": "6",
@@ -12939,7 +12950,7 @@
       {
         "id": "430",
         "slug": "Grade-3",
-        "classification": "природа",
+        "classification": "описание",
         "JLPT": "N3",
         "kanji": "様",
         "strokes": "14",
@@ -13127,7 +13138,7 @@
       {
         "id": "436",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "礼",
         "strokes": "5",
@@ -13149,7 +13160,7 @@
       {
         "id": "437",
         "slug": "Grade-3",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "列",
         "strokes": "6",
@@ -13169,7 +13180,7 @@
       {
         "id": "438",
         "slug": "Grade-3",
-        "classification": "глагол, описание",
+        "classification": "глагол",
         "JLPT": "N2",
         "kanji": "練",
         "strokes": "14",
@@ -13194,8 +13205,8 @@
           ],
           "list": []
         },
-        "meaning": "Тренироваться, умение, опыт, месить",
-        "name": "Тренироваться"
+        "meaning": "тренироваться, умение, опыт, месить",
+        "name": "тренироваться"
       },
       {
         "id": "439",
@@ -25558,7 +25569,7 @@
       {
         "id": "880",
         "slug": "Grade-6",
-        "classification": "описание",
+        "classification": "существительное",
         "JLPT": "N2",
         "kanji": "件",
         "strokes": "6",
@@ -41998,7 +42009,7 @@
       {
         "id": "1473",
         "slug": "Grade-7",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N1",
         "kanji": "獣",
         "strokes": "16",
@@ -48239,7 +48250,7 @@
       {
         "id": "2173",
         "slug": "Grade-8",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N1",
         "kanji": "釣",
         "strokes": "11",
@@ -48831,7 +48842,7 @@
       {
         "id": "2195",
         "slug": "Grade-8",
-        "classification": "животные",
+        "classification": "природа, животные",
         "JLPT": "N1",
         "kanji": "鶴",
         "strokes": "21",
