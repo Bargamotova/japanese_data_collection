@@ -3887,7 +3887,7 @@
       {
         "id": "120",
         "slug": "Grade-2",
-        "classification": "разное",
+        "classification": "существительное",
         "JLPT": "N2",
         "kanji": "戸",
         "strokes": "4",
@@ -4203,7 +4203,7 @@
       {
         "id": "130",
         "slug": "Grade-2",
-        "classification": "числа, глагол",
+        "classification": "глагол",
         "JLPT": "N4",
         "kanji": "考",
         "strokes": "6",
@@ -8086,7 +8086,7 @@
       {
         "id": "259",
         "slug": "Grade-3",
-        "classification": "разное",
+        "classification": "существительное, глагол",
         "JLPT": "N3",
         "kanji": "荷",
         "strokes": "10",
@@ -13036,7 +13036,7 @@
       {
         "id": "433",
         "slug": "Grade-3",
-        "classification": "разное",
+        "classification": "существительное",
         "JLPT": "N3",
         "kanji": "旅",
         "strokes": "10",
@@ -13229,7 +13229,7 @@
       {
         "id": "440",
         "slug": "Grade-3",
-        "classification": "глагол, разное",
+        "classification": "существительное, глагол",
         "JLPT": "N3",
         "kanji": "和",
         "strokes": "8",
@@ -13262,8 +13262,8 @@
           ],
           "list": []
         },
-        "meaning": "Гармония, мир, согласие, мягкий, нежный, смягчать, успокаивать,",
-        "name": "Гармония, смягчать"
+        "meaning": "мир, согласие, мягкий, нежный, смягчать, успокаивать,",
+        "name": "гармония, смягчать"
       }
     ]
   },
@@ -29488,7 +29488,7 @@
       {
         "id": "1028",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "существительное, описание",
         "JLPT": "N1",
         "kanji": "哀",
         "strokes": "9",
@@ -29515,13 +29515,13 @@
           ],
           "list": []
         },
-        "meaning": "жалкий",
-        "name": "жалкий"
+        "meaning": "печаль, горе, жалкий, сострадать",
+        "name": "жалкий, сострадать"
       },
       {
         "id": "1029",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "существительное, глагол",
         "JLPT": "N1",
         "kanji": "挨",
         "strokes": "10",
@@ -29537,22 +29537,20 @@
         },
         "kunyomi": {
           "write": [
-            "ひら-く",
-            "お-す"
+            "ひら-く"
           ],
           "romaji": [
-            "hira-ku",
-            "o-su"
+            "hira-ku"
           ],
           "list": []
         },
-        "meaning": "распахнуть",
-        "name": "распахнуть"
+        "meaning": "приветствие; ~suru приветствовать",
+        "name": "приветствие"
       },
       {
         "id": "1030",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "описание",
         "JLPT": "N1",
         "kanji": "曖",
         "strokes": "17",
@@ -29579,13 +29577,13 @@
           ],
           "list": []
         },
-        "meaning": "неясный",
+        "meaning": "неясный, неопределённый",
         "name": "неясный"
       },
       {
         "id": "1031",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "глагол, существительное",
         "JLPT": "N1",
         "kanji": "握",
         "strokes": "12",
@@ -29601,20 +29599,24 @@
         },
         "kunyomi": {
           "write": [
-            "にぎ-る"
+            "にぎ-る",
+            "にぎ-り",
+            "にぎ-らせる"
           ],
           "romaji": [
-            "nigi-ru"
+            "nigi-ru",
+            "nigiri",
+            "nigiraseru"
           ],
           "list": []
         },
-        "meaning": "хватка",
-        "name": "хватка"
+        "meaning": "захватывать, завладевать, получать, пригоршня",
+        "name": "захватывать"
       },
       {
         "id": "1032",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "глагол",
         "JLPT": "N1",
         "kanji": "扱",
         "strokes": "6",
@@ -29637,13 +29639,13 @@
           ],
           "list": []
         },
-        "meaning": "ручка, обращаться",
-        "name": "ручка, обращаться"
+        "meaning": "пользоваться чем-л. , орудовать",
+        "name": "орудовать"
       },
       {
         "id": "1033",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "глагол",
         "JLPT": "N1",
         "kanji": "宛",
         "strokes": "8",
@@ -29659,20 +29661,23 @@
         },
         "kunyomi": {
           "write": [
-            "あ-てる"
+            "あ.てる", "あ.たる",  "あ.たり", "あ.て"
           ],
           "romaji": [
-            "a-teru"
+            "a-teru",
+            "a-taru",
+            "a-taru",
+            "a-te"
           ],
           "list": []
         },
-        "meaning": "распределять",
-        "name": "распределять"
+        "meaning": "адресовать, прикладывать, давать, выделять",
+        "name": "адресовать"
       },
       {
         "id": "1034",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "природа",
         "JLPT": "N1",
         "kanji": "嵐",
         "strokes": "12",
@@ -29695,43 +29700,42 @@
           ],
           "list": []
         },
-        "meaning": "буря",
+        "meaning": "буря, шторм; гроза",
         "name": "буря"
       },
       {
         "id": "1035",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "глагол",
         "JLPT": "N2",
         "kanji": "依",
         "strokes": "8",
         "radical": "人",
         "onyomi": {
           "write": [
-            "イ（エ）"
+            "イ"
           ],
           "romaji": [
-            "i",
-            "e"
+            "i"
           ],
           "list": []
         },
         "kunyomi": {
           "write": [
-            "よ-る"
+            "よ.る"
           ],
           "romaji": [
             "yo-ru"
           ],
           "list": []
         },
-        "meaning": "полагающийся (на кого-то)",
-        "name": "полагающийся (на кого-то)"
+        "meaning": "зависеть от чего-л., полагаться (на кого-то)",
+        "name": "зависеть от чего-л."
       },
       {
         "id": "1036",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "глагол",
         "JLPT": "N1",
         "kanji": "威",
         "strokes": "9",
@@ -29747,9 +29751,9 @@
         },
         "kunyomi": {
           "write": [
-            "おど-す",
-            "おど-かす",
-            "おど-し"
+            "おど.す",
+            "おど.かす",
+            "おど.し"
           ],
           "romaji": [
             "odo-su",
@@ -29764,7 +29768,7 @@
       {
         "id": "1037",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "глагол",
         "JLPT": "N1",
         "kanji": "為",
         "strokes": "9",
@@ -29781,8 +29785,8 @@
         "kunyomi": {
           "write": [
             "ため",
-            "な-す",
-            "な-る"
+            "なす",
+            "なる"
           ],
           "romaji": [
             "tame",
@@ -29791,7 +29795,7 @@
           ],
           "list": []
         },
-        "meaning": "делать",
+        "meaning": "делать, соверщать, ",
         "name": "делать"
       },
       {
@@ -41974,7 +41978,7 @@
       {
         "id": "1472",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "существительное",
         "JLPT": "N1",
         "kanji": "銃",
         "strokes": "14",
@@ -41988,13 +41992,13 @@
           ],
           "list": []
         },
-        "meaning": "пушка, оружие",
-        "name": "пушка, оружие"
+        "meaning": "ружьё, винтовка",
+        "name": "ружьё, винтовка"
       },
       {
         "id": "1473",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "животные",
         "JLPT": "N1",
         "kanji": "獣",
         "strokes": "16",
@@ -42017,13 +42021,13 @@
           ],
           "list": []
         },
-        "meaning": "животное",
-        "name": "животное"
+        "meaning": "зверь, крупная дичь",
+        "name": "зверь"
       },
       {
         "id": "1474",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "семья",
         "JLPT": "N1",
         "kanji": "叔",
         "strokes": "8",
@@ -42052,7 +42056,7 @@
       {
         "id": "1475",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "описание",
         "JLPT": "N1",
         "kanji": "淑",
         "strokes": "11",
@@ -42081,7 +42085,7 @@
       {
         "id": "1476",
         "slug": "Grade-7",
-        "classification": "разное",
+        "classification": "описание",
         "JLPT": "N1",
         "kanji": "粛",
         "strokes": "11",
@@ -42205,7 +42209,7 @@
       {
         "id": "1931",
         "slug": "Grade-8",
-        "classification": "разное",
+        "classification": "существительное",
         "JLPT": "N1",
         "kanji": "巡",
         "strokes": "6",
@@ -42283,7 +42287,7 @@
       {
         "id": "1934",
         "slug": "Grade-8",
-        "classification": "разное",
+        "classification": "существительное",
         "JLPT": "N1",
         "kanji": "殉",
         "strokes": "10",
@@ -42297,7 +42301,7 @@
           ],
           "list": []
         },
-        "meaning": "мученичество",
+        "meaning": "самопожертвование, мученичество",
         "name": "мученичество"
       },
       {
@@ -50543,7 +50547,7 @@
       {
         "id": "2263",
         "slug": "Grade-8",
-        "classification": "глагол, черты",
+        "classification": "глагол",
         "JLPT": "N1",
         "kanji": "貪",
         "strokes": "11",
