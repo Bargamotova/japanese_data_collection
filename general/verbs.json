@@ -8,8 +8,8 @@
     "exceptions": [
       {
         "JLPT": "",
-        "furigana": "帰る",
-        "kanji": "かえる",
+        "kanji": "帰る",
+        "furigana": "かえる",
         "romaji": "kaeru",
         "meaning": "уходить домой, возвращаться домой"
       },
@@ -907,7 +907,7 @@
           "type": "godan",
           "furigana": "もうす",
           "kanji": "申す",
-          "romaji": "mōsu",
+          "romaji": "mousu",
           "meaning": "говорить; называться"
         },
         {
@@ -2687,7 +2687,7 @@
           "type": "godan",
           "furigana": "もうしこむ",
           "kanji": "申し込む",
-          "romaji": "mōshikomu",
+          "romaji": "moushikomu",
           "meaning": "подавать заявку"
         },
         {
@@ -4431,7 +4431,7 @@
         {
           "JLPT": "N5",
           "type": "fukisokudoshi",
-          "kanji": "",
+          "kanji": "する",
           "furigana": "する",
           "romaji": "suru",
           "meaning": "делать (быть в состоянии делания)"
@@ -4449,7 +4449,7 @@
           "type": "fukisokudoshi",
           "kanji": "運転する",
           "furigana": "うんてんする",
-          "romaji": "unten suru",
+          "romaji": "untensuru",
           "meaning": "управлять механизмом"
         },
         {
@@ -4457,7 +4457,7 @@
           "type": "fukisokudoshi",
           "kanji": "外出する",
           "furigana": "がいしゅうする",
-          "romaji": "gaishuu suru",
+          "romaji": "gaishuusuru",
           "meaning": "выходить на улицу, гулять"
         },
         {
@@ -4465,7 +4465,7 @@
           "type": "fukisokudoshi",
           "kanji": "帰国する",
           "furigana": "きこくする",
-          "romaji": "kikoku suru",
+          "romaji": "kikokusuru",
           "meaning": "возвращаться на родину"
         },
         {
@@ -4473,7 +4473,7 @@
           "type": "fukisokudoshi",
           "kanji": "休憩する",
           "furigana": "きゅうけいする",
-          "romaji": "kyuukei suru",
+          "romaji": "kyuukeisuru",
           "meaning": "прерываться"
         },
         {
@@ -4481,7 +4481,7 @@
           "type": "fukisokudoshi",
           "kanji": "結婚する",
           "furigana": "けっこんする",
-          "romaji": "kekkon suru",
+          "romaji": "kekkonsuru",
           "meaning": "жениться, выходить замуж"
         },
         {
@@ -4489,7 +4489,7 @@
           "type": "fukisokudoshi",
           "kanji": "散歩する",
           "furigana": "さんぽする",
-          "romaji": "sanpo suru",
+          "romaji": "sanposuru",
           "meaning": "гулять, прогуливаться"
         },
         {
@@ -4497,7 +4497,7 @@
           "type": "fukisokudoshi",
           "furigana": "せつめいする",
           "kanji": "説明する",
-          "romaji": "setsumei suru",
+          "romaji": "setsumeisuru",
           "meaning": "объяснять, разъяснять"
         },
         {
@@ -4505,7 +4505,7 @@
           "type": "fukisokudoshi",
           "kanji": "整理する",
           "furigana": "せいりする",
-          "romaji": "seiru suru",
+          "romaji": "seirusuru",
           "meaning": "упорядочивать; реорганизовать"
         },
         {
@@ -4513,7 +4513,7 @@
           "type": "fukisokudoshi",
           "kanji": "成立する",
           "furigana": "せいりつする",
-          "romaji": "seiritsu suru",
+          "romaji": "seiritsusuru",
           "meaning": "осуществиться, состояться"
         }
       ],
@@ -4523,7 +4523,7 @@
           "type": "fukisokudoshi",
           "kanji": "洗濯する",
           "furigana": "せんたくする",
-          "romaji": "sentaku suru",
+          "romaji": "sentakusuru",
           "meaning": "стирать"
         },
         {
@@ -4531,7 +4531,7 @@
           "type": "fukisokudoshi",
           "kanji": "掃除する",
           "furigana": "そうじする",
-          "romaji": "souji suru",
+          "romaji": "soujisuru",
           "meaning": "делать уборку, чистить"
         },
         {
@@ -4539,7 +4539,7 @@
           "type": "fukisokudoshi",
           "kanji": "注文する",
           "furigana": "ちゅうもんする",
-          "romaji": "chuumon suru",
+          "romaji": "chuumonsuru",
           "meaning": "заказывать"
         },
         {
@@ -4555,7 +4555,7 @@
           "type": "fukisokudoshi",
           "kanji": "勉強する",
           "furigana": "べんきょうする",
-          "romaji": "benkyo suru",
+          "romaji": "benkyosuru",
           "meaning": "изучать"
         },
         {
@@ -4563,7 +4563,7 @@
           "type": "fukisokudoshi",
           "kanji": "訪問する",
           "furigana": "ほうもんする",
-          "romaji": "houmon suru",
+          "romaji": "houmonsuru",
           "meaning": "посещать"
         },
         {
@@ -4571,7 +4571,7 @@
           "type": "fukisokudoshi",
           "kanji": "料理する",
           "furigana": "りょうりする",
-          "romaji": "ryouri suru",
+          "romaji": "ryourisuru",
           "meaning": "готовить, стряпать"
         },
         {
@@ -4579,7 +4579,7 @@
           "type": "fukisokudoshi",
           "kanji": "留学する",
           "furigana": "りゅうがくする",
-          "romaji": "ryugaku suru",
+          "romaji": "ryugakusuru",
           "meaning": "обучаться за границей"
         },
         {
@@ -4587,7 +4587,7 @@
           "type": "fukisokudoshi",
           "kanji": "旅行する",
           "furigana": "りょこする",
-          "romaji": "ryoko suru",
+          "romaji": "ryokosuru",
           "meaning": "путешествовать"
         },
         {
@@ -4595,7 +4595,7 @@
           "type": "fukisokudoshi",
           "kanji": "練習する",
           "furigana": "れんしゅうする",
-          "romaji": "renshuu suru",
+          "romaji": "renshuusuru",
           "meaning": "практиковаться"
         }
       ],
@@ -4605,7 +4605,7 @@
           "type": "fukisokudoshi",
           "kanji": "愛する",
           "furigana": "あいする",
-          "romaji": "ai suru",
+          "romaji": "aisuru",
           "meaning": "любить"
         },
         {
@@ -4613,7 +4613,7 @@
           "type": "fukisokudoshi",
           "kanji": "挨拶する",
           "furigana": "あいさつする",
-          "romaji": "aisatsu suru",
+          "romaji": "aisatsusuru",
           "meaning": "приветствовать"
         },
         {
@@ -4621,7 +4621,7 @@
           "type": "fukisokudoshi",
           "kanji": "安心する",
           "furigana": "あんしんする",
-          "romaji": "anshin suru",
+          "romaji": "anshinsuru",
           "meaning": "быть спокойным, успокаиваться"
         },
         {
@@ -4629,7 +4629,7 @@
           "type": "fukisokudoshi",
           "kanji": "案内する",
           "furigana": "あんないする",
-          "romaji": "annai suru",
+          "romaji": "annaisuru",
           "meaning": "быть проводником, показывать (дорогу, город, музей и т. п. )"
         },
         {
@@ -4637,7 +4637,7 @@
           "type": "fukisokudoshi",
           "kanji": "遠慮する",
           "furigana": "えんりょする",
-          "romaji": "enryo suru",
+          "romaji": "enryosuru",
           "meaning": "воздерживаться от чего-л."
         },
         {
@@ -4645,7 +4645,7 @@
           "type": "fukisokudoshi",
           "kanji": "関係する",
           "furigana": "かんけいする",
-          "romaji": "kankei suru",
+          "romaji": "kankeisuru",
           "meaning": "быть причастным, иметь отношение"
         },
         {
@@ -4653,7 +4653,7 @@
           "type": "fukisokudoshi",
           "kanji": "会話する",
           "furigana": "かいわする",
-          "romaji": "kaiwa suru",
+          "romaji": "kaiwasuru",
           "meaning": "разговаривать, беседовать"
         },
         {
@@ -4661,7 +4661,7 @@
           "type": "fukisokudoshi",
           "kanji": "競争する",
           "furigana": "きょうそうする",
-          "romaji": "kyousou suru",
+          "romaji": "kyousousuru",
           "meaning": "соревноваться; конкурировать"
         },
         {
@@ -4669,7 +4669,7 @@
           "type": "fukisokudoshi",
           "kanji": "急行する",
           "furigana": "きゅうこうする",
-          "romaji": "kyukou suru",
+          "romaji": "kyukousuru",
           "meaning": "спешить, торопиться"
         },
         {
@@ -4677,7 +4677,7 @@
           "type": "fukisokudoshi",
           "kanji": "教育する",
           "furigana": "きょういくする",
-          "romaji": "kyouiku suru",
+          "romaji": "kyouikusuru",
           "meaning": "обучаться, образовываться"
         },
         {
@@ -4685,7 +4685,7 @@
           "type": "fukisokudoshi",
           "kanji": "研究する",
           "furigana": "けんきゅうする",
-          "romaji": "kenkyu suru",
+          "romaji": "kenkyusuru",
           "meaning": "вести исследования, изучать"
         }
       ],
@@ -4695,7 +4695,7 @@
           "type": "fukisokudoshi",
           "kanji": "喧嘩する",
           "furigana": "けんかする",
-          "romaji": "kenka suru",
+          "romaji": "kenkasuru",
           "meaning": "ссориться; драться"
         },
         {
@@ -4703,7 +4703,7 @@
           "type": "fukisokudoshi",
           "kanji": "経験する",
           "furigana": "けいけんする",
-          "romaji": "keiken suru",
+          "romaji": "keikensuru",
           "meaning": "испытать, знать по опыту"
         },
         {
@@ -4711,7 +4711,7 @@
           "type": "fukisokudoshi",
           "kanji": "怪我する",
           "furigana": "けがする",
-          "romaji": "kega suru",
+          "romaji": "kegasuru",
           "meaning": "пораниться, травмироваться"
         },
         {
@@ -4719,7 +4719,7 @@
           "type": "fukisokudoshi",
           "kanji": "計画する",
           "furigana": "けいかくする",
-          "romaji": "keikaku suru",
+          "romaji": "keikakusuru",
           "meaning": "планировать, рассчитывать"
         },
         {
@@ -4727,7 +4727,7 @@
           "type": "fukisokudoshi",
           "kanji": "見物する",
           "furigana": "けんぶつする",
-          "romaji": "kenbutsu suru",
+          "romaji": "kenbutsusuru",
           "meaning": "осматривать (достопримечательности)"
         },
         {
@@ -4735,7 +4735,7 @@
           "type": "fukisokudoshi",
           "kanji": "下宿する",
           "furigana": "げしゅくする",
-          "romaji": "geshyuku suru",
+          "romaji": "geshyukusuru",
           "meaning": "квартировать, снимать комнату"
         },
         {
@@ -4743,7 +4743,7 @@
           "type": "fukisokudoshi",
           "kanji": "故障する",
           "furigana": "こしょうする",
-          "romaji": "koshyo suru",
+          "romaji": "koshyosuru",
           "meaning": "препятствовать"
         },
         {
@@ -4751,7 +4751,7 @@
           "type": "fukisokudoshi",
           "kanji": "失敗する",
           "furigana": "しっぱいする",
-          "romaji": "shyupai suru",
+          "romaji": "shyupaisuru",
           "meaning": "потерпеть неудачу, провалиться;"
         },
         {
@@ -4759,7 +4759,7 @@
           "type": "fukisokudoshi",
           "kanji": "紹介する",
           "furigana": "しょうかいする",
-          "romaji": "shyouka suru",
+          "romaji": "shyoukasuru",
           "meaning": "знакомить, представлять"
         },
         {
@@ -4767,7 +4767,7 @@
           "type": "fukisokudoshi",
           "kanji": "準備する",
           "furigana": "じゅんびする",
-          "romaji": "junbi suru",
+          "romaji": "junbisuru",
           "meaning": "подгатавливаться, готовиться"
         }
       ],
@@ -4777,7 +4777,7 @@
           "type": "fukisokudoshi",
           "kanji": "生活する",
           "furigana": "せいかつする",
-          "romaji": "seikatsu suru",
+          "romaji": "seikatsusuru",
           "meaning": "жить"
         },
         {
@@ -4785,7 +4785,7 @@
           "type": "fukisokudoshi",
           "kanji": "生産する",
           "furigana": "せいさんする",
-          "romaji": "seisan suru",
+          "romaji": "seisansuru",
           "meaning": "производить, выпускать, делать"
         },
         {
@@ -4793,7 +4793,7 @@
           "type": "fukisokudoshi",
           "kanji": "相談する",
           "furigana": "そうだんする",
-          "romaji": "soudan suru",
+          "romaji": "soudansuru",
           "meaning": "советоваться, консультироваться"
         },
         {
@@ -4801,7 +4801,7 @@
           "type": "fukisokudoshi",
           "kanji": "卒業する",
           "furigana": "そつぎょうする",
-          "romaji": "sotsugyou suru",
+          "romaji": "sotsugyousuru",
           "meaning": "окончить (школу, вуз)"
         },
         {
@@ -4809,7 +4809,7 @@
           "type": "fukisokudoshi",
           "kanji": "誕生する",
           "furigana": "たんじょうする",
-          "romaji": "tanjyou suru",
+          "romaji": "tanjyousuru",
           "meaning": "рождаться"
         },
         {
@@ -4817,7 +4817,7 @@
           "type": "fukisokudoshi",
           "kanji": "退院する",
           "furigana": "たいいんする",
-          "romaji": "taiin suru",
+          "romaji": "taiinsuru",
           "meaning": "выписываться из больницы"
         },
         {
@@ -4825,7 +4825,7 @@
           "type": "fukisokudoshi",
           "kanji": "注意する",
           "furigana": "ちゅういする",
-          "romaji": "chyui suru",
+          "romaji": "chyuisuru",
           "meaning": "быть внимательным, предупреждать"
         },
         {
@@ -4833,7 +4833,7 @@
           "type": "fukisokudoshi",
           "kanji": "注射する",
           "furigana": "ちゅうしゃする",
-          "romaji": "chyusha sur",
+          "romaji": "chyushyasuru",
           "meaning": "делать инъекцию"
         },
         {
@@ -4841,7 +4841,7 @@
           "type": "fukisokudoshi",
           "kanji": "入学する",
           "furigana": "にゅうがくする",
-          "romaji": "nyugaku suru",
+          "romaji": "nyugakusuru",
           "meaning": "поступать (в учебное заведение)"
         },
         {
@@ -4849,7 +4849,7 @@
           "type": "fukisokudoshi",
           "kanji": "入院する",
           "furigana": "にゅういんする",
-          "romaji": "nyuun suru",
+          "romaji": "nyuunsuru",
           "meaning": "ложиться в больницу"
         }
       ],
@@ -4859,7 +4859,7 @@
           "type": "fukisokudoshi",
           "kanji": "寝坊する",
           "furigana": "ねぼうする",
-          "romaji": "nebou suru",
+          "romaji": "nebousuru",
           "meaning": "проспать, встать поздно"
         },
         {
@@ -4867,7 +4867,7 @@
           "type": "fukisokudoshi",
           "kanji": "拝見する",
           "furigana": "はいけんする",
-          "romaji": "haiken suru",
+          "romaji": "haikensuru",
           "meaning": "смотреть, видеть (скромно о себе)"
         },
         {
@@ -4875,7 +4875,7 @@
           "type": "fukisokudoshi",
           "kanji": "反対する",
           "furigana": "はんたいする",
-          "romaji": "hantai suru",
+          "romaji": "hantaisuru",
           "meaning": "быть против, противодействовать"
         },
         {
@@ -4883,7 +4883,7 @@
           "type": "fukisokudoshi",
           "kanji": "発音する",
           "furigana": "はつおんする",
-          "romaji": "hatsuon suru",
+          "romaji": "hatsuonsuru",
           "meaning": "произношение, произносить"
         },
         {
@@ -4891,7 +4891,7 @@
           "type": "fukisokudoshi",
           "kanji": "復習する",
           "furigana": "ふくしゅうする",
-          "romaji": "fukushyu suru",
+          "romaji": "fukushyusuru",
           "meaning": "повторять (урок и т. п. )"
         },
         {
@@ -4899,7 +4899,7 @@
           "type": "fukisokudoshi",
           "kanji": "返事する",
           "furigana": "へんじする",
-          "romaji": "henji suru",
+          "romaji": "henjisuru",
           "meaning": "отвечать, давать ответ"
         },
         {
@@ -4907,7 +4907,7 @@
           "type": "fukisokudoshi",
           "kanji": "放送する",
           "furigana": "ほうそうする",
-          "romaji": "housou suru",
+          "romaji": "housousuru",
           "meaning": "передавать, транслировать (радио, телевидение)"
         },
         {
@@ -4915,7 +4915,7 @@
           "type": "fukisokudoshi",
           "kanji": "翻訳する",
           "furigana": "ほんやくする",
-          "romaji": "honyaku suru",
+          "romaji": "honyakusuru",
           "meaning": "переводить"
         },
         {
@@ -4923,7 +4923,7 @@
           "type": "fukisokudoshi",
           "kanji": "無理する",
           "furigana": "むりする",
-          "romaji": "muri suru",
+          "romaji": "murisuru",
           "meaning": "перенапрягаться; пытаться сделать невозможное"
         },
         {
@@ -4931,7 +4931,7 @@
           "type": "fukisokudoshi",
           "kanji": "約束する",
           "furigana": "やくそくする",
-          "romaji": "yakusoku suru",
+          "romaji": "yakusokusuru",
           "meaning": "обещать; договориться"
         }
       ],
@@ -4941,7 +4941,7 @@
           "type": "fukisokudoshi",
           "kanji": "用意する",
           "furigana": "よういする",
-          "romaji": "youi suru",
+          "romaji": "youisuru",
           "meaning": "готовиться, делать приготовления"
         },
         {
@@ -4949,7 +4949,7 @@
           "type": "fukisokudoshi",
           "kanji": "予習する",
           "furigana": "よしゅうする",
-          "romaji": "yoshyu suru",
+          "romaji": "yoshyusuru",
           "meaning": "готовить уроки"
         },
         {
@@ -4957,7 +4957,7 @@
           "type": "fukisokudoshi",
           "kanji": "予約する",
           "furigana": "よやくする",
-          "romaji": "yoyaku suru",
+          "romaji": "yoyakusuru",
           "meaning": "заказывать; бронировать"
         },
         {
@@ -4965,7 +4965,7 @@
           "type": "fukisokudoshi",
           "kanji": "利用する",
           "furigana": "りようする",
-          "romaji": "riyou suru",
+          "romaji": "riyousuru",
           "meaning": "пользоваться, употреблять, использовать что-л. или кого-л."
         },
         {
@@ -4973,7 +4973,7 @@
           "type": "fukisokudoshi",
           "kanji": "連絡する",
           "furigana": "れんらくする",
-          "romaji": "ren raku suru",
+          "romaji": "renrakusuru",
           "meaning": "связываться, соединяться"
         },
         {
@@ -4981,7 +4981,7 @@
           "type": "fukisokudoshi",
           "kanji": "合図する",
           "furigana": "あいずする",
-          "romaji": "aizu suru",
+          "romaji": "aizusuru",
           "meaning": "сигналить"
         },
         {
@@ -4989,7 +4989,7 @@
           "type": "fukisokudoshi",
           "kanji": "握手する",
           "furigana": "あくしゅする",
-          "romaji": "akushyu suru",
+          "romaji": "akushyusuru",
           "meaning": "рукопожатие"
         },
         {
@@ -4997,7 +4997,7 @@
           "type": "fukisokudoshi",
           "kanji": "暗記する",
           "furigana": "あんきする",
-          "romaji": "anki suru",
+          "romaji": "ankisuru",
           "meaning": "запоминать"
         },
         {
@@ -5005,7 +5005,7 @@
           "type": "fukisokudoshi",
           "kanji": "安定する",
           "furigana": "あんていする",
-          "romaji": "antei suru",
+          "romaji": "anteisuru",
           "meaning": "быть устойчивым; стабилизироваться"
         },
         {
@@ -5013,7 +5013,7 @@
           "type": "fukisokudoshi",
           "kanji": "維持する",
           "furigana": "いじする",
-          "romaji": "iji suru",
+          "romaji": "ijisuru",
           "meaning": "поддерживать, сохранять, оберегать"
         }
       ],
@@ -5023,7 +5023,7 @@
           "type": "fukisokudoshi",
           "kanji": "意識する",
           "furigana": "いしきする",
-          "romaji": "ishiki suru",
+          "romaji": "ishikisuru",
           "meaning": "сознавать, осознават"
         },
         {
@@ -5031,7 +5031,7 @@
           "type": "fukisokudoshi",
           "kanji": "位置する",
           "furigana": "いちする",
-          "romaji": "ichi suru",
+          "romaji": "ichisuru",
           "meaning": "располагаться, размещаться"
         },
         {
@@ -5039,7 +5039,7 @@
           "type": "fukisokudoshi",
           "kanji": "移動する",
           "furigana": "いどうする",
-          "romaji": "ideu suru",
+          "romaji": "ideusuru",
           "meaning": "двигаться, передвигаться"
         },
         {
@@ -5047,7 +5047,7 @@
           "type": "fukisokudoshi",
           "kanji": "違反する",
           "furigana": "いはんする",
-          "romaji": "ihan suru",
+          "romaji": "ihansuru",
           "meaning": "нарушать, идти против"
         },
         {
@@ -5055,7 +5055,7 @@
           "type": "fukisokudoshi",
           "kanji": "依頼する",
           "furigana": "いらいする",
-          "romaji": "irai suru",
+          "romaji": "iraisuru",
           "meaning": "просить"
         },
         {
@@ -5063,7 +5063,7 @@
           "type": "fukisokudoshi",
           "kanji": "印刷する",
           "furigana": "いんさつする",
-          "romaji": "insatsu suru",
+          "romaji": "insatsusuru",
           "meaning": "печатать"
         },
         {
@@ -5071,7 +5071,7 @@
           "type": "fukisokudoshi",
           "kanji": "引退する",
           "furigana": "いんたいする",
-          "romaji": "intai suru",
+          "romaji": "intaisuru",
           "meaning": "удалиться от дел, уйти на покой"
         },
         {
@@ -5079,7 +5079,7 @@
           "type": "fukisokudoshi",
           "kanji": "引用する",
           "furigana": "いんようする",
-          "romaji": "inyou suru",
+          "romaji": "inyousuru",
           "meaning": "цитировать"
         },
         {
@@ -5087,7 +5087,7 @@
           "type": "fukisokudoshi",
           "kanji": "運転する",
           "furigana": "うんてんする",
-          "romaji": "unten suru",
+          "romaji": "untensuru",
           "meaning": "вести, пилотировать, сидеть за рулём"
         },
         {
@@ -5095,7 +5095,7 @@
           "type": "fukisokudoshi",
           "kanji": "運動する",
           "furigana": "うんどうする",
-          "romaji": "undeu suru",
+          "romaji": "undousuru",
           "meaning": "заниматься физкультурой"
         }
       ],
@@ -5105,7 +5105,7 @@
           "type": "fukisokudoshi",
           "kanji": "営業する",
           "furigana": "えいぎょうする",
-          "romaji": "eigyou suru",
+          "romaji": "eigyousuru",
           "meaning": "работать, быть открытым"
         },
         {
@@ -5113,7 +5113,7 @@
           "type": "fukisokudoshi",
           "kanji": "延期する",
           "furigana": "えんきする",
-          "romaji": "enki suru",
+          "romaji": "enkisuru",
           "meaning": "откладывать, переносить"
         },
         {
@@ -5121,7 +5121,7 @@
           "type": "fukisokudoshi",
           "kanji": "援助する",
           "furigana": "えんじょする",
-          "romaji": "enjyo suru",
+          "romaji": "enjyosuru",
           "meaning": "помогать, поддерживать"
         },
         {
@@ -5129,7 +5129,7 @@
           "type": "fukisokudoshi",
           "kanji": "演説する",
           "furigana": "えんぜつする",
-          "romaji": "enzetsu suru",
+          "romaji": "enzetsusuru",
           "meaning": "произносить речь, выступать"
         },
         {
@@ -5137,7 +5137,7 @@
           "type": "fukisokudoshi",
           "kanji": "演奏する",
           "furigana": "えんそうする",
-          "romaji": "ensou suru",
+          "romaji": "ensousuru",
           "meaning": "играть, исполнять"
         },
         {
@@ -5145,7 +5145,7 @@
           "type": "fukisokudoshi",
           "kanji": "横断する",
           "furigana": "おうだんする",
-          "romaji": "oudan suru",
+          "romaji": "oudansuru",
           "meaning": "пересекать, перебираться"
         },
         {
@@ -5153,7 +5153,7 @@
           "type": "fukisokudoshi",
           "kanji": "汚染する",
           "furigana": "おせんする",
-          "romaji": "osen suru",
+          "romaji": "osensuru",
           "meaning": "загрязнять"
         },
         {
@@ -5161,7 +5161,7 @@
           "type": "fukisokudoshi",
           "kanji": "解決する",
           "furigana": "かいけつする",
-          "romaji": "kaiketsu suru",
+          "romaji": "kaiketsusuru",
           "meaning": "разрешать (вопрос), улаживать (проблему);"
         },
         {
@@ -5169,7 +5169,7 @@
           "type": "fukisokudoshi",
           "kanji": "会合する",
           "furigana": "かいごうする",
-          "romaji": "kaigou suru",
+          "romaji": "kaigousuru",
           "meaning": "встречаться, собираться"
         },
         {
@@ -5177,7 +5177,7 @@
           "type": "fukisokudoshi",
           "kanji": "開始する",
           "furigana": "かいしする",
-          "romaji": "kaishi suru",
+          "romaji": "kaishisuru",
           "meaning": "начинать, открывать"
         }
       ],
@@ -5187,7 +5187,7 @@
           "type": "fukisokudoshi",
           "kanji": "解釈する",
           "furigana": "かいしゃくする",
-          "romaji": "kaishyaku suru",
+          "romaji": "kaishyakusuru",
           "meaning": "истолковывать, интерпретировать"
         },
         {
@@ -5195,7 +5195,7 @@
           "type": "fukisokudoshi",
           "kanji": "改善する",
           "furigana": "かいぜんする",
-          "romaji": "kaizen suru",
+          "romaji": "kaizensuru",
           "meaning": "улучшать, совершенствовать"
         },
         {
@@ -5203,7 +5203,7 @@
           "type": "fukisokudoshi",
           "kanji": "回復する",
           "furigana": "かいふくする",
-          "romaji": "kaifuku suru",
+          "romaji": "kaifukusuru",
           "meaning": "восстанавливать, выздоравливать"
         },
         {
@@ -5211,7 +5211,7 @@
           "type": "fukisokudoshi",
           "kanji": "覚悟する",
           "furigana": "かくごする",
-          "romaji": "kakugo suru",
+          "romaji": "kakugosuru",
           "meaning": "быть готовым, решиться "
         },
         {
@@ -5219,7 +5219,7 @@
           "type": "fukisokudoshi",
           "kanji": "学習する",
           "furigana": "がくしゅうする",
-          "romaji": "gakushyu suru",
+          "romaji": "gakushyuusuru",
           "meaning": "заниматься, учиться"
         },
         {
@@ -5227,7 +5227,7 @@
           "type": "fukisokudoshi",
           "kanji": "拡大する",
           "furigana": "かくだいする",
-          "romaji": "kakudai suru",
+          "romaji": "kakudaisuru",
           "meaning": "увеличивать, расширять"
         },
         {
@@ -5235,7 +5235,7 @@
           "type": "fukisokudoshi",
           "kanji": "確認する",
           "furigana": "かくにんする",
-          "romaji": "kakunin suru",
+          "romaji": "kakuninsuru",
           "meaning": "подтверждать, признавать"
         },
         {
@@ -5243,7 +5243,7 @@
           "type": "fukisokudoshi",
           "kanji": "加減する",
           "furigana": "かげんする",
-          "romaji": "kagen suru",
+          "romaji": "kagensuru",
           "meaning": "учитывать, вносить поправку"
         },
         {
@@ -5251,7 +5251,7 @@
           "type": "fukisokudoshi",
           "kanji": "活動する",
           "furigana": "かつどうする",
-          "romaji": "katsude suru",
+          "romaji": "katsudousuru",
           "meaning": "быть активным"
         },
         {
@@ -5259,7 +5259,7 @@
           "type": "fukisokudoshi",
           "kanji": "活用する",
           "furigana": "かつようする",
-          "romaji": "katsuyo suru",
+          "romaji": "katsuyousuru",
           "meaning": "применять на практике"
         }
       ],
@@ -5269,7 +5269,7 @@
           "type": "fukisokudoshi",
           "kanji": "我慢する",
           "furigana": "がまんする",
-          "romaji": "gaman suru",
+          "romaji": "gamansuru",
           "meaning": "терпеть, выносить, обходиться"
         },
         {
@@ -5277,7 +5277,7 @@
           "type": "fukisokudoshi",
           "kanji": "歓迎する",
           "furigana": "かんげいする",
-          "romaji": "kangei suru",
+          "romaji": "kangeisuru",
           "meaning": "тепло принимать,"
         },
         {
@@ -5285,7 +5285,7 @@
           "type": "fukisokudoshi",
           "kanji": "観光する",
           "furigana": "かんこうする",
-          "romaji": "kankou suru",
+          "romaji": "kankousuru",
           "meaning": "экскурсия,"
         },
         {
@@ -5293,7 +5293,7 @@
           "type": "fukisokudoshi",
           "kanji": "観察する",
           "furigana": "かんさつする",
-          "romaji": "kansatsu suru",
+          "romaji": "kansatsusuru",
           "meaning": "наблюдать"
         },
         {
@@ -5301,7 +5301,7 @@
           "type": "fukisokudoshi",
           "kanji": "感謝する",
           "furigana": "かんしゃする",
-          "romaji": "kanshya suru",
+          "romaji": "kanshyasuru",
           "meaning": "благодарить"
         },
         {
@@ -5309,7 +5309,7 @@
           "type": "fukisokudoshi",
           "kanji": "感心する",
           "furigana": "かんしんする",
-          "romaji": "kanshin suru",
+          "romaji": "kanshinsuru",
           "meaning": "восхищаться "
         },
         {
@@ -5317,7 +5317,7 @@
           "type": "fukisokudoshi",
           "kanji": "完成する",
           "furigana": "かんせいする",
-          "romaji": "kansei suru",
+          "romaji": "kanseisuru",
           "meaning": "завершать [ся]"
         },
         {
@@ -5325,7 +5325,7 @@
           "type": "fukisokudoshi",
           "kanji": "感動する",
           "furigana": "かんどうする",
-          "romaji": "kandō suru",
+          "romaji": "kandousuru",
           "meaning": "быть взволнованным"
         },
         {
@@ -5333,7 +5333,7 @@
           "type": "fukisokudoshi",
           "kanji": "監督する",
           "furigana": "かんとくする",
-          "romaji": "kantoku suru",
+          "romaji": "kantokusuru",
           "meaning": "контролировать"
         },
         {
@@ -5341,7 +5341,7 @@
           "type": "fukisokudoshi",
           "kanji": "理解する",
           "furigana": "りかいする",
-          "romaji": "rikai suru",
+          "romaji": "rikaisuru",
           "meaning": "понимать"
         }
       ],
@@ -5351,7 +5351,7 @@
           "type": "fukisokudoshi",
           "kanji": "管理する",
           "furigana": "かんりする",
-          "romaji": "kanri suru",
+          "romaji": "kanrisuru",
           "meaning": "управлять "
         },
         {
@@ -5359,7 +5359,7 @@
           "type": "fukisokudoshi",
           "kanji": "完了する",
           "furigana": "かんりょうする",
-          "romaji": "kanryō suru",
+          "romaji": "kanryousuru",
           "meaning": "оканчивать [ся] "
         },
         {
@@ -5367,7 +5367,7 @@
           "type": "fukisokudoshi",
           "kanji": "関連する",
           "furigana": "かんれんする",
-          "romaji": "kanren suru",
+          "romaji": "kanrensuru",
           "meaning": "иметь отношение к чему-л."
         },
         {
@@ -5375,7 +5375,7 @@
           "type": "fukisokudoshi",
           "kanji": "記憶する",
           "furigana": "きおくする",
-          "romaji": "kioku suru",
+          "romaji": "kiokusuru",
           "meaning": "запоминать"
         },
         {
@@ -5383,7 +5383,7 @@
           "type": "fukisokudoshi",
           "kanji": "期待する",
           "furigana": "きたいする",
-          "romaji": "kitai suru",
+          "romaji": "kitaisuru",
           "meaning": "ожидать, надеяться"
         },
         {
@@ -5391,7 +5391,7 @@
           "type": "fukisokudoshi",
           "kanji": "帰宅する",
           "furigana": "きたくする",
-          "romaji": "kitaku suru",
+          "romaji": "kitakusuru",
           "meaning": "возвращаться домой"
         },
         {
@@ -5399,7 +5399,7 @@
           "type": "fukisokudoshi",
           "kanji": "記入する",
           "furigana": "きにゅうする",
-          "romaji": "kinyū suru",
+          "romaji": "kinyuusuru",
           "meaning": "заполнять"
         },
         {
@@ -5407,7 +5407,7 @@
           "type": "fukisokudoshi",
           "kanji": "記念する",
           "furigana": "きねんする",
-          "romaji": "kinen suru",
+          "romaji": "kinensuru",
           "meaning": "отмечать"
         },
         {
@@ -5415,7 +5415,7 @@
           "type": "fukisokudoshi",
           "kanji": "機能する",
           "furigana": "きのうする",
-          "romaji": "kinō-ki suru",
+          "romaji": "kinoukisuru",
           "meaning": "функционировать"
         },
         {
@@ -5423,7 +5423,7 @@
           "type": "fukisokudoshi",
           "kanji": "流行する",
           "furigana": "りゅうこうする",
-          "romaji": "ryūkō suru",
+          "romaji": "ryuukousuru",
           "meaning": "свирепствовать (о болезни)"
         }
       ],
@@ -5433,7 +5433,7 @@
           "type": "fukisokudoshi",
           "kanji": "寄付する",
           "furigana": "きふする",
-          "romaji": "kifu suru",
+          "romaji": "kifusuru",
           "meaning": "вносить пожертвование"
         },
         {
@@ -5441,7 +5441,7 @@
           "type": "fukisokudoshi",
           "kanji": "希望する",
           "furigana": "きぼうする",
-          "romaji": "kibō suru",
+          "romaji": "kibousuru",
           "meaning": "надеяться, желать"
         },
         {
@@ -5449,7 +5449,7 @@
           "type": "fukisokudoshi",
           "kanji": "休憩する",
           "furigana": "きゅうけいする",
-          "romaji": "kyūkei suru",
+          "romaji": "kyuukeisuru",
           "meaning": "отдыхать"
         },
         {
@@ -5457,7 +5457,7 @@
           "type": "fukisokudoshi",
           "kanji": "吸収する",
           "furigana": "きゅうしゅうする",
-          "romaji": "kyūshū suru",
+          "romaji": "kyuushuusuru",
           "meaning": "впитывать"
         },
         {
@@ -5465,7 +5465,7 @@
           "type": "fukisokudoshi",
           "kanji": "救助する",
           "furigana": "きゅうじょする",
-          "romaji": "kyūjo suru",
+          "romaji": "kyuujosuru",
           "meaning": "спасать, выручать"
         },
         {
@@ -5473,7 +5473,7 @@
           "type": "fukisokudoshi",
           "kanji": "供給する",
           "furigana": "きょうきゅうする",
-          "romaji": "kyōkyū suru",
+          "romaji": "kyoukyuusuru",
           "meaning": "снабжать, обеспечивать"
         },
         {
@@ -5481,7 +5481,7 @@
           "type": "fukisokudoshi",
           "kanji": "教授する",
           "furigana": "きょうじゅする",
-          "romaji": "kyōju suru",
+          "romaji": "kyoujusuru",
           "meaning": "преподавать"
         },
         {
@@ -5489,7 +5489,7 @@
           "type": "fukisokudoshi",
           "kanji": "強調する",
           "furigana": "きょうちょうする",
-          "romaji": "kyōchō suru",
+          "romaji": "kyouchousuru",
           "meaning": "подчёркивать"
         },
         {
@@ -5497,7 +5497,7 @@
           "type": "fukisokudoshi",
           "kanji": "協力する",
           "furigana": "きょうりょくする",
-          "romaji": "kyōryoku suru",
+          "romaji": "kyouryokusuru",
           "meaning": "сотрудничать"
         },
         {
@@ -5505,7 +5505,7 @@
           "type": "fukisokudoshi",
           "kanji": "連想する",
           "furigana": "れんそうする",
-          "romaji": "rensō suru",
+          "romaji": "rensousuru",
           "meaning": "ассоциировать"
         }
       ],
@@ -5515,7 +5515,7 @@
           "type": "fukisokudoshi",
           "kanji": "記録する",
           "furigana": "きろくする",
-          "romaji": "kiroku suru",
+          "romaji": "kirokusuru",
           "meaning": "вести запись"
         },
         {
@@ -5523,7 +5523,7 @@
           "type": "fukisokudoshi",
           "kanji": "議論する",
           "furigana": "ぎろんする",
-          "romaji": "giron suru",
+          "romaji": "gironsuru",
           "meaning": "дискутировать"
         },
         {
@@ -5531,7 +5531,7 @@
           "type": "fukisokudoshi",
           "kanji": "禁煙する",
           "furigana": "きんえんする",
-          "romaji": "kin'en suru",
+          "romaji": "kinensuru",
           "meaning": "бросать курить"
         },
         {
@@ -5539,7 +5539,7 @@
           "type": "fukisokudoshi",
           "kanji": "禁止する",
           "furigana": "きんしする",
-          "romaji": "kinshi suru",
+          "romaji": "kinshisuru",
           "meaning": "запрещать"
         },
         {
@@ -5547,7 +5547,7 @@
           "type": "fukisokudoshi",
           "kanji": "緊張する",
           "furigana": "きんちょうする",
-          "romaji": "kinchō suru",
+          "romaji": "kinchyousuru",
           "meaning": "быть напряжённым"
         },
         {
@@ -5555,7 +5555,7 @@
           "type": "fukisokudoshi",
           "kanji": "区別する",
           "furigana": "くべつする",
-          "romaji": "kubetsu suru",
+          "romaji": "kubetsusuru",
           "meaning": "различать"
         },
         {
@@ -5563,7 +5563,7 @@
           "type": "fukisokudoshi",
           "kanji": "苦労する",
           "furigana": "くろうする",
-          "romaji": "kurō suru",
+          "romaji": "kurousuru",
           "meaning": "переносить лишения, бедствовать"
         },
         {
@@ -5571,7 +5571,7 @@
           "type": "fukisokudoshi",
           "kanji": "訓練する",
           "furigana": "くんれんする",
-          "romaji": "kunren suru",
+          "romaji": "kunrensuru",
           "meaning": "тренировать"
         },
         {
@@ -5579,7 +5579,7 @@
           "type": "fukisokudoshi",
           "kanji": "経営する",
           "furigana": "けいえいする",
-          "romaji": "keiei suru",
+          "romaji": "keieisuru",
           "meaning": "вести (бизнес), управлять"
         },
         {
@@ -5587,7 +5587,7 @@
           "type": "fukisokudoshi",
           "kanji": "警告する",
           "furigana": "けいこくする",
-          "romaji": "keikoku suru",
+          "romaji": "keikokusuru",
           "meaning": "предупреждать, предостерегать"
         }
       ],
@@ -5597,7 +5597,7 @@
           "type": "fukisokudoshi",
           "kanji": "計算する",
           "furigana": "けいさんする",
-          "romaji": "keisan suru",
+          "romaji": "keisansuru",
           "meaning": "вычислять"
         },
         {
@@ -5605,7 +5605,7 @@
           "type": "fukisokudoshi",
           "kanji": "掲示する",
           "furigana": "けいじする",
-          "romaji": "keiji suru",
+          "romaji": "keijisuru",
           "meaning": "давать (вывешивать) объявление"
         },
         {
@@ -5613,7 +5613,7 @@
           "type": "fukisokudoshi",
           "kanji": "契約する",
           "furigana": "けいやくする",
-          "romaji": "keiyaku suru",
+          "romaji": "keiyakusuru",
           "meaning": "заключать договор"
         },
         {
@@ -5621,7 +5621,7 @@
           "type": "fukisokudoshi",
           "kanji": "経由する",
           "furigana": "けいゆする",
-          "romaji": "keiyu suru",
+          "romaji": "keiyusuru",
           "meaning": "проходить (проезжать) "
         },
         {
@@ -5629,7 +5629,7 @@
           "type": "fukisokudoshi",
           "kanji": "化粧する",
           "furigana": "けしょうする",
-          "romaji": "keshō suru",
+          "romaji": "keshyousuru",
           "meaning": "накладывать макияж (грим), краситься"
         },
         {
@@ -5637,7 +5637,7 @@
           "type": "fukisokudoshi",
           "kanji": "決心する",
           "furigana": "けっしんする",
-          "romaji": "kesshin suru",
+          "romaji": "kesshinsuru",
           "meaning": "решать [ся] , принимать решение"
         },
         {
@@ -5645,7 +5645,7 @@
           "type": "fukisokudoshi",
           "kanji": "欠席する",
           "furigana": "けっせきする",
-          "romaji": "kesseki suru",
+          "romaji": "kessekisuru",
           "meaning": "не являться куда-л"
         },
         {
@@ -5653,7 +5653,7 @@
           "type": "fukisokudoshi",
           "kanji": "決定する",
           "furigana": "けっていする",
-          "romaji": "kettei suru",
+          "romaji": "ketteisuru",
           "meaning": "решать, постановлять"
         },
         {
@@ -5661,7 +5661,7 @@
           "type": "fukisokudoshi",
           "kanji": "検査する",
           "furigana": "けんさする",
-          "romaji": "kensa suru",
+          "romaji": "kensasuru",
           "meaning": "проверять, инспектировать"
         },
         {
@@ -5669,7 +5669,7 @@
           "type": "fukisokudoshi",
           "kanji": "建設する",
           "furigana": "けんせつする",
-          "romaji": "kensetsu suru",
+          "romaji": "kensetsusuru",
           "meaning": "строить, сооружать"
         }
       ],
@@ -5679,7 +5679,7 @@
           "type": "fukisokudoshi",
           "kanji": "検討する",
           "furigana": "けんとうする",
-          "romaji": "kentō suru",
+          "romaji": "kentousuru",
           "meaning": "рассматривать"
         },
         {
@@ -5687,7 +5687,7 @@
           "type": "fukisokudoshi",
           "kanji": "合格する",
           "furigana": "ごうかくする",
-          "romaji": "gōkaku suru",
+          "romaji": "goukakusuru",
           "meaning": "проити экзамен"
         },
         {
@@ -5695,7 +5695,7 @@
           "type": "fukisokudoshi",
           "kanji": "交換する",
           "furigana": "こうかんする",
-          "romaji": "kōkan suru",
+          "romaji": "koukansuru",
           "meaning": "обменивать"
         },
         {
@@ -5703,7 +5703,7 @@
           "type": "fukisokudoshi",
           "kanji": "合計する",
           "furigana": "ごうけいする",
-          "romaji": "gōkei suru",
+          "romaji": "goukeisuru",
           "meaning": "суммировать"
         },
         {
@@ -5711,7 +5711,7 @@
           "type": "fukisokudoshi",
           "kanji": "攻撃する",
           "furigana": "こうげきする",
-          "romaji": "kōgeki suru",
+          "romaji": "kougekisuru",
           "meaning": "нападать, аттаковать"
         },
         {
@@ -5719,7 +5719,7 @@
           "type": "fukisokudoshi",
           "kanji": "貢献する",
           "furigana": "こうけんする",
-          "romaji": "kōken suru",
+          "romaji": "koukensuru",
           "meaning": "содействовать"
         },
         {
@@ -5727,7 +5727,7 @@
           "type": "fukisokudoshi",
           "kanji": "交際する",
           "furigana": "こうさいする",
-          "romaji": "kōsai suru",
+          "romaji": "kousaisuru",
           "meaning": "поддерживать знакомство"
         },
         {
@@ -5735,7 +5735,7 @@
           "type": "fukisokudoshi",
           "kanji": "行動する",
           "furigana": "こうどうする",
-          "romaji": "kōdō suru",
+          "romaji": "koudousuru",
           "meaning": "действовать"
         },
         {
@@ -5743,7 +5743,7 @@
           "type": "fukisokudoshi",
           "kanji": "考慮する",
           "furigana": "こうりょする",
-          "romaji": "kōryo suru",
+          "romaji": "kouryosuru",
           "meaning": "учитывать"
         },
         {
@@ -5751,7 +5751,7 @@
           "type": "fukisokudoshi",
           "kanji": "誤解する",
           "furigana": "ごかいする",
-          "romaji": "gokai suru",
+          "romaji": "gokaisuru",
           "meaning": "ошибаться"
         }
       ],
@@ -5761,7 +5761,7 @@
           "type": "fukisokudoshi",
           "kanji": "呼吸する",
           "furigana": "こきゅうする",
-          "romaji": "kokyū suru",
+          "romaji": "kokyyousuru",
           "meaning": "дышать"
         },
         {
@@ -5769,7 +5769,7 @@
           "type": "fukisokudoshi",
           "kanji": "克服する",
           "furigana": "こくふくする",
-          "romaji": "kokufuku suru",
+          "romaji": "kokufukusuru",
           "meaning": "преодолевать"
         },
         {
@@ -5777,7 +5777,7 @@
           "type": "fukisokudoshi",
           "kanji": "骨折する",
           "furigana": "こっせつする",
-          "romaji": "kossetsu suru",
+          "romaji": "kossetsusuru",
           "meaning": "ломать кости"
         },
         {
@@ -5785,7 +5785,7 @@
           "type": "fukisokudoshi",
           "kanji": "混雑する",
           "furigana": "こんざつする",
-          "romaji": "konzatsu suru",
+          "romaji": "konzatsusuru",
           "meaning": "быть переполненным народом"
         },
         {
@@ -5793,7 +5793,7 @@
           "type": "fukisokudoshi",
           "kanji": "婚約する",
           "furigana": "こんやくする",
-          "romaji": "kon'yaku suru",
+          "romaji": "konyakusuru",
           "meaning": "быть помолвленным"
         },
         {
@@ -5801,7 +5801,7 @@
           "type": "fukisokudoshi",
           "kanji": "混乱する",
           "furigana": "こんらんする",
-          "romaji": "konran suru",
+          "romaji": "konransuru",
           "meaning": "быть в беспорядке"
         },
         {
@@ -5809,7 +5809,7 @@
           "type": "fukisokudoshi",
           "kanji": "作曲する",
           "furigana": "さっきょくする",
-          "romaji": "sakkyoku suru",
+          "romaji": "sakkyokusuru",
           "meaning": "писать музыку"
         },
         {
@@ -5817,7 +5817,7 @@
           "type": "fukisokudoshi",
           "kanji": "差別する",
           "furigana": "さべつする",
-          "romaji": "sabetsu suru",
+          "romaji": "sabetsusuru",
           "meaning": "дискриминировать"
         },
         {
@@ -5825,7 +5825,7 @@
           "type": "fukisokudoshi",
           "kanji": "離婚する",
           "furigana": "りこんする",
-          "romaji": "rikon suru",
+          "romaji": "rikonsuru",
           "meaning": "расторгать брак"
         },
         {
@@ -5833,7 +5833,7 @@
           "type": "fukisokudoshi",
           "kanji": "連続する",
           "furigana": "れんぞくする",
-          "romaji": "renzoku suru",
+          "romaji": "renzokusuru",
           "meaning": "продолжаться, длиться"
         }
       ],
@@ -5843,7 +5843,7 @@
           "type": "fukisokudoshi",
           "kanji": "左右する",
           "furigana": "さゆうする",
-          "romaji": "sayū suru",
+          "romaji": "sayuusuru",
           "meaning": "доминировать; влиять"
         },
         {
@@ -5851,7 +5851,7 @@
           "type": "fukisokudoshi",
           "kanji": "参加する",
           "furigana": "さんかする",
-          "romaji": "sanka suru",
+          "romaji": "sankasuru",
           "meaning": "участвовать"
         },
         {
@@ -5859,7 +5859,7 @@
           "type": "fukisokudoshi",
           "kanji": "参考する",
           "furigana": "さんこうする",
-          "romaji": "sankō suru",
+          "romaji": "sankousuru",
           "meaning": "ссылаться на (книгу)"
         },
         {
@@ -5867,7 +5867,7 @@
           "type": "fukisokudoshi",
           "kanji": "賛成する",
           "furigana": "さんせいする",
-          "romaji": "sansei suru",
+          "romaji": "sanseisuru",
           "meaning": "давать согласие"
         },
         {
@@ -5875,7 +5875,7 @@
           "type": "fukisokudoshi",
           "kanji": "支給する",
           "furigana": "しきゅうする",
-          "romaji": "shikyū suru",
+          "romaji": "shikyuusuru",
           "meaning": "оплачивать"
         },
         {
@@ -5883,7 +5883,7 @@
           "type": "fukisokudoshi",
           "kanji": "刺激する",
           "furigana": "しげきする",
-          "romaji": "shigeki suru",
+          "romaji": "shigekisuru",
           "meaning": "стимулировать"
         },
         {
@@ -5891,7 +5891,7 @@
           "type": "fukisokudoshi",
           "kanji": "自殺する",
           "furigana": "じさつする",
-          "romaji": "jisatsu suru",
+          "romaji": "jisatsusuru",
           "meaning": "покончить с собой"
         },
         {
@@ -5899,7 +5899,7 @@
           "type": "fukisokudoshi",
           "kanji": "支出する",
           "furigana": "ししゅつする",
-          "romaji": "shishutsu suru",
+          "romaji": "shishutsusuru",
           "meaning": "расходовать"
         },
         {
@@ -5907,7 +5907,7 @@
           "type": "fukisokudoshi",
           "kanji": "支度する",
           "furigana": "したくする",
-          "romaji": "shitaku suru",
+          "romaji": "shitakusuru",
           "meaning": "готовиться"
         },
         {
@@ -5915,7 +5915,7 @@
           "type": "fukisokudoshi",
           "kanji": "失業する",
           "furigana": "しつぎょうする",
-          "romaji": "shitsugyō suru",
+          "romaji": "shitsugyousuru",
           "meaning": "быть безработным"
         }
       ],
@@ -5925,7 +5925,7 @@
           "type": "fukisokudoshi",
           "kanji": "実験する",
           "furigana": "じっけんする",
-          "romaji": "jikken suru",
+          "romaji": "jikkensuru",
           "meaning": "экспериментировать"
         },
         {
@@ -5933,7 +5933,7 @@
           "type": "fukisokudoshi",
           "kanji": "実現する",
           "furigana": "じつげんする",
-          "romaji": "jitsugen suru",
+          "romaji": "jitsugensuru",
           "meaning": "реализовывать, сбываться"
         },
         {
@@ -5941,7 +5941,7 @@
           "type": "fukisokudoshi",
           "kanji": "実行する",
           "furigana": "じっこうする",
-          "romaji": "jikkō suru",
+          "romaji": "jikkousuru",
           "meaning": "выполнять"
         },
         {
@@ -5949,7 +5949,7 @@
           "type": "fukisokudoshi",
           "kanji": "実施する",
           "furigana": "じっしする",
-          "romaji": "jisshi suru",
+          "romaji": "jisshisuru",
           "meaning": "проводить, выполнять"
         },
         {
@@ -5957,7 +5957,7 @@
           "type": "fukisokudoshi",
           "kanji": "失望する",
           "furigana": "しつぼうする",
-          "romaji": "shitsubō suru",
+          "romaji": "shitsubousuru",
           "meaning": "разочароваться"
         },
         {
@@ -5965,7 +5965,7 @@
           "type": "fukisokudoshi",
           "kanji": "指導する",
           "furigana": "しどうする",
-          "romaji": "shidō suru",
+          "romaji": "shidousuru",
           "meaning": "инструктировать"
         },
         {
@@ -5973,7 +5973,7 @@
           "type": "fukisokudoshi",
           "kanji": "支配する",
           "furigana": "しはいする",
-          "romaji": "shihai suru",
+          "romaji": "shihaisuru",
           "meaning": "господствовать"
         },
         {
@@ -5981,7 +5981,7 @@
           "type": "fukisokudoshi",
           "kanji": "死亡する",
           "furigana": "しぼうする",
-          "romaji": "shibō suru",
+          "romaji": "shibousuru",
           "meaning": "умереть, скончаться"
         },
         {
@@ -5989,7 +5989,7 @@
           "type": "fukisokudoshi",
           "kanji": "自慢する",
           "furigana": "じまんする",
-          "romaji": "jiman suru",
+          "romaji": "jimansuru",
           "meaning": "хвалиться"
         },
         {
@@ -5997,7 +5997,7 @@
           "type": "fukisokudoshi",
           "kanji": "邪魔する",
           "furigana": "じゃまする",
-          "romaji": "jama suru",
+          "romaji": "jamasuru",
           "meaning": "мешать, препятствовать"
         }
       ],
@@ -6007,7 +6007,7 @@
           "type": "fukisokudoshi",
           "kanji": "収穫する",
           "furigana": "しゅうかくする",
-          "romaji": "shūkaku suru",
+          "romaji": "shuukakusuru",
           "meaning": "собирать урожай"
         },
         {
@@ -6015,7 +6015,7 @@
           "type": "fukisokudoshi",
           "kanji": "重視する",
           "furigana": "じゅうしする",
-          "romaji": "jūshi suru",
+          "romaji": "juushisuru",
           "meaning": "придавать большое значение"
         },
         {
@@ -6023,7 +6023,7 @@
           "type": "fukisokudoshi",
           "kanji": "就職する",
           "furigana": "しゅうしょくする",
-          "romaji": "shūshoku suru",
+          "romaji": "shuushokusuru",
           "meaning": "устроиться на работу"
         },
         {
@@ -6031,7 +6031,7 @@
           "type": "fukisokudoshi",
           "kanji": "修正する",
           "furigana": "しゅうせいする",
-          "romaji": "shūsei suru",
+          "romaji": "shuuseisuru",
           "meaning": "корректировать"
         },
         {
@@ -6039,7 +6039,7 @@
           "type": "fukisokudoshi",
           "kanji": "集中する",
           "furigana": "しゅうちゅうする",
-          "romaji": "shūchū suru",
+          "romaji": "shuuchuusuru",
           "meaning": "концентрировать"
         },
         {
@@ -6047,7 +6047,7 @@
           "type": "fukisokudoshi",
           "kanji": "修理する",
           "furigana": "しゅうりする",
-          "romaji": "shūri suru",
+          "romaji": "shuurisuru",
           "meaning": "ремонтировать, чинить"
         },
         {
@@ -6055,7 +6055,7 @@
           "type": "fukisokudoshi",
           "kanji": "出席する",
           "furigana": "しゅっせきする",
-          "romaji": "shusseki suru",
+          "romaji": "shussekisuru",
           "meaning": "присутствовать"
         },
         {
@@ -6063,7 +6063,7 @@
           "type": "fukisokudoshi",
           "kanji": "出発する",
           "furigana": "しゅっぱつする",
-          "romaji": "shuppatsu suru",
+          "romaji": "shuppatsusuru",
           "meaning": "отправляться"
         },
         {
@@ -6071,7 +6071,7 @@
           "type": "fukisokudoshi",
           "kanji": "出版する",
           "furigana": "しゅっぱんする",
-          "romaji": "shuppan suru",
+          "romaji": "shuppansuru",
           "meaning": "публиковаться"
         },
         {
@@ -6079,7 +6079,7 @@
           "type": "fukisokudoshi",
           "kanji": "使用する",
           "furigana": "しようする",
-          "romaji": "shiyō suru",
+          "romaji": "shiyousuru",
           "meaning": "употреблять, применять"
         }
       ],
@@ -6089,7 +6089,7 @@
           "type": "fukisokudoshi",
           "kanji": "信頼する",
           "furigana": "しんらいする",
-          "romaji": "shinrai suru",
+          "romaji": "shinraisuru",
           "meaning": "доверять"
         },
         {
@@ -6097,7 +6097,7 @@
           "type": "fukisokudoshi",
           "kanji": "招待する",
           "furigana": "しょうたいする",
-          "romaji": "shōtai suru",
+          "romaji": "shoutaisuru",
           "meaning": "приглашать"
         },
         {
@@ -6105,7 +6105,7 @@
           "type": "fukisokudoshi",
           "kanji": "上達する",
           "furigana": "じょうたつする",
-          "romaji": "jōtatsu suru",
+          "romaji": "joutatsusuru",
           "meaning": "делать успехи"
         },
         {
@@ -6113,7 +6113,7 @@
           "type": "fukisokudoshi",
           "kanji": "承知する",
           "furigana": "しょうちする",
-          "romaji": "shōchi suru",
+          "romaji": "shouchisuru",
           "meaning": "быть осведомлённым"
         },
         {
@@ -6121,7 +6121,7 @@
           "type": "fukisokudoshi",
           "kanji": "衝突する",
           "furigana": "しょうとつする",
-          "romaji": "shōtotsu suru",
+          "romaji": "shoutotsusuru",
           "meaning": "сталкиваться, конфликтовать"
         },
         {
@@ -6129,7 +6129,7 @@
           "type": "fukisokudoshi",
           "kanji": "承認する",
           "furigana": "しょうにんする",
-          "romaji": "shōnin suru",
+          "romaji": "shouninsuru",
           "meaning": "одобрять"
         },
         {
@@ -6137,7 +6137,7 @@
           "type": "fukisokudoshi",
           "kanji": "商売する",
           "furigana": "しょうばいする",
-          "romaji": "shōbai suru",
+          "romaji": "shoubaisuru",
           "meaning": "торговать, вести бизнес"
         },
         {
@@ -6145,7 +6145,7 @@
           "type": "fukisokudoshi",
           "kanji": "消費する",
           "furigana": "しょうひする",
-          "romaji": "shōhi suru",
+          "romaji": "shouhisuru",
           "meaning": "потреблять, поглощать"
         },
         {
@@ -6153,7 +6153,7 @@
           "type": "fukisokudoshi",
           "kanji": "",
           "furigana": "する",
-          "romaji": " suru",
+          "romaji": "suru",
           "meaning": ""
         },
         {
@@ -6161,7 +6161,7 @@
           "type": "fukisokudoshi",
           "kanji": "証明する",
           "furigana": "しょうめいする",
-          "romaji": "shōmei suru",
+          "romaji": "shoumeisuru",
           "meaning": "доказывать"
         }
       ],
@@ -6171,7 +6171,7 @@
           "type": "fukisokudoshi",
           "kanji": "食事する",
           "furigana": "しょくじする",
-          "romaji": "shokuji suru",
+          "romaji": "shokujisuru",
           "meaning": "питаться"
         },
         {
@@ -6179,7 +6179,7 @@
           "type": "fukisokudoshi",
           "kanji": "処理する",
           "furigana": "しょりする",
-          "romaji": "shori suru",
+          "romaji": "shorisuru",
           "meaning": "обрабатывать"
         },
         {
@@ -6187,7 +6187,7 @@
           "type": "fukisokudoshi",
           "kanji": "進学する",
           "furigana": "しんがくする",
-          "romaji": "shingaku suru",
+          "romaji": "shingakusuru",
           "meaning": "поступать в учебное заведение"
         },
         {
@@ -6195,7 +6195,7 @@
           "type": "fukisokudoshi",
           "kanji": "信仰する",
           "furigana": "しんこうする",
-          "romaji": "shinkō suru",
+          "romaji": "shinkousuru",
           "meaning": "верить (в Бога), исповедовать (религию)"
         },
         {
@@ -6203,7 +6203,7 @@
           "type": "fukisokudoshi",
           "kanji": "診察する",
           "furigana": "しんさつする",
-          "romaji": "shinsatsu suru",
+          "romaji": "shinsatsusuru",
           "meaning": "осматриваться у доктора"
         },
         {
@@ -6211,7 +6211,7 @@
           "type": "fukisokudoshi",
           "kanji": "心配する",
           "furigana": "しんぱいする",
-          "romaji": "shinpai suru",
+          "romaji": "shinpaisuru",
           "meaning": "беспокоиться"
         },
         {
@@ -6219,7 +6219,7 @@
           "type": "fukisokudoshi",
           "kanji": "信用する",
           "furigana": "しんようする",
-          "romaji": "shin'yō suru",
+          "romaji": "shin'yousuru",
           "meaning": "доверять"
         },
         {
@@ -6227,7 +6227,7 @@
           "type": "fukisokudoshi",
           "kanji": "上京する",
           "furigana": "じょうきょうする",
-          "romaji": "jōkyō suru",
+          "romaji": "joukyousuru",
           "meaning": "приезжать в столицу"
         },
         {
@@ -6235,7 +6235,7 @@
           "type": "fukisokudoshi",
           "kanji": "推薦する",
           "furigana": "すいせんする",
-          "romaji": "suisen suru",
+          "romaji": "suisensuru",
           "meaning": "давать кому-л. рекомендацию"
         },
         {
@@ -6243,7 +6243,7 @@
           "type": "fukisokudoshi",
           "kanji": "論争する",
           "furigana": "ろんそうする",
-          "romaji": "ronsō suru",
+          "romaji": "ronsousuru",
           "meaning": "спорить, дискутировать"
         }
       ],
@@ -6253,7 +6253,7 @@
           "type": "fukisokudoshi",
           "kanji": "請求する",
           "furigana": "せいきゅうする",
-          "romaji": "seikyū suru",
+          "romaji": "seikyuusuru",
           "meaning": "требовать"
         },
         {
@@ -6261,7 +6261,7 @@
           "type": "fukisokudoshi",
           "kanji": "制限する",
           "furigana": "せいげんする",
-          "romaji": "seigen suru",
+          "romaji": "seigensuru",
           "meaning": "ограничивать, лимитировать"
         },
         {
@@ -6269,7 +6269,7 @@
           "type": "fukisokudoshi",
           "kanji": "成功する",
           "furigana": "せいこうする",
-          "romaji": "seikō suru",
+          "romaji": "seikousuru",
           "meaning": "удаваться, иметь успех"
         },
         {
@@ -6277,7 +6277,7 @@
           "type": "fukisokudoshi",
           "kanji": "製造する",
           "furigana": "せいぞうする",
-          "romaji": "seizō suru",
+          "romaji": "seizousuru",
           "meaning": "производить"
         },
         {
@@ -6285,7 +6285,7 @@
           "type": "fukisokudoshi",
           "kanji": "成長する",
           "furigana": "せいちょうする",
-          "romaji": "seichō suru",
+          "romaji": "seichousuru",
           "meaning": "расти, вырастать"
         },
         {
@@ -6293,7 +6293,7 @@
           "type": "fukisokudoshi",
           "kanji": "設計する",
           "furigana": "せっけいする",
-          "romaji": "sekkei suru",
+          "romaji": "sekkeisuru",
           "meaning": "проектировать"
         },
         {
@@ -6301,7 +6301,7 @@
           "type": "fukisokudoshi",
           "kanji": "絶滅する",
           "furigana": "ぜつめつする",
-          "romaji": "zetsumetsu suru",
+          "romaji": "zetsumetsusuru",
           "meaning": "истреблять"
         },
         {
@@ -6309,7 +6309,7 @@
           "type": "fukisokudoshi",
           "kanji": "専攻する",
           "furigana": "せんこうする",
-          "romaji": "senkō suru",
+          "romaji": "senkousuru",
           "meaning": "специализироваться"
         },
         {
@@ -6317,7 +6317,7 @@
           "type": "fukisokudoshi",
           "kanji": "前進する",
           "furigana": "ぜんしんする",
-          "romaji": "zenshin suru",
+          "romaji": "zenshinsuru",
           "meaning": "становиться лучше, прогрессировать"
         },
         {
@@ -6325,7 +6325,7 @@
           "type": "fukisokudoshi",
           "kanji": "選択する",
           "furigana": "せんたくする",
-          "romaji": "sentaku suru",
+          "romaji": "sentakusuru",
           "meaning": "выбирать"
         }
       ],
@@ -6335,7 +6335,7 @@
           "type": "fukisokudoshi",
           "kanji": "増加する",
           "furigana": "ぞうかする",
-          "romaji": "zōka suru",
+          "romaji": "zoukasuru",
           "meaning": "увеличивать [ся] "
         },
         {
@@ -6343,7 +6343,7 @@
           "type": "fukisokudoshi",
           "kanji": "操作する",
           "furigana": "そうさする",
-          "romaji": "sōsa suru",
+          "romaji": "sousasuru",
           "meaning": "оперировать, обращаться с чем-л."
         },
         {
@@ -6351,7 +6351,7 @@
           "type": "fukisokudoshi",
           "kanji": "想像する",
           "furigana": "そうぞうする",
-          "romaji": "sōzō suru",
+          "romaji": "souzousuru",
           "meaning": "воображать"
         },
         {
@@ -6359,7 +6359,7 @@
           "type": "fukisokudoshi",
           "kanji": "相続する",
           "furigana": "そうぞくする",
-          "romaji": "sōzoku suru",
+          "romaji": "souzokusuru",
           "meaning": "наследовать"
         },
         {
@@ -6367,7 +6367,7 @@
           "type": "fukisokudoshi",
           "kanji": "相当する",
           "furigana": "そうとうする",
-          "romaji": "sōtō suru",
+          "romaji": "soutousuru",
           "meaning": "подходить, годиться,"
         },
         {
@@ -6375,7 +6375,7 @@
           "type": "fukisokudoshi",
           "kanji": "組織する",
           "furigana": "そしきする",
-          "romaji": "soshiki suru",
+          "romaji": "soshikisuru",
           "meaning": "организовывать"
         },
         {
@@ -6383,7 +6383,7 @@
           "type": "fukisokudoshi",
           "kanji": "尊敬する",
           "furigana": "そんけいする",
-          "romaji": "sonkei suru",
+          "romaji": "sonkeisuru",
           "meaning": "уважать"
         },
         {
@@ -6391,7 +6391,7 @@
           "type": "fukisokudoshi",
           "kanji": "存在する",
           "furigana": "そんざいする",
-          "romaji": "sonzai suru",
+          "romaji": "sonzaisuru",
           "meaning": "существовать,"
         },
         {
@@ -6399,7 +6399,7 @@
           "type": "fukisokudoshi",
           "kanji": "滞在する",
           "furigana": "たいざいする",
-          "romaji": "taizai suru",
+          "romaji": "taizaisuru",
           "meaning": "останавливаться (где-л. в пути)"
         },
         {
@@ -6407,7 +6407,7 @@
           "type": "fukisokudoshi",
           "kanji": "代表する",
           "furigana": "だいひょうする",
-          "romaji": "daihyō suru",
+          "romaji": "daihyousuru",
           "meaning": "представлять"
         }
       ],
@@ -6417,7 +6417,7 @@
           "type": "fukisokudoshi",
           "kanji": "逮捕する",
           "furigana": "たいほする",
-          "romaji": "taiho suru",
+          "romaji": "taihosuru",
           "meaning": "арестовать"
         },
         {
@@ -6425,7 +6425,7 @@
           "type": "fukisokudoshi",
           "kanji": "代理する",
           "furigana": "だいりする",
-          "romaji": "dairi suru",
+          "romaji": "dairisuru",
           "meaning": "заменять кого-л."
         },
         {
@@ -6433,7 +6433,7 @@
           "type": "fukisokudoshi",
           "kanji": "担当する",
           "furigana": "たんとうする",
-          "romaji": "tantō suru",
+          "romaji": "tantousuru",
           "meaning": "нести обязанности"
         },
         {
@@ -6441,7 +6441,7 @@
           "type": "fukisokudoshi",
           "kanji": "遅刻する",
           "furigana": "ちこくする",
-          "romaji": "chikoku suru",
+          "romaji": "chikokusuru",
           "meaning": "опоздать куда-л."
         },
         {
@@ -6449,7 +6449,7 @@
           "type": "fukisokudoshi",
           "kanji": "中止する",
           "furigana": "ちゅうしする",
-          "romaji": "chūshi suru",
+          "romaji": "chuushisuru",
           "meaning": "прерывать, прекращать"
         },
         {
@@ -6457,7 +6457,7 @@
           "type": "fukisokudoshi",
           "kanji": "駐車する",
           "furigana": "ちゅうしゃする",
-          "romaji": "chūsha suru",
+          "romaji": "chuushasuru",
           "meaning": "парковаться"
         },
         {
@@ -6465,7 +6465,7 @@
           "type": "fukisokudoshi",
           "kanji": "注目する",
           "furigana": "ちゅうもくする",
-          "romaji": "chūmoku suru",
+          "romaji": "chuumokusuru",
           "meaning": "следить, наблюдать"
         },
         {
@@ -6473,7 +6473,7 @@
           "type": "fukisokudoshi",
           "kanji": "注文する",
           "furigana": "ちゅうもんする",
-          "romaji": "chūmon suru",
+          "romaji": "chuumonsuru",
           "meaning": "заказывать"
         },
         {
@@ -6481,7 +6481,7 @@
           "type": "fukisokudoshi",
           "kanji": "調査する",
           "furigana": "ちょうさする",
-          "romaji": "chōsa suru",
+          "romaji": "chousasuru",
           "meaning": "расследовать"
         },
         {
@@ -6489,7 +6489,7 @@
           "type": "fukisokudoshi",
           "kanji": "貯金する",
           "furigana": "ちょきんする",
-          "romaji": "chokin suru",
+          "romaji": "chokinsuru",
           "meaning": "хранить сбережения"
         }
       ],
@@ -6499,7 +6499,7 @@
           "type": "fukisokudoshi",
           "kanji": "通過する",
           "furigana": "つうかする",
-          "romaji": "tsūka suru",
+          "romaji": "tsuukasuru",
           "meaning": "проходить (контроль, испытания, голосование и т. п. )"
         },
         {
@@ -6507,7 +6507,7 @@
           "type": "fukisokudoshi",
           "kanji": "通学する",
           "furigana": "つうがくする",
-          "romaji": "tsūgaku suru",
+          "romaji": "tsuugakusuru",
           "meaning": "ходить (ездить) в школу"
         },
         {
@@ -6515,7 +6515,7 @@
           "type": "fukisokudoshi",
           "kanji": "提案する",
           "furigana": "ていあんする",
-          "romaji": "teian suru",
+          "romaji": "teiansuru",
           "meaning": "предлагать"
         },
         {
@@ -6523,7 +6523,7 @@
           "type": "fukisokudoshi",
           "kanji": "抵抗する",
           "furigana": "ていこうする",
-          "romaji": "teikō suru",
+          "romaji": "teikousuru",
           "meaning": "сопротивляться"
         },
         {
@@ -6531,7 +6531,7 @@
           "type": "fukisokudoshi",
           "kanji": "提出する",
           "furigana": "ていしゅつする",
-          "romaji": "teishutsu suru",
+          "romaji": "teishutsusuru",
           "meaning": "подавать (заявку и т. п. )"
         },
         {
@@ -6547,7 +6547,7 @@
           "type": "fukisokudoshi",
           "kanji": "適用する",
           "furigana": "てきようする",
-          "romaji": "tekiyō suru",
+          "romaji": "tekiyousuru",
           "meaning": "применять"
         },
         {
@@ -6555,7 +6555,7 @@
           "type": "fukisokudoshi",
           "kanji": "徹底する",
           "furigana": "てっていする",
-          "romaji": "tettei suru",
+          "romaji": "tetteisuru",
           "meaning": "проникаться"
         },
         {
@@ -6563,7 +6563,7 @@
           "type": "fukisokudoshi",
           "kanji": "徹夜する",
           "furigana": "てつやする",
-          "romaji": "tetsuya suru",
+          "romaji": "tetsuyasuru",
           "meaning": "не спать всю ночь"
         },
         {
@@ -6571,7 +6571,7 @@
           "type": "fukisokudoshi",
           "kanji": "到着する",
           "furigana": "とうちゃくする",
-          "romaji": "tōchaku suru",
+          "romaji": "touchakusuru",
           "meaning": "прибывать"
         }
       ],
@@ -6581,7 +6581,7 @@
           "type": "fukisokudoshi",
           "kanji": "投票する",
           "furigana": "とうひょうする",
-          "romaji": "tōhyō suru",
+          "romaji": "touhyousuru",
           "meaning": "голосовать за кого-л."
         },
         {
@@ -6589,7 +6589,7 @@
           "type": "fukisokudoshi",
           "kanji": "読書する",
           "furigana": "どくしょする",
-          "romaji": "dokusho suru",
+          "romaji": "dokushosuru",
           "meaning": "читать (книги)"
         },
         {
@@ -6597,7 +6597,7 @@
           "type": "fukisokudoshi",
           "kanji": "独立する",
           "furigana": "どくりつする",
-          "romaji": "dokuritsu suru",
+          "romaji": "dokuritsusuru",
           "meaning": "стоять отдельно"
         },
         {
@@ -6605,7 +6605,7 @@
           "type": "fukisokudoshi",
           "kanji": "登山する",
           "furigana": "とざんする",
-          "romaji": "tozan suru",
+          "romaji": "tozansuru",
           "meaning": "подниматься на гору"
         },
         {
@@ -6613,7 +6613,7 @@
           "type": "fukisokudoshi",
           "kanji": "努力する",
           "furigana": "どりょくする",
-          "romaji": "doryoku suru",
+          "romaji": "doryokusuru",
           "meaning": "стараться"
         },
         {
@@ -6621,7 +6621,7 @@
           "type": "fukisokudoshi",
           "kanji": "納得する",
           "furigana": "なっとくする",
-          "romaji": "nattoku suru",
+          "romaji": "nattokusuru",
           "meaning": "согласиться"
         },
         {
@@ -6629,7 +6629,7 @@
           "type": "fukisokudoshi",
           "kanji": "入場する",
           "furigana": "にゅうじょうする",
-          "romaji": "nyūjō suru",
+          "romaji": "nyuujousuru",
           "meaning": "входить"
         },
         {
@@ -6637,7 +6637,7 @@
           "type": "fukisokudoshi",
           "kanji": "熱中する",
           "furigana": "ねっちゅうする",
-          "romaji": "netchū suru",
+          "romaji": "netchuusuru",
           "meaning": "посвятить себя чему-л."
         },
         {
@@ -6645,7 +6645,7 @@
           "type": "fukisokudoshi",
           "kanji": "配達する",
           "furigana": "はいたつする",
-          "romaji": "haitatsu suru",
+          "romaji": "haitatsusuru",
           "meaning": "доставлять"
         },
         {
@@ -6653,7 +6653,7 @@
           "type": "fukisokudoshi",
           "kanji": "拍手する",
           "furigana": "はくしゅする",
-          "romaji": "hakushu suru",
+          "romaji": "hakushusuru",
           "meaning": "аплодировать"
         }
       ],
@@ -6663,7 +6663,7 @@
           "type": "fukisokudoshi",
           "kanji": "爆発する",
           "furigana": "ばくはつする",
-          "romaji": "bakuhatsu suru",
+          "romaji": "bakuhatsusuru",
           "meaning": "взрываться"
         },
         {
@@ -6671,7 +6671,7 @@
           "type": "fukisokudoshi",
           "kanji": "破産する",
           "furigana": "はさんする",
-          "romaji": "hasan suru",
+          "romaji": "hasansuru",
           "meaning": "обанкротиться"
         },
         {
@@ -6679,7 +6679,7 @@
           "type": "fukisokudoshi",
           "kanji": "発見する",
           "furigana": "はっけんする",
-          "romaji": "hakken suru",
+          "romaji": "hakkensuru",
           "meaning": "открывать, обнаруживать"
         },
         {
@@ -6687,7 +6687,7 @@
           "type": "fukisokudoshi",
           "kanji": "発行する",
           "furigana": "はっこうする",
-          "romaji": "hakkō suru",
+          "romaji": "hakkousuru",
           "meaning": "издаваться"
         },
         {
@@ -6695,7 +6695,7 @@
           "type": "fukisokudoshi",
           "kanji": "発車する",
           "furigana": "はっしゃする",
-          "romaji": "hassha suru",
+          "romaji": "hasshasuru",
           "meaning": "отправляться"
         },
         {
@@ -6711,7 +6711,7 @@
           "type": "fukisokudoshi",
           "kanji": "発達する",
           "furigana": "はったつする",
-          "romaji": "hattatsu suru",
+          "romaji": "hattatsusuru",
           "meaning": "развиваться"
         },
         {
@@ -6719,7 +6719,7 @@
           "type": "fukisokudoshi",
           "kanji": "発表する",
           "furigana": "はっぴょうする",
-          "romaji": "happyō suru",
+          "romaji": "happyousuru",
           "meaning": "сообщать, публиковать"
         },
         {
@@ -6727,7 +6727,7 @@
           "type": "fukisokudoshi",
           "kanji": "発展する",
           "furigana": "はってんする",
-          "romaji": "hatten suru",
+          "romaji": "hattensuru",
           "meaning": "процветать"
         },
         {
@@ -6735,7 +6735,7 @@
           "type": "fukisokudoshi",
           "kanji": "発明する",
           "furigana": "はつめいする",
-          "romaji": "hatsumei suru",
+          "romaji": "hatsumeisuru",
           "meaning": "изобретать"
         }
       ],
@@ -6745,7 +6745,7 @@
           "type": "fukisokudoshi",
           "kanji": "反抗する",
           "furigana": "はんこうする",
-          "romaji": "hankō suru",
+          "romaji": "hankousuru",
           "meaning": "бунтовать, восставать"
         },
         {
@@ -6753,7 +6753,7 @@
           "type": "fukisokudoshi",
           "kanji": "判断する",
           "furigana": "はんだんする",
-          "romaji": "handan suru",
+          "romaji": "handansuru",
           "meaning": "судить о чём-л"
         },
         {
@@ -6761,7 +6761,7 @@
           "type": "fukisokudoshi",
           "kanji": "販売する",
           "furigana": "はんばいする",
-          "romaji": "hanbai suru",
+          "romaji": "hanbaisuru",
           "meaning": "продавать, торговать чем-л."
         },
         {
@@ -6769,7 +6769,7 @@
           "type": "fukisokudoshi",
           "kanji": "比較する",
           "furigana": "ひかくする",
-          "romaji": "hikaku suru",
+          "romaji": "hikakusuru",
           "meaning": "сравнивать"
         },
         {
@@ -6777,7 +6777,7 @@
           "type": "fukisokudoshi",
           "kanji": "飛行する",
           "furigana": "ひこうする",
-          "romaji": "hikō suru",
+          "romaji": "hikousuru",
           "meaning": "летать (авиация)"
         },
         {
@@ -6785,7 +6785,7 @@
           "type": "fukisokudoshi",
           "kanji": "否定する",
           "furigana": "ひていする",
-          "romaji": "hitei suru",
+          "romaji": "hiteisuru",
           "meaning": "отрицать"
         },
         {
@@ -6793,7 +6793,7 @@
           "type": "fukisokudoshi",
           "kanji": "批判する",
           "furigana": "ひはんする",
-          "romaji": "hihan suru",
+          "romaji": "hihansuru",
           "meaning": "критиковать"
         },
         {
@@ -6801,7 +6801,7 @@
           "type": "fukisokudoshi",
           "kanji": "評価する",
           "furigana": "ひょうかする",
-          "romaji": "hyōka suru",
+          "romaji": "hyoukasuru",
           "meaning": "оценивать"
         },
         {
@@ -6809,7 +6809,7 @@
           "type": "fukisokudoshi",
           "kanji": "表現する",
           "furigana": "ひょうげんする",
-          "romaji": "hyōgen suru",
+          "romaji": "hyougensuru",
           "meaning": "выражать, проявлять"
         },
         {
@@ -6817,7 +6817,7 @@
           "type": "fukisokudoshi",
           "kanji": "不足する",
           "furigana": "ふそくする",
-          "romaji": "fusoku suru",
+          "romaji": "fusokusuru",
           "meaning": "испытывать недостаток в чём-л"
         }
       ],
@@ -6827,7 +6827,7 @@
           "type": "fukisokudoshi",
           "kanji": "分析する",
           "furigana": "ぶんせきする",
-          "romaji": "bunseki suru",
+          "romaji": "bunsekisuru",
           "meaning": "анализировать"
         },
         {
@@ -6835,7 +6835,7 @@
           "type": "fukisokudoshi",
           "kanji": "平均する",
           "furigana": "へいきんする",
-          "romaji": "heikin suru",
+          "romaji": "heikinsuru",
           "meaning": "сохранять равновесие"
         },
         {
@@ -6843,7 +6843,7 @@
           "type": "fukisokudoshi",
           "kanji": "変化する",
           "furigana": "へんかする",
-          "romaji": "henka suru",
+          "romaji": "henkasuru",
           "meaning": "варьироваться"
         },
         {
@@ -6851,7 +6851,7 @@
           "type": "fukisokudoshi",
           "kanji": "変更する",
           "furigana": "へんこうする",
-          "romaji": "henkō suru",
+          "romaji": "henkousuru",
           "meaning": "менять"
         },
         {
@@ -6859,7 +6859,7 @@
           "type": "fukisokudoshi",
           "kanji": "冒険する",
           "furigana": "ぼうけんする",
-          "romaji": "bōken suru",
+          "romaji": "boukensuru",
           "meaning": "рисковать"
         },
         {
@@ -6867,7 +6867,7 @@
           "type": "fukisokudoshi",
           "kanji": "報告する",
           "furigana": "ほうこくする",
-          "romaji": "hōkoku suru",
+          "romaji": "houkokusuru",
           "meaning": "докладывать"
         },
         {
@@ -6875,7 +6875,7 @@
           "type": "fukisokudoshi",
           "kanji": "訪問する",
           "furigana": "ほうもんする",
-          "romaji": "hōmon suru",
+          "romaji": "houmonsuru",
           "meaning": "посещать, навещать"
         },
         {
@@ -6883,7 +6883,7 @@
           "type": "fukisokudoshi",
           "kanji": "保証する",
           "furigana": "ほしょうする",
-          "romaji": "hoshō suru",
+          "romaji": "hoshousuru",
           "meaning": "гарантировать, ручаться"
         },
         {
@@ -6891,7 +6891,7 @@
           "type": "fukisokudoshi",
           "kanji": "保存する",
           "furigana": "ほぞんする",
-          "romaji": "hozon suru",
+          "romaji": "hozonsuru",
           "meaning": "сохранять"
         },
         {
@@ -6899,7 +6899,7 @@
           "type": "fukisokudoshi",
           "kanji": "真似する",
           "furigana": "まねする",
-          "romaji": "mane suru",
+          "romaji": "manesuru",
           "meaning": "подражать"
         }
       ],
@@ -6909,7 +6909,7 @@
           "type": "fukisokudoshi",
           "kanji": "満足する",
           "furigana": "まんぞくする",
-          "romaji": "manzoku suru",
+          "romaji": "manzokusuru",
           "meaning": "быть удовлетворённым"
         },
         {
@@ -6917,7 +6917,7 @@
           "type": "fukisokudoshi",
           "kanji": "無視する",
           "furigana": "むしする",
-          "romaji": "mushi suru",
+          "romaji": "mushisuru",
           "meaning": "игнорировать"
         },
         {
@@ -6925,7 +6925,7 @@
           "type": "fukisokudoshi",
           "kanji": "命令する",
           "furigana": "めいれいする",
-          "romaji": "meirei suru",
+          "romaji": "meireisuru",
           "meaning": "приказывать, командовать"
         },
         {
@@ -6933,7 +6933,7 @@
           "type": "fukisokudoshi",
           "kanji": "優勝する",
           "furigana": "ゆうしょうする",
-          "romaji": "yūshō suru",
+          "romaji": "yuushousuru",
           "meaning": "одерживать победу"
         },
         {
@@ -6941,7 +6941,7 @@
           "type": "fukisokudoshi",
           "kanji": "輸出する",
           "furigana": "ゆしゅつする",
-          "romaji": "yushutsu suru",
+          "romaji": "yushutsusuru",
           "meaning": "вывозить, экспортировать"
         },
         {
@@ -6949,7 +6949,7 @@
           "type": "fukisokudoshi",
           "kanji": "要求する",
           "furigana": "ようきゅうする",
-          "romaji": "yōkyū suru",
+          "romaji": "youkyuusuru",
           "meaning": "требовать, запрашивать"
         },
         {
@@ -6957,7 +6957,7 @@
           "type": "fukisokudoshi",
           "kanji": "用心する",
           "furigana": "ようじんする",
-          "romaji": "yōjin suru",
+          "romaji": "youjinsuru",
           "meaning": "остерегаться"
         },
         {
@@ -6965,7 +6965,7 @@
           "type": "fukisokudoshi",
           "kanji": "予期する",
           "furigana": "よきする",
-          "romaji": "yoki suru",
+          "romaji": "yokisuru",
           "meaning": "ожидать"
         },
         {
@@ -6973,7 +6973,7 @@
           "type": "fukisokudoshi",
           "kanji": "予測する",
           "furigana": "よそくする",
-          "romaji": "yosoku suru",
+          "romaji": "yosokusuru",
           "meaning": "предсказывать"
         },
         {
@@ -6981,7 +6981,7 @@
           "type": "fukisokudoshi",
           "kanji": "予防する",
           "furigana": "よぼうする",
-          "romaji": "yobō suru",
+          "romaji": "yobousuru",
           "meaning": "предотвращение"
         },
         {
