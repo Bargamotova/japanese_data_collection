@@ -71,7 +71,7 @@
           "meaning": "отсутствующий, не существующий"
         },
         {
-          "kanji": "良い",
+          "kanji": "〜",
           "JLPT": "N5",
           "furigana": "いい",
           "romaji": "ii",
@@ -1157,6 +1157,13 @@
           "furigana": "むしあつい",
           "romaji": "mushiatsui",
           "meaning": "душный; знойный"
+        },
+        {
+          "kanji": "良い",
+          "JLPT": "N3",
+          "furigana": "よい",
+          "romaji": "yoi",
+          "meaning": "хороший (официально)"
         }
       ],
       [
