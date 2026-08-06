@@ -292,7 +292,7 @@
           "JLPT": "N5",
           "furigana": "うれしい",
           "romaji": "ureshii",
-          "meaning": "счастливый"
+          "meaning": "радостный"
         }
       ],
       [
@@ -315,7 +315,7 @@
           "JLPT": "N5",
           "furigana": "かなしい",
           "romaji": "kanashii",
-          "meaning": "грустно"
+          "meaning": "грустный"
         },
         {
           "kanji": "酸っぱい",
@@ -394,7 +394,7 @@
           "JLPT": "N4",
           "furigana": "よろしい",
           "romaji": "yoroshii",
-          "meaning": "хороший (вежливый)"
+          "meaning": "хороший (вежливый), хорошо"
         },
         {
           "kanji": "狭い",
@@ -429,7 +429,7 @@
           "JLPT": "N4",
           "furigana": "まずい",
           "romaji": "mazui",
-          "meaning": "Плохой вкус"
+          "meaning": "невкусный, непривлекательный"
         },
         {
           "kanji": "汚い",
@@ -517,7 +517,7 @@
           "JLPT": "N4",
           "furigana": "はずかしい",
           "romaji": "hazukashii",
-          "meaning": "Смущающий"
+          "meaning": "стыдный, застенчивый"
         },
         {
           "kanji": "珍しい",
@@ -538,7 +538,7 @@
           "JLPT": "N4",
           "furigana": "かたい",
           "romaji": "katai",
-          "meaning": "Жесткий"
+          "meaning": "жесткий"
         },
         {
           "kanji": "柔らかい",
@@ -1676,7 +1676,7 @@
           "JLPT": "N1",
           "furigana": "よろこばしい",
           "romaji": "yorokobashii",
-          "meaning": "радостный"
+          "meaning": "приятный"
         },
         {
           "kanji": "生臭い",
