@@ -1,162 +1,162 @@
 [
-   {
+  {
     "id": "0n",
-    "name": "японский счет",
+    "meaning": "японский счет",
     "data": [
       {
-        "name": "1",
+        "meaning": "1",
         "furigana": "ひとつ",
         "kanji": "一つ"
       },
       {
-        "name": "2",
+        "meaning": "2",
         "furigana": "ふたつ",
         "kanji": "二つ"
       },
       {
-        "name": "3",
+        "meaning": "3",
         "furigana": "みっつ",
         "kanji": "三つ"
       },
       {
-        "name": "4",
+        "meaning": "4",
         "furigana": "よっつ",
         "kanji": "四つ"
       },
       {
-        "name": "5",
+        "meaning": "5",
         "furigana": "いつつ",
         "kanji": "五つ"
       },
       {
-        "name": "6",
+        "meaning": "6",
         "furigana": "むっつ",
         "kanji": "六つ"
       },
       {
-        "name": "7",
+        "meaning": "7",
         "furigana": "ななつ",
         "kanji": "七つ"
       },
       {
-        "name": "8",
+        "meaning": "8",
         "furigana": "やっつ",
         "kanji": "八つ"
       },
       {
-        "name": "9",
+        "meaning": "9",
         "furigana": "ここのつ",
         "kanji": "九つ"
       },
       {
-        "name": "10",
+        "meaning": "10",
         "furigana": "とお",
         "kanji": "十"
       }
     ]
   },
-   {
+  {
     "id": "1n",
-    "name": "китайский счет",
-    "data":[
-       {
-        "name": "1",
+    "meaning": "китайский счет",
+    "data": [
+      {
+        "meaning": "1",
         "furigana": "いち",
         "kanji": "一"
       },
       {
-        "name": "2",
+        "meaning": "2",
         "furigana": "に",
         "kanji": "二"
       },
       {
-        "name": "3",
+        "meaning": "3",
         "furigana": "さん",
         "kanji": "三"
       },
       {
-        "name": "4",
+        "meaning": "4",
         "furigana": "よん",
         "kanji": "四"
       },
       {
-        "name": "5",
+        "meaning": "5",
         "furigana": "ご",
         "kanji": "五"
       },
       {
-        "name": "6",
+        "meaning": "6",
         "furigana": "ろく",
         "kanji": "六"
       },
       {
-        "name": "7",
+        "meaning": "7",
         "furigana": "しち・なな",
         "kanji": "七"
       },
       {
-        "name": "8",
+        "meaning": "8",
         "furigana": "はち",
         "kanji": "八"
       },
       {
-        "name": "9",
+        "meaning": "9",
         "furigana": "きゅう",
         "kanji": "九"
       },
       {
-        "name": "10",
+        "meaning": "10",
         "furigana": "じゅう",
         "kanji": "十"
       }
     ]
   },
-   {
+  {
     "id": "2n",
-    "name": "Цифры 11-19",
+    "meaning": "Цифры 11-19",
     "data": [
       {
-        "name": "11 ",
+        "meaning": "11 ",
         "furigana": "じゅういち",
         "kanji": "十一"
       },
       {
-        "name": "12 ",
+        "meaning": "12 ",
         "furigana": "じゅうに",
         "kanji": "十二"
       },
       {
-        "name": "13 ",
+        "meaning": "13 ",
         "furigana": "じゅうさん",
         "kanji": "十三"
       },
       {
-        "name": "14",
+        "meaning": "14",
         "furigana": "じゅうし/よん",
         "kanji": "十四"
       },
       {
-        "name": "15 ",
+        "meaning": "15 ",
         "furigana": "じゅうご",
         "kanji": "十五"
       },
       {
-        "name": "16 ",
+        "meaning": "16 ",
         "furigana": "じゅうろく",
         "kanji": "十六"
       },
       {
-        "name": "17 ",
+        "meaning": "17 ",
         "furigana": "じゅうしち/なな",
         "kanji": "十七"
       },
       {
-        "name": "18 ",
+        "meaning": "18 ",
         "furigana": "じゅうはち",
         "kanji": "十八"
       },
       {
-        "name": "19 ",
+        "meaning": "19 ",
         "furigana": "じゅうきゅう",
         "kanji": "十九"
       }
@@ -164,45 +164,45 @@
   },
   {
     "id": "3n",
-    "name": "Десятки",
+    "meaning": "Десятки",
     "data": [
       {
-        "name": "20",
+        "meaning": "20",
         "furigana": " にじゅう",
         "kanji": "二十"
       },
       {
-        "name": "30",
+        "meaning": "30",
         "furigana": " さんじゅう",
         "kanji": "三十"
       },
       {
-        "name": "40",
+        "meaning": "40",
         "furigana": " よんじゅう",
         "kanji": "四十"
       },
       {
-        "name": "50",
+        "meaning": "50",
         "furigana": " ごじゅう",
         "kanji": "五十"
       },
       {
-        "name": "60",
+        "meaning": "60",
         "furigana": " ろくじゅう",
         "kanji": "六十"
       },
       {
-        "name": "70",
+        "meaning": "70",
         "furigana": " ななじゅう",
         "kanji": "七十"
       },
       {
-        "name": "80",
+        "meaning": "80",
         "furigana": " はちじゅう",
         "kanji": "八十"
       },
       {
-        "name": "90",
+        "meaning": "90",
         "furigana": " きゅうじゅう",
         "kanji": "九十"
       }
@@ -210,52 +210,103 @@
   },
   {
     "id": "4n",
-    "name": "Сотни",
+    "meaning": "Сотни",
     "data": [
       {
-        "name": "100",
-        "furigana": "ひゃく （いっぴゃく）",
+        "meaning": "100",
+        "furigana": " ひゃく （いっぴゃく）",
         "kanji": "一百"
       },
       {
-        "name": "200",
-        "furigana": "にひゃく",
+        "meaning": "200",
+        "furigana": " にひゃく",
         "kanji": "二百"
       },
       {
-        "name": "300",
-        "furigana": "さんびゃく",
+        "meaning": "300",
+        "furigana": " さんびゃく",
         "kanji": "三百"
       },
       {
-        "name": "400",
-        "furigana": "よんひゃく",
+        "meaning": "400",
+        "furigana": " よんひゃく",
         "kanji": "四百"
       },
       {
-        "name": "500",
-        "furigana": "ごひゃく",
+        "meaning": "500",
+        "furigana": " ごひゃく",
         "kanji": "五百"
       },
       {
-        "name": "600",
-        "furigana": "ろっぴゃく",
+        "meaning": "600",
+        "furigana": " ろっぴゃく",
         "kanji": "六百"
       },
       {
-        "name": "700",
+        "meaning": "700",
         "furigana": " ななひゃく",
         "kanji": "七百"
       },
       {
-        "name": "800",
-        "furigana": "はっぴゃく",
+        "meaning": "800",
+        "furigana": " はっぴゃく",
         "kanji": "八百"
       },
       {
-        "name": "900",
-        "furigana": "きゅうひゃく",
+        "meaning": "900",
+        "furigana": " きゅうひゃく",
         "kanji": "九百"
+      }
+    ]
+  },
+  {
+    "id": "5n",
+    "meaning": "Тысячи",
+    "data": [
+      {
+        "meaning": "1000",
+        "furigana": "せん （いっせん",
+        "kanji": "一千"
+      },
+      {
+        "meaning": "2000",
+        "furigana": "にせん",
+        "kanji": "二千"
+      },
+      {
+        "meaning": "3000",
+        "furigana": "さんぜん",
+        "kanji": "三千"
+      },
+      {
+        "meaning": "4000",
+        "furigana": "よんせん",
+        "kanji": "四千"
+      },
+      {
+        "meaning": "5000",
+        "furigana": "ごせん",
+        "kanji": "五千"
+      },
+      {
+        "meaning": "6000",
+        "furigana": "ろくせん",
+        "kanji": "六千"
+      },
+      {
+        "meaning": "7000",
+        "furigana": "ななせん",
+        "kanji": "七千"
+      },
+      {
+        "meaning": "8000",
+        "furigana": "はっせん",
+        "kanji": "八千"
+      },
+      {
+        "meaning": "9000",
+        "furigana": "きゅうせん",
+        "kanji": "九千"
       }
     ]
   }
