@@ -1,6 +1,6 @@
 [
    {
-    "id": 0,
+    "id": "0n",
     "name": "японский счет",
     "data": [
       {
@@ -56,7 +56,7 @@
     ]
   },
    {
-    "id": 1,
+    "id": "1n",
     "name": "китайский счет",
     "data":[
        {
@@ -108,6 +108,103 @@
         "name": "10",
         "furigana": "じゅう",
         "kanji": "十"
+      }
+    ]
+  },
+   {
+    "id": "2n",
+    "name": "Цифры 11-19",
+    "data": [
+      {
+        "name": "11 ",
+        "furigana": "じゅういち",
+        "kanji": "十一"
+      },
+      {
+        "name": "12 ",
+        "furigana": "じゅうに",
+        "kanji": "十二"
+      },
+      {
+        "name": "13 ",
+        "furigana": "じゅうさん",
+        "kanji": "十三"
+      },
+      {
+        "name": "14",
+        "furigana": "じゅうし/よん",
+        "kanji": "十四"
+      },
+      {
+        "name": "15 ",
+        "furigana": "じゅうご",
+        "kanji": "十五"
+      },
+      {
+        "name": "16 ",
+        "furigana": "じゅうろく",
+        "kanji": "十六"
+      },
+      {
+        "name": "17 ",
+        "furigana": "じゅうしち/なな",
+        "kanji": "十七"
+      },
+      {
+        "name": "18 ",
+        "furigana": "じゅうはち",
+        "kanji": "十八"
+      },
+      {
+        "name": "19 ",
+        "furigana": "じゅうきゅう",
+        "kanji": "十九"
+      }
+    ]
+  },
+  {
+    "id": "3n",
+    "name": "Десятки",
+    "data": [
+      {
+        "name": "20",
+        "furigana": " にじゅう",
+        "kanji": "二十"
+      },
+      {
+        "name": "30",
+        "furigana": " さんじゅう",
+        "kanji": "三十"
+      },
+      {
+        "name": "40",
+        "furigana": " よんじゅう",
+        "kanji": "四十"
+      },
+      {
+        "name": "50",
+        "furigana": " ごじゅう",
+        "kanji": "五十"
+      },
+      {
+        "name": "60",
+        "furigana": " ろくじゅう",
+        "kanji": "六十"
+      },
+      {
+        "name": "70",
+        "furigana": " ななじゅう",
+        "kanji": "七十"
+      },
+      {
+        "name": "80",
+        "furigana": " はちじゅう",
+        "kanji": "八十"
+      },
+      {
+        "name": "90",
+        "furigana": " きゅうじゅう",
+        "kanji": "九十"
       }
     ]
   }
