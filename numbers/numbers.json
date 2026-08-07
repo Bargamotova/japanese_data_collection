@@ -207,5 +207,20 @@
         "kanji": "九十"
       }
     ]
+  },
+  {
+    "id": "4n",
+    "name": "Сотни",
+    "data": [
+      {"name":"100", "furigana": " ひゃく （いっぴゃく）", "kanji": "一百"},
+      {"name":"200", "furigana": " にひゃく", "kanji": "二百"},
+      {"name":"300", "furigana": " さんびゃく", "kanji": "三百"},
+      {"name":"400", "furigana": " よんひゃく", "kanji": "四百"},
+      {"name":"500", "furigana": " ごひゃく", "kanji": "五百"},
+      {"name":"600", "furigana": " ろっぴゃく", "kanji": "六百"},
+      {"name":"700", "furigana": " ななひゃく", "kanji": "七百"},
+      {"name":"800", "furigana": " はっぴゃく", "kanji": "八百"},
+      {"name":"900", "furigana": " きゅうひゃく", "kanji": "九百"}
+    ]
   }
 ]
