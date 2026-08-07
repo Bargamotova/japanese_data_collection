@@ -59,7 +59,8 @@
       {
         "kanji": "何本",
         "furigana": "なんぼん",
-        "romaji": "nanbon"
+        "romaji": "nanbon",
+        "type": "question"
       }
     ]
   },
@@ -123,7 +124,8 @@
       {
         "kanji": "何枚",
         "furigana": "なんまい",
-        "romaji": "nanmai"
+        "romaji": "nanmai",
+        "type": "question"
       }
     ]
   },
@@ -187,7 +189,8 @@
       {
         "kanji": "何台",
         "furigana": "なんだい",
-        "romaji": "nandai"
+        "romaji": "nandai",
+        "type": "question"
       }
     ]
   },
@@ -251,7 +254,8 @@
       {
         "kanji": "何杯",
         "furigana": "なんばい",
-        "romaji": "nanbai"
+        "romaji": "nanbai",
+        "type": "question"
       }
     ]
   },
@@ -315,7 +319,8 @@
       {
         "kanji": "何冊",
         "furigana": "なんさつ",
-        "romaji": "nansatsu"
+        "romaji": "nansatsu",
+        "type": "question"
       }
     ]
   },
@@ -379,7 +384,8 @@
       {
         "kanji": "何人",
         "furigana": "なんにん",
-        "romaji": "nannin"
+        "romaji": "nannin",
+        "type": "question"
       }
     ]
   },
@@ -443,7 +449,8 @@
       {
         "kanji": "何匹",
         "furigana": "なんびき",
-        "romaji": "nanbiki"
+        "romaji": "nanbiki",
+        "type": "question"
       }
     ]
   },
@@ -507,7 +514,8 @@
       {
         "kanji": "何頭",
         "furigana": "なんとう",
-        "romaji": "nantou"
+        "romaji": "nantou",
+        "type": "question"
       }
     ]
   },
@@ -571,7 +579,8 @@
       {
         "kanji": "何羽",
         "furigana": "なんば",
-        "romaji": "nanba"
+        "romaji": "nanba",
+        "type": "question"
       }
     ]
   },
@@ -635,7 +644,8 @@
       {
         "kanji": "何個",
         "furigana": "なんこ",
-        "romaji": "nanko"
+        "romaji": "nanko",
+        "type": "question"
       }
     ]
   },
@@ -699,7 +709,8 @@
       {
         "kanji": "何階",
         "furigana": "なんがい",
-        "romaji": "nangai"
+        "romaji": "nangai",
+        "type": "question"
       }
     ]
   },
@@ -763,7 +774,8 @@
       {
         "kanji": "何歳",
         "furigana": "なんさい",
-        "romaji": "nansai"
+        "romaji": "nansai",
+        "type": "question"
       }
     ]
   },
@@ -827,7 +839,8 @@
       {
         "kanji": "何時",
         "furigana": "なんじ",
-        "romaji": "nanji"
+        "romaji": "nanji",
+        "type": "question"
       }
     ]
   },
@@ -891,7 +904,8 @@
       {
         "kanji": "何分",
         "furigana": "なんぷん",
-        "romaji": "nanpun"
+        "romaji": "nanpun",
+        "type": "question"
       }
     ]
   }
