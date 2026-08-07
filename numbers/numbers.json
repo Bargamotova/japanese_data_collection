@@ -1,0 +1,114 @@
+[
+   {
+    "id": 0,
+    "name": "японский счет",
+    "data": [
+      {
+        "name": "1",
+        "furigana": "ひとつ",
+        "kanji": "一つ"
+      },
+      {
+        "name": "2",
+        "furigana": "ふたつ",
+        "kanji": "二つ"
+      },
+      {
+        "name": "3",
+        "furigana": "みっつ",
+        "kanji": "三つ"
+      },
+      {
+        "name": "4",
+        "furigana": "よっつ",
+        "kanji": "四つ"
+      },
+      {
+        "name": "5",
+        "furigana": "いつつ",
+        "kanji": "五つ"
+      },
+      {
+        "name": "6",
+        "furigana": "むっつ",
+        "kanji": "六つ"
+      },
+      {
+        "name": "7",
+        "furigana": "ななつ",
+        "kanji": "七つ"
+      },
+      {
+        "name": "8",
+        "furigana": "やっつ",
+        "kanji": "八つ"
+      },
+      {
+        "name": "9",
+        "furigana": "ここのつ",
+        "kanji": "九つ"
+      },
+      {
+        "name": "10",
+        "furigana": "とお",
+        "kanji": "十"
+      }
+    ]
+  },
+   {
+    "id": 1,
+    "name": "китайский счет",
+    "data":[
+       {
+        "name": "1",
+        "furigana": "いち",
+        "kanji": "一"
+      },
+      {
+        "name": "2",
+        "furigana": "に",
+        "kanji": "二"
+      },
+      {
+        "name": "3",
+        "furigana": "さん",
+        "kanji": "三"
+      },
+      {
+        "name": "4",
+        "furigana": "よん",
+        "kanji": "四"
+      },
+      {
+        "name": "5",
+        "furigana": "ご",
+        "kanji": "五"
+      },
+      {
+        "name": "6",
+        "furigana": "ろく",
+        "kanji": "六"
+      },
+      {
+        "name": "7",
+        "furigana": "しち・なな",
+        "kanji": "七"
+      },
+      {
+        "name": "8",
+        "furigana": "はち",
+        "kanji": "八"
+      },
+      {
+        "name": "9",
+        "furigana": "きゅう",
+        "kanji": "九"
+      },
+      {
+        "name": "10",
+        "furigana": "じゅう",
+        "kanji": "十"
+      }
+    ]
+  }
+]
