@@ -1,0 +1,870 @@
+[
+  {
+    "id": "1suffix",
+    "topic": "本 для длинных, вытянутых предметов",
+    "description": "ручки, зонты, огурцы, карандаши, бананы, руки, волосы, цветы, провода, деревья, ветки, электрички, цепочки ДНК",
+    "data": [
+      {
+        "kanji": "一本",
+        "furigana": "いっぽん",
+        "romaji": "ippon"
+      },
+      {
+        "kanji": "二本",
+        "furigana": "にほん",
+        "romaji": "nihon"
+      },
+      {
+        "kanji": "三本",
+        "furigana": "さんぼん",
+        "romaji": "sanbon"
+      },
+      {
+        "kanji": "四本",
+        "furigana": "四本",
+        "romaji": ""
+      },
+      {
+        "kanji": "五本",
+        "furigana": "ごほん",
+        "romaji": ""
+      },
+      {
+        "kanji": "六本",
+        "furigana": "ろっぽん",
+        "romaji": ""
+      },
+      {
+        "kanji": "七本",
+        "furigana": "ななほん",
+        "romaji": ""
+      },
+      {
+        "kanji": "八本",
+        "furigana": "はっぽん",
+        "romaji": ""
+      },
+      {
+        "kanji": "九ほん",
+        "furigana": "きゅうほん",
+        "romaji": ""
+      },
+      {
+        "kanji": "十本",
+        "furigana": "じゅっぽん",
+        "romaji": ""
+      },
+      {
+        "kanji": "何本",
+        "furigana": "なんぼん",
+        "romaji": ""
+      }
+    ]
+  },
+  {
+    "id": "2suffix",
+    "topic": "枚 - まい　Для плоских предметов",
+    "description": "Листы бумаги, открытки, письма, конверты, марки, диски, тарелки, рубашки, футболки, картины, доски и т.п.",
+    "data": [
+      {
+        "kanji": "一枚",
+        "furigana": "いちまい",
+        "romaji": "ichimai"
+      },
+      {
+        "kanji": "二枚",
+        "furigana": "にまい",
+        "romaji": "nimai"
+      },
+      {
+        "kanji": "三枚",
+        "furigana": "さんまい",
+        "romaji": "sanmai"
+      },
+      {
+        "kanji": "四枚",
+        "furigana": "よんまい",
+        "romaji": "yonmai"
+      },
+      {
+        "kanji": "五枚",
+        "furigana": "ごまい",
+        "romaji": "gomai"
+      },
+      {
+        "kanji": "六枚",
+        "furigana": "ろくまい",
+        "romaji": "rokumai"
+      },
+      {
+        "kanji": "七枚",
+        "furigana": "ななまい",
+        "romaji": "nanamai"
+      },
+      {
+        "kanji": "八枚",
+        "furigana": "はちまい",
+        "romaji": "hachimai"
+      },
+      {
+        "kanji": "九枚",
+        "furigana": "きゅうまい",
+        "romaji": "kyuumai"
+      },
+      {
+        "kanji": "十枚",
+        "furigana": "じゅうまい",
+        "romaji": "juumai"
+      },
+      {
+        "kanji": "何枚",
+        "furigana": "なんまい",
+        "romaji": "nanmai"
+      }
+    ]
+  },
+  {
+    "id": "3suffix",
+    "topic": "台 - だい  Для техники и колесного транспорта",
+    "description": "Холодильники, стиральные машины, телефоны, ноутбуки, компьютеры, автомобили, мотоциклы, велосипеды, автобусы и т.п.",
+    "data": [
+      {
+        "kanji": "一台",
+        "furigana": "いちだい",
+        "romaji": "ichidai"
+      },
+      {
+        "kanji": "二台",
+        "furigana": "にだい",
+        "romaji": "nidai"
+      },
+      {
+        "kanji": "三台",
+        "furigana": "さんだい",
+        "romaji": "sandai"
+      },
+      {
+        "kanji": "四台",
+        "furigana": "よんだい",
+        "romaji": "yondai"
+      },
+      {
+        "kanji": "五台",
+        "furigana": "ごだい",
+        "romaji": "godai"
+      },
+      {
+        "kanji": "六台",
+        "furigana": "ろくだい",
+        "romaji": "rokudai"
+      },
+      {
+        "kanji": "七台",
+        "furigana": "ななだい",
+        "romaji": "nanadai"
+      },
+      {
+        "kanji": "八台",
+        "furigana": "はちだい",
+        "romaji": "hachidai"
+      },
+      {
+        "kanji": "九台",
+        "furigana": "きゅうだい",
+        "romaji": "kyuudai"
+      },
+      {
+        "kanji": "十台",
+        "furigana": "じゅうだい",
+        "romaji": "juudai"
+      },
+      {
+        "kanji": "何台",
+        "furigana": "なんだい",
+        "romaji": "nandai"
+      }
+    ]
+  },
+  {
+    "id": "4suffix",
+    "topic": "杯 - はい  Для счета напитков",
+    "description": "одна чашка кофе, две чашки чая",
+    "data": [
+      {
+        "kanji": "一杯",
+        "furigana": "いっぱい",
+        "romaji": "ippai"
+      },
+      {
+        "kanji": "二杯",
+        "furigana": "にはい",
+        "romaji": "nihai"
+      },
+      {
+        "kanji": "三杯",
+        "furigana": "さんばい",
+        "romaji": "sanbai"
+      },
+      {
+        "kanji": "四杯",
+        "furigana": "よんはい",
+        "romaji": "yonhai"
+      },
+      {
+        "kanji": "五杯",
+        "furigana": "ごはい",
+        "romaji": "gohai"
+      },
+      {
+        "kanji": "六杯",
+        "furigana": "ろっぱい",
+        "romaji": "roppai"
+      },
+      {
+        "kanji": "七杯",
+        "furigana": "ななはい",
+        "romaji": "nanahai"
+      },
+      {
+        "kanji": "八杯",
+        "furigana": "はっぱい",
+        "romaji": "happai"
+      },
+      {
+        "kanji": "九杯",
+        "furigana": "きゅうはい",
+        "romaji": "kyuuhai"
+      },
+      {
+        "kanji": "十杯",
+        "furigana": "じゅっぱい",
+        "romaji": "juppai"
+      },
+      {
+        "kanji": "何杯",
+        "furigana": "なんばい",
+        "romaji": "nanbai"
+      }
+    ]
+  },
+  {
+    "id": "5suffix",
+    "topic": "冊 - さつ Для любых бумажных изданий",
+    "description": "книги, альбомы, манга и т.п.",
+    "data": [
+      {
+        "kanji": "一冊",
+        "furigana": "いっさつ",
+        "romaji": "issatsu"
+      },
+      {
+        "kanji": "二冊",
+        "furigana": "にさつ",
+        "romaji": "nisatsu"
+      },
+      {
+        "kanji": "三冊",
+        "furigana": "さんさつ",
+        "romaji": "sansatsu"
+      },
+      {
+        "kanji": "四冊",
+        "furigana": "よんさつ",
+        "romaji": "yonsatsu"
+      },
+      {
+        "kanji": "五冊",
+        "furigana": "ごさつ",
+        "romaji": "gosatsu"
+      },
+      {
+        "kanji": "六冊",
+        "furigana": "ろくさつ",
+        "romaji": "rokusatsu"
+      },
+      {
+        "kanji": "七冊",
+        "furigana": "ななさつ",
+        "romaji": "nanasatsu"
+      },
+      {
+        "kanji": "八冊",
+        "furigana": "はっさつ",
+        "romaji": "hassatsu"
+      },
+      {
+        "kanji": "九冊",
+        "furigana": "きゅうさつ",
+        "romaji": "kyuusatsu"
+      },
+      {
+        "kanji": "十冊",
+        "furigana": "じゅっさつ",
+        "romaji": "jussatsu"
+      },
+      {
+        "kanji": "何冊",
+        "furigana": "なんさつ",
+        "romaji": "nansatsu"
+      }
+    ]
+  },
+  {
+    "id": "6suffix",
+    "topic": "人 - にん  Для людей",
+    "description": "",
+    "data": [
+      {
+        "kanji": "一人",
+        "furigana": "ひとり",
+        "romaji": "hitori"
+      },
+      {
+        "kanji": "二人",
+        "furigana": "ふたり",
+        "romaji": "futari"
+      },
+      {
+        "kanji": "三人",
+        "furigana": "さんにん",
+        "romaji": "sannin"
+      },
+      {
+        "kanji": "四人",
+        "furigana": "よにん",
+        "romaji": "yonin"
+      },
+      {
+        "kanji": "五人",
+        "furigana": "ごにん",
+        "romaji": "gonin"
+      },
+      {
+        "kanji": "六人",
+        "furigana": "ろくにん",
+        "romaji": "rokunin"
+      },
+      {
+        "kanji": "七人",
+        "furigana": "じちにん",
+        "romaji": "shichinin"
+      },
+      {
+        "kanji": "八人",
+        "furigana": "はちにん",
+        "romaji": "hachinin"
+      },
+      {
+        "kanji": "九人",
+        "furigana": "きゅうにん",
+        "romaji": "kyuunin"
+      },
+      {
+        "kanji": "十人",
+        "furigana": "じゅうにん",
+        "romaji": "juunin"
+      },
+      {
+        "kanji": "何人",
+        "furigana": "なんにん",
+        "romaji": "nannin"
+      }
+    ]
+  },
+  {
+    "id": "7suffix",
+    "topic": "匹 - ひき  Для мелких животных",
+    "description": "кошки, собаки, насекомые, демоны",
+    "data": [
+      {
+        "kanji": "一匹",
+        "furigana": "いっぴき",
+        "romaji": "ippiki"
+      },
+      {
+        "kanji": "二匹",
+        "furigana": "にひき",
+        "romaji": "nihiki"
+      },
+      {
+        "kanji": "三匹",
+        "furigana": "さんびき",
+        "romaji": "sanbiki"
+      },
+      {
+        "kanji": "四匹",
+        "furigana": "よんひき",
+        "romaji": "yonhiki"
+      },
+      {
+        "kanji": "五匹",
+        "furigana": "ごひき",
+        "romaji": "gohiki"
+      },
+      {
+        "kanji": "六匹",
+        "furigana": "ろっぴき",
+        "romaji": "roppiki"
+      },
+      {
+        "kanji": "七匹",
+        "furigana": "ななひき",
+        "romaji": "nanahiki"
+      },
+      {
+        "kanji": "八匹",
+        "furigana": "はっぴき",
+        "romaji": "happiki"
+      },
+      {
+        "kanji": "九匹",
+        "furigana": "きゅうひき",
+        "romaji": "kyuuhiki"
+      },
+      {
+        "kanji": "十匹",
+        "furigana": "じゅっぴき",
+        "romaji": "juppiki"
+      },
+      {
+        "kanji": "何匹",
+        "furigana": "なんびき",
+        "romaji": "nanbiki"
+      }
+    ]
+  },
+  {
+    "id": "8suffix",
+    "topic": "頭 - とう  Для крупных животных, скота",
+    "description": "коровы, быки, волы, кони",
+    "data": [
+      {
+        "kanji": "一頭",
+        "furigana": "いっとう",
+        "romaji": "ittou"
+      },
+      {
+        "kanji": "二頭",
+        "furigana": "にとう",
+        "romaji": "nitou"
+      },
+      {
+        "kanji": "三頭",
+        "furigana": "さんとう",
+        "romaji": "santou"
+      },
+      {
+        "kanji": "四頭",
+        "furigana": "よんとう",
+        "romaji": "yontou"
+      },
+      {
+        "kanji": "五頭",
+        "furigana": "ごとう",
+        "romaji": "gotou"
+      },
+      {
+        "kanji": "六頭",
+        "furigana": "ろくとう",
+        "romaji": "rokutou"
+      },
+      {
+        "kanji": "七頭",
+        "furigana": "ななとう",
+        "romaji": "nanatou"
+      },
+      {
+        "kanji": "八頭",
+        "furigana": "はっとう",
+        "romaji": "hattou"
+      },
+      {
+        "kanji": "九頭",
+        "furigana": "きゅうとう",
+        "romaji": "kyuutou"
+      },
+      {
+        "kanji": "十頭",
+        "furigana": "じゅっとう",
+        "romaji": "juttou"
+      },
+      {
+        "kanji": "何頭",
+        "furigana": "なんとう",
+        "romaji": "nantou"
+      }
+    ]
+  },
+  {
+    "id": "9suffix",
+    "topic": "羽 - わ  Для птиц, кроликов и зайцев",
+    "description": "",
+    "data": [
+      {
+        "kanji": "一羽",
+        "furigana": "いちわ",
+        "romaji": "ichiwa"
+      },
+      {
+        "kanji": "二羽",
+        "furigana": "にわ",
+        "romaji": "niwa"
+      },
+      {
+        "kanji": "三羽",
+        "furigana": "さんば",
+        "romaji": "sanba"
+      },
+      {
+        "kanji": "四羽",
+        "furigana": "よんわ",
+        "romaji": "yonwa"
+      },
+      {
+        "kanji": "五羽",
+        "furigana": "ごわ",
+        "romaji": "gowa"
+      },
+      {
+        "kanji": "六羽",
+        "furigana": "ろくわ",
+        "romaji": "rokuwa"
+      },
+      {
+        "kanji": "七羽",
+        "furigana": "ななわ",
+        "romaji": "nanawa"
+      },
+      {
+        "kanji": "八羽",
+        "furigana": "はちわ",
+        "romaji": "hachiwa"
+      },
+      {
+        "kanji": "九羽",
+        "furigana": "きゅうわ",
+        "romaji": "kyuuwa"
+      },
+      {
+        "kanji": "十羽",
+        "furigana": "じゅっぱ",
+        "romaji": "juuppa"
+      },
+      {
+        "kanji": "何羽",
+        "furigana": "なんば",
+        "romaji": "nanba"
+      }
+    ]
+  },
+  {
+    "id": "10suffix",
+    "topic": "個 - こ  Универсальный для мелких предметов",
+    "description": "фрукты, булки, ластик, скрепки, иероглифы, шляпы, звезды, монетки и т.п.",
+    "data": [
+      {
+        "kanji": "一個",
+        "furigana": "いっこ",
+        "romaji": "ikko"
+      },
+      {
+        "kanji": "二個",
+        "furigana": "にこ",
+        "romaji": "niko"
+      },
+      {
+        "kanji": "三個",
+        "furigana": "さんこ",
+        "romaji": "sanko"
+      },
+      {
+        "kanji": "四個",
+        "furigana": "よんこ",
+        "romaji": "yonko"
+      },
+      {
+        "kanji": "五個",
+        "furigana": "ごこ",
+        "romaji": "goko"
+      },
+      {
+        "kanji": "六個",
+        "furigana": "ろっこ",
+        "romaji": "rokko"
+      },
+      {
+        "kanji": "七個",
+        "furigana": "ななこ",
+        "romaji": "nanako"
+      },
+      {
+        "kanji": "八個",
+        "furigana": "はっこ",
+        "romaji": "hakko"
+      },
+      {
+        "kanji": "九個",
+        "furigana": "きゅうこ",
+        "romaji": "kyuuko"
+      },
+      {
+        "kanji": "十個",
+        "furigana": "じゅっこ",
+        "romaji": "jukko"
+      },
+      {
+        "kanji": "何個",
+        "furigana": "なんこ",
+        "romaji": "nanko"
+      }
+    ]
+  },
+  {
+    "id": "11suffix",
+    "topic": "階 - かい  Для этажей",
+    "description": "",
+    "data": [
+      {
+        "kanji": "一階",
+        "furigana": "いっかい",
+        "romaji": "ikkai"
+      },
+      {
+        "kanji": "二階",
+        "furigana": "にかい",
+        "romaji": "nikai"
+      },
+      {
+        "kanji": "三階",
+        "furigana": "さんがい",
+        "romaji": "sangai"
+      },
+      {
+        "kanji": "四階",
+        "furigana": "よんかい",
+        "romaji": "yonkai"
+      },
+      {
+        "kanji": "五階",
+        "furigana": "ごかい",
+        "romaji": "gokai"
+      },
+      {
+        "kanji": "六階",
+        "furigana": "ろっかい",
+        "romaji": "rokkai"
+      },
+      {
+        "kanji": "七階",
+        "furigana": "ななかい",
+        "romaji": "nanakai"
+      },
+      {
+        "kanji": "八階",
+        "furigana": "はっかい",
+        "romaji": "hakkai"
+      },
+      {
+        "kanji": "九階",
+        "furigana": "きゅうかい",
+        "romaji": "kyuukai"
+      },
+      {
+        "kanji": "十階",
+        "furigana": "じゅっかい",
+        "romaji": "jukkai"
+      },
+      {
+        "kanji": "何階",
+        "furigana": "なんがい",
+        "romaji": "nangai"
+      }
+    ]
+  },
+  {
+    "id": "12suffix",
+    "topic": "歳 - さい   Для возраста",
+    "description": "",
+    "data": [
+      {
+        "kanji": "一歳",
+        "furigana": "いっさい",
+        "romaji": "issai"
+      },
+      {
+        "kanji": "二歳",
+        "furigana": "にさい",
+        "romaji": "nisai"
+      },
+      {
+        "kanji": "三歳",
+        "furigana": "さんさい",
+        "romaji": "sansai"
+      },
+      {
+        "kanji": "四歳",
+        "furigana": "よんさい",
+        "romaji": "yonsai"
+      },
+      {
+        "kanji": "五歳",
+        "furigana": "ごさい",
+        "romaji": "gosai"
+      },
+      {
+        "kanji": "六歳",
+        "furigana": "ろくさい",
+        "romaji": "rokusai"
+      },
+      {
+        "kanji": "七歳",
+        "furigana": "ななさい",
+        "romaji": "nanasai"
+      },
+      {
+        "kanji": "八歳",
+        "furigana": "はっさい",
+        "romaji": "hassai"
+      },
+      {
+        "kanji": "九歳",
+        "furigana": "きゅうさい",
+        "romaji": "kyuusai"
+      },
+      {
+        "kanji": "十歳",
+        "furigana": "じゅっさい",
+        "romaji": "jussai"
+      },
+      {
+        "kanji": "何歳",
+        "furigana": "なんさい",
+        "romaji": "nansai"
+      }
+    ]
+  },
+  {
+    "id": "13suffix",
+    "topic": "時 - じ  Для часов",
+    "description": "",
+    "data": [
+      {
+        "kanji": "一時",
+        "furigana": "いちじ",
+        "romaji": "ichiji"
+      },
+      {
+        "kanji": "二時",
+        "furigana": "にじ",
+        "romaji": "niji"
+      },
+      {
+        "kanji": "三時",
+        "furigana": "さんじ",
+        "romaji": "sanji"
+      },
+      {
+        "kanji": "四時",
+        "furigana": "よじ",
+        "romaji": "yoji"
+      },
+      {
+        "kanji": "五時",
+        "furigana": "ごじ",
+        "romaji": "goji"
+      },
+      {
+        "kanji": "六時",
+        "furigana": "ろくじ",
+        "romaji": "rokuji"
+      },
+      {
+        "kanji": "七時",
+        "furigana": "しちじ",
+        "romaji": "shichiji"
+      },
+      {
+        "kanji": "八時",
+        "furigana": "はちじ",
+        "romaji": "hachiji"
+      },
+      {
+        "kanji": "九時",
+        "furigana": "くじ",
+        "romaji": "kuji"
+      },
+      {
+        "kanji": "十時",
+        "furigana": "じゅうじ",
+        "romaji": "juuji"
+      },
+      {
+        "kanji": "何時",
+        "furigana": "なんじ",
+        "romaji": "nanji"
+      }
+    ]
+  },
+  {
+    "id": "13suffix",
+    "topic": "分 - ふん  Для минут",
+    "description": "",
+    "data": [
+      {
+        "kanji": "一分",
+        "furigana": "いっぷん",
+        "romaji": "ippun"
+      },
+      {
+        "kanji": "二分",
+        "furigana": "にふん",
+        "romaji": "nifun"
+      },
+      {
+        "kanji": "三分",
+        "furigana": "さんぷん",
+        "romaji": "sanpun"
+      },
+      {
+        "kanji": "四分",
+        "furigana": "よんぷん",
+        "romaji": "yonpun"
+      },
+      {
+        "kanji": "五分",
+        "furigana": "ごふん",
+        "romaji": "gofun"
+      },
+      {
+        "kanji": "六分",
+        "furigana": "ろっぷん",
+        "romaji": "roppun"
+      },
+      {
+        "kanji": "七分",
+        "furigana": "ななふん",
+        "romaji": "nanafun"
+      },
+      {
+        "kanji": "八分",
+        "furigana": "はっぷん",
+        "romaji": "happun"
+      },
+      {
+        "kanji": "九分",
+        "furigana": "きゅうふん",
+        "romaji": "kyuufun"
+      },
+      {
+        "kanji": "十分",
+        "furigana": "じゅっぷん",
+        "romaji": "juppun"
+      },
+      {
+        "kanji": "何分",
+        "furigana": "なんぷん",
+        "romaji": "nanpun"
+      }
+    ]
+  }
+]
