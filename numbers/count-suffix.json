@@ -3,6 +3,7 @@
     "id": "1suffix",
     "topic": "Для длинных, вытянутых предметов",
     "title": "本",
+    "romaji": "hon",
     "type": "long",
     "description": "ручки, зонты, огурцы, карандаши, бананы, руки, волосы, цветы, провода, деревья, ветки, электрички, цепочки ДНК",
     "data": [
@@ -68,6 +69,7 @@
     "id": "2suffix",
     "topic": "Для плоских предметов",
     "title": "枚 - まい",
+    "romaji": "mai",
     "type": "flat",
     "description": "Листы бумаги, открытки, письма, конверты, марки, диски, тарелки, рубашки, футболки, картины, доски и т.п.",
     "data": [
@@ -133,6 +135,7 @@
     "id": "3suffix",
     "topic": "Для техники и колесного транспорта",
     "title": "台 - だい",
+    "romaji": "dai",
     "type": "technic",
     "description": "Холодильники, стиральные машины, телефоны, ноутбуки, компьютеры, автомобили, мотоциклы, велосипеды, автобусы и т.п.",
     "data": [
@@ -198,6 +201,7 @@
     "id": "4suffix",
     "topic": "Для счета напитков",
     "title": "杯 - はい",
+    "romaji": "hai",
     "type": "drink",
     "description": "одна чашка кофе, две чашки чая",
     "data": [
@@ -263,6 +267,7 @@
     "id": "5suffix",
     "topic": "Для любых бумажных изданий",
     "title": "冊 - さつ",
+    "romaji": "satsu",
     "type": "paper_book",
     "description": "книги, альбомы, манга и т.п.",
     "data": [
@@ -328,6 +333,7 @@
     "id": "6suffix",
     "topic": "Для людей",
     "title": "人 - にん",
+    "romaji": "nin",
     "type": "people",
     "description": "",
     "data": [
@@ -393,6 +399,7 @@
     "id": "7suffix",
     "topic": "Для мелких животных",
     "title": "匹 - ひき",
+    "romaji": "hiki",
     "type": "small_animal",
     "description": "кошки, собаки, насекомые, демоны",
     "data": [
@@ -458,6 +465,7 @@
     "id": "8suffix",
     "topic": "Для крупных животных, скота",
     "title": "頭 - とう",
+    "romaji": "dou",
     "type": "big_animal",
     "description": "коровы, быки, волы, кони",
     "data": [
@@ -523,6 +531,7 @@
     "id": "9suffix",
     "topic": "Для птиц, кроликов и зайцев",
     "title": "羽 - わ",
+    "romaji": "wa",
     "type": "bird",
     "description": "",
     "data": [
@@ -588,6 +597,7 @@
     "id": "10suffix",
     "topic": "Универсальный для мелких предметов",
     "title": "個 - こ",
+    "romaji": "ko",
     "type": "small_things",
     "description": "фрукты, булки, ластик, скрепки, иероглифы, шляпы, звезды, монетки и т.п.",
     "data": [
@@ -653,6 +663,7 @@
     "id": "11suffix",
     "topic": "Для этажей",
     "title": "階 - かい",
+    "romaji": "kai",
     "type": "flor",
     "description": "",
     "data": [
@@ -718,6 +729,7 @@
     "id": "12suffix",
     "topic": "Для возраста",
     "title": "歳 - さい",
+    "romaji": "sai",
     "type": "age",
     "description": "",
     "data": [
@@ -783,6 +795,7 @@
     "id": "13suffix",
     "topic": "Для часов",
     "title": "時 - じ",
+    "romaji": "ji",
     "type": "time",
     "description": "",
     "data": [
@@ -848,6 +861,7 @@
     "id": "14suffix",
     "topic": "Для минут",
     "title": "分 - ふん",
+    "romaji": "fun",
     "type": "minute",
     "description": "",
     "data": [
