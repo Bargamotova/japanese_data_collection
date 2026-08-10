@@ -4,6 +4,10 @@
     "topic": "Для длинных, вытянутых предметов",
     "title": "本",
     "romaji": "hon",
+    "objects": [
+      "bottle",
+      "enpitsu"
+    ],
     "type": "long",
     "description": "ручки, зонты, огурцы, карандаши, бананы, руки, волосы, цветы, провода, деревья, ветки, электрички, цепочки ДНК",
     "data": [
@@ -70,6 +74,9 @@
     "topic": "Для плоских предметов",
     "title": "枚 - まい",
     "romaji": "mai",
+    "objects": [
+      "t_chirt"
+    ],
     "type": "flat",
     "description": "Листы бумаги, открытки, письма, конверты, марки, диски, тарелки, рубашки, футболки, картины, доски и т.п.",
     "data": [
@@ -136,6 +143,10 @@
     "topic": "Для техники и колесного транспорта",
     "title": "台 - だい",
     "romaji": "dai",
+    "objects": [
+      "cicle",
+      "frize"
+    ],
     "type": "technic",
     "description": "Холодильники, стиральные машины, телефоны, ноутбуки, компьютеры, автомобили, мотоциклы, велосипеды, автобусы и т.п.",
     "data": [
@@ -202,6 +213,10 @@
     "topic": "Для счета напитков",
     "title": "杯 - はい",
     "romaji": "hai",
+    "objects": [
+      "tea",
+      "coffee"
+    ],
     "type": "drink",
     "description": "одна чашка кофе, две чашки чая",
     "data": [
@@ -268,6 +283,10 @@
     "topic": "Для любых бумажных изданий",
     "title": "冊 - さつ",
     "romaji": "satsu",
+    "objects": [
+      "book",
+      "magazin"
+    ],
     "type": "paper_book",
     "description": "книги, альбомы, манга и т.п.",
     "data": [
@@ -334,6 +353,10 @@
     "topic": "Для людей",
     "title": "人 - にん",
     "romaji": "nin",
+    "objects": [
+      "girl",
+      "ninzya"
+    ],
     "type": "people",
     "description": "",
     "data": [
@@ -400,6 +423,10 @@
     "topic": "Для мелких животных",
     "title": "匹 - ひき",
     "romaji": "hiki",
+    "objects": [
+      "cat",
+      "oni"
+    ],
     "type": "small_animal",
     "description": "кошки, собаки, насекомые, демоны",
     "data": [
@@ -466,6 +493,10 @@
     "topic": "Для крупных животных, скота",
     "title": "頭 - とう",
     "romaji": "dou",
+    "objects": [
+      "bull",
+      "caw"
+    ],
     "type": "big_animal",
     "description": "коровы, быки, волы, кони",
     "data": [
@@ -532,6 +563,10 @@
     "topic": "Для птиц, кроликов и зайцев",
     "title": "羽 - わ",
     "romaji": "wa",
+    "objects": [
+      "bird",
+      "raven"
+    ],
     "type": "bird",
     "description": "",
     "data": [
@@ -598,6 +633,10 @@
     "topic": "Универсальный для мелких предметов",
     "title": "個 - こ",
     "romaji": "ko",
+    "objects": [
+      "apple",
+      "star"
+    ],
     "type": "small_things",
     "description": "фрукты, булки, ластик, скрепки, иероглифы, шляпы, звезды, монетки и т.п.",
     "data": [
@@ -664,6 +703,7 @@
     "topic": "Для этажей",
     "title": "階 - かい",
     "romaji": "kai",
+    "objects": [],
     "type": "flor",
     "description": "",
     "data": [
@@ -730,6 +770,7 @@
     "topic": "Для возраста",
     "title": "歳 - さい",
     "romaji": "sai",
+    "objects": [],
     "type": "age",
     "description": "",
     "data": [
@@ -796,6 +837,7 @@
     "topic": "Для часов",
     "title": "時 - じ",
     "romaji": "ji",
+    "objects": [],
     "type": "time",
     "description": "",
     "data": [
@@ -862,6 +904,7 @@
     "topic": "Для минут",
     "title": "分 - ふん",
     "romaji": "fun",
+    "objects": [],
     "type": "minute",
     "description": "",
     "data": [
