@@ -564,7 +564,8 @@
     "title": "羽 - わ",
     "romaji": "wa",
     "objects": [
-      "bird",
+      "blue-bird",
+      "bird", 
       "raven"
     ],
     "type": "bird",
