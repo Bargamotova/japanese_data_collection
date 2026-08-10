@@ -837,7 +837,7 @@
     "topic": "Для часов",
     "title": "時 - じ",
     "romaji": "ji",
-    "objects": [],
+    "objects": ["time"],
     "type": "time",
     "description": "",
     "data": [
@@ -904,7 +904,7 @@
     "topic": "Для минут",
     "title": "分 - ふん",
     "romaji": "fun",
-    "objects": [],
+    "objects": ["minute"],
     "type": "minute",
     "description": "",
     "data": [
