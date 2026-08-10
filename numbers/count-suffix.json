@@ -703,7 +703,7 @@
     "topic": "Для этажей",
     "title": "階 - かい",
     "romaji": "kai",
-    "objects": [],
+    "objects": ["flor"],
     "type": "flor",
     "description": "",
     "data": [
