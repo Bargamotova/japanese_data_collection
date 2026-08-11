@@ -771,7 +771,7 @@
     "topic": "Для возраста",
     "title": "歳 - さい",
     "romaji": "sai",
-    "objects": ["two"],
+    "objects": ["one","two"],
     "type": "age",
     "description": "",
     "data": [
