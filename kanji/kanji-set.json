@@ -13100,12 +13100,12 @@
       "radical": "木",
       "kunyomi": {
         "write": [
-          "さか.える",
-          "は.える"
+          "さかえる",
+          "はえる"
         ],
         "romaji": [
-          "saka.eru",
-          "ha.eru"
+          "sakaeru",
+          "haeru"
         ]
       },
       "onyomi": {
@@ -13218,12 +13218,12 @@
       "radical": "力",
       "kunyomi": {
         "write": [
-          "くわ.える",
-          "くわ.わる"
+          "くわえる",
+          "くわわる"
         ],
         "romaji": [
-          "kuwa.eru",
-          "kuwa.waru"
+          "kuwaeru",
+          "kuwawaru"
         ]
       },
       "onyomi": {
@@ -13248,12 +13248,12 @@
       "radical": "木",
       "kunyomi": {
         "write": [
-          "は.たす",
-          "は.てる"
+          "はたす",
+          "はてる"
         ],
         "romaji": [
-          "ha.tasu",
-          "ha.teru"
+          "hatasu",
+          "hateru"
         ]
       },
       "onyomi": {
@@ -13366,12 +13366,12 @@
       "radical": "攵",
       "kunyomi": {
         "write": [
-          "あらた.める",
-          "あらた.まる"
+          "あらためる",
+          "あらたまる"
         ],
         "romaji": [
-          "arata.meru",
-          "arata.maru"
+          "aratameru",
+          "aratamaru"
         ]
       },
       "onyomi": {
@@ -13416,10 +13416,10 @@
       "radical": "宀",
       "kunyomi": {
         "write": [
-          "そこな.う"
+          "そこなう"
         ],
         "romaji": [
-          "sokona.u"
+          "sokonau"
         ]
       },
       "onyomi": {
@@ -13494,16 +13494,16 @@
       "radical": "見",
       "kunyomi": {
         "write": [
-          "おぼ.える",
-          "さ.める",
-          "さ.ます",
-          "さと.る"
+          "おぼえる",
+          "さめる",
+          "さます",
+          "さとる"
         ],
         "romaji": [
-          "obo.eru",
-          "sa.meru",
-          "sa.masu",
-          "sato.ru"
+          "oboeru",
+          "sameru",
+          "samasu",
+          "satoru"
         ]
       },
       "onyomi": {
@@ -13626,11 +13626,11 @@
       "radical": "門",
       "kunyomi": {
         "write": [
-          "かか.わる",
+          "かかわる",
           "せき"
         ],
         "romaji": [
-          "kaka.waru",
+          "kakawaru",
           "seki"
         ]
       },
@@ -13676,10 +13676,10 @@
       "radical": "頁",
       "kunyomi": {
         "write": [
-          "ねが.う"
+          "ねがう"
         ],
         "romaji": [
-          "nega.u"
+          "negau"
         ]
       },
       "onyomi": {
@@ -13854,10 +13854,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "もと.める"
+          "もとめる"
         ],
         "romaji": [
-          "moto.meru"
+          "motomeru"
         ]
       },
       "onyomi": {
@@ -13882,10 +13882,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "な.く"
+          "なく"
         ],
         "romaji": [
-          "na.ku"
+          "naku"
         ]
       },
       "onyomi": {
@@ -13910,12 +13910,12 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "あた.える",
-          "たま.う"
+          "あたえる",
+          "たまう"
         ],
         "romaji": [
-          "ata.eru",
-          "tama.u"
+          "ataeru",
+          "tamau"
         ]
       },
       "onyomi": {
@@ -13968,12 +13968,12 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "あさ.る",
-          "いさ.る"
+          "あさる",
+          "いさる"
         ],
         "romaji": [
-          "asa.ru",
-          "isa.ru"
+          "asaru",
+          "isaru"
         ]
       },
       "onyomi": {
@@ -14076,12 +14076,12 @@
       "radical": "立",
       "kunyomi": {
         "write": [
-          "きそ.う",
-          "せ.る"
+          "きそう",
+          "せる"
         ],
         "romaji": [
-          "kiso.u",
-          "se.ru"
+          "kisou",
+          "seru"
         ]
       },
       "onyomi": {
@@ -14108,14 +14108,14 @@
       "radical": "木",
       "kunyomi": {
         "write": [
-          "きわ.める",
-          "きわ.まる",
-          "きわ.み"
+          "きわめる",
+          "きわまる",
+          "きわみ"
         ],
         "romaji": [
-          "kiwa.meru",
-          "kiwa.maru",
-          "kiwa.mi"
+          "kiwameru",
+          "kiwamaru",
+          "kiwami"
         ]
       },
       "onyomi": {
@@ -14168,12 +14168,12 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "おし.える",
-          "よ.む"
+          "おしえる",
+          "よむ"
         ],
         "romaji": [
-          "oshi.eru",
-          "yo.mu"
+          "oshieru",
+          "yomu"
         ]
       },
       "onyomi": {
@@ -14238,12 +14238,12 @@
       "radical": "羊",
       "kunyomi": {
         "write": [
-          "む.れる",
-          "む.れ"
+          "むれる",
+          "むれ"
         ],
         "romaji": [
-          "mu.reru",
-          "mu.re"
+          "mureru",
+          "mure"
         ]
       },
       "onyomi": {
@@ -14336,12 +14336,12 @@
       "radical": "欠",
       "kunyomi": {
         "write": [
-          "か.ける",
-          "か.く"
+          "かける",
+          "かく"
         ],
         "romaji": [
-          "ka.keru",
-          "ka.ku"
+          "kakeru",
+          "kaku"
         ]
       },
       "onyomi": {
@@ -14366,14 +14366,14 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "むす.ぶ",
-          "ゆ.う",
-          "ゆ.わえる"
+          "むすぶ",
+          "ゆう",
+          "ゆわえる"
         ],
         "romaji": [
-          "musu.bu",
-          "yu.u",
-          "yu.waeru"
+          "musubu",
+          "yuu",
+          "yuwaeru"
         ]
       },
       "onyomi": {
@@ -14398,12 +14398,12 @@
       "radical": "廴",
       "kunyomi": {
         "write": [
-          "た.てる",
-          "た.つ"
+          "たてる",
+          "たつ"
         ],
         "romaji": [
-          "ta.teru",
-          "ta.tsu"
+          "tateru",
+          "tatsu"
         ]
       },
       "onyomi": {
@@ -14468,14 +14468,14 @@
       "radical": "囗",
       "kunyomi": {
         "write": [
-          "かた.める",
-          "かた.まる",
-          "かた.い"
+          "かためる",
+          "かたまる",
+          "かたい"
         ],
         "romaji": [
-          "kata.meru",
-          "kata.maru",
-          "kata.i"
+          "katameru",
+          "katamaru",
+          "katai"
         ]
       },
       "onyomi": {
@@ -14520,12 +14520,12 @@
       "radical": "女",
       "kunyomi": {
         "write": [
-          "す.く",
-          "この.む"
+          "すく",
+          "このむ"
         ],
         "romaji": [
-          "su.ku",
-          "kono.mu"
+          "suku",
+          "konomu"
         ]
       },
       "onyomi": {
@@ -14551,11 +14551,11 @@
       "kunyomi": {
         "write": [
           "か",
-          "かお.る"
+          "かおる"
         ],
         "romaji": [
           "ka",
-          "kao.ru"
+          "kaoru"
         ]
       },
       "onyomi": {
@@ -14642,12 +14642,12 @@
       "radical": "工",
       "kunyomi": {
         "write": [
-          "さ.す",
-          "さ.し"
+          "さす",
+          "さし"
         ],
         "romaji": [
-          "sa.su",
-          "sa.shi"
+          "sasu",
+          "sashi"
         ]
       },
       "onyomi": {
@@ -14700,10 +14700,10 @@
       "radical": "曰",
       "kunyomi": {
         "write": [
-          "もっと.も"
+          "もっとも"
         ],
         "romaji": [
-          "motto.mo"
+          "mottomo"
         ]
       },
       "onyomi": {
@@ -14852,10 +14852,10 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "す.る"
+          "する"
         ],
         "romaji": [
-          "su.ru"
+          "suru"
         ]
       },
       "onyomi": {
@@ -14900,12 +14900,12 @@
       "radical": "厶",
       "kunyomi": {
         "write": [
-          "まい.る",
-          "み.る"
+          "まいる",
+          "みる"
         ],
         "romaji": [
-          "mai.ru",
-          "mi.ru"
+          "mairu",
+          "miru"
         ]
       },
       "onyomi": {
@@ -14930,12 +14930,12 @@
       "radical": "生",
       "kunyomi": {
         "write": [
-          "う.む",
-          "う.まれる"
+          "うむ",
+          "うまれる"
         ],
         "romaji": [
-          "u.mu",
-          "u.mareru"
+          "umu",
+          "umareru"
         ]
       },
       "onyomi": {
@@ -14960,13 +14960,13 @@
       "radical": "攵",
       "kunyomi": {
         "write": [
-          "ち.る",
-          "ち.らす",
+          "ちる",
+          "ちらす",
           "ばら"
         ],
         "romaji": [
-          "chi.ru",
-          "chi.rasu",
+          "chiru",
+          "chirasu",
           "bara"
         ]
       },
@@ -14992,12 +14992,12 @@
       "radical": "歹",
       "kunyomi": {
         "write": [
-          "のこ.る",
-          "のこ.す"
+          "のこる",
+          "のこす"
         ],
         "romaji": [
-          "noko.ru",
-          "noko.su"
+          "nokoru",
+          "nokosu"
         ]
       },
       "onyomi": {
@@ -15062,12 +15062,12 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "こころ.みる",
-          "ため.す"
+          "こころみる",
+          "ためす"
         ],
         "romaji": [
-          "kokoro.miru",
-          "tame.su"
+          "kokoromiru",
+          "tamesu"
         ]
       },
       "onyomi": {
@@ -15120,14 +15120,14 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "おさ.める",
-          "なお.る",
-          "なお.す"
+          "おさめる",
+          "なおる",
+          "なおす"
         ],
         "romaji": [
-          "osa.meru",
-          "nao.ru",
-          "nao.su"
+          "osameru",
+          "naoru",
+          "naosu"
         ]
       },
       "onyomi": {
@@ -15174,10 +15174,10 @@
       "radical": "舌",
       "kunyomi": {
         "write": [
-          "や.める"
+          "やめる"
         ],
         "romaji": [
-          "ya.meru"
+          "yameru"
         ]
       },
       "onyomi": {
@@ -15230,10 +15230,10 @@
       "radical": "大",
       "kunyomi": {
         "write": [
-          "うしな.う"
+          "うしなう"
         ],
         "romaji": [
-          "ushina.u"
+          "ushinau"
         ]
       },
       "onyomi": {
@@ -15258,10 +15258,10 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "か.りる"
+          "かりる"
         ],
         "romaji": [
-          "ka.riru"
+          "kariru"
         ]
       },
       "onyomi": {
@@ -15314,12 +15314,12 @@
       "radical": "口",
       "kunyomi": {
         "write": [
-          "まわ.り",
-          "まわ.る"
+          "まわり",
+          "まわる"
         ],
         "romaji": [
-          "mawa.ri",
-          "mawa.ru"
+          "mawari",
+          "mawaru"
         ]
       },
       "onyomi": {
@@ -15344,10 +15344,10 @@
       "radical": "示",
       "kunyomi": {
         "write": [
-          "いわ.う"
+          "いわう"
         ],
         "romaji": [
-          "iwa.u"
+          "iwau"
         ]
       },
       "onyomi": {
@@ -15394,14 +15394,14 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "はじ.め",
-          "はじ.めて",
-          "そ.める"
+          "はじめ",
+          "はじめて",
+          "そめる"
         ],
         "romaji": [
-          "haji.me",
-          "haji.mete",
-          "so.meru"
+          "hajime",
+          "hajimete",
+          "someru"
         ]
       },
       "onyomi": {
@@ -15454,12 +15454,12 @@
       "radical": "竹",
       "kunyomi": {
         "write": [
-          "わら.う",
-          "え.む"
+          "わらう",
+          "えむ"
         ],
         "romaji": [
-          "wara.u",
-          "e.mu"
+          "warau",
+          "emu"
         ]
       },
       "onyomi": {
@@ -15504,12 +15504,12 @@
       "radical": "火",
       "kunyomi": {
         "write": [
-          "や.く",
-          "や.ける"
+          "やく",
+          "やける"
         ],
         "romaji": [
-          "ya.ku",
-          "ya.keru"
+          "yaku",
+          "yakeru"
         ]
       },
       "onyomi": {
@@ -15534,12 +15534,12 @@
       "radical": "火",
       "kunyomi": {
         "write": [
-          "て.る",
-          "て.らす"
+          "てる",
+          "てらす"
         ],
         "romaji": [
-          "te.ru",
-          "te.rasu"
+          "teru",
+          "terasu"
         ]
       },
       "onyomi": {
@@ -15698,12 +15698,12 @@
       "radical": "戈",
       "kunyomi": {
         "write": [
-          "な.る",
-          "な.す"
+          "なる",
+          "なす"
         ],
         "romaji": [
-          "na.ru",
-          "na.su"
+          "naru",
+          "nasu"
         ]
       },
       "onyomi": {
@@ -15728,12 +15728,12 @@
       "radical": "目",
       "kunyomi": {
         "write": [
-          "かえり.みる",
-          "はぶ.く"
+          "かえりみる",
+          "はぶく"
         ],
         "romaji": [
-          "kaeri.miru",
-          "habu.ku"
+          "kaerimiru",
+          "habuku"
         ]
       },
       "onyomi": {
@@ -15760,14 +15760,14 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "きよ.い",
-          "きよ.まる",
-          "きよ.める"
+          "きよい",
+          "きよまる",
+          "きよめる"
         ],
         "romaji": [
-          "kiyo.i",
-          "kiyo.maru",
-          "kiyo.meru"
+          "kiyoi",
+          "kiyomaru",
+          "kiyomeru"
         ]
       },
       "onyomi": {
@@ -15792,14 +15792,14 @@
       "radical": "靑",
       "kunyomi": {
         "write": [
-          "しず.か",
-          "しず.まる",
-          "しず.める"
+          "しずか",
+          "しずまる",
+          "しずめる"
         ],
         "romaji": [
-          "shizu.ka",
-          "shizu.maru",
-          "shizu.meru"
+          "shizuka",
+          "shizumaru",
+          "shizumeru"
         ]
       },
       "onyomi": {
@@ -15846,12 +15846,12 @@
       "radical": "禾",
       "kunyomi": {
         "write": [
-          "つ.む",
-          "つ.もる"
+          "つむ",
+          "つもる"
         ],
         "romaji": [
-          "tsu.mu",
-          "tsu.moru"
+          "tsumu",
+          "tsumoru"
         ]
       },
       "onyomi": {
@@ -15862,7 +15862,7 @@
           "seki"
         ]
       },
-      "meaning": "накапливать, складывать, произведение (матем.)",
+      "meaning": "накапливать, складывать, произведение (матем)",
       "name": "накопление"
     },
     {
@@ -15876,12 +15876,12 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "お.る",
-          "お.れる"
+          "おる",
+          "おれる"
         ],
         "romaji": [
-          "o.ru",
-          "o.reru"
+          "oru",
+          "oreru"
         ]
       },
       "onyomi": {
@@ -15934,10 +15934,10 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "と.く"
+          "とく"
         ],
         "romaji": [
-          "to.ku"
+          "toku"
         ]
       },
       "onyomi": {
@@ -15962,10 +15962,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "あさ.い"
+          "あさい"
         ],
         "romaji": [
-          "asa.i"
+          "asai"
         ]
       },
       "onyomi": {
@@ -15991,11 +15991,11 @@
       "kunyomi": {
         "write": [
           "いくさ",
-          "たたか.う"
+          "たたかう"
         ],
         "romaji": [
           "ikusa",
-          "tataka.u"
+          "tatakau"
         ]
       },
       "onyomi": {
@@ -16020,10 +16020,10 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "えら.ぶ"
+          "えらぶ"
         ],
         "romaji": [
-          "era.bu"
+          "erabu"
         ]
       },
       "onyomi": {
@@ -16070,10 +16070,10 @@
       "radical": "亅",
       "kunyomi": {
         "write": [
-          "あらそ.う"
+          "あらそう"
         ],
         "romaji": [
-          "araso.u"
+          "arasou"
         ]
       },
       "onyomi": {
@@ -16154,11 +16154,11 @@
       "radical": "木",
       "kunyomi": {
         "write": [
-          "たば.ねる",
+          "たばねる",
           "たば"
         ],
         "romaji": [
-          "taba.neru",
+          "tabaneru",
           "taba"
         ]
       },
@@ -16234,10 +16234,10 @@
       "radical": "十",
       "kunyomi": {
         "write": [
-          "そっ.する"
+          "そっする"
         ],
         "romaji": [
-          "sotsu.suru"
+          "sotsusuru"
         ]
       },
       "onyomi": {
@@ -16290,12 +16290,12 @@
       "radical": "巾",
       "kunyomi": {
         "write": [
-          "お.びる",
-          "お.び"
+          "おびる",
+          "おび"
         ],
         "romaji": [
-          "o.biru",
-          "o.bi"
+          "obiru",
+          "obi"
         ]
       },
       "onyomi": {
@@ -16380,10 +16380,10 @@
       "radical": "网",
       "kunyomi": {
         "write": [
-          "お.く"
+          "おく"
         ],
         "romaji": [
-          "o.ku"
+          "oku"
         ]
       },
       "onyomi": {
@@ -16484,14 +16484,14 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "ひく.い",
-          "ひく.める",
-          "ひく.まる"
+          "ひくい",
+          "ひくめる",
+          "ひくまる"
         ],
         "romaji": [
-          "hiku.i",
-          "hiku.meru",
-          "hiku.maru"
+          "hikui",
+          "hikumeru",
+          "hikumaru"
         ]
       },
       "onyomi": {
@@ -16584,14 +16584,14 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "つた.える",
-          "つた.わる",
-          "つた.う"
+          "つたえる",
+          "つたわる",
+          "つたう"
         ],
         "romaji": [
-          "tsuta.eru",
-          "tsuta.waru",
-          "tsuta.u"
+          "tsutaeru",
+          "tsutawaru",
+          "tsutau"
         ]
       },
       "onyomi": {
@@ -16684,10 +16684,10 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "はたら.く"
+          "はたらく"
         ],
         "romaji": [
-          "hatara.ku"
+          "hataraku"
         ]
       },
       "onyomi": {
@@ -16788,7 +16788,7 @@
           "na"
         ]
       },
-      "meaning": "Нара (префектура, город), что делать (устар.)",
+      "meaning": "Нара (префектура, город), что делать (устар)",
       "name": "Нара"
     },
     {
@@ -16830,10 +16830,10 @@
       "radical": "火",
       "kunyomi": {
         "write": [
-          "あつ.い"
+          "あつい"
         ],
         "romaji": [
-          "atsu.i"
+          "atsui"
         ]
       },
       "onyomi": {
@@ -16994,12 +16994,12 @@
       "radical": "飛",
       "kunyomi": {
         "write": [
-          "と.ぶ",
-          "と.ばす"
+          "とぶ",
+          "とばす"
         ],
         "romaji": [
-          "to.bu",
-          "to.basu"
+          "tobu",
+          "tobasu"
         ]
       },
       "onyomi": {
@@ -17024,10 +17024,10 @@
       "radical": "心",
       "kunyomi": {
         "write": [
-          "かなら.ず"
+          "かならず"
         ],
         "romaji": [
-          "kanara.zu"
+          "kanarazu"
         ]
       },
       "onyomi": {
@@ -17142,12 +17142,12 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "つ.ける",
-          "つ.く"
+          "つける",
+          "つく"
         ],
         "romaji": [
-          "tsu.keru",
-          "tsu.ku"
+          "tsukeru",
+          "tsuku"
         ]
       },
       "onyomi": {
@@ -17212,11 +17212,11 @@
       "radical": "宀",
       "kunyomi": {
         "write": [
-          "と.む",
+          "とむ",
           "とみ"
         ],
         "romaji": [
-          "to.mu",
+          "tomu",
           "tomi"
         ]
       },
@@ -17290,12 +17290,12 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "わか.れる",
-          "わか.つ"
+          "わかれる",
+          "わかつ"
         ],
         "romaji": [
-          "waka.reru",
-          "waka.tsu"
+          "wakareru",
+          "wakatsu"
         ]
       },
       "onyomi": {
@@ -17320,11 +17320,11 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "あた.り",
+          "あたり",
           "べ"
         ],
         "romaji": [
-          "ata.ri",
+          "atari",
           "be"
         ]
       },
@@ -17350,12 +17350,12 @@
       "radical": "攵",
       "kunyomi": {
         "write": [
-          "か.わる",
-          "か.える"
+          "かわる",
+          "かえる"
         ],
         "romaji": [
-          "ka.waru",
-          "ka.eru"
+          "kawaru",
+          "kaeru"
         ]
       },
       "onyomi": {
@@ -17380,10 +17380,10 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "たよ.り"
+          "たより"
         ],
         "romaji": [
-          "tayo.ri"
+          "tayori"
         ]
       },
       "onyomi": {
@@ -17410,10 +17410,10 @@
       "radical": "勹",
       "kunyomi": {
         "write": [
-          "つつ.む"
+          "つつむ"
         ],
         "romaji": [
-          "tsutsu.mu"
+          "tsutsumu"
         ]
       },
       "onyomi": {
@@ -17458,10 +17458,10 @@
       "radical": "月",
       "kunyomi": {
         "write": [
-          "のぞ.む"
+          "のぞむ"
         ],
         "romaji": [
-          "nozo.mu"
+          "nozomu"
         ]
       },
       "onyomi": {
@@ -17542,12 +17542,12 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "み.ちる",
-          "み.たす"
+          "みちる",
+          "みたす"
         ],
         "romaji": [
-          "mi.chiru",
-          "mi.tasu"
+          "michiru",
+          "mitasu"
         ]
       },
       "onyomi": {
@@ -17612,10 +17612,10 @@
       "radical": "火",
       "kunyomi": {
         "write": [
-          "な.い"
+          "ない"
         ],
         "romaji": [
-          "na.i"
+          "nai"
         ]
       },
       "onyomi": {
@@ -17662,10 +17662,10 @@
       "radical": "力",
       "kunyomi": {
         "write": [
-          "いさ.む"
+          "いさむ"
         ],
         "romaji": [
-          "isa.mu"
+          "isamu"
         ]
       },
       "onyomi": {
@@ -17690,11 +17690,11 @@
       "radical": "襾",
       "kunyomi": {
         "write": [
-          "い.る",
+          "いる",
           "かなめ"
         ],
         "romaji": [
-          "i.ru",
+          "iru",
           "kaname"
         ]
       },
@@ -17720,10 +17720,10 @@
       "radical": "食",
       "kunyomi": {
         "write": [
-          "やしな.う"
+          "やしなう"
         ],
         "romaji": [
-          "yashina.u"
+          "yashinau"
         ]
       },
       "onyomi": {
@@ -17748,10 +17748,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "あ.びる"
+          "あびる"
         ],
         "romaji": [
-          "a.biru"
+          "abiru"
         ]
       },
       "onyomi": {
@@ -17776,10 +17776,10 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "き.く"
+          "きく"
         ],
         "romaji": [
-          "ki.ku"
+          "kiku"
         ]
       },
       "onyomi": {
@@ -17824,10 +17824,10 @@
       "radical": "艮",
       "kunyomi": {
         "write": [
-          "よ.い"
+          "よい"
         ],
         "romaji": [
-          "yo.i"
+          "yoi"
         ]
       },
       "onyomi": {
@@ -17872,10 +17872,10 @@
       "radical": "里",
       "kunyomi": {
         "write": [
-          "はか.る"
+          "はかる"
         ],
         "romaji": [
-          "haka.ru"
+          "hakaru"
         ]
       },
       "onyomi": {
@@ -17928,10 +17928,10 @@
       "radical": "頁",
       "kunyomi": {
         "write": [
-          "たぐ.い"
+          "たぐい"
         ],
         "romaji": [
-          "tagu.i"
+          "tagui"
         ]
       },
       "onyomi": {
@@ -17976,16 +17976,16 @@
       "radical": "冫",
       "kunyomi": {
         "write": [
-          "つめ.たい",
-          "ひ.える",
-          "さ.める",
-          "さ.ます"
+          "つめたい",
+          "ひえる",
+          "さめる",
+          "さます"
         ],
         "romaji": [
-          "tsume.tai",
-          "hi.eru",
-          "sa.meru",
-          "sa.masu"
+          "tsumetai",
+          "hieru",
+          "sameru",
+          "samasu"
         ]
       },
       "onyomi": {
@@ -18030,14 +18030,14 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "つ.れる",
-          "つ.らなる",
-          "つ.ねる"
+          "つれる",
+          "つらなる",
+          "つねる"
         ],
         "romaji": [
-          "tsu.reru",
-          "tsu.ranaru",
-          "tsu.neru"
+          "tsureru",
+          "tsuranaru",
+          "tsuneru"
         ]
       },
       "onyomi": {
@@ -18062,12 +18062,12 @@
       "radical": "老",
       "kunyomi": {
         "write": [
-          "お.いる",
-          "ふ.ける"
+          "おいる",
+          "ふける"
         ],
         "romaji": [
-          "o.iru",
-          "fu.keru"
+          "oiru",
+          "fukeru"
         ]
       },
       "onyomi": {
@@ -18121,7 +18121,7 @@
       "meaning": "запись, протокол, регистрировать",
       "name": "запись"
     }
-    ]
+   ]
   },
   {
   "slug": "grade-5",
@@ -18157,12 +18157,12 @@
       "radical": "囗",
       "kunyomi": {
         "write": [
-          "かこ.む",
-          "かこ.う"
+          "かこむ",
+          "かこう"
         ],
         "romaji": [
-          "kako.mu",
-          "kako.u"
+          "kakomu",
+          "kakou"
         ]
       },
       "onyomi": {
@@ -18187,12 +18187,12 @@
       "radical": "禾",
       "kunyomi": {
         "write": [
-          "うつ.る",
-          "うつ.す"
+          "うつる",
+          "うつす"
         ],
         "romaji": [
-          "utsu.ru",
-          "utsu.su"
+          "utsuru",
+          "utsusu"
         ]
       },
       "onyomi": {
@@ -18217,10 +18217,10 @@
       "radical": "囗",
       "kunyomi": {
         "write": [
-          "よ.る"
+          "よる"
         ],
         "romaji": [
-          "yo.ru"
+          "yoru"
         ]
       },
       "onyomi": {
@@ -18245,10 +18245,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "なが.い"
+          "ながい"
         ],
         "romaji": [
-          "naga.i"
+          "nagai"
         ]
       },
       "onyomi": {
@@ -18273,10 +18273,10 @@
       "radical": "口",
       "kunyomi": {
         "write": [
-          "いとな.む"
+          "いとなむ"
         ],
         "romaji": [
-          "itona.mu"
+          "itonamu"
         ]
       },
       "onyomi": {
@@ -18321,10 +18321,10 @@
       "radical": "日",
       "kunyomi": {
         "write": [
-          "やさ.しい"
+          "やさしい"
         ],
         "romaji": [
-          "yasa.shii"
+          "yasashii"
         ]
       },
       "onyomi": {
@@ -18571,14 +18571,14 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "す.ぎる",
-          "す.ごす",
-          "あやま.つ"
+          "すぎる",
+          "すごす",
+          "あやまつ"
         ],
         "romaji": [
-          "su.giru",
-          "su.gosu",
-          "ayama.tsu"
+          "sugiru",
+          "sugosu",
+          "ayamatsu"
         ]
       },
       "onyomi": {
@@ -18603,10 +18603,10 @@
       "radical": "心",
       "kunyomi": {
         "write": [
-          "こころよ.い"
+          "こころよい"
         ],
         "romaji": [
-          "kokoroyo.i"
+          "kokoroyoi"
         ]
       },
       "onyomi": {
@@ -18631,14 +18631,14 @@
       "radical": "角",
       "kunyomi": {
         "write": [
-          "と.く",
-          "と.ける",
-          "ほど.く"
+          "とく",
+          "とける",
+          "ほどく"
         ],
         "romaji": [
-          "to.ku",
-          "to.keru",
-          "hodo.ku"
+          "toku",
+          "tokeru",
+          "hodoku"
         ]
       },
       "onyomi": {
@@ -18687,12 +18687,12 @@
       "radical": "石",
       "kunyomi": {
         "write": [
-          "たし.か",
-          "たし.かめる"
+          "たしか",
+          "たしかめる"
         ],
         "romaji": [
-          "tashi.ka",
-          "tashi.kameru"
+          "tashika",
+          "tashikameru"
         ]
       },
       "onyomi": {
@@ -18777,12 +18777,12 @@
       "radical": "心",
       "kunyomi": {
         "write": [
-          "な.れる",
-          "な.らす"
+          "なれる",
+          "ならす"
         ],
         "romaji": [
-          "na.reru",
-          "na.rasu"
+          "nareru",
+          "narasu"
         ]
       },
       "onyomi": {
@@ -18848,11 +18848,11 @@
       "kunyomi": {
         "write": [
           "もと",
-          "もと.づく"
+          "もとづく"
         ],
         "romaji": [
           "moto",
-          "moto.zuku"
+          "motozuku"
         ]
       },
       "onyomi": {
@@ -18877,12 +18877,12 @@
       "radical": "宀",
       "kunyomi": {
         "write": [
-          "よ.る",
-          "よ.せる"
+          "よる",
+          "よせる"
         ],
         "romaji": [
-          "yo.ru",
-          "yo.seru"
+          "yoru",
+          "yoseru"
         ]
       },
       "onyomi": {
@@ -18927,12 +18927,12 @@
       "radical": "口",
       "kunyomi": {
         "write": [
-          "よろこ.ぶ",
-          "よろこ.ばす"
+          "よろこぶ",
+          "よろこばす"
         ],
         "romaji": [
-          "yoroko.bu",
-          "yoroko.basu"
+          "yorokobu",
+          "yorokobasu"
         ]
       },
       "onyomi": {
@@ -18998,11 +18998,11 @@
       "kunyomi": {
         "write": [
           "さか",
-          "さか.らう"
+          "さからう"
         ],
         "romaji": [
           "saka",
-          "saka.rau"
+          "sakarau"
         ]
       },
       "onyomi": {
@@ -19027,10 +19027,10 @@
       "radical": "丿",
       "kunyomi": {
         "write": [
-          "ひさ.しい"
+          "ひさしい"
         ],
         "romaji": [
-          "hisa.shii"
+          "hisashii"
         ]
       },
       "onyomi": {
@@ -19077,10 +19077,10 @@
       "radical": "攵",
       "kunyomi": {
         "write": [
-          "すく.う"
+          "すくう"
         ],
         "romaji": [
-          "suku.u"
+          "sukuu"
         ]
       },
       "onyomi": {
@@ -19105,10 +19105,10 @@
       "radical": "尸",
       "kunyomi": {
         "write": [
-          "い.る"
+          "いる"
         ],
         "romaji": [
-          "i.ru"
+          "iru"
         ]
       },
       "onyomi": {
@@ -19133,10 +19133,10 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "ゆる.す"
+          "ゆるす"
         ],
         "romaji": [
-          "yuru.su"
+          "yurusu"
         ]
       },
       "onyomi": {
@@ -19279,12 +19279,12 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "へ.る",
-          "た.つ"
+          "へる",
+          "たつ"
         ],
         "romaji": [
-          "he.ru",
-          "ta.tsu"
+          "heru",
+          "tatsu"
         ]
       },
       "onyomi": {
@@ -19309,10 +19309,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "いさぎよ.い"
+          "いさぎよい"
         ],
         "romaji": [
-          "isagiyo.i"
+          "isagiyoi"
         ]
       },
       "onyomi": {
@@ -19397,12 +19397,12 @@
       "radical": "阜",
       "kunyomi": {
         "write": [
-          "かぎ.る",
-          "かぎ.り"
+          "かぎる",
+          "かぎり"
         ],
         "romaji": [
-          "kagi.ru",
-          "kagi.ri"
+          "kagiru",
+          "kagiri"
         ]
       },
       "onyomi": {
@@ -19447,12 +19447,12 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "へ.る",
-          "へ.らす"
+          "へる",
+          "へらす"
         ],
         "romaji": [
-          "he.ru",
-          "he.rasu"
+          "heru",
+          "herasu"
         ]
       },
       "onyomi": {
@@ -19545,10 +19545,10 @@
       "radical": "力",
       "kunyomi": {
         "write": [
-          "き.く"
+          "きく"
         ],
         "romaji": [
-          "ki.ku"
+          "kiku"
         ]
       },
       "onyomi": {
@@ -19573,10 +19573,10 @@
       "radical": "厂",
       "kunyomi": {
         "write": [
-          "あつ.い"
+          "あつい"
         ],
         "romaji": [
-          "atsu.i"
+          "atsui"
         ]
       },
       "onyomi": {
@@ -19601,10 +19601,10 @@
       "radical": "耒",
       "kunyomi": {
         "write": [
-          "たがや.す"
+          "たがやす"
         ],
         "romaji": [
-          "tagaya.su"
+          "tagayasu"
         ]
       },
       "onyomi": {
@@ -19669,12 +19669,12 @@
       "radical": "木",
       "kunyomi": {
         "write": [
-          "かま.える",
-          "かま.う"
+          "かまえる",
+          "かまう"
         ],
         "romaji": [
-          "kama.eru",
-          "kama.u"
+          "kamaeru",
+          "kamau"
         ]
       },
       "onyomi": {
@@ -19699,12 +19699,12 @@
       "radical": "臼",
       "kunyomi": {
         "write": [
-          "おこ.す",
-          "おこ.る"
+          "おこす",
+          "おこる"
         ],
         "romaji": [
-          "oko.su",
-          "oko.ru"
+          "okosu",
+          "okoru"
         ]
       },
       "onyomi": {
@@ -19751,10 +19751,10 @@
       "radical": "口",
       "kunyomi": {
         "write": [
-          "つ.げる"
+          "つげる"
         ],
         "romaji": [
-          "tsu.geru"
+          "tsugeru"
         ]
       },
       "onyomi": {
@@ -19779,14 +19779,14 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "ま.ぜる",
-          "ま.ざる",
-          "こ.む"
+          "まぜる",
+          "まざる",
+          "こむ"
         ],
         "romaji": [
-          "ma.zeru",
-          "ma.zaru",
-          "ko.mu"
+          "mazeru",
+          "mazaru",
+          "komu"
         ]
       },
       "onyomi": {
@@ -19901,12 +19901,12 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "さが.す",
-          "さぐ.る"
+          "さがす",
+          "さぐる"
         ],
         "romaji": [
-          "saga.su",
-          "sagu.ru"
+          "sagasu",
+          "saguru"
         ]
       },
       "onyomi": {
@@ -19951,10 +19951,10 @@
       "radical": "土",
       "kunyomi": {
         "write": [
-          "あ.る"
+          "ある"
         ],
         "romaji": [
-          "a.ru"
+          "aru"
         ]
       },
       "onyomi": {
@@ -20027,12 +20027,12 @@
       "radical": "殳",
       "kunyomi": {
         "write": [
-          "ころ.す",
-          "そ.ぐ"
+          "ころす",
+          "そぐ"
         ],
         "romaji": [
-          "koro.su",
-          "so.gu"
+          "korosu",
+          "sogu"
         ]
       },
       "onyomi": {
@@ -20141,10 +20141,10 @@
       "radical": "支",
       "kunyomi": {
         "write": [
-          "ささ.える"
+          "ささえる"
         ],
         "romaji": [
-          "sasa.eru"
+          "sasaeru"
         ]
       },
       "onyomi": {
@@ -20190,11 +20190,11 @@
       "kunyomi": {
         "write": [
           "こころざし",
-          "こころざ.す"
+          "こころざす"
         ],
         "romaji": [
           "kokorozashi",
-          "kokoroza.su"
+          "kokorozasu"
         ]
       },
       "onyomi": {
@@ -20287,10 +20287,10 @@
       "radical": "食",
       "kunyomi": {
         "write": [
-          "か.う"
+          "かう"
         ],
         "romaji": [
-          "ka.u"
+          "kau"
         ]
       },
       "onyomi": {
@@ -20315,10 +20315,10 @@
       "radical": "示",
       "kunyomi": {
         "write": [
-          "しめ.す"
+          "しめす"
         ],
         "romaji": [
-          "shime.su"
+          "shimesu"
         ]
       },
       "onyomi": {
@@ -20343,10 +20343,10 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "に.る"
+          "にる"
         ],
         "romaji": [
-          "ni.ru"
+          "niru"
         ]
       },
       "onyomi": {
@@ -20433,10 +20433,10 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "あやま.る"
+          "あやまる"
         ],
         "romaji": [
-          "ayama.ru"
+          "ayamaru"
         ]
       },
       "onyomi": {
@@ -20461,12 +20461,12 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "さず.ける",
-          "さず.かる"
+          "さずける",
+          "さずかる"
         ],
         "romaji": [
-          "sazu.keru",
-          "sazu.karu"
+          "sazukeru",
+          "sazukaru"
         ]
       },
       "onyomi": {
@@ -20491,12 +20491,12 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "おさ.める",
-          "おさ.まる"
+          "おさめる",
+          "おさまる"
         ],
         "romaji": [
-          "osa.meru",
-          "osa.maru"
+          "osameru",
+          "osamaru"
         ]
       },
       "onyomi": {
@@ -20523,10 +20523,10 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "の.べる"
+          "のべる"
         ],
         "romaji": [
-          "no.beru"
+          "noberu"
         ]
       },
       "onyomi": {
@@ -20611,10 +20611,10 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "まね.く"
+          "まねく"
         ],
         "romaji": [
-          "mane.ku"
+          "maneku"
         ]
       },
       "onyomi": {
@@ -20791,10 +20791,10 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "お.る"
+          "おる"
         ],
         "romaji": [
-          "o.ru"
+          "oru"
         ]
       },
       "onyomi": {
@@ -20987,10 +20987,10 @@
       "radical": "貝",
       "kunyomi": {
         "write": [
-          "せ.める"
+          "せめる"
         ],
         "romaji": [
-          "se.meru"
+          "semeru"
         ]
       },
       "onyomi": {
@@ -21035,10 +21035,10 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "つ.ぐ"
+          "つぐ"
         ],
         "romaji": [
-          "tsu.gu"
+          "tsugu"
         ]
       },
       "onyomi": {
@@ -21083,14 +21083,14 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "た.える",
-          "た.やす",
-          "た.つ"
+          "たえる",
+          "たやす",
+          "たつ"
         ],
         "romaji": [
-          "ta.eru",
-          "ta.yasu",
-          "ta.tsu"
+          "taeru",
+          "tayasu",
+          "tatsu"
         ]
       },
       "onyomi": {
@@ -21185,10 +21185,10 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "つく.る"
+          "つくる"
         ],
         "romaji": [
-          "tsuku.ru"
+          "tsukuru"
         ]
       },
       "onyomi": {
@@ -21233,14 +21233,14 @@
       "radical": "土",
       "kunyomi": {
         "write": [
-          "ま.す",
-          "ふ.える",
-          "ふ.やす"
+          "ます",
+          "ふえる",
+          "ふやす"
         ],
         "romaji": [
-          "ma.su",
-          "fu.eru",
-          "fu.yasu"
+          "masu",
+          "fueru",
+          "fuyasu"
         ]
       },
       "onyomi": {
@@ -21285,10 +21285,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "はか.る"
+          "はかる"
         ],
         "romaji": [
-          "haka.ru"
+          "hakaru"
         ]
       },
       "onyomi": {
@@ -21333,10 +21333,10 @@
       "radical": "玄",
       "kunyomi": {
         "write": [
-          "ひき.いる"
+          "ひきいる"
         ],
         "romaji": [
-          "hiki.iru"
+          "hikiiru"
         ]
       },
       "onyomi": {
@@ -21363,12 +21363,12 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "そこ.なう",
-          "そこ.ねる"
+          "そこなう",
+          "そこねる"
         ],
         "romaji": [
-          "soko.nau",
-          "soko.neru"
+          "sokonau",
+          "sokoneru"
         ]
       },
       "onyomi": {
@@ -21393,12 +21393,12 @@
       "radical": "貝",
       "kunyomi": {
         "write": [
-          "か.す",
-          "か.し"
+          "かす",
+          "かし"
         ],
         "romaji": [
-          "ka.su",
-          "ka.shi"
+          "kasu",
+          "kashi"
         ]
       },
       "onyomi": {
@@ -21465,14 +21465,14 @@
       "radical": "斤",
       "kunyomi": {
         "write": [
-          "た.つ",
-          "ことわ.る",
-          "さだ.める"
+          "たつ",
+          "ことわる",
+          "さだめる"
         ],
         "romaji": [
-          "ta.tsu",
-          "kotowa.ru",
-          "sada.meru"
+          "tatsu",
+          "kotowaru",
+          "sadameru"
         ]
       },
       "onyomi": {
@@ -21497,10 +21497,10 @@
       "radical": "竹",
       "kunyomi": {
         "write": [
-          "きず.く"
+          "きずく"
         ],
         "romaji": [
-          "kizu.ku"
+          "kizuku"
         ]
       },
       "onyomi": {
@@ -21525,12 +21525,12 @@
       "radical": "貝",
       "kunyomi": {
         "write": [
-          "ため.る",
-          "たくわ.える"
+          "ためる",
+          "たくわえる"
         ],
         "romaji": [
-          "tame.ru",
-          "takuwa.eru"
+          "tameru",
+          "takuwaeru"
         ]
       },
       "onyomi": {
@@ -21555,12 +21555,12 @@
       "radical": "弓",
       "kunyomi": {
         "write": [
-          "は.る",
-          "は.り"
+          "はる",
+          "はり"
         ],
         "romaji": [
-          "ha.ru",
-          "ha.ri"
+          "haru",
+          "hari"
         ]
       },
       "onyomi": {
@@ -21605,10 +21605,10 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "さ.げる"
+          "さげる"
         ],
         "romaji": [
-          "sa.geru"
+          "sageru"
         ]
       },
       "onyomi": {
@@ -21661,10 +21661,10 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "かな.う"
+          "かなう"
         ],
         "romaji": [
-          "kana.u"
+          "kanau"
         ]
       },
       "onyomi": {
@@ -21749,10 +21749,10 @@
       "radical": "寸",
       "kunyomi": {
         "write": [
-          "みちび.く"
+          "みちびく"
         ],
         "romaji": [
-          "michibi.ku"
+          "michibiku"
         ]
       },
       "onyomi": {
@@ -21777,12 +21777,12 @@
       "radical": "彳",
       "kunyomi": {
         "write": [
-          "え.る",
-          "う.る"
+          "える",
+          "うる"
         ],
         "romaji": [
-          "e.ru",
-          "u.ru"
+          "eru",
+          "uru"
         ]
       },
       "onyomi": {
@@ -21855,12 +21855,12 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "まか.せる",
-          "まか.す"
+          "まかせる",
+          "まかす"
         ],
         "romaji": [
-          "maka.seru",
-          "maka.su"
+          "makaseru",
+          "makasu"
         ]
       },
       "onyomi": {
@@ -21885,14 +21885,14 @@
       "radical": "火",
       "kunyomi": {
         "write": [
-          "も.える",
-          "も.やす",
-          "も.す"
+          "もえる",
+          "もやす",
+          "もす"
         ],
         "romaji": [
-          "mo.eru",
-          "mo.yasu",
-          "mo.su"
+          "moeru",
+          "moyasu",
+          "mosu"
         ]
       },
       "onyomi": {
@@ -21937,12 +21937,12 @@
       "radical": "石",
       "kunyomi": {
         "write": [
-          "やぶ.る",
-          "やぶ.れる"
+          "やぶる",
+          "やぶれる"
         ],
         "romaji": [
-          "yabu.ru",
-          "yabu.reru"
+          "yaburu",
+          "yabureru"
         ]
       },
       "onyomi": {
@@ -21967,10 +21967,10 @@
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "おか.す"
+          "おかす"
         ],
         "romaji": [
-          "oka.su"
+          "okasu"
         ]
       },
       "onyomi": {
@@ -21995,10 +21995,10 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "わか.る"
+          "わかる"
         ],
         "romaji": [
-          "waka.ru"
+          "wakaru"
         ]
       },
       "onyomi": {
@@ -22043,10 +22043,10 @@
       "radical": "比",
       "kunyomi": {
         "write": [
-          "くら.べる"
+          "くらべる"
         ],
         "romaji": [
-          "kura.beru"
+          "kuraberu"
         ]
       },
       "onyomi": {
@@ -22071,12 +22071,12 @@
       "radical": "肉",
       "kunyomi": {
         "write": [
-          "こ.える",
-          "こ.やす"
+          "こえる",
+          "こやす"
         ],
         "romaji": [
-          "ko.eru",
-          "ko.yasu"
+          "koeru",
+          "koyasu"
         ]
       },
       "onyomi": {
@@ -22121,12 +22121,12 @@
       "radical": "貝",
       "kunyomi": {
         "write": [
-          "つい.やす",
-          "つい.える"
+          "ついやす",
+          "ついえる"
         ],
         "romaji": [
-          "tsui.yasu",
-          "tsui.eru"
+          "tsuiyasu",
+          "tsuieru"
         ]
       },
       "onyomi": {
@@ -22151,12 +22151,12 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "そな.える",
-          "そな.わる"
+          "そなえる",
+          "そなわる"
         ],
         "romaji": [
-          "sona.eru",
-          "sona.waru"
+          "sonaeru",
+          "sonawaru"
         ]
       },
       "onyomi": {
@@ -22201,10 +22201,10 @@
       "radical": "貝",
       "kunyomi": {
         "write": [
-          "まず.しい"
+          "まずしい"
         ],
         "romaji": [
-          "mazu.shii"
+          "mazushii"
         ]
       },
       "onyomi": {
@@ -22301,10 +22301,10 @@
       "radical": "彳",
       "kunyomi": {
         "write": [
-          "ふたた.び"
+          "ふたたび"
         ],
         "romaji": [
-          "futata.bi"
+          "futatabi"
         ]
       },
       "onyomi": {
@@ -22401,12 +22401,12 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "あ.む",
-          "あ.み"
+          "あむ",
+          "あみ"
         ],
         "romaji": [
-          "a.mu",
-          "a.mi"
+          "amu",
+          "ami"
         ]
       },
       "onyomi": {
@@ -22451,10 +22451,10 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "たも.つ"
+          "たもつ"
         ],
         "romaji": [
-          "tamo.tsu"
+          "tamotsu"
         ]
       },
       "onyomi": {
@@ -22507,10 +22507,10 @@
       "radical": "土",
       "kunyomi": {
         "write": [
-          "むく.いる"
+          "むくいる"
         ],
         "romaji": [
-          "muku.iru"
+          "mukuiru"
         ]
       },
       "onyomi": {
@@ -22535,11 +22535,11 @@
       "radical": "豆",
       "kunyomi": {
         "write": [
-          "ゆた.か",
+          "ゆたか",
           "とよ"
         ],
         "romaji": [
-          "yuta.ka",
+          "yutaka",
           "toyo"
         ]
       },
@@ -22565,10 +22565,10 @@
       "radical": "阜",
       "kunyomi": {
         "write": [
-          "ふせ.ぐ"
+          "ふせぐ"
         ],
         "romaji": [
-          "fuse.gu"
+          "fusegu"
         ]
       },
       "onyomi": {
@@ -22613,12 +22613,12 @@
       "radical": "日",
       "kunyomi": {
         "write": [
-          "あば.く",
-          "あば.れる"
+          "あばく",
+          "あばれる"
         ],
         "romaji": [
-          "aba.ku",
-          "aba.reru"
+          "abaku",
+          "abareru"
         ]
       },
       "onyomi": {
@@ -22665,10 +22665,10 @@
       "radical": "力",
       "kunyomi": {
         "write": [
-          "つと.める"
+          "つとめる"
         ],
         "romaji": [
-          "tsuto.meru"
+          "tsutomeru"
         ]
       },
       "onyomi": {
@@ -22694,11 +22694,11 @@
       "kunyomi": {
         "write": [
           "ゆめ",
-          "ゆめ.みる"
+          "ゆめみる"
         ],
         "romaji": [
           "yume",
-          "yume.miru"
+          "yumemiru"
         ]
       },
       "onyomi": {
@@ -22723,10 +22723,10 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "まよ.う"
+          "まよう"
         ],
         "romaji": [
-          "mayo.u"
+          "mayou"
         ]
       },
       "onyomi": {
@@ -22799,12 +22799,12 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "あま.る",
-          "あま.す"
+          "あまる",
+          "あます"
         ],
         "romaji": [
-          "ama.ru",
-          "ama.su"
+          "amaru",
+          "amasu"
         ]
       },
       "onyomi": {
@@ -22815,7 +22815,7 @@
           "yo"
         ]
       },
-      "meaning": "остаток, избыток, я (вежл.)",
+      "meaning": "остаток, избыток, я (вежл)",
       "name": "остаток"
     },
     {
@@ -22869,14 +22869,14 @@
       "radical": "田",
       "kunyomi": {
         "write": [
-          "と.める",
-          "と.まる",
-          "とど.める"
+          "とめる",
+          "とまる",
+          "とどめる"
         ],
         "romaji": [
-          "to.meru",
-          "to.maru",
-          "todo.meru"
+          "tomeru",
+          "tomaru",
+          "todomeru"
         ]
       },
       "onyomi": {
@@ -22998,10 +22998,10 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "のこ.す"
+          "のこす"
         ],
         "romaji": [
-          "noko.su"
+          "nokosu"
         ]
       },
       "onyomi": {
@@ -23066,14 +23066,14 @@
       "radical": "日",
       "kunyomi": {
         "write": [
-          "うつ.る",
-          "うつ.す",
-          "は.える"
+          "うつる",
+          "うつす",
+          "はえる"
         ],
         "romaji": [
-          "utsu.ru",
-          "utsu.su",
-          "ha.eru"
+          "utsuru",
+          "utsusu",
+          "haeru"
         ]
       },
       "onyomi": {
@@ -23098,12 +23098,12 @@
       "radical": "廴",
       "kunyomi": {
         "write": [
-          "の.びる",
-          "の.べる"
+          "のびる",
+          "のべる"
         ],
         "romaji": [
-          "no.biru",
-          "no.beru"
+          "nobiru",
+          "noberu"
         ]
       },
       "onyomi": {
@@ -23128,10 +23128,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "あ.びる"
+          "あびる"
         ],
         "romaji": [
-          "a.biru"
+          "abiru"
         ]
       },
       "onyomi": {
@@ -23193,7 +23193,7 @@
         ]
       },
       "meaning": "я, мы, самость",
-      "name": "я (книжн.)"
+      "name": "я (книжн)"
     },
     {
       "id": "846",
@@ -23234,12 +23234,12 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "ぬ.く",
-          "ぬ.ける"
+          "ぬく",
+          "ぬける"
         ],
         "romaji": [
-          "nu.ku",
-          "nu.keru"
+          "nuku",
+          "nukeru"
         ]
       },
       "onyomi": {
@@ -23314,14 +23314,14 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "わ.る",
-          "わ.れる",
-          "さ.く"
+          "わる",
+          "われる",
+          "さく"
         ],
         "romaji": [
-          "wa.ru",
-          "wa.reru",
-          "sa.ku"
+          "waru",
+          "wareru",
+          "saku"
         ]
       },
       "onyomi": {
@@ -23374,12 +23374,12 @@
       "radical": "干",
       "kunyomi": {
         "write": [
-          "ほ.す",
-          "ひ.る"
+          "ほす",
+          "ひる"
         ],
         "romaji": [
-          "ho.su",
-          "hi.ru"
+          "hosu",
+          "hiru"
         ]
       },
       "onyomi": {
@@ -23404,14 +23404,14 @@
       "radical": "卩",
       "kunyomi": {
         "write": [
-          "ま.く",
-          "ま.き",
-          "ま.く"
+          "まく",
+          "まき",
+          "まく"
         ],
         "romaji": [
-          "ma.ku",
-          "ma.ki",
-          "ma.ku"
+          "maku",
+          "maki",
+          "maku"
         ]
       },
       "onyomi": {
@@ -23436,10 +23436,10 @@
       "radical": "目",
       "kunyomi": {
         "write": [
-          "み.る"
+          "みる"
         ],
         "romaji": [
-          "mi.ru"
+          "miru"
         ]
       },
       "onyomi": {
@@ -23470,7 +23470,7 @@
           "kan"
         ]
       },
-      "meaning": "простой, краткий, письмо (стар.)",
+      "meaning": "простой, краткий, письмо (стар)",
       "name": "простота"
     },
     {
@@ -23484,14 +23484,14 @@
       "radical": "卩",
       "kunyomi": {
         "write": [
-          "あぶ.ない",
-          "あや.うい",
-          "あや.ぶむ"
+          "あぶない",
+          "あやうい",
+          "あやぶむ"
         ],
         "romaji": [
-          "abu.nai",
-          "aya.ui",
-          "aya.bumu"
+          "abunai",
+          "ayaui",
+          "ayabumu"
         ]
       },
       "onyomi": {
@@ -23564,12 +23564,12 @@
       "radical": "貝",
       "kunyomi": {
         "write": [
-          "とうと.い",
-          "たっと.い"
+          "とうとい",
+          "たっとい"
         ],
         "romaji": [
-          "touto.i",
-          "tatto.i"
+          "toutoi",
+          "tattoi"
         ]
       },
       "onyomi": {
@@ -23594,10 +23594,10 @@
       "radical": "疋",
       "kunyomi": {
         "write": [
-          "うたが.う"
+          "うたがう"
         ],
         "romaji": [
-          "utaga.u"
+          "utagau"
         ]
       },
       "onyomi": {
@@ -23622,10 +23622,10 @@
       "radical": "口",
       "kunyomi": {
         "write": [
-          "す.う"
+          "すう"
         ],
         "romaji": [
-          "su.u"
+          "suu"
         ]
       },
       "onyomi": {
@@ -23650,11 +23650,11 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "そな.える",
+          "そなえる",
           "とも"
         ],
         "romaji": [
-          "sona.eru",
+          "sonaeru",
           "tomo"
         ]
       },
@@ -23742,12 +23742,12 @@
       "radical": "力",
       "kunyomi": {
         "write": [
-          "つと.める",
-          "つと.まる"
+          "つとめる",
+          "つとまる"
         ],
         "romaji": [
-          "tsuto.meru",
-          "tsuto.maru"
+          "tsutomeru",
+          "tsutomaru"
         ]
       },
       "onyomi": {
@@ -23820,10 +23820,10 @@
       "radical": "攵",
       "kunyomi": {
         "write": [
-          "うやま.う"
+          "うやまう"
         ],
         "romaji": [
-          "uyama.u"
+          "uyamau"
         ]
       },
       "onyomi": {
@@ -24004,10 +24004,10 @@
       "radical": "心",
       "kunyomi": {
         "write": [
-          "わずら.う"
+          "わずらう"
         ],
         "romaji": [
-          "wazura.u"
+          "wazurau"
         ]
       },
       "onyomi": {
@@ -24112,10 +24112,10 @@
       "radical": "口",
       "kunyomi": {
         "write": [
-          "よ.ぶ"
+          "よぶ"
         ],
         "romaji": [
-          "yo.bu"
+          "yobu"
         ]
       },
       "onyomi": {
@@ -24140,10 +24140,10 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "あやま.る"
+          "あやまる"
         ],
         "romaji": [
-          "ayama.ru"
+          "ayamaru"
         ]
       },
       "onyomi": {
@@ -24268,16 +24268,16 @@
       "radical": "阜",
       "kunyomi": {
         "write": [
-          "お.りる",
-          "お.ろす",
-          "ふ.る",
-          "くだ.る"
+          "おりる",
+          "おろす",
+          "ふる",
+          "くだる"
         ],
         "romaji": [
-          "o.riru",
-          "o.rosu",
-          "fu.ru",
-          "kuda.ru"
+          "oriru",
+          "orosu",
+          "furu",
+          "kudaru"
         ]
       },
       "onyomi": {
@@ -24330,10 +24330,10 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "きざ.む"
+          "きざむ"
         ],
         "romaji": [
-          "kiza.mu"
+          "kizamu"
         ]
       },
       "onyomi": {
@@ -24406,10 +24406,10 @@
       "radical": "囗",
       "kunyomi": {
         "write": [
-          "こま.る"
+          "こまる"
         ],
         "romaji": [
-          "koma.ru"
+          "komaru"
         ]
       },
       "onyomi": {
@@ -24464,10 +24464,10 @@
       "radical": "广",
       "kunyomi": {
         "write": [
-          "すわ.る"
+          "すわる"
         ],
         "romaji": [
-          "suwa.ru"
+          "suwaru"
         ]
       },
       "onyomi": {
@@ -24492,14 +24492,14 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "す.む",
-          "す.ます",
-          "な.す"
+          "すむ",
+          "すます",
+          "なす"
         ],
         "romaji": [
-          "su.mu",
-          "su.masu",
-          "na.su"
+          "sumu",
+          "sumasu",
+          "nasu"
         ]
       },
       "onyomi": {
@@ -24524,12 +24524,12 @@
       "radical": "衣",
       "kunyomi": {
         "write": [
-          "た.つ",
-          "さば.く"
+          "たつ",
+          "さばく"
         ],
         "romaji": [
-          "ta.tsu",
-          "saba.ku"
+          "tatsu",
+          "sabaku"
         ]
       },
       "onyomi": {
@@ -24622,10 +24622,10 @@
       "radical": "至",
       "kunyomi": {
         "write": [
-          "いた.る"
+          "いたる"
         ],
         "romaji": [
-          "ita.ru"
+          "itaru"
         ]
       },
       "onyomi": {
@@ -24667,7 +24667,7 @@
         ]
       },
       "meaning": "я, частный, личный",
-      "name": "я (вежл.)"
+      "name": "я (вежл)"
     },
     {
       "id": "901",
@@ -24788,10 +24788,10 @@
       "radical": "寸",
       "kunyomi": {
         "write": [
-          "い.る"
+          "いる"
         ],
         "romaji": [
-          "i.ru"
+          "iru"
         ]
       },
       "onyomi": {
@@ -24816,10 +24816,10 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "す.てる"
+          "すてる"
         ],
         "romaji": [
-          "su.teru"
+          "suteru"
         ]
       },
       "onyomi": {
@@ -24864,12 +24864,12 @@
       "radical": "艸",
       "kunyomi": {
         "write": [
-          "わか.い",
-          "も.しくは"
+          "わかい",
+          "もしくは"
         ],
         "romaji": [
-          "waka.i",
-          "mo.shikuha"
+          "wakai",
+          "moshikuha"
         ]
       },
       "onyomi": {
@@ -24924,10 +24924,10 @@
       "radical": "又",
       "kunyomi": {
         "write": [
-          "おさ.める"
+          "おさめる"
         ],
         "romaji": [
-          "osa.meru"
+          "osameru"
         ]
       },
       "onyomi": {
@@ -24974,12 +24974,12 @@
       "radical": "尢",
       "kunyomi": {
         "write": [
-          "つ.く",
-          "つ.ける"
+          "つく",
+          "つける"
         ],
         "romaji": [
-          "tsu.ku",
-          "tsu.keru"
+          "tsuku",
+          "tsukeru"
         ]
       },
       "onyomi": {
@@ -25026,14 +25026,14 @@
       "radical": "彳",
       "kunyomi": {
         "write": [
-          "したが.う",
-          "したが.える",
-          "した.がう"
+          "したがう",
+          "したがえる",
+          "したがう"
         ],
         "romaji": [
-          "shitaga.u",
-          "shitaga.eru",
-          "shita.gau"
+          "shitagau",
+          "shitagaeru",
+          "shitagau"
         ]
       },
       "onyomi": {
@@ -25088,14 +25088,14 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "ちぢ.む",
-          "ちぢ.まる",
-          "ちぢ.める"
+          "ちぢむ",
+          "ちぢまる",
+          "ちぢめる"
         ],
         "romaji": [
-          "chiji.mu",
-          "chiji.maru",
-          "chiji.meru"
+          "chijimu",
+          "chijimaru",
+          "chijimeru"
         ]
       },
       "onyomi": {
@@ -25120,10 +25120,10 @@
       "radical": "火",
       "kunyomi": {
         "write": [
-          "あつ.い"
+          "あつい"
         ],
         "romaji": [
-          "atsu.i"
+          "atsui"
         ]
       },
       "onyomi": {
@@ -25222,7 +25222,7 @@
           "sho"
         ]
       },
-      "meaning": "различный, многие, все (книжн.)",
+      "meaning": "различный, многие, все (книжн)",
       "name": "различные"
     },
     {
@@ -25236,10 +25236,10 @@
       "radical": "阜",
       "kunyomi": {
         "write": [
-          "のぞ.く"
+          "のぞく"
         ],
         "romaji": [
-          "nozo.ku"
+          "nozoku"
         ]
       },
       "onyomi": {
@@ -25250,7 +25250,7 @@
           "jo"
         ]
       },
-      "meaning": "удалять, исключать, делить (матем.)",
+      "meaning": "удалять, исключать, делить (матем)",
       "name": "удаление"
     },
     {
@@ -25284,11 +25284,11 @@
       "radical": "寸",
       "kunyomi": {
         "write": [
-          "まさ.に",
+          "まさに",
           "はた"
         ],
         "romaji": [
-          "masa.ni",
+          "masani",
           "hata"
         ]
       },
@@ -25315,13 +25315,13 @@
       "kunyomi": {
         "write": [
           "きず",
-          "いた.む",
-          "いた.める"
+          "いたむ",
+          "いためる"
         ],
         "romaji": [
           "kizu",
-          "ita.mu",
-          "ita.meru"
+          "itamu",
+          "itameru"
         ]
       },
       "onyomi": {
@@ -25366,12 +25366,12 @@
       "radical": "艸",
       "kunyomi": {
         "write": [
-          "む.す",
-          "む.れる"
+          "むす",
+          "むれる"
         ],
         "romaji": [
-          "mu.su",
-          "mu.reru"
+          "musu",
+          "mureru"
         ]
       },
       "onyomi": {
@@ -25430,7 +25430,7 @@
           "jin"
         ]
       },
-      "meaning": "гуманность, доброта, человек (книжн.)",
+      "meaning": "гуманность, доброта, человек (книжн)",
       "name": "гуманность"
     },
     {
@@ -25444,12 +25444,12 @@
       "radical": "土",
       "kunyomi": {
         "write": [
-          "た.れる",
-          "た.らす"
+          "たれる",
+          "たらす"
         ],
         "romaji": [
-          "ta.reru",
-          "ta.rasu"
+          "tareru",
+          "tarasu"
         ]
       },
       "onyomi": {
@@ -25474,10 +25474,10 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "お.す"
+          "おす"
         ],
         "romaji": [
-          "o.su"
+          "osu"
         ]
       },
       "onyomi": {
@@ -25522,12 +25522,12 @@
       "radical": "皿",
       "kunyomi": {
         "write": [
-          "も.る",
-          "さか.る"
+          "もる",
+          "さかる"
         ],
         "romaji": [
-          "mo.ru",
-          "saka.ru"
+          "moru",
+          "sakaru"
         ]
       },
       "onyomi": {
@@ -25650,10 +25650,10 @@
       "radical": "寸",
       "kunyomi": {
         "write": [
-          "もっぱ.ら"
+          "もっぱら"
         ],
         "romaji": [
-          "moppa.ra"
+          "moppara"
         ]
       },
       "onyomi": {
@@ -25706,10 +25706,10 @@
       "radical": "水",
       "kunyomi": {
         "write": [
-          "あら.う"
+          "あらう"
         ],
         "romaji": [
-          "ara.u"
+          "arau"
         ]
       },
       "onyomi": {
@@ -25734,14 +25734,14 @@
       "radical": "木",
       "kunyomi": {
         "write": [
-          "そ.める",
-          "そ.まる",
-          "し.みる"
+          "そめる",
+          "そまる",
+          "しみる"
         ],
         "romaji": [
-          "so.meru",
-          "so.maru",
-          "shi.miru"
+          "someru",
+          "somaru",
+          "shimiru"
         ]
       },
       "onyomi": {
@@ -25780,7 +25780,7 @@
           "sen"
         ]
       },
-      "meaning": "деньги (стар.), монета, сэн (1/100 иены)",
+      "meaning": "деньги (стар), монета, сэн (1/100 иены)",
       "name": "монета"
     },
     {
@@ -25794,10 +25794,10 @@
       "radical": "口",
       "kunyomi": {
         "write": [
-          "よ.い"
+          "よい"
         ],
         "romaji": [
-          "yo.i"
+          "yoi"
         ]
       },
       "onyomi": {
@@ -25822,10 +25822,10 @@
       "radical": "大",
       "kunyomi": {
         "write": [
-          "かな.でる"
+          "かなでる"
         ],
         "romaji": [
-          "kana.deru"
+          "kanaderu"
         ]
       },
       "onyomi": {
@@ -25878,10 +25878,10 @@
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "つく.る"
+          "つくる"
         ],
         "romaji": [
-          "tsuku.ru"
+          "tsukuru"
         ]
       },
       "onyomi": {
@@ -25894,7 +25894,7 @@
           "shou"
         ]
       },
-      "meaning": "создавать, основывать, рана (редк.)",
+      "meaning": "создавать, основывать, рана (редк)",
       "name": "создание"
     },
     {
@@ -25908,10 +25908,10 @@
       "radical": "衣",
       "kunyomi": {
         "write": [
-          "よそお.う"
+          "よそおう"
         ],
         "romaji": [
-          "yosoo.u"
+          "yosoou"
         ]
       },
       "onyomi": {
@@ -25958,11 +25958,11 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "あやつ.る",
+          "あやつる",
           "みさお"
         ],
         "romaji": [
-          "ayatsu.ru",
+          "ayatsuru",
           "misao"
         ]
       },
@@ -25974,7 +25974,7 @@
           "sou"
         ]
       },
-      "meaning": "управлять, добродетель, управление (тех.)",
+      "meaning": "управлять, добродетель, управление (тех)",
       "name": "управление"
     },
     {
@@ -26038,12 +26038,12 @@
       "radical": "寸",
       "kunyomi": {
         "write": [
-          "とうと.ぶ",
-          "たっと.ぶ"
+          "とうとぶ",
+          "たっとぶ"
         ],
         "romaji": [
-          "touto.bu",
-          "tatto.bu"
+          "toutobu",
+          "tattobu"
         ]
       },
       "onyomi": {
@@ -26068,18 +26068,18 @@
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "しりぞ.く",
-          "しりぞ.ける",
-          "ど.く",
-          "の.く",
-          "の.ける"
+          "しりぞく",
+          "しりぞける",
+          "どく",
+          "のく",
+          "のける"
         ],
         "romaji": [
-          "shirizo.ku",
-          "shirizo.keru",
-          "do.ku",
-          "no.ku",
-          "no.keru"
+          "shirizoku",
+          "shirizokeru",
+          "doku",
+          "noku",
+          "nokeru"
         ]
       },
       "onyomi": {
@@ -26124,12 +26124,12 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "にな.う",
-          "かつ.ぐ"
+          "になう",
+          "かつぐ"
         ],
         "romaji": [
-          "nina.u",
-          "katsu.gu"
+          "ninau",
+          "katsugu"
         ]
       },
       "onyomi": {
@@ -26154,12 +26154,12 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "さが.す",
-          "さぐ.る"
+          "さがす",
+          "さぐる"
         ],
         "romaji": [
-          "saga.su",
-          "sagu.ru"
+          "sagasu",
+          "saguru"
         ]
       },
       "onyomi": {
@@ -26190,7 +26190,7 @@
           "tan"
         ]
       },
-      "meaning": "рождение, рождаться, ложь (в сочет.)",
+      "meaning": "рождение, рождаться, ложь (в сочет)",
       "name": "рождение"
     },
     {
@@ -26224,14 +26224,14 @@
       "radical": "日",
       "kunyomi": {
         "write": [
-          "あたた.かい",
-          "あたた.まる",
-          "あたた.める"
+          "あたたかい",
+          "あたたまる",
+          "あたためる"
         ],
         "romaji": [
-          "atata.kai",
-          "atata.maru",
-          "atata.meru"
+          "atatakai",
+          "atatamaru",
+          "atatameru"
         ]
       },
       "onyomi": {
@@ -26326,12 +26326,12 @@
       "radical": "艸",
       "kunyomi": {
         "write": [
-          "あらわ.す",
-          "いちじる.しい"
+          "あらわす",
+          "いちじるしい"
         ],
         "romaji": [
-          "arawa.su",
-          "ichijiru.shii"
+          "arawasu",
+          "ichijirushii"
         ]
       },
       "onyomi": {
@@ -26376,10 +26376,10 @@
       "radical": "頁",
       "kunyomi": {
         "write": [
-          "いただ.く"
+          "いただく"
         ],
         "romaji": [
-          "itada.ku"
+          "itadaku"
         ]
       },
       "onyomi": {
@@ -26390,7 +26390,7 @@
           "chou"
         ]
       },
-      "meaning": "верхушка, получить, принимать (пищу вежл.)",
+      "meaning": "верхушка, получить, принимать (пищу вежл)",
       "name": "вершина"
     },
     {
@@ -26500,14 +26500,14 @@
       "radical": "疒",
       "kunyomi": {
         "write": [
-          "いた.い",
-          "いた.む",
-          "いた.める"
+          "いたい",
+          "いたむ",
+          "いためる"
         ],
         "romaji": [
-          "ita.i",
-          "ita.mu",
-          "ita.meru"
+          "itai",
+          "itamu",
+          "itameru"
         ]
       },
       "onyomi": {
@@ -26552,10 +26552,10 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "う.つ"
+          "うつ"
         ],
         "romaji": [
-          "u.tsu"
+          "utsu"
         ]
       },
       "onyomi": {
@@ -26620,10 +26620,10 @@
       "radical": "尸",
       "kunyomi": {
         "write": [
-          "かが.む"
+          "かがむ"
         ],
         "romaji": [
-          "kaga.mu"
+          "kagamu"
         ]
       },
       "onyomi": {
@@ -26648,12 +26648,12 @@
       "radical": "隹",
       "kunyomi": {
         "write": [
-          "かた.い",
-          "にく.い"
+          "かたい",
+          "にくい"
         ],
         "romaji": [
-          "kata.i",
-          "niku.i"
+          "katai",
+          "nikui"
         ]
       },
       "onyomi": {
@@ -26708,10 +26708,10 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "みと.める"
+          "みとめる"
         ],
         "romaji": [
-          "mito.meru"
+          "mitomeru"
         ]
       },
       "onyomi": {
@@ -26736,12 +26736,12 @@
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "おさ.める",
-          "な.る"
+          "おさめる",
+          "なる"
         ],
         "romaji": [
-          "osa.meru",
-          "na.ru"
+          "osameru",
+          "naru"
         ]
       },
       "onyomi": {
@@ -26808,10 +26808,10 @@
       "radical": "手",
       "kunyomi": {
         "write": [
-          "おが.む"
+          "おがむ"
         ],
         "romaji": [
-          "oga.mu"
+          "ogamu"
         ]
       },
       "onyomi": {
@@ -26837,13 +26837,13 @@
       "kunyomi": {
         "write": [
           "せ",
-          "そむ.く",
-          "そら.す"
+          "そむく",
+          "そらす"
         ],
         "romaji": [
           "se",
-          "somu.ku",
-          "sora.su"
+          "somuku",
+          "sorasu"
         ]
       },
       "onyomi": {
@@ -26888,10 +26888,10 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "ともな.う"
+          "ともなう"
         ],
         "romaji": [
-          "tomona.u"
+          "tomonau"
         ]
       },
       "onyomi": {
@@ -27006,10 +27006,10 @@
       "radical": "禾",
       "kunyomi": {
         "write": [
-          "ひ.める"
+          "ひめる"
         ],
         "romaji": [
-          "hi.meru"
+          "himeru"
         ]
       },
       "onyomi": {
@@ -27110,14 +27110,14 @@
       "radical": "一",
       "kunyomi": {
         "write": [
-          "な.み",
-          "なら.ぶ",
-          "なら.べる"
+          "なみ",
+          "ならぶ",
+          "ならべる"
         ],
         "romaji": [
-          "na.mi",
-          "nara.bu",
-          "nara.beru"
+          "nami",
+          "narabu",
+          "naraberu"
         ]
       },
       "onyomi": {
@@ -27142,14 +27142,14 @@
       "radical": "門",
       "kunyomi": {
         "write": [
-          "と.じる",
-          "と.ざす",
-          "し.める"
+          "とじる",
+          "とざす",
+          "しめる"
         ],
         "romaji": [
-          "to.jiru",
-          "to.zasu",
-          "shi.meru"
+          "tojiru",
+          "tozasu",
+          "shimeru"
         ]
       },
       "onyomi": {
@@ -27202,10 +27202,10 @@
       "radical": "衣",
       "kunyomi": {
         "write": [
-          "おぎな.う"
+          "おぎなう"
         ],
         "romaji": [
-          "ogina.u"
+          "oginau"
         ]
       },
       "onyomi": {
@@ -27230,12 +27230,12 @@
       "radical": "日",
       "kunyomi": {
         "write": [
-          "く.れる",
-          "く.らす"
+          "くれる",
+          "くらす"
         ],
         "romaji": [
-          "ku.reru",
-          "ku.rasu"
+          "kureru",
+          "kurasu"
         ]
       },
       "onyomi": {
@@ -27288,12 +27288,12 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "おとず.れる",
-          "たず.ねる"
+          "おとずれる",
+          "たずねる"
         ],
         "romaji": [
-          "otozu.reru",
-          "tazu.neru"
+          "otozureru",
+          "tazuneru"
         ]
       },
       "onyomi": {
@@ -27318,12 +27318,12 @@
       "radical": "亠",
       "kunyomi": {
         "write": [
-          "な.い",
-          "な.くなる"
+          "ない",
+          "なくなる"
         ],
         "romaji": [
-          "na.i",
-          "na.kunaru"
+          "nai",
+          "nakunaru"
         ]
       },
       "onyomi": {
@@ -27350,10 +27350,10 @@
       "radical": "心",
       "kunyomi": {
         "write": [
-          "わす.れる"
+          "わすれる"
         ],
         "romaji": [
-          "wasu.reru"
+          "wasureru"
         ]
       },
       "onyomi": {
@@ -27440,10 +27440,10 @@
       "radical": "宀",
       "kunyomi": {
         "write": [
-          "ひそ.か"
+          "ひそか"
         ],
         "romaji": [
-          "hiso.ka"
+          "hisoka"
         ]
       },
       "onyomi": {
@@ -27510,10 +27510,10 @@
       "radical": "言",
       "kunyomi": {
         "write": [
-          "よ.む"
+          "よむ"
         ],
         "romaji": [
-          "yo.mu"
+          "yomu"
         ]
       },
       "onyomi": {
@@ -27558,12 +27558,12 @@
       "radical": "人",
       "kunyomi": {
         "write": [
-          "すぐ.れる",
-          "やさ.しい"
+          "すぐれる",
+          "やさしい"
         ],
         "romaji": [
-          "sugu.reru",
-          "yasa.shii"
+          "sugureru",
+          "yasashii"
         ]
       },
       "onyomi": {
@@ -27588,10 +27588,10 @@
       "radical": "頁",
       "kunyomi": {
         "write": [
-          "あず.ける"
+          "あずける"
         ],
         "romaji": [
-          "azu.keru"
+          "azukeru"
         ]
       },
       "onyomi": {
@@ -27616,10 +27616,10 @@
       "radical": "幺",
       "kunyomi": {
         "write": [
-          "おさな.い"
+          "おさない"
         ],
         "romaji": [
-          "osana.i"
+          "osanai"
         ]
       },
       "onyomi": {
@@ -27644,12 +27644,12 @@
       "radical": "欠",
       "kunyomi": {
         "write": [
-          "ほっ.する",
-          "ほ.しい"
+          "ほっする",
+          "ほしい"
         ],
         "romaji": [
-          "ho.suru",
-          "ho.shii"
+          "hosuru",
+          "hoshii"
         ]
       },
       "onyomi": {
@@ -27694,12 +27694,12 @@
       "radical": "亅",
       "kunyomi": {
         "write": [
-          "みだ.れる",
-          "みだ.す"
+          "みだれる",
+          "みだす"
         ],
         "romaji": [
-          "mida.reru",
-          "mida.su"
+          "midareru",
+          "midasu"
         ]
       },
       "onyomi": {
@@ -27820,10 +27820,10 @@
       "radical": "臣",
       "kunyomi": {
         "write": [
-          "のぞ.む"
+          "のぞむ"
         ],
         "romaji": [
-          "nozo.mu"
+          "nozomu"
         ]
       },
       "onyomi": {
@@ -27848,10 +27848,10 @@
       "radical": "月",
       "kunyomi": {
         "write": [
-          "ほが.らか"
+          "ほがらか"
         ],
         "romaji": [
-          "hoga.raka"
+          "hogaraka"
         ]
       },
       "onyomi": {
@@ -27916,14 +27916,14 @@
       "radical": "門",
       "kunyomi": {
         "write": [
-          "と.じる",
-          "と.ざす",
-          "し.める"
+          "とじる",
+          "とざす",
+          "しめる"
         ],
         "romaji": [
-          "to.jiru",
-          "to.zasu",
-          "shi.meru"
+          "tojiru",
+          "tozasu",
+          "shimeru"
         ]
       },
       "onyomi": {
@@ -27946,17 +27946,17 @@
       "id": "1027",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "扱",
       "index": "1",
       "strokes": "6",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "あつか.う"
+          "あつかう"
         ],
         "romaji": [
-          "atsuka.u"
+          "atsukau"
         ]
       },
       "onyomi": {
@@ -27976,19 +27976,19 @@
       "id": "1028",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "宛",
       "index": "2",
       "strokes": "8",
       "radical": "宀",
       "kunyomi": {
         "write": [
-          "あ.てる",
-          "あ.て"
+          "あてる",
+          "あて"
         ],
         "romaji": [
-          "a.teru",
-          "a.te"
+          "ateru",
+          "ate"
         ]
       },
       "onyomi": {
@@ -28006,7 +28006,7 @@
       "id": "1029",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "嵐",
       "index": "3",
       "strokes": "12",
@@ -28034,7 +28034,7 @@
       "id": "1030",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "威",
       "index": "4",
       "strokes": "9",
@@ -28054,7 +28054,7 @@
       "id": "1031",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "尉",
       "index": "5",
       "strokes": "11",
@@ -28134,7 +28134,7 @@
       "id": "1035",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陰",
       "index": "9",
       "strokes": "11",
@@ -28142,11 +28142,11 @@
       "kunyomi": {
         "write": [
           "かげ",
-          "かく.す"
+          "かくす"
         ],
         "romaji": [
           "kage",
-          "kaku.su"
+          "kakusu"
         ]
       },
       "onyomi": {
@@ -28164,19 +28164,19 @@
       "id": "1036",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "隠",
       "index": "10",
       "strokes": "14",
       "radical": "阜",
       "kunyomi": {
         "write": [
-          "かく.す",
-          "かく.れる"
+          "かくす",
+          "かくれる"
         ],
         "romaji": [
-          "kaku.su",
-          "kaku.reru"
+          "kakusu",
+          "kakureru"
         ]
       },
       "onyomi": {
@@ -28196,7 +28196,7 @@
       "id": "1037",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "影",
       "index": "11",
       "strokes": "15",
@@ -28224,17 +28224,17 @@
       "id": "1038",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "鋭",
       "index": "12",
       "strokes": "15",
       "radical": "金",
       "kunyomi": {
         "write": [
-          "するど.い"
+          "するどい"
         ],
         "romaji": [
-          "surudo.i"
+          "surudoi"
         ]
       },
       "onyomi": {
@@ -28252,7 +28252,7 @@
       "id": "1039",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "疫",
       "index": "13",
       "strokes": "9",
@@ -28272,7 +28272,7 @@
       "id": "1040",
       "slug": "Grade-7",
       "classification": "существительное, прилагательное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "謎",
       "index": "14",
       "strokes": "16",
@@ -28300,17 +28300,17 @@
       "id": "1041",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "穏",
       "index": "15",
       "strokes": "16",
       "radical": "禾",
       "kunyomi": {
         "write": [
-          "おだ.やか"
+          "おだやか"
         ],
         "romaji": [
-          "oda.yaka"
+          "odayaka"
         ]
       },
       "onyomi": {
@@ -28328,7 +28328,7 @@
       "id": "1042",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "佳",
       "index": "16",
       "strokes": "8",
@@ -28355,11 +28355,11 @@
       "radical": "日",
       "kunyomi": {
         "write": [
-          "くら.い",
+          "くらい",
           "つごもり"
         ],
         "romaji": [
-          "kura.i",
+          "kurai",
           "tsugomori"
         ]
       },
@@ -28398,7 +28398,7 @@
       "id": "1045",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "核",
       "index": "19",
       "strokes": "10",
@@ -28418,7 +28418,7 @@
       "id": "1046",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "殻",
       "index": "20",
       "strokes": "11",
@@ -28448,7 +28448,7 @@
       "id": "1047",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "獲",
       "index": "21",
       "strokes": "16",
@@ -28468,7 +28468,7 @@
       "id": "1048",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "穫",
       "index": "22",
       "strokes": "18",
@@ -28510,17 +28510,17 @@
       "id": "1050",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "24",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -28540,19 +28540,19 @@
       "id": "1051",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "25",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -28572,7 +28572,7 @@
       "id": "1052",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "26",
       "strokes": "9",
@@ -28600,7 +28600,7 @@
       "id": "1053",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "27",
       "strokes": "11",
@@ -28620,7 +28620,7 @@
       "id": "1054",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "28",
       "strokes": "12",
@@ -28660,7 +28660,7 @@
       "id": "1056",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "30",
       "strokes": "10",
@@ -28680,7 +28680,7 @@
       "id": "1057",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "31",
       "strokes": "7",
@@ -28708,7 +28708,7 @@
       "id": "1058",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "32",
       "strokes": "6",
@@ -28728,7 +28728,7 @@
       "id": "1059",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "33",
       "strokes": "12",
@@ -28768,7 +28768,7 @@
       "id": "1061",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "35",
       "strokes": "13",
@@ -28788,17 +28788,17 @@
       "id": "1062",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "36",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -28816,7 +28816,7 @@
       "id": "1063",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "37",
       "strokes": "6",
@@ -28846,7 +28846,7 @@
       "id": "1064",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "38",
       "strokes": "7",
@@ -28866,7 +28866,7 @@
       "id": "1065",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "39",
       "strokes": "11",
@@ -28888,7 +28888,7 @@
       "id": "1066",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "40",
       "strokes": "9",
@@ -28908,17 +28908,17 @@
       "id": "1067",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "41",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -28936,7 +28936,7 @@
       "id": "1068",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "42",
       "strokes": "15",
@@ -28956,7 +28956,7 @@
       "id": "1069",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "43",
       "strokes": "8",
@@ -28976,7 +28976,7 @@
       "id": "1070",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "44",
       "strokes": "8",
@@ -28998,19 +28998,19 @@
       "id": "1071",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "45",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -29030,7 +29030,7 @@
       "id": "1072",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "46",
       "strokes": "9",
@@ -29050,19 +29050,19 @@
       "id": "1073",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "47",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -29080,19 +29080,19 @@
       "id": "1074",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "48",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -29130,7 +29130,7 @@
       "id": "1076",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "50",
       "strokes": "11",
@@ -29192,17 +29192,17 @@
       "id": "1079",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "53",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -29222,19 +29222,19 @@
       "id": "1080",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "54",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -29254,7 +29254,7 @@
       "id": "1081",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "55",
       "strokes": "9",
@@ -29282,7 +29282,7 @@
       "id": "1082",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "56",
       "strokes": "11",
@@ -29302,7 +29302,7 @@
       "id": "1083",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "57",
       "strokes": "12",
@@ -29342,7 +29342,7 @@
       "id": "1085",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "59",
       "strokes": "10",
@@ -29362,7 +29362,7 @@
       "id": "1086",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "60",
       "strokes": "7",
@@ -29390,7 +29390,7 @@
       "id": "1087",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "61",
       "strokes": "6",
@@ -29410,7 +29410,7 @@
       "id": "1088",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "62",
       "strokes": "12",
@@ -29450,7 +29450,7 @@
       "id": "1090",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "64",
       "strokes": "13",
@@ -29470,17 +29470,17 @@
       "id": "1091",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "65",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -29498,7 +29498,7 @@
       "id": "1092",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "66",
       "strokes": "6",
@@ -29528,7 +29528,7 @@
       "id": "1093",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "67",
       "strokes": "7",
@@ -29548,7 +29548,7 @@
       "id": "1094",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "68",
       "strokes": "11",
@@ -29570,7 +29570,7 @@
       "id": "1095",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "69",
       "strokes": "9",
@@ -29590,17 +29590,17 @@
       "id": "1096",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "70",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -29618,7 +29618,7 @@
       "id": "1097",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "71",
       "strokes": "15",
@@ -29638,7 +29638,7 @@
       "id": "1098",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "72",
       "strokes": "8",
@@ -29658,7 +29658,7 @@
       "id": "1099",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "73",
       "strokes": "8",
@@ -29680,19 +29680,19 @@
       "id": "1100",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "74",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -29712,7 +29712,7 @@
       "id": "1101",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "75",
       "strokes": "9",
@@ -29732,19 +29732,19 @@
       "id": "1102",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "76",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -29762,19 +29762,19 @@
       "id": "1103",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "77",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -29812,7 +29812,7 @@
       "id": "1105",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "79",
       "strokes": "11",
@@ -29874,17 +29874,17 @@
       "id": "1108",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "82",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -29904,19 +29904,19 @@
       "id": "1109",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "83",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -29936,7 +29936,7 @@
       "id": "1110",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "84",
       "strokes": "9",
@@ -29964,7 +29964,7 @@
       "id": "1111",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "85",
       "strokes": "11",
@@ -29984,7 +29984,7 @@
       "id": "1112",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "86",
       "strokes": "12",
@@ -30024,7 +30024,7 @@
       "id": "1114",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "88",
       "strokes": "10",
@@ -30044,7 +30044,7 @@
       "id": "1115",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "89",
       "strokes": "7",
@@ -30072,7 +30072,7 @@
       "id": "1116",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "90",
       "strokes": "6",
@@ -30092,7 +30092,7 @@
       "id": "1117",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "91",
       "strokes": "12",
@@ -30132,7 +30132,7 @@
       "id": "1119",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "93",
       "strokes": "13",
@@ -30152,17 +30152,17 @@
       "id": "1120",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "94",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -30180,7 +30180,7 @@
       "id": "1121",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "95",
       "strokes": "6",
@@ -30210,7 +30210,7 @@
       "id": "1122",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "96",
       "strokes": "7",
@@ -30230,7 +30230,7 @@
       "id": "1123",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "97",
       "strokes": "11",
@@ -30252,7 +30252,7 @@
       "id": "1124",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "98",
       "strokes": "9",
@@ -30272,17 +30272,17 @@
       "id": "1125",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "99",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -30300,7 +30300,7 @@
       "id": "1126",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "100",
       "strokes": "15",
@@ -30320,7 +30320,7 @@
       "id": "1127",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "距",
       "index": "101",
       "strokes": "12",
@@ -30340,17 +30340,17 @@
       "id": "1128",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "屈",
       "index": "102",
       "strokes": "8",
       "radical": "尸",
       "kunyomi": {
         "write": [
-          "かが.む"
+          "かがむ"
         ],
         "romaji": [
-          "kaga.mu"
+          "kagamu"
         ]
       },
       "onyomi": {
@@ -30368,17 +30368,17 @@
       "id": "1129",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "掘",
       "index": "103",
       "strokes": "11",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "ほ.る"
+          "ほる"
         ],
         "romaji": [
-          "ho.ru"
+          "horu"
         ]
       },
       "onyomi": {
@@ -30396,7 +30396,7 @@
       "id": "1130",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "熊",
       "index": "104",
       "strokes": "14",
@@ -30424,17 +30424,17 @@
       "id": "1131",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "繰",
       "index": "105",
       "strokes": "19",
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "く.る"
+          "くる"
         ],
         "romaji": [
-          "ku.ru"
+          "kuru"
         ]
       },
       "onyomi": {
@@ -30452,19 +30452,19 @@
       "id": "1132",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "経",
       "index": "106",
       "strokes": "11",
       "radical": "糸",
       "kunyomi": {
         "write": [
-          "へ.る",
-          "た.つ"
+          "へる",
+          "たつ"
         ],
         "romaji": [
-          "he.ru",
-          "ta.tsu"
+          "heru",
+          "tatsu"
         ]
       },
       "onyomi": {
@@ -30482,7 +30482,7 @@
       "id": "1133",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "蛍",
       "index": "107",
       "strokes": "11",
@@ -30510,18 +30510,18 @@
       "id": "1134",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "係",
       "index": "108",
       "strokes": "9",
       "radical": "人",
       "kunyomi": {
         "write": [
-          "かか.る",
+          "かかる",
           "かかり"
         ],
         "romaji": [
-          "kaka.ru",
+          "kakaru",
           "kakari"
         ]
       },
@@ -30540,7 +30540,7 @@
       "id": "1135",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "契",
       "index": "109",
       "strokes": "9",
@@ -30560,7 +30560,7 @@
       "id": "1136",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刑",
       "index": "110",
       "strokes": "6",
@@ -30580,19 +30580,19 @@
       "id": "1137",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "軽",
       "index": "111",
       "strokes": "12",
       "radical": "車",
       "kunyomi": {
         "write": [
-          "かる.い",
-          "かろ.やか"
+          "かるい",
+          "かろやか"
         ],
         "romaji": [
-          "karu.i",
-          "karo.yaka"
+          "karui",
+          "karoyaka"
         ]
       },
       "onyomi": {
@@ -30610,7 +30610,7 @@
       "id": "1138",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "芸",
       "index": "112",
       "strokes": "8",
@@ -30630,7 +30630,7 @@
       "id": "1139",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "撃",
       "index": "113",
       "strokes": "15",
@@ -30650,7 +30650,7 @@
       "id": "1140",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "鶏",
       "index": "114",
       "strokes": "19",
@@ -30700,7 +30700,7 @@
       "id": "1142",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "犬",
       "index": "116",
       "strokes": "4",
@@ -30728,7 +30728,7 @@
       "id": "1143",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "剣",
       "index": "117",
       "strokes": "10",
@@ -30748,7 +30748,7 @@
       "id": "1144",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "圏",
       "index": "118",
       "strokes": "12",
@@ -30768,7 +30768,7 @@
       "id": "1145",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "検",
       "index": "119",
       "strokes": "12",
@@ -30788,17 +30788,17 @@
       "id": "1146",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "堅",
       "index": "120",
       "strokes": "12",
       "radical": "土",
       "kunyomi": {
         "write": [
-          "かた.い"
+          "かたい"
         ],
         "romaji": [
-          "kata.i"
+          "katai"
         ]
       },
       "onyomi": {
@@ -30816,17 +30816,17 @@
       "id": "1147",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "賢",
       "index": "121",
       "strokes": "16",
       "radical": "貝",
       "kunyomi": {
         "write": [
-          "かしこ.い"
+          "かしこい"
         ],
         "romaji": [
-          "kashiko.i"
+          "kashikoi"
         ]
       },
       "onyomi": {
@@ -30844,19 +30844,19 @@
       "id": "1148",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "遣",
       "index": "122",
       "strokes": "13",
       "radical": "辵",
       "kunyomi": {
         "write": [
-          "つか.う",
-          "つか.わす"
+          "つかう",
+          "つかわす"
         ],
         "romaji": [
-          "tsuka.u",
-          "tsuka.wasu"
+          "tsukau",
+          "tsukawasu"
         ]
       },
       "onyomi": {
@@ -30874,7 +30874,7 @@
       "id": "1149",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "鍵",
       "index": "123",
       "strokes": "17",
@@ -30930,7 +30930,7 @@
       "id": "1151",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "玄",
       "index": "125",
       "strokes": "5",
@@ -30978,7 +30978,7 @@
       "id": "1153",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "孤",
       "index": "127",
       "strokes": "9",
@@ -30998,19 +30998,19 @@
       "id": "1154",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "枯",
       "index": "128",
       "strokes": "9",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "か.れる",
-          "か.らす"
+          "かれる",
+          "からす"
         ],
         "romaji": [
-          "ka.reru",
-          "ka.rasu"
+          "kareru",
+          "karasu"
         ]
       },
       "onyomi": {
@@ -31028,7 +31028,7 @@
       "id": "1155",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "故",
       "index": "129",
       "strokes": "9",
@@ -31056,7 +31056,7 @@
       "id": "1156",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "雇",
       "index": "130",
       "strokes": "12",
@@ -31076,7 +31076,7 @@
       "id": "1157",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "庫",
       "index": "131",
       "strokes": "10",
@@ -31096,7 +31096,7 @@
       "id": "1158",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "弧",
       "index": "132",
       "strokes": "9",
@@ -31116,19 +31116,19 @@
       "id": "1159",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "壊",
       "index": "133",
       "strokes": "16",
       "radical": "土",
       "kunyomi": {
         "write": [
-          "こわ.す",
-          "こわ.れる"
+          "こわす",
+          "こわれる"
         ],
         "romaji": [
-          "kowa.su",
-          "kowa.reru"
+          "kowasu",
+          "kowareru"
         ]
       },
       "onyomi": {
@@ -31146,7 +31146,7 @@
       "id": "1160",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "塊",
       "index": "134",
       "strokes": "13",
@@ -31174,19 +31174,19 @@
       "id": "1161",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "悔",
       "index": "135",
       "strokes": "9",
       "radical": "心",
       "kunyomi": {
         "write": [
-          "く.いる",
-          "くや.しい"
+          "くいる",
+          "くやしい"
         ],
         "romaji": [
-          "ku.iru",
-          "kuya.shii"
+          "kuiru",
+          "kuyashii"
         ]
       },
       "onyomi": {
@@ -31204,7 +31204,7 @@
       "id": "1162",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "概",
       "index": "136",
       "strokes": "14",
@@ -31244,7 +31244,7 @@
       "id": "1164",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "核",
       "index": "138",
       "strokes": "10",
@@ -31264,7 +31264,7 @@
       "id": "1165",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "殻",
       "index": "139",
       "strokes": "11",
@@ -31294,7 +31294,7 @@
       "id": "1166",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "獲",
       "index": "140",
       "strokes": "16",
@@ -31314,7 +31314,7 @@
       "id": "1167",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "穫",
       "index": "141",
       "strokes": "18",
@@ -31356,17 +31356,17 @@
       "id": "1169",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "143",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -31386,19 +31386,19 @@
       "id": "1170",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "144",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -31418,7 +31418,7 @@
       "id": "1171",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "145",
       "strokes": "9",
@@ -31446,7 +31446,7 @@
       "id": "1172",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "146",
       "strokes": "11",
@@ -31466,7 +31466,7 @@
       "id": "1173",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "147",
       "strokes": "12",
@@ -31506,7 +31506,7 @@
       "id": "1175",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "149",
       "strokes": "10",
@@ -31526,7 +31526,7 @@
       "id": "1176",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "150",
       "strokes": "7",
@@ -31554,7 +31554,7 @@
       "id": "1177",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "151",
       "strokes": "6",
@@ -31574,7 +31574,7 @@
       "id": "1178",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "152",
       "strokes": "12",
@@ -31614,7 +31614,7 @@
       "id": "1180",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "154",
       "strokes": "13",
@@ -31634,17 +31634,17 @@
       "id": "1181",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "155",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -31662,7 +31662,7 @@
       "id": "1182",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "156",
       "strokes": "6",
@@ -31692,7 +31692,7 @@
       "id": "1183",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "157",
       "strokes": "7",
@@ -31712,7 +31712,7 @@
       "id": "1184",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "158",
       "strokes": "11",
@@ -31734,7 +31734,7 @@
       "id": "1185",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "159",
       "strokes": "9",
@@ -31754,17 +31754,17 @@
       "id": "1186",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "160",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -31782,7 +31782,7 @@
       "id": "1187",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "161",
       "strokes": "15",
@@ -31802,7 +31802,7 @@
       "id": "1188",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "162",
       "strokes": "8",
@@ -31822,7 +31822,7 @@
       "id": "1189",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "163",
       "strokes": "8",
@@ -31844,19 +31844,19 @@
       "id": "1190",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "164",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -31876,7 +31876,7 @@
       "id": "1191",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "165",
       "strokes": "9",
@@ -31896,19 +31896,19 @@
       "id": "1192",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "166",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -31926,19 +31926,19 @@
       "id": "1193",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "167",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -31976,7 +31976,7 @@
       "id": "1195",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "169",
       "strokes": "11",
@@ -32038,17 +32038,17 @@
       "id": "1198",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "172",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -32068,19 +32068,19 @@
       "id": "1199",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "173",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -32100,7 +32100,7 @@
       "id": "1200",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "174",
       "strokes": "9",
@@ -32128,7 +32128,7 @@
       "id": "1201",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "175",
       "strokes": "11",
@@ -32148,7 +32148,7 @@
       "id": "1202",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "176",
       "strokes": "12",
@@ -32188,7 +32188,7 @@
       "id": "1204",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "178",
       "strokes": "10",
@@ -32208,7 +32208,7 @@
       "id": "1205",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "179",
       "strokes": "7",
@@ -32236,7 +32236,7 @@
       "id": "1206",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "180",
       "strokes": "6",
@@ -32256,7 +32256,7 @@
       "id": "1207",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "181",
       "strokes": "12",
@@ -32296,7 +32296,7 @@
       "id": "1209",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "183",
       "strokes": "13",
@@ -32316,17 +32316,17 @@
       "id": "1210",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "184",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -32344,7 +32344,7 @@
       "id": "1211",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "185",
       "strokes": "6",
@@ -32374,7 +32374,7 @@
       "id": "1212",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "186",
       "strokes": "7",
@@ -32394,7 +32394,7 @@
       "id": "1213",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "187",
       "strokes": "11",
@@ -32416,7 +32416,7 @@
       "id": "1214",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "188",
       "strokes": "9",
@@ -32436,17 +32436,17 @@
       "id": "1215",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "189",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -32464,7 +32464,7 @@
       "id": "1216",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "190",
       "strokes": "15",
@@ -32484,7 +32484,7 @@
       "id": "1217",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "191",
       "strokes": "8",
@@ -32504,7 +32504,7 @@
       "id": "1218",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "192",
       "strokes": "8",
@@ -32526,19 +32526,19 @@
       "id": "1219",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "193",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -32558,7 +32558,7 @@
       "id": "1220",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "194",
       "strokes": "9",
@@ -32578,19 +32578,19 @@
       "id": "1221",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "195",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -32608,19 +32608,19 @@
       "id": "1222",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "196",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -32658,7 +32658,7 @@
       "id": "1224",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "198",
       "strokes": "11",
@@ -32720,17 +32720,17 @@
       "id": "1227",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "201",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -32750,19 +32750,19 @@
       "id": "1228",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "202",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -32782,7 +32782,7 @@
       "id": "1229",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "203",
       "strokes": "9",
@@ -32810,7 +32810,7 @@
       "id": "1230",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "204",
       "strokes": "11",
@@ -32830,7 +32830,7 @@
       "id": "1231",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "205",
       "strokes": "12",
@@ -32870,7 +32870,7 @@
       "id": "1233",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "207",
       "strokes": "10",
@@ -32890,7 +32890,7 @@
       "id": "1234",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "208",
       "strokes": "7",
@@ -32918,7 +32918,7 @@
       "id": "1235",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "209",
       "strokes": "6",
@@ -32938,7 +32938,7 @@
       "id": "1236",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "210",
       "strokes": "12",
@@ -32978,7 +32978,7 @@
       "id": "1238",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "212",
       "strokes": "13",
@@ -32998,17 +32998,17 @@
       "id": "1239",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "213",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -33026,7 +33026,7 @@
       "id": "1240",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "214",
       "strokes": "6",
@@ -33056,7 +33056,7 @@
       "id": "1241",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "215",
       "strokes": "7",
@@ -33076,7 +33076,7 @@
       "id": "1242",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "216",
       "strokes": "11",
@@ -33098,7 +33098,7 @@
       "id": "1243",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "217",
       "strokes": "9",
@@ -33118,17 +33118,17 @@
       "id": "1244",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "218",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -33146,7 +33146,7 @@
       "id": "1245",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "219",
       "strokes": "15",
@@ -33166,7 +33166,7 @@
       "id": "1246",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "220",
       "strokes": "8",
@@ -33186,7 +33186,7 @@
       "id": "1247",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "221",
       "strokes": "8",
@@ -33208,19 +33208,19 @@
       "id": "1248",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "222",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -33240,7 +33240,7 @@
       "id": "1249",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "223",
       "strokes": "9",
@@ -33260,19 +33260,19 @@
       "id": "1250",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "224",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -33290,19 +33290,19 @@
       "id": "1251",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "225",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -33340,7 +33340,7 @@
       "id": "1253",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "227",
       "strokes": "11",
@@ -33402,17 +33402,17 @@
       "id": "1256",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "230",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -33432,19 +33432,19 @@
       "id": "1257",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "231",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -33464,7 +33464,7 @@
       "id": "1258",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "232",
       "strokes": "9",
@@ -33492,7 +33492,7 @@
       "id": "1259",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "233",
       "strokes": "11",
@@ -33512,7 +33512,7 @@
       "id": "1260",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "234",
       "strokes": "12",
@@ -33552,7 +33552,7 @@
       "id": "1262",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "236",
       "strokes": "10",
@@ -33572,7 +33572,7 @@
       "id": "1263",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "237",
       "strokes": "7",
@@ -33600,7 +33600,7 @@
       "id": "1264",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "238",
       "strokes": "6",
@@ -33620,7 +33620,7 @@
       "id": "1265",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "239",
       "strokes": "12",
@@ -33660,7 +33660,7 @@
       "id": "1267",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "241",
       "strokes": "13",
@@ -33680,17 +33680,17 @@
       "id": "1268",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "242",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -33708,7 +33708,7 @@
       "id": "1269",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "243",
       "strokes": "6",
@@ -33738,7 +33738,7 @@
       "id": "1270",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "244",
       "strokes": "7",
@@ -33758,7 +33758,7 @@
       "id": "1271",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "245",
       "strokes": "11",
@@ -33780,7 +33780,7 @@
       "id": "1272",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "246",
       "strokes": "9",
@@ -33800,17 +33800,17 @@
       "id": "1273",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "247",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -33828,7 +33828,7 @@
       "id": "1274",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "248",
       "strokes": "15",
@@ -33848,7 +33848,7 @@
       "id": "1275",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "249",
       "strokes": "8",
@@ -33868,7 +33868,7 @@
       "id": "1276",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "250",
       "strokes": "8",
@@ -33890,19 +33890,19 @@
       "id": "1277",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "251",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -33922,7 +33922,7 @@
       "id": "1278",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "252",
       "strokes": "9",
@@ -33942,19 +33942,19 @@
       "id": "1279",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "253",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -33972,19 +33972,19 @@
       "id": "1280",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "254",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -34022,7 +34022,7 @@
       "id": "1282",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "256",
       "strokes": "11",
@@ -34084,17 +34084,17 @@
       "id": "1285",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "259",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -34114,19 +34114,19 @@
       "id": "1286",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "260",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -34146,7 +34146,7 @@
       "id": "1287",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "261",
       "strokes": "9",
@@ -34174,7 +34174,7 @@
       "id": "1288",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "262",
       "strokes": "11",
@@ -34194,7 +34194,7 @@
       "id": "1289",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "263",
       "strokes": "12",
@@ -34234,7 +34234,7 @@
       "id": "1291",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "265",
       "strokes": "10",
@@ -34254,7 +34254,7 @@
       "id": "1292",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "266",
       "strokes": "7",
@@ -34282,7 +34282,7 @@
       "id": "1293",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "267",
       "strokes": "6",
@@ -34302,7 +34302,7 @@
       "id": "1294",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "268",
       "strokes": "12",
@@ -34342,7 +34342,7 @@
       "id": "1296",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "270",
       "strokes": "13",
@@ -34362,17 +34362,17 @@
       "id": "1297",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "271",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -34390,7 +34390,7 @@
       "id": "1298",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "272",
       "strokes": "6",
@@ -34420,7 +34420,7 @@
       "id": "1299",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "273",
       "strokes": "7",
@@ -34440,7 +34440,7 @@
       "id": "1300",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "274",
       "strokes": "11",
@@ -34462,7 +34462,7 @@
       "id": "1301",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "275",
       "strokes": "9",
@@ -34482,17 +34482,17 @@
       "id": "1302",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "276",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -34510,7 +34510,7 @@
       "id": "1303",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "277",
       "strokes": "15",
@@ -34530,7 +34530,7 @@
       "id": "1304",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "278",
       "strokes": "8",
@@ -34550,7 +34550,7 @@
       "id": "1305",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "279",
       "strokes": "8",
@@ -34572,19 +34572,19 @@
       "id": "1306",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "280",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -34604,7 +34604,7 @@
       "id": "1307",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "281",
       "strokes": "9",
@@ -34624,19 +34624,19 @@
       "id": "1308",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "282",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -34654,19 +34654,19 @@
       "id": "1309",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "283",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -34704,7 +34704,7 @@
       "id": "1311",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "285",
       "strokes": "11",
@@ -34766,17 +34766,17 @@
       "id": "1314",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "288",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -34796,19 +34796,19 @@
       "id": "1315",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "289",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -34828,7 +34828,7 @@
       "id": "1316",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "290",
       "strokes": "9",
@@ -34856,7 +34856,7 @@
       "id": "1317",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "291",
       "strokes": "11",
@@ -34876,7 +34876,7 @@
       "id": "1318",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "292",
       "strokes": "12",
@@ -34916,7 +34916,7 @@
       "id": "1320",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "294",
       "strokes": "10",
@@ -34936,7 +34936,7 @@
       "id": "1321",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "295",
       "strokes": "7",
@@ -34964,7 +34964,7 @@
       "id": "1322",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "296",
       "strokes": "6",
@@ -34984,7 +34984,7 @@
       "id": "1323",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "297",
       "strokes": "12",
@@ -35024,7 +35024,7 @@
       "id": "1325",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "299",
       "strokes": "13",
@@ -35044,17 +35044,17 @@
       "id": "1326",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "300",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -35072,7 +35072,7 @@
       "id": "1327",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "301",
       "strokes": "6",
@@ -35102,7 +35102,7 @@
       "id": "1328",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "302",
       "strokes": "7",
@@ -35122,7 +35122,7 @@
       "id": "1329",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "303",
       "strokes": "11",
@@ -35144,7 +35144,7 @@
       "id": "1330",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "304",
       "strokes": "9",
@@ -35164,17 +35164,17 @@
       "id": "1331",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "305",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -35192,7 +35192,7 @@
       "id": "1332",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "306",
       "strokes": "15",
@@ -35212,7 +35212,7 @@
       "id": "1333",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "307",
       "strokes": "8",
@@ -35232,7 +35232,7 @@
       "id": "1334",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "308",
       "strokes": "8",
@@ -35254,19 +35254,19 @@
       "id": "1335",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "309",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -35286,7 +35286,7 @@
       "id": "1336",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "310",
       "strokes": "9",
@@ -35306,19 +35306,19 @@
       "id": "1337",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "311",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -35336,19 +35336,19 @@
       "id": "1338",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "312",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -35386,7 +35386,7 @@
       "id": "1340",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "314",
       "strokes": "11",
@@ -35448,17 +35448,17 @@
       "id": "1343",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "317",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -35478,19 +35478,19 @@
       "id": "1344",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "318",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -35510,7 +35510,7 @@
       "id": "1345",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "319",
       "strokes": "9",
@@ -35538,7 +35538,7 @@
       "id": "1346",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "320",
       "strokes": "11",
@@ -35558,7 +35558,7 @@
       "id": "1347",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "321",
       "strokes": "12",
@@ -35598,7 +35598,7 @@
       "id": "1349",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "323",
       "strokes": "10",
@@ -35618,7 +35618,7 @@
       "id": "1350",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "324",
       "strokes": "7",
@@ -35646,7 +35646,7 @@
       "id": "1351",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "325",
       "strokes": "6",
@@ -35666,7 +35666,7 @@
       "id": "1352",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "326",
       "strokes": "12",
@@ -35706,7 +35706,7 @@
       "id": "1354",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "328",
       "strokes": "13",
@@ -35726,17 +35726,17 @@
       "id": "1355",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "329",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -35754,7 +35754,7 @@
       "id": "1356",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "330",
       "strokes": "6",
@@ -35784,7 +35784,7 @@
       "id": "1357",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "331",
       "strokes": "7",
@@ -35804,7 +35804,7 @@
       "id": "1358",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "332",
       "strokes": "11",
@@ -35826,7 +35826,7 @@
       "id": "1359",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "333",
       "strokes": "9",
@@ -35846,17 +35846,17 @@
       "id": "1360",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "334",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -35874,7 +35874,7 @@
       "id": "1361",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "335",
       "strokes": "15",
@@ -35894,7 +35894,7 @@
       "id": "1362",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "336",
       "strokes": "8",
@@ -35914,7 +35914,7 @@
       "id": "1363",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "337",
       "strokes": "8",
@@ -35936,19 +35936,19 @@
       "id": "1364",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "338",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -35968,7 +35968,7 @@
       "id": "1365",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "339",
       "strokes": "9",
@@ -35988,19 +35988,19 @@
       "id": "1366",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "340",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -36018,19 +36018,19 @@
       "id": "1367",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "341",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
@@ -36068,7 +36068,7 @@
       "id": "1369",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "菌",
       "index": "343",
       "strokes": "11",
@@ -36130,17 +36130,17 @@
       "id": "1372",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "刈",
       "index": "346",
       "strokes": "4",
       "radical": "刀",
       "kunyomi": {
         "write": [
-          "か.る"
+          "かる"
         ],
         "romaji": [
-          "ka.ru"
+          "karu"
         ]
       },
       "onyomi": {
@@ -36160,19 +36160,19 @@
       "id": "1373",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "乾",
       "index": "347",
       "strokes": "11",
       "radical": "乙",
       "kunyomi": {
         "write": [
-          "かわ.く",
-          "かわ.かす"
+          "かわく",
+          "かわかす"
         ],
         "romaji": [
-          "kawa.ku",
-          "kawa.kasu"
+          "kawaku",
+          "kawakasu"
         ]
       },
       "onyomi": {
@@ -36192,7 +36192,7 @@
       "id": "1374",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "冠",
       "index": "348",
       "strokes": "9",
@@ -36220,7 +36220,7 @@
       "id": "1375",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "勘",
       "index": "349",
       "strokes": "11",
@@ -36240,7 +36240,7 @@
       "id": "1376",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "閑",
       "index": "350",
       "strokes": "12",
@@ -36280,7 +36280,7 @@
       "id": "1378",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "陥",
       "index": "352",
       "strokes": "10",
@@ -36300,7 +36300,7 @@
       "id": "1379",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "肝",
       "index": "353",
       "strokes": "7",
@@ -36328,7 +36328,7 @@
       "id": "1380",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N3",
       "kanji": "缶",
       "index": "354",
       "strokes": "6",
@@ -36348,7 +36348,7 @@
       "id": "1381",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "喚",
       "index": "355",
       "strokes": "12",
@@ -36388,7 +36388,7 @@
       "id": "1383",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "頑",
       "index": "357",
       "strokes": "13",
@@ -36408,17 +36408,17 @@
       "id": "1384",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "飢",
       "index": "358",
       "strokes": "10",
       "radical": "食",
       "kunyomi": {
         "write": [
-          "う.える"
+          "うえる"
         ],
         "romaji": [
-          "u.eru"
+          "ueru"
         ]
       },
       "onyomi": {
@@ -36436,7 +36436,7 @@
       "id": "1385",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "吉",
       "index": "359",
       "strokes": "6",
@@ -36466,7 +36466,7 @@
       "id": "1386",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "却",
       "index": "360",
       "strokes": "7",
@@ -36486,7 +36486,7 @@
       "id": "1387",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "脚",
       "index": "361",
       "strokes": "11",
@@ -36508,7 +36508,7 @@
       "id": "1388",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虐",
       "index": "362",
       "strokes": "9",
@@ -36528,17 +36528,17 @@
       "id": "1389",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "朽",
       "index": "363",
       "strokes": "6",
       "radical": "木",
       "kunyomi": {
         "write": [
-          "く.ちる"
+          "くちる"
         ],
         "romaji": [
-          "ku.chiru"
+          "kuchiru"
         ]
       },
       "onyomi": {
@@ -36556,7 +36556,7 @@
       "id": "1390",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "窮",
       "index": "364",
       "strokes": "15",
@@ -36576,7 +36576,7 @@
       "id": "1391",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拒",
       "index": "365",
       "strokes": "8",
@@ -36596,7 +36596,7 @@
       "id": "1392",
       "slug": "Grade-7",
       "classification": "существительное",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "拠",
       "index": "366",
       "strokes": "8",
@@ -36618,19 +36618,19 @@
       "id": "1393",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "虚",
       "index": "367",
       "strokes": "11",
       "radical": "虍",
       "kunyomi": {
         "write": [
-          "むな.しい",
-          "うつ.ろ"
+          "むなしい",
+          "うつろ"
         ],
         "romaji": [
-          "muna.shii",
-          "utsu.ro"
+          "munashii",
+          "utsuro"
         ]
       },
       "onyomi": {
@@ -36650,7 +36650,7 @@
       "id": "1394",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "峡",
       "index": "368",
       "strokes": "9",
@@ -36670,19 +36670,19 @@
       "id": "1395",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "挟",
       "index": "369",
       "strokes": "9",
       "radical": "手",
       "kunyomi": {
         "write": [
-          "はさ.む",
-          "はさ.まる"
+          "はさむ",
+          "はさまる"
         ],
         "romaji": [
-          "hasa.mu",
-          "hasa.maru"
+          "hasamu",
+          "hasamaru"
         ]
       },
       "onyomi": {
@@ -36700,19 +36700,19 @@
       "id": "1396",
       "slug": "Grade-7",
       "classification": "существительное, глагол",
-      "JLPT": "N1",
+      "JLPT": "N2",
       "kanji": "狂",
       "index": "370",
       "strokes": "7",
       "radical": "犬",
       "kunyomi": {
         "write": [
-          "くる.う",
-          "くる.おしい"
+          "くるう",
+          "くるおしい"
         ],
         "romaji": [
-          "kuru.u",
-          "kuru.oshii"
+          "kuruu",
+          "kuruoshii"
         ]
       },
       "onyomi": {
