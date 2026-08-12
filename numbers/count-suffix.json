@@ -637,6 +637,7 @@
     "romaji": "ko",
     "objects": [
       "apple",
+      "pear",
       "star"
     ],
     "type": "small_things",
