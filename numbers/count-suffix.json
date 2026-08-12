@@ -425,7 +425,8 @@
     "romaji": "hiki",
     "objects": [
       "cat",
-      "oni"
+      "oni",
+      "frog"
     ],
     "type": "small_animal",
     "description": "кошки, собаки, насекомые, демоны",
