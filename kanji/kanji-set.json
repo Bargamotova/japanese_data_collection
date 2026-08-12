@@ -37714,5 +37714,8711 @@
       "name": "удача"
     }
   ]
-}
+  },
+  {
+    "slug": "grade-9",
+    "data": [
+    {
+      "id": "1767",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "1",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1768",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "2",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1769",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "3",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1770",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "4",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1771",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "5",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1772",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "6",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1773",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "7",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1774",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "8",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1775",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "9",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1776",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "10",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1777",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "11",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1778",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "12",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1779",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "13",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1780",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "14",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1781",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "15",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1782",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "16",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1783",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "17",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1784",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "18",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1785",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "19",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1786",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "20",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1787",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "21",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1788",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "22",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1789",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "23",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1790",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "24",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1791",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "25",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1792",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "26",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1793",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "27",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1794",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "28",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1795",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "29",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1796",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "30",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1797",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "31",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1798",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "32",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1799",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "33",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1800",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "34",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1801",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "35",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1802",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "36",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1803",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "37",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1804",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "38",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1805",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "39",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1806",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "40",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1807",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "41",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1808",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "42",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1809",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "43",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1810",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "44",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1811",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "45",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1812",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "46",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1813",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "47",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1814",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "48",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1815",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "49",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1816",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "50",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1817",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "51",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1818",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "52",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1819",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "53",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1820",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "54",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1821",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "55",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1822",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "56",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1823",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "57",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1824",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "58",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1825",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "59",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1826",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "60",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1827",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "61",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1828",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "62",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1829",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "63",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1830",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "64",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1831",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "65",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1832",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "66",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1833",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "67",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1834",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "68",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1835",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "69",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1836",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "70",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1837",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "71",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1838",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "72",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1839",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "73",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1840",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "74",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1841",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "75",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1842",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "76",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1843",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "77",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1844",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "78",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1845",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "79",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1846",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "80",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1847",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "81",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1848",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "82",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1849",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "83",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1850",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "84",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1851",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "85",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1852",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "86",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1853",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "87",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1854",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "88",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1855",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "89",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1856",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "90",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1857",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "91",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1858",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "92",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1859",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "93",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1860",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "94",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1861",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "95",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1862",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "96",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1863",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "97",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1864",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "98",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1865",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "99",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1866",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "100",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1867",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "101",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1868",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "102",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1869",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "103",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1870",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "104",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1871",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "105",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1872",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "106",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1873",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "107",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1874",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "108",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1875",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "109",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1876",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "110",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1877",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "111",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1878",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "112",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1879",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "113",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1880",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "114",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1881",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "115",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1882",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "116",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1883",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "117",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1884",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "118",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1885",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "119",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1886",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "120",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1887",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "121",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1888",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "122",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1889",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "123",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1890",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "124",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1891",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "125",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1892",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "126",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1893",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "127",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1894",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "128",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1895",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "129",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1896",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "130",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1897",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "131",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1898",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "132",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1899",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "133",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1900",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "134",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1901",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "135",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1902",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "136",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1903",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "137",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1904",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "138",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1905",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "139",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1906",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "140",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1907",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "141",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1908",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "142",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1909",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "143",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1910",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "144",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1911",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "145",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1912",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "146",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1913",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "147",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1914",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "148",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1915",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "149",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1916",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "150",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1917",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "151",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1918",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "152",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1919",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "153",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1920",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "154",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1921",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "155",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1922",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "156",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1923",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "157",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1924",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "158",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1925",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "159",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1926",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "160",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1927",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "161",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1928",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "162",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1929",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "163",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1930",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "164",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1931",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "165",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1932",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "166",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1933",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "167",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1934",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "168",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1935",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "169",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1936",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "170",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1937",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "171",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1938",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "172",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1939",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "173",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1940",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "174",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1941",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "175",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1942",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "176",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1943",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "177",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1944",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "178",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1945",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "179",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1946",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "180",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1947",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "181",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1948",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "182",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1949",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "183",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1950",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "184",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1951",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "185",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1952",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "186",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1953",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "187",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1954",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "188",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1955",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "189",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1956",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "190",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1957",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "191",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1958",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "192",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1959",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "193",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1960",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "194",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1961",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "195",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1962",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "196",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1963",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "197",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1964",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "198",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1965",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "199",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1966",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "200",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1967",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "201",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1968",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "202",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1969",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "203",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1970",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "204",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "1971",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "205",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "1972",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "206",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "1973",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "207",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "1974",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "208",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "1975",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "209",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "1976",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "210",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "1977",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "211",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "1978",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "212",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "1979",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "213",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "1980",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "214",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "1981",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "215",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "1982",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "216",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "1983",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "217",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "1984",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "218",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "1985",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "219",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "1986",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "220",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "1987",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "221",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "1988",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "222",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "1989",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "223",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "1990",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "224",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "1991",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "225",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "1992",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "226",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "1993",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "227",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "1994",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "228",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "1995",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "229",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "1996",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "230",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "1997",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "231",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "1998",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "232",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "1999",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "233",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "2000",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "234",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "2001",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "235",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "2002",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "236",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "2003",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "237",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "2004",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "238",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "2005",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "239",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "2006",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "240",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "2007",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "241",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "2008",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "242",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "2009",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "243",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "2010",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "244",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "2011",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "245",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "2012",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "246",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "2013",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "247",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "2014",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "248",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "2015",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "249",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "2016",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "250",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "2017",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "251",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "2018",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "252",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "2019",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "253",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "2020",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "254",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "2021",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "255",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "2022",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "256",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "2023",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "257",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "2024",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "258",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "2025",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "259",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "2026",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "260",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "2027",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "261",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "2028",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "262",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "2029",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "263",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "2030",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "264",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "2031",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "265",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "2032",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "266",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "2033",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "267",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "2034",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "268",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "2035",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "269",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "2036",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "270",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "2037",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "271",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "2038",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "272",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "2039",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "273",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "2040",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "274",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "2041",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "275",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "2042",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "276",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "2043",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "277",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "2044",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "278",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "2045",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "279",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "2046",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "280",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "2047",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "281",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "2048",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "282",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "2049",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "283",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "2050",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "284",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "2051",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "285",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "2052",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "286",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "2053",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "287",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "2054",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "288",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "2055",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "289",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "2056",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "290",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "2057",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "291",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "2058",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "292",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "2059",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "293",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "2060",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "294",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "2061",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "295",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "2062",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "296",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "2063",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "297",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "2064",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "298",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "2065",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "299",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "2066",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "300",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "2067",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "301",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "2068",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "302",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "2069",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "303",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "2070",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "304",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "2071",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "305",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "2072",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "306",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "2073",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "307",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "2074",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "308",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "2075",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "309",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "2076",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "310",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "2077",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "311",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "2078",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "312",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "2079",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "313",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "2080",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "314",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "2081",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "315",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "2082",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "316",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "2083",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "317",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "2084",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "318",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "2085",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "319",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "2086",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "320",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "2087",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "321",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "2088",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "322",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "2089",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "323",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "2090",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "324",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "2091",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "325",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "2092",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "326",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "2093",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "327",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "2094",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "328",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "2095",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "329",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "2096",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "330",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "2097",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "331",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "2098",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "332",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "2099",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "333",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "2100",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "334",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "2101",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "335",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "2102",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "336",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "2103",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "337",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "2104",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "338",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "2105",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "339",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "2106",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "340",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "2107",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "341",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    },
+    {
+      "id": "2108",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "肝",
+      "index": "342",
+      "strokes": "7",
+      "radical": "肉",
+      "kunyomi": {
+        "write": [
+          "きも"
+        ],
+        "romaji": [
+          "kimo"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "печень, смелость, отвага",
+      "name": "печень"
+    },
+    {
+      "id": "2109",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "缶",
+      "index": "343",
+      "strokes": "6",
+      "radical": "缶",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "жестяная банка, консервная банка",
+      "name": "консервная банка"
+    },
+    {
+      "id": "2110",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "喚",
+      "index": "344",
+      "strokes": "12",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "кричать, вопить",
+      "name": "кричать"
+    },
+    {
+      "id": "2111",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "玩",
+      "index": "345",
+      "strokes": "8",
+      "radical": "王",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "играть, играть с чем-то",
+      "name": "играть"
+    },
+    {
+      "id": "2112",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "頑",
+      "index": "346",
+      "strokes": "13",
+      "radical": "頁",
+      "onyomi": {
+        "write": [
+          "ガン"
+        ],
+        "romaji": [
+          "gan"
+        ]
+      },
+      "meaning": "упрямый, настойчивый, непослушный",
+      "name": "упрямство"
+    },
+    {
+      "id": "2113",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "飢",
+      "index": "347",
+      "strokes": "10",
+      "radical": "食",
+      "kunyomi": {
+        "write": [
+          "う.える"
+        ],
+        "romaji": [
+          "u.eru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キ"
+        ],
+        "romaji": [
+          "ki"
+        ]
+      },
+      "meaning": "голодать, голод",
+      "name": "голодать"
+    },
+    {
+      "id": "2114",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "吉",
+      "index": "348",
+      "strokes": "6",
+      "radical": "口",
+      "kunyomi": {
+        "write": [
+          "よし"
+        ],
+        "romaji": [
+          "yoshi"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キチ",
+          "キツ"
+        ],
+        "romaji": [
+          "kichi",
+          "kitsu"
+        ]
+      },
+      "meaning": "счастье, удача",
+      "name": "удача"
+    },
+    {
+      "id": "2115",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "却",
+      "index": "349",
+      "strokes": "7",
+      "radical": "卩",
+      "onyomi": {
+        "write": [
+          "キャク"
+        ],
+        "romaji": [
+          "kyaku"
+        ]
+      },
+      "meaning": "наоборот, вместо, убирать",
+      "name": "убирать"
+    },
+    {
+      "id": "2116",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "脚",
+      "index": "350",
+      "strokes": "11",
+      "radical": "肉",
+      "onyomi": {
+        "write": [
+          "キャク",
+          "キャ"
+        ],
+        "romaji": [
+          "kyaku",
+          "kya"
+        ]
+      },
+      "meaning": "ножка, основание",
+      "name": "ножка"
+    },
+    {
+      "id": "2117",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "虐",
+      "index": "351",
+      "strokes": "9",
+      "radical": "虍",
+      "onyomi": {
+        "write": [
+          "ギャク"
+        ],
+        "romaji": [
+          "gyaku"
+        ]
+      },
+      "meaning": "жестоко обращаться, угнетать, тиранить",
+      "name": "тиранить"
+    },
+    {
+      "id": "2118",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "朽",
+      "index": "352",
+      "strokes": "6",
+      "radical": "木",
+      "kunyomi": {
+        "write": [
+          "く.ちる"
+        ],
+        "romaji": [
+          "ku.chiru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "гнить, разрушаться, портиться",
+      "name": "гнить"
+    },
+    {
+      "id": "2119",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "窮",
+      "index": "353",
+      "strokes": "15",
+      "radical": "穴",
+      "onyomi": {
+        "write": [
+          "キュウ"
+        ],
+        "romaji": [
+          "kyuu"
+        ]
+      },
+      "meaning": "бедность, крайность, затруднение",
+      "name": "бедность"
+    },
+    {
+      "id": "2120",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拒",
+      "index": "354",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ"
+        ],
+        "romaji": [
+          "kyo"
+        ]
+      },
+      "meaning": "отказывать, отвергать, сопротивляться",
+      "name": "отказ"
+    },
+    {
+      "id": "2121",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "拠",
+      "index": "355",
+      "strokes": "8",
+      "radical": "手",
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "основа, опора, опираться",
+      "name": "основание"
+    },
+    {
+      "id": "2122",
+      "slug": "Grade-9",
+      "classification": "прилагательное",
+      "JLPT": "N1",
+      "kanji": "虚",
+      "index": "356",
+      "strokes": "11",
+      "radical": "虍",
+      "kunyomi": {
+        "write": [
+          "むな.しい",
+          "うつ.ろ"
+        ],
+        "romaji": [
+          "muna.shii",
+          "utsu.ro"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョ",
+          "コ"
+        ],
+        "romaji": [
+          "kyo",
+          "ko"
+        ]
+      },
+      "meaning": "пустой, ложный, слабый",
+      "name": "пустой"
+    },
+    {
+      "id": "2123",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "峡",
+      "index": "357",
+      "strokes": "9",
+      "radical": "山",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "ущелье, теснина, пролив",
+      "name": "ущелье"
+    },
+    {
+      "id": "2124",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "挟",
+      "index": "358",
+      "strokes": "9",
+      "radical": "手",
+      "kunyomi": {
+        "write": [
+          "はさ.む",
+          "はさ.まる"
+        ],
+        "romaji": [
+          "hasa.mu",
+          "hasa.maru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "зажимать, вставлять, между",
+      "name": "зажимать"
+    },
+    {
+      "id": "2125",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "狂",
+      "index": "359",
+      "strokes": "7",
+      "radical": "犬",
+      "kunyomi": {
+        "write": [
+          "くる.う",
+          "くる.おしい"
+        ],
+        "romaji": [
+          "kuru.u",
+          "kuru.oshii"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "безумный, сходить с ума, бурный",
+      "name": "безумие"
+    },
+    {
+      "id": "2126",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "矯",
+      "index": "360",
+      "strokes": "17",
+      "radical": "矢",
+      "onyomi": {
+        "write": [
+          "キョウ"
+        ],
+        "romaji": [
+          "kyou"
+        ]
+      },
+      "meaning": "исправлять, выпрямлять, исправление",
+      "name": "исправлять"
+    },
+    {
+      "id": "2127",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "菌",
+      "index": "361",
+      "strokes": "11",
+      "radical": "艸",
+      "onyomi": {
+        "write": [
+          "キン"
+        ],
+        "romaji": [
+          "kin"
+        ]
+      },
+      "meaning": "бактерия, грибок, микроб",
+      "name": "бактерия"
+    },
+    {
+      "id": "2128",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "嚇",
+      "index": "362",
+      "strokes": "17",
+      "radical": "口",
+      "onyomi": {
+        "write": [
+          "カク"
+        ],
+        "romaji": [
+          "kaku"
+        ]
+      },
+      "meaning": "угрожать, запугивать, устрашать",
+      "name": "угрожать"
+    },
+    {
+      "id": "2129",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "且",
+      "index": "363",
+      "strokes": "5",
+      "radical": "一",
+      "onyomi": {
+        "write": [
+          "ショ",
+          "ソ"
+        ],
+        "romaji": [
+          "sho",
+          "so"
+        ]
+      },
+      "meaning": "к тому же, также, временно",
+      "name": "также"
+    },
+    {
+      "id": "2130",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "刈",
+      "index": "364",
+      "strokes": "4",
+      "radical": "刀",
+      "kunyomi": {
+        "write": [
+          "か.る"
+        ],
+        "romaji": [
+          "ka.ru"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "ガイ",
+          "カイ"
+        ],
+        "romaji": [
+          "gai",
+          "kai"
+        ]
+      },
+      "meaning": "косить, срезать, жать",
+      "name": "косить"
+    },
+    {
+      "id": "2131",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "乾",
+      "index": "365",
+      "strokes": "11",
+      "radical": "乙",
+      "kunyomi": {
+        "write": [
+          "かわ.く",
+          "かわ.かす"
+        ],
+        "romaji": [
+          "kawa.ku",
+          "kawa.kasu"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン",
+          "ケン"
+        ],
+        "romaji": [
+          "kan",
+          "ken"
+        ]
+      },
+      "meaning": "сухой, высохший, сушить",
+      "name": "сушить"
+    },
+    {
+      "id": "2132",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "冠",
+      "index": "366",
+      "strokes": "9",
+      "radical": "冖",
+      "kunyomi": {
+        "write": [
+          "かんむり"
+        ],
+        "romaji": [
+          "kanmuri"
+        ]
+      },
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "корона, венец, гребень (горы)",
+      "name": "корона"
+    },
+    {
+      "id": "2133",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "勘",
+      "index": "367",
+      "strokes": "11",
+      "radical": "力",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "чутьё, интуиция, догадка",
+      "name": "интуиция"
+    },
+    {
+      "id": "2134",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "閑",
+      "index": "368",
+      "strokes": "12",
+      "radical": "門",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "свободное время, досуг, спокойствие",
+      "name": "досуг"
+    },
+    {
+      "id": "2135",
+      "slug": "Grade-9",
+      "classification": "существительное",
+      "JLPT": "N1",
+      "kanji": "鑑",
+      "index": "369",
+      "strokes": "22",
+      "radical": "金",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "модель, пример, судить, оценивать",
+      "name": "модель"
+    },
+    {
+      "id": "2136",
+      "slug": "Grade-9",
+      "classification": "глагол",
+      "JLPT": "N1",
+      "kanji": "陥",
+      "index": "370",
+      "strokes": "10",
+      "radical": "阜",
+      "onyomi": {
+        "write": [
+          "カン"
+        ],
+        "romaji": [
+          "kan"
+        ]
+      },
+      "meaning": "попадать (в ловушку), впадать, проваливаться",
+      "name": "впадать"
+    }
+  ]
+  }
+
 ]
