@@ -1273,7 +1273,7 @@
         "id": "40",
         "slug": "Grade-1",
         "classification": "природа",
-        "JLPT": "N2",
+        "JLPT": "N4",
         "image": "0",
         "kanji": "森",
         "index": "40",
@@ -2558,7 +2558,7 @@
         "id": "79",
         "slug": "Grade-1",
         "classification": "природа",
-        "JLPT": "N2",
+        "JLPT": "N4",
         "image": "0",
         "kanji": "林",
         "index": "79",
@@ -2630,7 +2630,7 @@
         "id": "81",
         "slug": "Grade-2",
         "classification": "глагол",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "引",
         "index": "1",
         "strokes": "4",
@@ -2749,7 +2749,7 @@
         "id": "85",
         "slug": "Grade-2",
         "classification": "направление",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "遠",
         "index": "5",
         "strokes": "13",
@@ -2945,7 +2945,7 @@
         "id": "92",
         "slug": "Grade-2",
         "classification": "глагол",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "回",
         "index": "12",
         "strokes": "6",
@@ -3272,7 +3272,7 @@
         "id": "103",
         "slug": "Grade-2",
         "classification": "тело",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "顔",
         "index": "23",
         "strokes": "18",
@@ -4047,7 +4047,7 @@
         "id": "129",
         "slug": "Grade-2",
         "classification": "глагол, природа",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "光",
         "index": "49",
         "strokes": "6",
@@ -4212,7 +4212,7 @@
         "id": "134",
         "slug": "Grade-2",
         "classification": "глагол",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "合",
         "index": "54",
         "strokes": "6",
@@ -4503,7 +4503,7 @@
         "id": "144",
         "slug": "Grade-2",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "市",
         "index": "64",
         "strokes": "5",
@@ -4788,7 +4788,7 @@
         "id": "154",
         "slug": "Grade-2",
         "classification": "описание",
-        "JLPT": "N2",
+        "JLPT": "N4",
         "kanji": "弱",
         "index": "74",
         "strokes": "10",
@@ -4822,7 +4822,7 @@
         "id": "155",
         "slug": "Grade-2",
         "classification": "тело",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "首",
         "index": "75",
         "strokes": "9",
@@ -5268,7 +5268,7 @@
         "id": "170",
         "slug": "Grade-2",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "声",
         "index": "90",
         "strokes": "7",
@@ -5607,7 +5607,7 @@
         "id": "181",
         "slug": "Grade-2",
         "classification": "описание",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "太",
         "index": "101",
         "strokes": "4",
@@ -5713,7 +5713,7 @@
         "id": "185",
         "slug": "Grade-2",
         "classification": "природа",
-        "JLPT": "N2",
+        "JLPT": "N4",
         "kanji": "池",
         "index": "105",
         "strokes": "6",
@@ -6237,7 +6237,7 @@
         "id": "203",
         "slug": "Grade-2",
         "classification": "тело",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "頭",
         "index": "123",
         "strokes": "16",
@@ -7072,7 +7072,7 @@
         "id": "231",
         "slug": "Grade-2",
         "classification": "существительное",
-        "JLPT": "N2",
+        "JLPT": "N4",
         "kanji": "門",
         "index": "151",
         "strokes": "8",
@@ -7318,7 +7318,7 @@
             "kotowari"
           ]
         },
-        "meaning": "принцип, довод, аргумент, резон, основание",
+        "meaning": "принцип, довод, аргумент, закон, теория",
         "name": "принцип"
       },
       {
@@ -7422,7 +7422,7 @@
         "id": "243",
         "slug": "Grade-3",
         "classification": "описание",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "暗",
         "index": "3",
         "strokes": "13",
@@ -7751,7 +7751,7 @@
         "id": "256",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "屋",
         "index": "16",
         "strokes": "9",
@@ -7943,7 +7943,7 @@
         "id": "263",
         "slug": "Grade-3",
         "classification": "описание",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "寒",
         "index": "23",
         "strokes": "12",
@@ -7991,7 +7991,7 @@
         "id": "265",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "漢",
         "index": "25",
         "strokes": "13",
@@ -8005,13 +8005,13 @@
           ]
         },
         "meaning": "китайский (иероглифы), хан",
-        "name": "китайский (кандзи)"
+        "name": "китайский"
       },
       {
         "id": "266",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "館",
         "index": "26",
         "strokes": "16",
@@ -8143,7 +8143,7 @@
         "id": "271",
         "slug": "Grade-3",
         "classification": "глагол",
-        "JLPT": "N2",
+        "JLPT": "N4",
         "kanji": "究",
         "index": "31",
         "strokes": "7",
@@ -8164,8 +8164,8 @@
             "kiwameru"
           ]
         },
-        "meaning": "изучать вглубь, исследование",
-        "name": "исследование"
+        "meaning": "осваивать, тщательно изучать",
+        "name": "осваивать"
       },
       {
         "id": "272",
@@ -8337,7 +8337,7 @@
         "id": "278",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "業",
         "index": "38",
         "strokes": "13",
@@ -8417,7 +8417,7 @@
         "id": "281",
         "slug": "Grade-3",
         "classification": "природа",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "銀",
         "index": "41",
         "strokes": "14",
@@ -8436,7 +8436,7 @@
       {
         "id": "282",
         "slug": "Grade-3",
-        "classification": "существительное, описание",
+        "classification": "существительное",
         "JLPT": "N4",
         "kanji": "区",
         "index": "42",
@@ -8673,7 +8673,7 @@
         "id": "290",
         "slug": "Grade-3",
         "classification": "глагол",
-        "JLPT": "N2",
+        "JLPT": "N4",
         "kanji": "研",
         "index": "50",
         "strokes": "9",
@@ -8694,14 +8694,14 @@
             "togu"
           ]
         },
-        "meaning": "точить, изучать",
-        "name": "изучать"
+        "meaning": "точить, шлифовать",
+        "name": "очить"
       },
       {
         "id": "291",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "県",
         "index": "51",
         "strokes": "9",
@@ -9320,7 +9320,7 @@
             "utsuru"
           ]
         },
-        "meaning": "копировать, фотографировать",
+        "meaning": "копировать",
         "name": "копировать"
       },
       {
@@ -9348,7 +9348,7 @@
             "mono"
           ]
         },
-        "meaning": "человек",
+        "meaning": "человек, некто",
         "name": "человек"
       },
       {
@@ -9769,7 +9769,7 @@
         "id": "329",
         "slug": "Grade-3",
         "classification": "описание",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "暑",
         "index": "89",
         "strokes": "12",
@@ -10106,7 +10106,7 @@
         "id": "341",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "真",
         "index": "101",
         "strokes": "10",
@@ -10129,7 +10129,7 @@
             "makoto"
           ]
         },
-        "meaning": "правда; истина; подлинность",
+        "meaning": "правда, истина, подлинность",
         "name": "истина"
       },
       {
@@ -10168,7 +10168,7 @@
         "id": "343",
         "slug": "Grade-3",
         "classification": "глагол, описание",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "進",
         "index": "103",
         "strokes": "11",
@@ -10468,7 +10468,7 @@
         "id": "353",
         "slug": "Grade-3",
         "classification": "человек",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "族",
         "index": "113",
         "strokes": "11",
@@ -10481,7 +10481,7 @@
             "zoku"
           ]
         },
-        "meaning": "семья; родственники",
+        "meaning": "семья, родственники",
         "name": "родственники"
       },
       {
@@ -10650,7 +10650,7 @@
         "id": "360",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "題",
         "index": "120",
         "strokes": "18",
@@ -10698,7 +10698,7 @@
         "id": "362",
         "slug": "Grade-3",
         "classification": "описание",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "短",
         "index": "122",
         "strokes": "12",
@@ -11086,7 +11086,7 @@
         "id": "376",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "都",
         "index": "136",
         "strokes": "11",
@@ -11532,7 +11532,7 @@
         "id": "392",
         "slug": "Grade-3",
         "classification": "глагол",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "発",
         "index": "152",
         "strokes": "9",
@@ -11547,8 +11547,8 @@
             "hotsu"
           ]
         },
-        "meaning": "отправляться, начинать",
-        "name": "начало"
+        "meaning": "испускать, вырабатывать, отправляться",
+        "name": "испускать"
       },
       {
         "id": "393",
@@ -12107,7 +12107,7 @@
       {
         "id": "413",
         "slug": "Grade-3",
-        "classification": "глагол",
+        "classification": "глагол, описание",
         "JLPT": "N4",
         "kanji": "勉",
         "index": "173",
@@ -12121,8 +12121,8 @@
             "ben"
           ]
         },
-        "meaning": "стараться, учиться",
-        "name": "учиться"
+        "meaning": "стараться, занятия",
+        "name": "старательный"
       },
       {
         "id": "414",
@@ -12413,7 +12413,7 @@
             "aru"
           ]
         },
-        "meaning": "иметь, существовать",
+        "meaning": "иметь, существовать, быть",
         "name": "существовать"
       },
       {
@@ -12498,7 +12498,7 @@
         "id": "427",
         "slug": "Grade-3",
         "classification": "природа",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "洋",
         "index": "187",
         "strokes": "9",
@@ -12511,7 +12511,7 @@
             "you"
           ]
         },
-        "meaning": "океан, западный стиль",
+        "meaning": "океан",
         "name": "океан"
       },
       {
@@ -12668,7 +12668,7 @@
         "id": "433",
         "slug": "Grade-3",
         "classification": "существительное",
-        "JLPT": "N3",
+        "JLPT": "N4",
         "kanji": "旅",
         "index": "193",
         "strokes": "10",
@@ -14390,7 +14390,7 @@
     {
       "id": "500",
       "slug": "Grade-4",
-      "classification": "глагол, существительное",
+      "classification": "глагол",
       "JLPT": "N4",
       "kanji": "建",
       "index": "60",
@@ -14415,7 +14415,7 @@
         ]
       },
       "meaning": "строить, возводить, основывать",
-      "name": "постройка"
+      "name": "строить"
     },
     {
       "id": "501",
@@ -14440,8 +14440,8 @@
     {
       "id": "502",
       "slug": "Grade-4",
-      "classification": "глагол, существительное",
-      "JLPT": "N3",
+      "classification": "глагол",
+      "JLPT": "N4",
       "kanji": "験",
       "index": "62",
       "strokes": "18",
@@ -14454,8 +14454,8 @@
           "ken"
         ]
       },
-      "meaning": "испытание, проверка, опыт",
-      "name": "испытание"
+      "meaning": "испытывать, проверка",
+      "name": "испытывать"
     },
     {
       "id": "503",
@@ -14664,7 +14664,7 @@
     {
       "id": "511",
       "slug": "Grade-4",
-      "classification": "существительное",
+      "classification": "природа",
       "JLPT": "N4",
       "kanji": "菜",
       "index": "71",
@@ -14923,7 +14923,7 @@
       "id": "521",
       "slug": "Grade-4",
       "classification": "глагол, существительное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "産",
       "index": "81",
       "strokes": "11",
@@ -14946,8 +14946,8 @@
           "san"
         ]
       },
-      "meaning": "рожать, производить, продукт",
-      "name": "продукт"
+      "meaning": "рождать, рожать, производить, продукт",
+      "name": "рождать"
     },
     {
       "id": "522",
@@ -15055,7 +15055,7 @@
       "id": "526",
       "slug": "Grade-4",
       "classification": "глагол, существительное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "試",
       "index": "86",
       "strokes": "13",
@@ -15078,7 +15078,7 @@
           "shi"
         ]
       },
-      "meaning": "испытывать, проверять, экзамен",
+      "meaning": "испытывать, проверять, проба",
       "name": "испытание"
     },
     {
@@ -15250,7 +15250,7 @@
     {
       "id": "533",
       "slug": "Grade-4",
-      "classification": "глагол, существительное",
+      "classification": "глагол",
       "JLPT": "N4",
       "kanji": "借",
       "index": "93",
@@ -15272,8 +15272,8 @@
           "shaku"
         ]
       },
-      "meaning": "занимать (деньги), брать взаймы",
-      "name": "заём"
+      "meaning": "брать в долг; брать в кредит",
+      "name": "брать в долг"
     },
     {
       "id": "534",
@@ -15927,7 +15927,7 @@
       "id": "557",
       "slug": "Grade-4",
       "classification": "глагол, существительное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "説",
       "index": "117",
       "strokes": "14",
@@ -16677,7 +16677,7 @@
       "id": "586",
       "slug": "Grade-4",
       "classification": "глагол, существительное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "働",
       "index": "146",
       "strokes": "13",
@@ -16705,7 +16705,7 @@
       "id": "587",
       "slug": "Grade-4",
       "classification": "существительное, прилагательное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "特",
       "index": "147",
       "strokes": "10",
@@ -16959,7 +16959,7 @@
       "id": "598",
       "slug": "Grade-4",
       "classification": "существительное",
-      "JLPT": "N5",
+      "JLPT": "N4",
       "kanji": "飯",
       "index": "158",
       "strokes": "12",
@@ -17372,8 +17372,8 @@
     {
       "id": "614",
       "slug": "Grade-4",
-      "classification": "существительное, глагол",
-      "JLPT": "N3",
+      "classification": "существительное",
+      "JLPT": "N4",
       "kanji": "便",
       "index": "174",
       "strokes": "9",
@@ -17396,8 +17396,8 @@
           "bin"
         ]
       },
-      "meaning": "удобство, почта, отправлять, фекалии",
-      "name": "удобство"
+      "meaning": "удобство, почта",
+      "name": "удобство, почта"
     },
     {
       "id": "615",
@@ -17845,7 +17845,7 @@
       "id": "632",
       "slug": "Grade-4",
       "classification": "существительное, глагол",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "料",
       "index": "192",
       "strokes": "10",
@@ -20384,7 +20384,7 @@
       "id": "734",
       "slug": "Grade-5",
       "classification": "существительное, прилагательное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "質",
       "index": "92",
       "strokes": "15",
@@ -21386,7 +21386,7 @@
       "id": "776",
       "slug": "Grade-5",
       "classification": "глагол, существительное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "貸",
       "index": "134",
       "strokes": "12",
@@ -21410,7 +21410,7 @@
         ]
       },
       "meaning": "давать взаймы, ссужать, кредитовать",
-      "name": "ссуда"
+      "name": "одалживать"
     },
     {
       "id": "777",
@@ -21702,7 +21702,7 @@
       "id": "788",
       "slug": "Grade-5",
       "classification": "существительное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "堂",
       "index": "146",
       "strokes": "11",
@@ -23059,7 +23059,7 @@
       "id": "841",
       "slug": "Grade-6",
       "classification": "существительное, глагол",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "映",
       "index": "6",
       "strokes": "9",
@@ -23084,8 +23084,8 @@
           "ei"
         ]
       },
-      "meaning": "отражаться, проектировать, быть на экране",
-      "name": "отражение"
+      "meaning": "отражаться, отражение, проектировать",
+      "name": "отражаться"
     },
     {
       "id": "842",
@@ -25699,7 +25699,7 @@
       "id": "941",
       "slug": "Grade-6",
       "classification": "глагол, существительное",
-      "JLPT": "N3",
+      "JLPT": "N4",
       "kanji": "洗",
       "index": "106",
       "strokes": "9",
@@ -30579,8 +30579,8 @@
     {
       "id": "1137",
       "slug": "Grade-7",
-      "classification": "существительное, глагол",
-      "JLPT": "N2",
+      "classification": "описание",
+      "JLPT": "N4",
       "kanji": "軽",
       "index": "111",
       "strokes": "12",
@@ -30604,7 +30604,7 @@
         ]
       },
       "meaning": "лёгкий, незначительный, легкомысленный",
-      "name": "лёгкость"
+      "name": "лёгкий"
     },
     {
       "id": "1138",
