@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,0.00675,0.00625)">
-        <g transform="matrix(1.33333,0,0,1.33333,-266.648,-803.943)">
-            <g transform="matrix(0.0375,0,0,0.0375,179.562,584.971)">
-                <path d="M745,480L795.516,635.471L945,617.029L825,727.029L905,877.029L745,790.942L585,877.029L665,727.029L545,617.029L694.484,635.471L745,480Z" style="fill:rgb(255,216,113);"/>
-                <path d="M745,480L795.516,635.471L945,617.029L825,727.029L905,877.029L745,790.942L585,877.029L665,727.029L545,617.029L694.484,635.471L745,480ZM745,528.541L704.927,651.873L589.703,637.658L683.707,723.828L621.582,840.313L745,773.909L868.418,840.313L806.293,723.828L900.297,637.658L785.073,651.873L745,528.541Z" style="stroke:rgb(81,81,81);stroke-width:1px;"/>
-            </g>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><path d="M288.29,3.84l22.32,190,175.78,13.12-162.94,98.72,57.41,190.49-163.88-135.48L13.62,422.77l126.21-153.79L27.34,115.23l167.32,55.44L288.29,3.84Z" fill="#ffb000" fill-rule="evenodd" stroke-width="0"/><path d="M214,246c21.1-62.2,42.1-124.3,63.2-186.5l17.7,150.7c-27,12-53.9,23.9-80.9,35.8Z" fill="#ffd82e" fill-rule="evenodd" stroke-width="0"/><polygon points="294.9 210.3 430.3 220.4 214 246 294.9 210.3" fill="#ffd82e" fill-rule="evenodd" stroke-width="0"/><polygon points="302.7 297.7 430.3 220.4 214 246 302.7 297.7" fill="#f8354d" stroke-width="0"/><polygon points="343 442.1 302.7 297.7 214 246 343 442.1" fill="#ffd82e" stroke-width="0"/><polygon points="220.9 341.1 347.3 445.6 214 246 220.9 341.1" fill="#93354d" stroke-width="0"/><polygon points="64 389 220.9 341.1 214 246 64 389" fill="#ffd82e" stroke-width="0"/><polygon points="162 269.6 214 246 64 389 162 269.6" fill="#99354d" stroke-width="0"/><polygon points="73.9 149.2 162 269.6 214 246 73.9 149.2" fill="#f8354d" stroke-width="0"/><polygon points="73.9 149.2 214 246 202.9 191.9 73.9 149.2" fill="#ffd82e" stroke-width="0"/><polygon points="214 246 202.9 191.9 277.2 59.5 214 246" fill="#8f354d" stroke-width="0"/><rect width="500" height="500" fill="none" stroke-width="0"/></svg>
