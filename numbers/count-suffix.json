@@ -5,8 +5,8 @@
     "title": "本 - ほん",
     "romaji": "hon",
     "objects": [
-      "bottle",
-      "eggplant",
+      "bin",
+      "nasubi",
       "enpitsu"
     ],
     "type": "long",
@@ -76,7 +76,7 @@
     "title": "枚 - まい",
     "romaji": "mai",
     "objects": [
-      "t_shirt"
+      "t_shyatsu"
     ],
     "type": "flat",
     "description": "Листы бумаги, открытки, письма, конверты, марки, диски, тарелки, рубашки, футболки, картины, доски и т.п.",
@@ -145,8 +145,8 @@
     "title": "台 - だい",
     "romaji": "dai",
     "objects": [
-      "cicle",
-      "frize"
+      "jitenshya",
+      "reidzoko"
     ],
     "type": "technic",
     "description": "Холодильники, стиральные машины, телефоны, ноутбуки, компьютеры, автомобили, мотоциклы, велосипеды и т.п.",
@@ -215,8 +215,8 @@
     "title": "杯 - はい",
     "romaji": "hai",
     "objects": [
-      "tea",
-      "coffee"
+      "ochya",
+      "coohhee"
     ],
     "type": "drink",
     "description": "Для чашек кофе, чая, сакэ, осьминоги и кальмары",
@@ -285,8 +285,8 @@
     "title": "冊 - さつ",
     "romaji": "satsu",
     "objects": [
-      "book",
-      "magazin"
+      "kyokashyo",
+      "dzashi"
     ],
     "type": "paper_book",
     "description": "книги, альбомы, манга и т.п.",
@@ -355,7 +355,7 @@
     "title": "人 - にん",
     "romaji": "nin",
     "objects": [
-      "girl",
+      "onna_no_hito",
       "ninzya"
     ],
     "type": "people",
@@ -425,9 +425,9 @@
     "title": "匹 - ひき",
     "romaji": "hiki",
     "objects": [
-      "cat",
+      "neko",
       "oni",
-      "frog"
+      "kavadzu"
     ],
     "type": "small_animal",
     "description": "кошки, собаки, насекомые, демоны",
@@ -496,8 +496,8 @@
     "title": "頭 - とう",
     "romaji": "dou",
     "objects": [
-      "bull",
-      "caw"
+      "osuushi",
+      "ushi"
     ],
     "type": "big_animal",
     "description": "коровы, быки, волы, кони",
@@ -566,9 +566,9 @@
     "title": "羽 - わ",
     "romaji": "wa",
     "objects": [
-      "bird",
-      "rabbit", 
-      "raven"
+      "tori",
+      "ieusagi", 
+      "karasu"
     ],
     "type": "bird",
     "description": "",
@@ -637,9 +637,9 @@
     "title": "個 - こ",
     "romaji": "ko",
     "objects": [
-      "apple",
-      "pear",
-      "star"
+      "ringo",
+      "hashi",
+      "hoshi"
     ],
     "type": "small_things",
     "description": "фрукты, булки, ластик, скрепки, иероглифы, шляпы, звезды, монетки и т.п.",
@@ -707,7 +707,7 @@
     "topic": "Для этажей",
     "title": "階 - かい",
     "romaji": "kai",
-    "objects": ["flor"],
+    "objects": ["kai"],
     "type": "flor",
     "description": "",
     "data": [
@@ -774,7 +774,7 @@
     "topic": "Для возраста",
     "title": "歳 - さい",
     "romaji": "sai",
-    "objects": ["one","two"],
+    "objects": ["issai","ni_sai"],
     "type": "age",
     "description": "",
     "data": [
@@ -841,7 +841,7 @@
     "topic": "Для часов",
     "title": "時 - じ",
     "romaji": "ji",
-    "objects": ["time"],
+    "objects": ["jyu_ni_ji"],
     "type": "time",
     "description": "",
     "data": [
@@ -908,7 +908,7 @@
     "topic": "Для минут",
     "title": "分 - ふん",
     "romaji": "fun",
-    "objects": ["minute"],
+    "objects": ["yon_ju_go_fun"],
     "type": "minute",
     "description": "",
     "data": [
