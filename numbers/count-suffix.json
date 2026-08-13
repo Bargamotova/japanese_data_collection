@@ -1,8 +1,10 @@
 [
   {
     "id": "1suffix",
-    "topic": "Для длинных, вытянутых предметов",
-    "title": "本 - ほん",
+    "slug": "suffix_count_long_items",
+    "text": "Для длинных, вытянутых предметов",
+    "title": "Счет длинных, вытянутых предметов",
+    "topic": "本 - ほん",
     "romaji": "hon",
     "objects": [
       "bin",
@@ -72,8 +74,10 @@
   },
   {
     "id": "2suffix",
-    "topic": "Для плоских предметов",
-    "title": "枚 - まい",
+    "slug": "suffix_count_flat_items",
+    "text": "Для плоских предметов",
+    "title": "Счет плоских предметов",
+    "topic": "枚 - まい",
     "romaji": "mai",
     "objects": [
       "t_shyatsu"
@@ -141,8 +145,10 @@
   },
   {
     "id": "3suffix",
-    "topic": "Для техники и колесного транспорта",
-    "title": "台 - だい",
+    "slug": "suffix_count_technic_item",
+    "text": "Для техники и колесного транспорта",
+    "title": "Счет техники и колесного транспорта",
+    "topic": "台 - だい",
     "romaji": "dai",
     "objects": [
       "jitenshya",
@@ -211,8 +217,10 @@
   },
   {
     "id": "4suffix",
-    "topic": "Для счета напитков",
-    "title": "杯 - はい",
+    "slug": "suffix_count_drinks_items",
+    "text": "Для счета напитков",
+    "title": "Счет счета напитков",
+    "topic": "杯 - はい",
     "romaji": "hai",
     "objects": [
       "ochya",
@@ -281,8 +289,10 @@
   },
   {
     "id": "5suffix",
-    "topic": "Для любых бумажных изданий",
-    "title": "冊 - さつ",
+    "slug": "suffix_count_paper_items",
+    "text": "Для любых бумажных изданий",
+    "title": "Счет любых бумажных изданий",
+    "topic": "冊 - さつ",
     "romaji": "satsu",
     "objects": [
       "kyokashyo",
@@ -351,8 +361,10 @@
   },
   {
     "id": "6suffix",
-    "topic": "Для людей",
-    "title": "人 - にん",
+    "slug": "suffix_count_people",
+    "text": "Для людей",
+    "title": "Счет людей",
+    "topic": "人 - にん",
     "romaji": "nin",
     "objects": [
       "onna_no_hito",
@@ -421,8 +433,10 @@
   },
   {
     "id": "7suffix",
-    "topic": "Для мелких животных",
-    "title": "匹 - ひき",
+    "slug": "suffix_count_small_creature",
+    "text": "Для мелких животных",
+    "title": "Счет мелких животных",
+    "topic": "匹 - ひき",
     "romaji": "hiki",
     "objects": [
       "neko",
@@ -492,8 +506,10 @@
   },
   {
     "id": "8suffix",
-    "topic": "Для крупных животных, скота",
-    "title": "頭 - とう",
+    "slug": "suffix_count_big_animals",
+    "text": "Для крупных животных, скота",
+    "title": "Счет крупных животных, скота",
+    "topic": "頭 - とう",
     "romaji": "dou",
     "objects": [
       "osuushi",
@@ -562,12 +578,14 @@
   },
   {
     "id": "9suffix",
-    "topic": "Для птиц, кроликов и зайцев",
-    "title": "羽 - わ",
+    "slug": "suffix_count_bird_rabbit",
+    "text": "Для птиц, кроликов и зайцев",
+    "title": "Счет птиц, кроликов и зайцев",
+    "topic": "羽 - わ",
     "romaji": "wa",
     "objects": [
       "tori",
-      "ieusagi", 
+      "ieusagi",
       "karasu"
     ],
     "type": "bird",
@@ -633,8 +651,10 @@
   },
   {
     "id": "10suffix",
-    "topic": "Универсальный для мелких предметов",
-    "title": "個 - こ",
+    "slug": "suffix_count_small_items",
+    "text": "Универсальный для мелких предметов",
+    "title": "Счетверсальный для мелких предметов",
+    "topic": "個 - こ",
     "romaji": "ko",
     "objects": [
       "ringo",
@@ -704,10 +724,14 @@
   },
   {
     "id": "11suffix",
-    "topic": "Для этажей",
-    "title": "階 - かい",
+    "slug": "suffix_count_flor",
+    "text": "Для этажей",
+    "title": "Счет этажей",
+    "topic": "階 - かい",
     "romaji": "kai",
-    "objects": ["kai"],
+    "objects": [
+      "kai"
+    ],
     "type": "flor",
     "description": "",
     "data": [
@@ -771,10 +795,15 @@
   },
   {
     "id": "12suffix",
-    "topic": "Для возраста",
-    "title": "歳 - さい",
+    "slug": "suffix_count_age",
+    "text": "Для возраста",
+    "title": "Счет возраста",
+    "topic": "歳 - さい",
     "romaji": "sai",
-    "objects": ["issai","ni_sai"],
+    "objects": [
+      "issai",
+      "ni_sai"
+    ],
     "type": "age",
     "description": "",
     "data": [
@@ -838,10 +867,14 @@
   },
   {
     "id": "13suffix",
-    "topic": "Для часов",
-    "title": "時 - じ",
+    "slug": "suffix_count_time",
+    "text": "Для часов",
+    "title": "Счет часов",
+    "topic": "時 - じ",
     "romaji": "ji",
-    "objects": ["jyu_ni_ji"],
+    "objects": [
+      "jyu_ni_ji"
+    ],
     "type": "time",
     "description": "",
     "data": [
@@ -905,10 +938,14 @@
   },
   {
     "id": "14suffix",
-    "topic": "Для минут",
-    "title": "分 - ふん",
+    "slug": "suffix_count_minutes",
+    "text": "Для минут",
+    "title": "Счет минут",
+    "topic": "分 - ふん",
     "romaji": "fun",
-    "objects": ["yon_ju_go_fun"],
+    "objects": [
+      "yon_ju_go_fun"
+    ],
     "type": "minute",
     "description": "",
     "data": [
