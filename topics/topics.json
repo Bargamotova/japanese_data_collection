@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "colors",
+    "title": "Цвета",
+    "kanji": "色",
+    "data": [
+      {
+        "name": "",
+        "kanji": "赤色",
+        "furigana": "あかいろ",
+        "romaji": "akairo",
+        "item": "red"
+      },
+      {
+        "name": "",
+        "kanji": "橙色",
+        "furigana": "だいだいいろ",
+        "romaji": "daidaiiro",
+        "item": "orangered"
+      },
+      {
+        "name": "",
+        "kanji": "黄色",
+        "furigana": "きいろ",
+        "romaji": "kiiro",
+        "item": "yellow"
+      },
+      {
+        "name": "",
+        "kanji": "緑色",
+        "furigana": "みどりいろ",
+        "romaji": "midoriiro",
+        "item": "green"
+      },
+      {
+        "name": "",
+        "kanji": "青色",
+        "furigana": "あおいいろ",
+        "romaji": "aoiiro",
+        "item": "blue"
+      },
+      {
+        "name": "",
+        "kanji": "紫色",
+        "furigana": "むらさきいろ",
+        "romaji": "murasakiiro",
+        "item": "purple"
+      },
+      {
+        "name": "",
+        "kanji": "灰色",
+        "furigana": "はいいろ",
+        "romaji": "haiiro",
+        "item": "grey"
+      },
+      {
+        "name": "",
+        "kanji": "桃色",
+        "furigana": "ももいろ",
+        "romaji": "momoiro",
+        "item": "pink"
+      },
+      {
+        "name": "",
+        "kanji": "黒い色",
+        "furigana": "くろいろ",
+        "romaji": "kuroiro",
+        "item": "black"
+      },
+      {
+        "name": "",
+        "kanji": "白色",
+        "furigana": "しろいろ",
+        "romaji": "shiroiro",
+        "item": "white"
+      }
+    ]
+  },
+  {
+    "slug": "fruits",
+    "title": "Фрукты",
+    "kanji": "",
+    "data": [
+      {
+        "name": "",
+        "kanji": "",
+        "furigana": "",
+        "romaji": "",
+        "item": ""      }
+    ]
+  },
+  {
+    "slug": "vegetables",
+    "title": "Овощи",
+    "kanji": "",
+    "data": [
+      {
+        "name": "",
+        "kanji": "",
+        "furigana": "",
+        "romaji": "",
+        "item": ""      }
+    ]
+  }
+]
